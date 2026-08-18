@@ -1,5 +1,7 @@
 # ECCV 2026 Accepted Papers — Auto-Classified by Topic
 
+I can not check all ECCV papers, so I asked claude to do it ....
+
 All **2,864 ECCV 2026 accepted papers**, grouped into 30 topics under 8 super-groups, with
 arXiv / project-page / code links resolved automatically.
 
