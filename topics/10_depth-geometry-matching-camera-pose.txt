@@ -1,0 +1,533 @@
+Depth, Geometry, Matching & Camera Pose  (129 papers, 86 with arXiv links)  [3D, Geometry & Imaging]
+============================================================================
+
+1. 3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement
+   Deyin Liu ⋅ Jicheng Xu ⋅ Lin Wu ⋅ Xiaowei Zhao ⋅ Xiatian Zhu ⋅ Anjan Dutta ⋅ Zhe Jin
+   arXiv: https://arxiv.org/abs/2606.30514
+   page:  https://robinhood256100.github.io/web-disp
+
+2. A Benchmark for Heterogeneous Stereo Deblurring with Physically- and Epipolar-constrained Cross Attention
+   Jiah Kim ⋅ Hoju Shin ⋅ Seung-Wook Kim ⋅ Seowon Ji
+   arXiv: https://arxiv.org/abs/2606.25962
+
+3. A second-order theory of texture for depth from focus
+   Sreekar Ranganathan ⋅ Ioannis Gkioulekas
+   arXiv: https://arxiv.org/abs/2608.10411
+   page:  https://imaging.cs.cmu.edu/second-order-texture/
+
+4. Actor as Its Own Critic: Unifying Region Understanding and Localization via CycleGRPO
+   Xin Zhang ⋅ Haochen Wang ⋅ Yikang Zhou ⋅ Zhuochen Wang ⋅ Robby T. Tan ⋅ Xiangtai Li
+   arXiv: https://arxiv.org/abs/2607.11581
+   code:  https://github.com/devinxzhang/CycleGRPO
+
+5. Any to Full: Prompting Depth Anything for Depth Completion in One Stage
+   Zhiyuan Zhou ⋅ Ruofeng Liu ⋅ TAICHI LIU ⋅ Weijian Zuo ⋅ Shanshan Wang ⋅ Zhiqing Hong ⋅ Desheng Zhang
+   arXiv: https://arxiv.org/abs/2603.05711
+   code:  https://github.com/zhiyuandaily/Any2Full
+
+6. AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images
+   Meng Yang ⋅ Zizhuo Li ⋅ Linfeng Tang ⋅ Fan Fan ⋅ Jiayi Ma
+   arXiv: https://arxiv.org/abs/2606.31077
+
+7. APT: Anchor-aligned Perturbations for Tamper Localization in Fully Regenerated Images
+   Suhyeon Ha ⋅ Woo Jae Kim ⋅ Joonsung Jeon ⋅ Sooel Son ⋅ Sung-eui Yoon
+
+8. AquaStereo: Enabling Underwater Stereo Matching via Depth-Conditioned Diffusion and Geometry Self-Distillation
+   Qizhe Wei ⋅ Yingping Liang ⋅ Shao You ⋅ Ying Fu
+   arXiv: https://arxiv.org/abs/2607.04303
+   code:  https://github.com/qz-wei/AquaStereo
+
+9. ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization
+   Hyeongsik Kim ⋅ Mincheol Kim ⋅ Heejoon Moon ⋅ Je Hyeong Hong
+
+10. AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels
+   Javier Tirado-Garín ⋅ Alan Paul ⋅ Shuai Chen ⋅ Axel Barroso-Laguna ⋅ Tommaso Cavallari ⋅ Daniyar Turmukhambetov ⋅ Victor Adrian Prisacariu ⋅ Eric Brachmann
+
+11. BBQ-V: Benchmarking Visual Stereotype Bias in Large Multimodal Models
+   Vishal Narnaware ⋅ Ashmal Vayani ⋅ Rohit Gupta ⋅ Swetha Sirnam ⋅ Shah Mubarak
+   arXiv: https://arxiv.org/abs/2502.08779
+
+12. Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization
+   Liyao Wang ⋅ Ruipu Wu ⋅ Haojun Xu ⋅ Lei Shi ⋅ Linjiang Huang ⋅ Si Liu
+   arXiv: https://arxiv.org/abs/2606.30576
+
+13. BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular priors
+   Vincent Leroy ⋅ Philippe Weinzaepfel ⋅ Lojze Zust ⋅ Yohann Cabon ⋅ Jerome Revaud
+
+14. Blind to Position, Biased in Language: Probing Mid-Layer Representational Bias in Vision-Language Encoders for Zero-Shot Language-Grounded Spatial Understanding
+   Na Min An ⋅ Inha Kang ⋅ Minhyun Lee ⋅ Hyunjung Shim
+   arXiv: https://arxiv.org/abs/2509.23098
+
+15. Boosting 6D Object Pose Estimation via Monocular Depth Cues
+   Fengda Hao ⋅ Rui Song ⋅ Qingyuan Wang ⋅ Jiaojiao Li ⋅ Zhiyong Hu ⋅ David Ferstl ⋅ Yinlin Hu
+
+16. Boosting Correspondence Learning with Structure-Aware Estimator
+   Tianyu Yan ⋅ Wei An ⋅ Pu Wang ⋅ Yingqian Wang
+
+17. Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation
+   Tianyu Zhu ⋅ Yingping Liang ⋅ Hesong Li ⋅ Ying Fu
+   arXiv: https://arxiv.org/abs/2606.24464
+   code:  https://github.com/Tony1882880/GeoLaV
+
+18. Bridge-UniPS: Bridging Calibrated Photometric Stereo toward Universal Photometric Stereo
+   Minzhe Xu ⋅ Xiaoyan Liu ⋅ YuJie Xing ⋅ Qian Chen
+
+19. CameraAnything: Refilming Videos with Arbitrary Camera Control
+   Yixuan Li ⋅ Yanhong Zeng ⋅ Ka Leong Cheng ⋅ Jiayi Zhu ⋅ Hanlin Wang ⋅ Wen Wang ⋅ Yihao Meng ⋅ Hao Ouyang ⋅ Qiuyu Wang ⋅ Yue Yu ⋅ Zidong Wang ⋅ Yiyuan Zhang ⋅ Yujun Shen ⋅ Dahua Lin
+   arXiv: https://arxiv.org/abs/2607.24591
+   page:  https://yixuanli98.github.io/cameraanything/
+
+20. Category-Level 3D Correspondence in Camera Space via Morphable Object Priors
+   Leonhard Sommer ⋅ Artur Jesslen ⋅ Basavaraj Sunagad ⋅ Adam Kortylewski
+   arXiv: https://arxiv.org/abs/2605.28257
+   code:  https://github.com/GenIntel/HouseCorr3D
+
+21. ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation
+   Liudi Yang ⋅ George Eskandar ⋅ Fengyi Shen ⋅ Mohammad Altillawi ⋅ Yang Bai ⋅ Chi zhang ⋅ Ziyuan Liu ⋅ Abhinav Valada
+   arXiv: https://arxiv.org/abs/2603.09819
+
+22. Consistent Monocular Depth Estimation with Contact Region Boundary-Aware Refinement
+   Yinuo Wang ⋅ QingMiao QingMiao ⋅ Wangmeng Zuo
+
+23. Consistent Video-to-Video Translation via Explicit Correspondences
+   Gaurav Parmar ⋅ Zhengqi Li ⋅ Richard Zhang ⋅ Jun-Yan Zhu ⋅ Srinivasa G. Narasimhan ⋅ Eli Shechtman ⋅ Yotam Nitzan
+
+24. Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating
+   Zhineng Zhao ⋅ Mingyao Hong ⋅ Fengfan Shi ⋅ Zhihai He
+
+25. Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen
+   Chengming Feng ⋅ Hesam Araghi ⋅ Liming Zheng ⋅ Julien Dupeyroux ⋅ Xucong Zhang ⋅ Jan van Gemert ⋅ Nergis Tomen
+   arXiv: https://arxiv.org/abs/2608.04865
+
+26. Cross-token Guidance Transformer for Weakly Supervised Object Localization
+   Zhiwei Chen ⋅ Yiran Nie ⋅ Ruize Han ⋅ Qinqin Zhou
+
+27. CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space
+   Paul Schneider ⋅ Nazim Haouchine
+
+28. CSS-BA: Gate Guided Column Space Search for Bundle Adjustment
+   Ayano Kaneda ⋅ Takafumi Taketomi ⋅ Shugo Yamaguchi ⋅ Shigeo Morishima
+   arXiv: https://arxiv.org/abs/2607.15652
+
+29. DDStereo: Efficient Dual Decoder Transformers for Stereo 3D Road Anomaly Detection
+   Shiyi Mu ⋅ Zichong Gu ⋅ Zhiqi Ai ⋅ Yilin Gao ⋅ Shugong Xu
+   arXiv: https://arxiv.org/abs/2606.24805
+   code:  https://github.com/shiyi-mu/DDStereo
+
+30. DG-Force: Disentangling and Gathering Forensic Cues is Needed for Image Manipulation Localization
+   Yong Yao ⋅ Zhenyu Cui ⋅ Lei Chen ⋅ Jiwen Lu ⋅ Jiahuan Zhou
+
+31. DINOv3D: 2D-3D Joint Optimization for Unified Spatial Understanding
+   Bo Zhou ⋅ Jianzhe Gao ⋅ Zhihui Wang ⋅ Lingxiang Wu ⋅ Jinqiao Wang ⋅ Yazhou Yao ⋅ Wenguan Wang
+
+32. Disentangling Pictorial Cue Understanding from Language Bias in VLMs via Depth Ordering Task
+   Yiqian Liu ⋅ Iuliia Kotseruba ⋅ John Tsotsos
+   arXiv: https://arxiv.org/abs/2607.01503
+   code:  https://github.com/lyiqian/o3-d
+
+33. DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation
+   Hongfei Zhang ⋅ Kanghao Chen ⋅ Zixin Zhang ⋅ Harold Haodong Chen ⋅ Yuanhuiyi Lyu ⋅ Kun Zhou ⋅ Yuqi Zhang ⋅ Shuai Yang ⋅ Yingcong Chen
+   arXiv: https://arxiv.org/abs/2511.23127
+   page:  https://soyouthinkyoucantell.github.io/dualcamctrl-page/
+
+34. E-MOTION: A Dataset for Event-Based Scene Flow Estimation with Independent Moving Objects
+   Ivan Gutierrez Rodriguez ⋅ Julien Moreau ⋅ Chiara Bartolozzi ⋅ Arren Glover
+
+35. Estimating Velocity and Spin of Spherical Objects from Rolling-Shutter Image(s)
+   Wenjie Xue ⋅ Jun Yang ⋅ Jingmin Wang ⋅ Limin Shang
+   arXiv: https://arxiv.org/abs/2606.31760
+
+36. EventVGGT: Exploring Cross-Modal Distillation for Consistent Event-based Depth Estimation
+   Yinrui Ren ⋅ Jinjing Zhu ⋅ Kanghao Chen ⋅ Zhuoxiao Li ⋅ Jing OU ⋅ Zidong Cao ⋅ Tongyan Hua ⋅ Peilun Shi ⋅ Yingchun Fu ⋅ Wufan Zhao ⋅ Hui Xiong
+   arXiv: https://arxiv.org/abs/2603.09385
+   code:  https://github.com/yinruiRen/EventVGGT
+
+37. FeDepth: Federated Learning for Depth Estimation under Robot Heterogeneity
+   Ganghyeon Lee ⋅ inha Lee ⋅ Junhee Lee ⋅ Jeongeon Lee ⋅ Sung Whan Yoon ⋅ Kyungdon Joo
+   arXiv: https://arxiv.org/abs/2608.01129
+   page:  https://vision3d-lab.github.io/fedepth/
+
+38. Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses
+   Ruxiao Duan ⋅ Erin Hong ⋅ Dongxu Zhao ⋅ Eric Turner ⋅ Alex Wong ⋅ Yunwen Zhou
+   arXiv: https://arxiv.org/abs/2603.28896
+   code:  https://github.com/android-xr/fisheye3r
+
+39. FlowPainter: Inpainting Optical Flow via Confidence-Guided Completion
+   Yuang Meng ⋅ Chenyang Wu ⋅ Xianshun Liu ⋅ Chun-Le Guo ⋅ Zichen Liang ⋅ Lina Lei ⋅ Jie Liang ⋅ Hui Zeng ⋅ Chongyi Li ⋅ Yabin Zhang
+   arXiv: https://arxiv.org/abs/2607.10140
+   code:  https://github.com/mya012/FlowPainter
+
+40. FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry
+   Muxin Liu ⋅ Xiaoyang Lyu ⋅ Tianhe Ren ⋅ Peng Dai ⋅ Xiaoshan Wu ⋅ Zhiyue Zhang ⋅ Jiaqi Zhang ⋅ Jiehong Lin ⋅ Shaoshuai Shi ⋅ Qi Xiaojuan
+   arXiv: https://arxiv.org/abs/2607.11588
+   page:  https://mx-liu6.github.io/FoundationGeo-web/
+
+41. FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation
+   fengchen he ⋅ Hao Xu ⋅ Dayang Zhao ⋅ Tingwei Quan ⋅ Shaoqun zeng
+   arXiv: https://arxiv.org/abs/2607.01900
+   code:  https://github.com/EchoLighting/FoundDP
+
+42. Fragmented Text Is Insufficient for Image Representation: Fine-Grained Correspondence in Multimodal Dataset Distillation
+   Jingwei Fang ⋅ Yaxin Hou ⋅ Bo Han ⋅ Xu Zhang ⋅ Hui LIU ⋅ Junhui Hou ⋅ Yuheng Jia
+
+43. FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation
+   Vladislav Bargatin ⋅ Alexander Yakovenko ⋅ Khaled Abud ⋅ Dmitriy Vatolin
+
+44. From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation
+   Rit Gangopadhyay ⋅ Alex Wong
+
+45. Gaussian Belief Propagation Network for Depth Completion
+   Jie Tang ⋅ Pingping Xie ⋅ Jian Li ⋅ Ping Tan
+   arXiv: https://arxiv.org/abs/2601.21291
+
+46. Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer
+   Qi Song ⋅ Ziyuan Luo ⋅ Haoliang Han ⋅ Renjie Wan
+
+47. Geo-ID: Test-Time Geometric Consensus for Cross-View Consistent Intrinsics
+   Alara Dirik ⋅ Stefanos Zafeiriou
+   arXiv: https://arxiv.org/abs/2603.13859
+
+48. GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces
+   Xinyu Geng ⋅ Yanjing Xiao ⋅ Yuyang Zhang ⋅ Hanwen Wang ⋅ Xinyan Liu ⋅ Rui Min ⋅ Tianqing Fang ⋅ Yi Ren Fung
+   arXiv: https://arxiv.org/abs/2604.04017
+   code:  https://github.com/ornamentt/GeoBrowse
+
+49. GeoEdit: Geometry-Aware Object Editing via Dual-Branch Denoising
+   Yi He ⋅ Jiangming Wang ⋅ Xinyu Wang ⋅ Mark Fong ⋅ Songchun Zhang ⋅ Yuxuan Xue ⋅ Hai-Tao Zheng ⋅ Yue Ma
+   arXiv: https://arxiv.org/abs/2606.30003
+   code:  https://github.com/Heey731/GeoEdit
+
+50. Geometric Distillation from Rectified Stereo: Leveraging Epipolar Cues for Monocular Depth
+   Jung-Hee Kim ⋅ Xiaoming Liu
+   arXiv: https://arxiv.org/abs/2607.15600
+
+51. Geometry Aware Reliable Instance Selection for Noisy Partial Label Learning
+   Rohit Sinha ⋅ Saroj Kumar
+
+52. Geometry-Aware Visual Representation for Remaining Useful Life Prediction
+   Hieu Vu ⋅ Thanh Nguyen ⋅ Eyad Elyan
+
+53. GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training
+   Yejun zhang ⋅ Xinjue Wang ⋅ Zihan Wang ⋅ Esa Rahtu ⋅ Juho Kannala
+   arXiv: https://arxiv.org/abs/2607.02486
+   code:  https://github.com/YejunZhang/Geomix
+
+54. GimbalDiffusion: Gravity-Aware Camera Control for Video Generation
+   Frédéric Fortier-Chouinard ⋅ Yannick Hold-Geoffroy ⋅ Valentin Deschaintre ⋅ Matheus Gadelha ⋅ Jean-Francois Lalonde
+   arXiv: https://arxiv.org/abs/2512.09112
+   page:  https://lvsn.github.io/GimbalDiffusion/
+
+55. ICDepth: Taming Video Diffusion Models for Video Depth Estimation via In-Context Conditioning
+   Xuanhua He ⋅ JIAXIN XIE ⋅ Mingzhe Zheng ⋅ Qifeng Chen
+   arXiv: https://arxiv.org/abs/2607.01677
+   page:  https://xuanhuahe.github.io/ICDepth/
+
+56. Image Warping for Image-to-Image Translation
+   Shen Zheng ⋅ Anurag Ghosh ⋅ Gaurav Parmar ⋅ Srinivasa G. Narasimhan
+
+57. Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation
+   Min-Jung Kim ⋅ Jeongho Kim ⋅ Hoiyeong Jin ⋅ Junha Hyung ⋅ Choo Jaegul
+   arXiv: https://arxiv.org/abs/2512.17040
+   page:  https://emjay73.github.io/InfCam/
+
+58. InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics
+   Erich Liang ⋅ Caleb Kha-Uong ⋅ Chinmaya Saran ⋅ Sreemanti Dey ⋅ David Liu ⋅ Junhan Ouyang ⋅ Benjamin Zhou ⋅ Jia Deng
+   arXiv: https://arxiv.org/abs/2607.05389
+   page:  https://influx.cs.princeton.edu/
+
+59. Kilometer-Vision: A New Frontier for Large-Scale Spatial Awareness in VLMs
+   Aravindh Mahendran ⋅ Michael King ⋅ Matthew Grimes ⋅ Antoine Yang ⋅ Tyler Zhu ⋅ Joseph Heyward ⋅ Tengda Han ⋅ Shiry Ginosar ⋅ Chen Sun ⋅ Dima Damen ⋅ Simon Osindero ⋅ Noah Snavely ⋅ Simon Lynen ⋅ Joao Carreira ⋅ Viorica Patraucean
+
+60. Last-Layer-Centric Feature Recombination: Unleashing 3D Geometric Knowledge in DINOv3 for Monocular Depth Estimation
+   Gongshu Wang ⋅ Zhirui Wang ⋅ Kan Yang
+   arXiv: https://arxiv.org/abs/2604.26454
+
+61. Learning Geometry-Aware Embedding Fields for Intrinsic Riemannian Mappings
+   Bo Pang ⋅ Simone Foti ⋅ Tolga Birdal
+
+62. LinStereo: Linear-Complexity Global Attention for Multi-Scale Iterative Stereo Matching
+   Yiran Wang ⋅ Oliver Turner ⋅ Viorela Ila
+   arXiv: https://arxiv.org/abs/2606.25437
+
+63. LiteMatch: Lightweight Zero-Shot Stereo Matching via Cost Volume Stabilization
+   Md Raqib Khan ⋅ Santosh Vipparthi ⋅ Subrahmanyam Murala
+   arXiv: https://arxiv.org/abs/2606.31636
+   page:  https://mdraqibkhan.github.io/Litematch
+
+64. LoMa: Local Feature Matching Revisited
+   David Nordström ⋅ Johan Edstedt ⋅ Georg Bökman ⋅ Jonathan Astermark ⋅ Anders Heyden ⋅ Viktor Larsson ⋅ Mårten Wadenbäck ⋅ Michael Felsberg ⋅ Fredrik Kahl
+   arXiv: https://arxiv.org/abs/2604.04931
+   code:  https://github.com/davnords/LoMa
+
+65. Lost in the Tail: Addressing Geographic Imbalance in Urban Visual Place Recognition
+   Zoey Shu ⋅ Jiacheng Yang ⋅ Yang Lu ⋅ Waishan Qiu ⋅ Chuan Li ⋅ Da Chen
+   arXiv: https://arxiv.org/abs/2607.00090
+
+66. Masked Depth Modeling for Spatial Perception
+   Bin Tan ⋅ CHANGJIANG SUN ⋅ Xiage Qin ⋅ Hanat Adai ⋅ Zelin Fu ⋅ Tianxiang Zhou ⋅ Han Zhang ⋅ YINGHAO XU ⋅ Xing Zhu ⋅ Yujun Shen ⋅ Nan Xue
+   arXiv: https://arxiv.org/abs/2601.17895
+
+67. MegaFlow: Zero-Shot Large Displacement Optical Flow
+   Dingxi Zhang ⋅ Fangjinhua Wang ⋅ Marc Pollefeys ⋅ Haofei Xu
+   arXiv: https://arxiv.org/abs/2603.25739
+   code:  https://github.com/cvg/megaflow
+   page:  https://kristen-z.github.io/projects/megaflow
+
+68. MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
+   Jiahui Yang ⋅ Donglin Di ⋅ Xuancheng Zhang ⋅ Lei Fan ⋅ Jianxun Cui ⋅ Hao Li ⋅ Baorui Ma
+   arXiv: https://arxiv.org/abs/2601.22054
+   page:  http://metric-anything.github.io/metric-anything-io/
+   page:  https://metric-anything.github.io/metric-anything-io/
+
+69. MG-RWKV: Multi-Grained Context-Aware RWKV for Temporal Forgery Localization
+   Jingchen Ni ⋅ Cangjin Yu ⋅ Zytang Jiang ⋅ Quan Zhang ⋅ Keyu Lv ⋅ Shannan Yan ⋅ Linyue Pan ⋅ Ke Zhang ⋅ Chun Yuan
+   arXiv: https://arxiv.org/abs/2607.00902
+
+70. MUSE: Unlocking Timestep as Native Task Steering for One-Step Dense Prediction
+   Shuo Zhou ⋅ Zhaoxin Li ⋅ Xiujuan Chai
+
+71. MV-GEL: Language-Driven Multi-View Geometric Entity Localization on Meshes
+   Kartik Bali ⋅ Roland Aydin
+   arXiv: https://arxiv.org/abs/2606.31533
+   code:  https://github.com/kbali1297/MV-GEL
+
+72. Natural Language Camera Movement Understanding
+   Yuwen Tan ⋅ Joey Huang ⋅ Jin Huang ⋅ Haoxiang Li ⋅ Boqing Gong
+   arXiv: https://arxiv.org/abs/2607.03043
+
+73. OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control
+   Yukun Wang ⋅ Ruihuang Li ⋅ Jiale Tao ⋅ Shiyuan Yang ⋅ Liyi Chen ⋅ Zhantao Yang ⋅ Handz Handz ⋅ Yulan Guo ⋅ Shuai Shao ⋅ Qinglin Lu
+   arXiv: https://arxiv.org/abs/2604.06010
+
+74. OmniDS: Dual-Stream Context Fusion for Omnidirectional Depth from Fisheye Cameras
+   Chaesong Park ⋅ Jihyeon Hwang ⋅ Muyeol Sung ⋅ Jongwoo Lim
+   arXiv: https://arxiv.org/abs/2607.03038
+   page:  https://parkchaesong.github.io/omnids
+
+75. On the real-world generalisability of Optical Flow models
+   Petter Reijalt ⋅ Alexander Gielisse ⋅ Rickard Karlsson ⋅ Jan van Gemert
+   arXiv: https://arxiv.org/abs/2607.10470
+
+76. OnPoint: Offline-to-Online Multi-Level Distillation for Point-Supervised Online Temporal Action Localization
+   Sakib Reza ⋅ Gauri Jagatap ⋅ Mohsen Moghaddam ⋅ OCTAVIA CAMPS ⋅ Andrea Fanelli
+   arXiv: https://arxiv.org/abs/2607.00289
+
+77. OpenCVL: An Open, Diverse, and Large-Scale Dataset for Fine-Grained Cross-View Localization
+   Zimin Xia ⋅ Mubariz Zaffar ⋅ Junsheng Fu ⋅ Alexandre ALahi ⋅ Julian Kooij
+
+78. OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
+   Jianhui Liu ⋅ Haoze Sun ⋅ Wenbo Li ⋅ Yanbing Zhang ⋅ Rui Yang ⋅ zhiliang zhu ⋅ Yijun Yang ⋅ Shenghe Zheng ⋅ Nan Jiang ⋅ Jiaxiu Jiang ⋅ Haoyang Huang ⋅ Tien-Tsin Wong ⋅ Nan Duan ⋅ Qi Xiaojuan
+   arXiv: https://arxiv.org/abs/2604.07296
+   code:  https://github.com/VINHYU/OpenSpatial
+
+79. OTCache: Optimal Transport for Geometry-Aware Caching in Diffusion Models
+   Huanlin Gao ⋅ Fang Zhao ⋅ Qiang Hui ⋅ Fuyuan Shi ⋅ Shaoan Zhao ⋅ Yantao Li ⋅ Chao Tan ⋅ Ting Lu ⋅ Yuren You ⋅ Kai Wang ⋅ Shiguo Lian
+   arXiv: https://arxiv.org/abs/2606.31026
+   code:  https://github.com/UnicomAI/OTCache
+
+80. Physically Grounded Monocular Depth via Nanophotonic Wavefront Encoding
+   Bingxuan Li ⋅ Jiahao Wu ⋅ Yuan Xu ⋅ Zezheng Zhu ⋅ Yunxiang Zhang ⋅ Kenneth Chen ⋅ Yanqi Liang ⋅ Nanfang Yu ⋅ Qi Sun
+   arXiv: https://arxiv.org/abs/2503.15770
+
+81. PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation
+   Shinjeong Kim ⋅ Ignacio Alzugaray ⋅ Callum Rhodes ⋅ Paul Kelly ⋅ Andrew Davison
+   arXiv: https://arxiv.org/abs/2606.03989
+   page:  https://www.shinjeongkim.com/pixvod/
+
+82. Pose Anything Anywhere: Model-free Object Poses from Arbitrary References
+   Hongli XU ⋅ Jiaqi Hu ⋅ Junwen Huang ⋅ Boyang ZHONG ⋅ Peter Yu ⋅ Nassir Navab ⋅ Benjamin Busam ⋅ Slobodan Ilic
+
+83. PRISM-VO: Scale-Aware Visual Odometry Using Photometric Plenoptic Bundle Adjustment
+   Aymeric Fleith ⋅ Julian Zirbel ⋅ Daniel Cremers ⋅ Niclas Zeller
+   arXiv: https://arxiv.org/abs/2607.00176
+   page:  https://prism-vo.github.io/
+
+84. Proposal Score Realignment Guided by Semantic Completeness for Weakly Supervised Temporal Action Localization
+   Maodong Li ⋅ Zhihao Wang ⋅ Jingxiong Wang ⋅ Jian Wang ⋅ Bing Li
+
+85. Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching
+   Ruizhi Yang ⋅ Xingqiang Li ⋅ Jiajun Bai ⋅ Jinsong Du
+   arXiv: https://arxiv.org/abs/2410.02534
+
+86. Qwen-3D: A Generalist 3D Vision-Language Model for Spatial Understanding
+   Lucy Lin ⋅ Ayush Jain ⋅ Yifan Liu ⋅ Katerina Fragkiadaki
+   arXiv: https://arxiv.org/abs/2608.02980
+   page:  https://qwen-3d.github.io/
+
+87. RaysUp: Ultra-light Universal Feature Upsampling via Geometry-Aware Ray Representation
+   Ding Yuchuan ⋅ Linfei Li ⋅ Lin Zhang ⋅ Ying Shen
+   arXiv: https://arxiv.org/abs/2606.22749
+   code:  https://github.com/MAP-RaysUp/RaysUp
+
+88. Recurrent Cross-View Object Geo-Localization
+   Xiaohan Zhang ⋅ Siyuan Cao ⋅ Xiaokai Bai ⋅ Yiming Li ⋅ Zhangkai Shen ⋅ Zhe Wu ⋅ Lun Luo ⋅ Qi Ming ⋅ Xiaoxi Hu ⋅ Hui-Liang Shen
+   arXiv: https://arxiv.org/abs/2509.12757
+   code:  https://github.com/Temperature-ai/ReCOT.git
+
+89. RegVGGT: Sustainable Visual Geometry Grounding for Streaming via Regulated Memory
+   Hongbo Mao ⋅ Junjun Jiang ⋅ Youyu Chen ⋅ Jiaxin Zhang ⋅ Zhemeng Dong ⋅ Xianming Liu
+
+90. Repurposing Geometric Foundation Models for Multi-view Diffusion
+   Wooseok Jang ⋅ Seonghu Jeon ⋅ Jisang Han ⋅ Jinhyeok Choi ⋅ Minkyung Kwon ⋅ Seungryong Kim ⋅ Saining Xie ⋅ Sainan Liu
+   arXiv: https://arxiv.org/abs/2603.22275
+   page:  https://cvlab-kaist.github.io/GLD/
+
+91. ReTarget: Representation Transformation via Adversarial Regularization for Geometric Misalignment
+   Jia-You Chen ⋅ Shang-Tse Chen
+
+92. Rolling Shutter Camera Self-Calibration
+   Yongcong Zhang ⋅ Navid Rabbani ⋅ Bangyan Liao ⋅ Chengbo Wang ⋅ Yizhen Lao ⋅ Adrien Bartoli
+   arXiv: https://arxiv.org/abs/2608.01509
+
+93. RoMa v2: Harder Better Faster Denser Feature Matching
+   Johan Edstedt ⋅ David Nordström ⋅ Yushan Zhang ⋅ Georg Bökman ⋅ Jonathan Astermark ⋅ Viktor Larsson ⋅ Anders Heyden ⋅ Fredrik Kahl ⋅ Mårten Wadenbäck ⋅ Michael Felsberg
+   arXiv: https://arxiv.org/abs/2511.15706
+   code:  https://github.com/Parskatt/romav2
+
+94. Scaling Dense Prediction with Latent Decoding
+   Xiaoyang Wu ⋅ Yixing Lao ⋅ Chengyao Wang ⋅ Senqiao Yang ⋅ Yujia Zhang ⋅ Hengshuang ZHAO
+
+95. Sector-Level Cross-View Geo-Localization with Implicit Orientation via Azimuthal Scanning
+   Yiru Li ⋅ Le Wu ⋅ Yingchen Tan ⋅ Yingying Zhu
+
+96. SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification
+   Xiaoying Wang ⋅ Yumeng He ⋅ Jingkai Shi ⋅ Jiayin Lu ⋅ Yin Yang ⋅ Ying Jiang ⋅ Chenfanfu Jiang
+   arXiv: https://arxiv.org/abs/2603.19547
+   page:  https://heyumeng.com/SeeClear-web/
+
+97. Segmentation-Guided Homography Estimation for Long-Term Planar Tracking
+   Jonáš Šerých ⋅ Jiri Matas
+
+98. SemLight: Distilled Semantic–Geometric Fusion for Efficient Local Feature Matching
+   Guanglu Shi ⋅ Xiangzeng Liu ⋅ Yunan LI ⋅ Tuo Pang ⋅ Qiguang Miao
+
+99. Sequential Visual Place Recognition: Exploiting Trajectory Priors for Robust Localization
+   Dominik Kloepfer ⋅ Patrick Wenzel
+
+100. SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models
+   Olaf Dünkel ⋅ Basavaraj Sunagad ⋅ Haoran Wang ⋅ David Hoffmann ⋅ Christian Theobalt ⋅ Adam Kortylewski
+   arXiv: https://arxiv.org/abs/2605.31597
+   page:  https://genintel.github.io/SOCO/
+
+101. Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training
+   FANGFU LIU ⋅ Diankun Wu ⋅ Jiawei Chi ⋅ Yimo Cai ⋅ Yi-Hsin Hung ⋅ Xumin Yu ⋅ Hao Li ⋅ Han Hu ⋅ Yongming Rao ⋅ Yueqi Duan
+   arXiv: https://arxiv.org/abs/2603.12255
+   page:  https://liuff19.github.io/Spatial-TTT
+
+102. Stable and Scalable Bundle Adjustment of Holistic 3D Structures
+   Shaohui Liu ⋅ Rémi Pautrat ⋅ Daniel Barath ⋅ Richard Hartley ⋅ Viktor Larsson ⋅ Marc Pollefeys
+
+103. Stand Up and Move: Benchmarking Interactive Spatial Intelligence in WalkerBench
+   Zhiqi Ge ⋅ Gang Yang ⋅ Ziyang Pan ⋅ Jingzhe Zhu ⋅ Yuancheng Gu ⋅ Juncheng Li ⋅ Qizhou Wang ⋅ Rui Tang ⋅ Siliang Tang ⋅ Jun Xiao ⋅ Yueting Zhuang
+
+104. StereoEdit: A Diffusion-Based Framework for Stereo-Consistent Image Editing
+   Baolin Liu ⋅ Zongyuan Yang ⋅ Yingde Song ⋅ yongping xiong
+
+105. StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors
+   Wenhao Yuan ⋅ Yiyuan Ge ⋅ Deli Cai
+   arXiv: https://arxiv.org/abs/2606.30545
+   page:  https://stringerywh00.github.io/StereoGS_project_page/
+
+106. Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors
+   Hanxun Yu ⋅ Xuan Qu ⋅ Lei Ke ⋅ Boqiang Zhang ⋅ YUXIN WANG ⋅ Jianke Zhu ⋅ Dong Yu
+   arXiv: https://arxiv.org/abs/2606.06891
+   page:  https://stream3d-vlm.github.io/
+
+107. Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents
+   Sangwon Baik ⋅ Gunhee Kim ⋅ Mingi Choi ⋅ Hanbyul Joo
+   arXiv: https://arxiv.org/abs/2604.09781
+
+108. Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors
+   Songlin Yang ⋅ Tianyi Wei ⋅ Yushi Lan ⋅ Zeqi Xiao ⋅ Anyi Rao ⋅ Xingang Pan
+   arXiv: https://arxiv.org/abs/2509.21263
+
+109. Towards Interactive Global Geolocation Assistant
+   Zhiyang Dou ⋅ Zipeng Wang ⋅ Xumeng Han ⋅ Guorong Li ⋅ Zhenjun Han ⋅ Zhipei Huang
+   arXiv: https://arxiv.org/abs/2412.08907
+
+110. Towards Spatial Supersensing in the Wild
+   Tianjun Gu ⋅ Tianyu Xin ⋅ Kuan Zhang ⋅ Bowen Yang ⋅ Yinan Han ⋅ Peize Li ⋅ Yucheng Lu ⋅ Jianhang Liu ⋅ Xinran Zhang ⋅ KOK CHUNG CHUA ⋅ Qiyue Zhao ⋅ Qinlei Xie ⋅ Yupeng Chen ⋅ Marco Pavone ⋅ Yiming Li
+   arXiv: https://arxiv.org/abs/2607.13681
+   page:  https://vsi-super-wild.github.io/
+
+111. Trajectory-aware Cross-view Geo-Localization with Sequential Observations
+   Tianyi Gao ⋅ Jiayu Lin ⋅ Danielle Beaulieu ⋅ Nathan Jacobs
+   arXiv: https://arxiv.org/abs/2607.15491
+   page:  https://humblegamer.github.io/trajloc/
+
+112. Triangular Consistency as a Universal Constraint for Learning Optical Flow
+   Yi Xiao ⋅ Carlos Coronel ⋅ Jing Zhan ⋅ Haniyeh Oskouie ⋅ Alex Wong ⋅ DONG LAO
+   arXiv: https://arxiv.org/abs/2606.19938
+
+113. TriMotion: Modality-Agnostic Camera Control for Video Generation
+   Seunghyun Shin ⋅ Song Jifei ⋅ Wooseok Jeon ⋅ Hae-Gon Jeon ⋅ Jiankang Deng
+   arXiv: https://arxiv.org/abs/2606.20774
+
+114. Understanding the Impact of Geometric Foundation Models on Vision-Language-Action Models
+   Yurou Yang ⋅ Muyuan Lin ⋅ Roberto Martín-Martín ⋅ Labrie Martin ⋅ Shreekant Gayaka ⋅ Cheng-Hao Kuo ⋅ Luca Carlone
+   arXiv: https://arxiv.org/abs/2605.24642
+
+115. Unfold The World: Factorize 4D Properties in Reinforcing Spatial Understanding
+   Yijun Yang ⋅ Shenghe Zheng ⋅ Wenbo Li ⋅ Jianhui Liu ⋅ Haoze Sun ⋅ Yanbing Zhang ⋅ Jiaxiu Jiang ⋅ Lin Song ⋅ Haoyang Huang ⋅ Nan Duan ⋅ Lei Zhu
+
+116. Unified and Efficient Point-Line Local Features
+   François Costa ⋅ Raphael Kreft ⋅ Felix Möller ⋅ Hardik Shah ⋅ Ramanathan Rajaraman ⋅ Eckhard Goedeke ⋅ Shaohui Liu ⋅ Rémi Pautrat ⋅ Marc Pollefeys
+
+117. Unified Video Dense Prediction from Disjoint Data
+   Yihong Sun ⋅ Seoung Wug Oh ⋅ Jiahui Huang ⋅ Bharath Hariharan ⋅ Joon-Young Lee
+   arXiv: https://arxiv.org/abs/2607.21592
+   page:  https://unid-video.github.io/
+
+118. UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer
+   Tianchen Deng ⋅ Chen Xun ⋅ Ziming Li ⋅ Hongming Shen ⋅ Shuhao Zhai ⋅ Danwei Wang ⋅ Javier Civera ⋅ Hesheng Wang
+   arXiv: https://arxiv.org/abs/2512.21078
+   code:  https://github.com/dtc111111/UniPR-3D
+
+119. UniStitch: Unifying Semantic and Geometric Features for Image Stitching
+   Yuan Mei ⋅ Lang Nie ⋅ Kang Liao ⋅ Yunqiu Xu ⋅ Chunyu Lin ⋅ Bin Xiao
+   arXiv: https://arxiv.org/abs/2603.10568
+   page:  http://mmelodyy.github.io/projects/unistitch
+
+120. VectorReLoc: Reliable Vectorized SD Map Visual Re-localization with Contrastive Feature Alignment
+   Ziming Liu ⋅ Quanjie Xiang ⋅ Wang yun ⋅ wang yiting ⋅ chao wen ⋅ Zhuanjian XU ⋅ Leichen Wang ⋅ HAO SUN ⋅ Guangyu Gao
+
+121. ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models
+   Dingming Li ⋅ Hongxing Li ⋅ Zixuan Wang ⋅ Yuchen Yan ⋅ Hang Zhang ⋅ Siqi Chen ⋅ Guiyang Hou ⋅ Shengpei Jiang ⋅ Wenqi Zhang ⋅ Jun Xiao ⋅ Weiming Lu ⋅ Yueting Zhuang
+   arXiv: https://arxiv.org/abs/2505.21500
+   page:  https://zju-real.github.io/ViewSpatial-Page/
+
+122. Visual Spatial Tuning
+   Rui Yang ⋅ ziyu zhu ⋅ Yanwei Li ⋅ Jingjia Huang ⋅ Shen Yan ⋅ Siyuan Zhou ⋅ Zhe Liu ⋅ Xiangtai Li ⋅ Shuangye Li ⋅ Wenqian Wang ⋅ Yi Lin ⋅ Hengshuang ZHAO
+   arXiv: https://arxiv.org/abs/2511.05491
+
+123. Vulnerability of Privacy-Preserving Visual Localization against Diffusion-based Attacks
+   Maxime Pietrantoni ⋅ Torsten Sattler ⋅ Gabriela Csurka
+
+124. WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching
+   Yihan Wang ⋅ Jia Deng
+   arXiv: https://arxiv.org/abs/2603.24836
+   code:  https://github.com/princeton-vl/WAFT-Stereo
+
+125. Warp-free Cross-view Geo-localization via Feature-space Consensus Mining
+   Zhuo Song ⋅ Lian Xu ⋅ Runqing Jiang ⋅ Kunhong Li ⋅ Yongjian Zhang ⋅ Ye Zhang ⋅ Yulan Guo
+   arXiv: https://arxiv.org/abs/2608.09321
+
+126. When Cars Have Stereotypes: Auditing Demographic Bias in Objects from Text-to-Image Models
+   Dasol Choi ⋅ Jihwan Lee ⋅ Minjae Lee ⋅ Minsuk Kahng
+   arXiv: https://arxiv.org/abs/2508.03483
+
+127. WiFlow: Estimating Optical Flow using WiFi Channel State Information
+   Thomas Weigel ⋅ Simon Kiefhaber ⋅ Fabian Portner ⋅ Matthias Hollick ⋅ Simone Schaub-Meyer
+
+128. Zero-shot Depth from Defocus
+   Yiming Zuo ⋅ Hongyu Wen ⋅ Venkat Subramanian ⋅ Patrick Chen ⋅ Karhan Kayan ⋅ Mario Bijelic ⋅ Felix Heide ⋅ Jia Deng
+   arXiv: https://arxiv.org/abs/2603.26658
+   code:  https://github.com/princeton-vl/FOSSA
+   page:  https://zedd.cs.princeton.edu
+
+129. ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device
+   Fabio Tosi ⋅ Luca Bartolomei ⋅ Matteo Poggi ⋅ Stefano Mattoccia
+   arXiv: https://arxiv.org/abs/2607.08771
+   code:  https://github.com/fabiotosi92/ZipDepth
+   page:  https://zipdepth.github.io/
+

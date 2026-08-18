@@ -1,0 +1,207 @@
+3D Generation & Shape Modeling  (49 papers, 37 with arXiv links)  [Generation & Editing]
+============================================================================
+
+1. 2D Features Are All You Need for 3D Shape Understanding
+   Jinfan Zhou ⋅ Richard Liu ⋅ Itai Lang ⋅ Rana Hanocka
+   arXiv: https://arxiv.org/abs/2607.27592
+   page:  https://threedle.github.io/MeshFM/
+
+2. Axolotl3D: a Unified Framework for Faithful 3D Shape Completion
+   Anita Hu ⋅ Maria Shugrina
+   arXiv: https://arxiv.org/abs/2607.20660
+
+3. Coarse-to-fine Contrast: A Hybrid Self-supervised Method for Non-rigid 3D Shape Matching
+   Feifan Luo ⋅ Ting Li ⋅ Zhao Li ⋅ Hongyang Chen
+
+4. DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
+   Eungjune Shim ⋅ Hansol Lee ⋅ Eunjung Ju
+   arXiv: https://arxiv.org/abs/2607.13365
+
+5. DiTex4D: Direct Text-Driven 4D Generation with Structured Latent Diffusion
+   Xiaozhe Chen ⋅ Mengqi Rong ⋅ Jian Liu ⋅ Shuhan Shen
+
+6. DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces
+   Mohammad Sadil Khan ⋅ Muhammad Usama ⋅ Rolandos Alexandros Potamias ⋅ Didier Stricker ⋅ Muhammad Zeshan Afzal ⋅ Jiankang Deng ⋅ Ismail Elezi
+   arXiv: https://arxiv.org/abs/2603.05607
+   code:  https://huggingface.co/datasets/SadilKhan/CADCap-1M
+
+7. DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising
+   Tianjiao (Joey) Yu ⋅ Xinzhuo Li ⋅ Muntasir Wahed ⋅ Jerry Xiong ⋅ Yifan Shen ⋅ Ying Shen ⋅ Ismini Lourentzou
+   arXiv: https://arxiv.org/abs/2603.19216
+
+8. Dynamic World Generation Made Efficient
+   Fengrui Tian ⋅ Jinqi Luo ⋅ Uday Kiran Reddy Tadipatri ⋅ Hancheng Min ⋅ Rene Vidal
+
+9. ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency
+   Shih-Po Lee ⋅ Reza Ghoddoosian ⋅ Faizan Siddiqui ⋅ Enna Sachdeva ⋅ Behzad Dariush
+   arXiv: https://arxiv.org/abs/2606.25317
+
+10. GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation
+   Nicolas von Lützow ⋅ Barbara Roessle ⋅ Katharina Schmid ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2603.26661
+   page:  https://nicolasvonluetzow.github.io/GaussianGPT/
+   page:  https://youtu.be/zVnMHkFzHDg
+
+11. GENA3D: Generative Amodal 3D Modeling by Bridging 2D Priors and 3D Coherence
+   Junwei Zhou ⋅ Yu-Wing Tai
+   arXiv: https://arxiv.org/abs/2511.21945
+   page:  https://colezwhy.github.io/gena3d/
+
+12. Geometrically Consistent Multi-View Scene Generation from Freehand Sketches
+   Ahmed Bourouis ⋅ Savas Ozkan ⋅ Andrea Maracani ⋅ Yi-Zhe Song ⋅ Mete Ozay
+   arXiv: https://arxiv.org/abs/2604.14302
+
+13. Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation
+   Yanran Zhang ⋅ Ziyi Wang ⋅ Wenzhao Zheng ⋅ Zheng Zhu ⋅ Jie Zhou ⋅ Jiwen Lu
+   arXiv: https://arxiv.org/abs/2512.05044
+   code:  https://github.com/Zhangyr2022/MoGe4D
+
+14. GeoWorld: Providing Full-frame Geometry Features to Facilitate 3D Scene Generation
+   Yuhao Wan ⋅ Lijuan Liu ⋅ Jingzhi Zhou ⋅ Zihan Zhou ⋅ Xuying Zhang ⋅ dongbo zhang ⋅ Shaohui Jiao ⋅ Qibin Hou ⋅ Ming-Ming Cheng
+   arXiv: https://arxiv.org/abs/2511.23191
+   page:  https://peaes.github.io/GeoWorld
+
+15. Global Graph-Validated Optimization for VLM-based 3D Indoor Scene Generation
+   Jialu Huang ⋅ Yingxuan You ⋅ Fei Wang ⋅ Zheng Dang
+   arXiv: https://arxiv.org/abs/2608.03064
+
+16. Hyper-Network Neural Functional Maps for Unsupervised Robust 3D Shape Matching
+   Dongliang Cao ⋅ Florian Bernard
+   arXiv: https://arxiv.org/abs/2606.30131
+
+17. Inclusive Interactive Collisions for Multi-View Consistent Compositional 3D Generation
+   Chang Liu ⋅ Mingwen Shao ⋅ Xiang Lv ⋅ Xinyuan Chen ⋅ lingzhuang meng ⋅ Qiao Zhang ⋅ Zhengyi Gong ⋅ Jinghao Hu
+   arXiv: https://arxiv.org/abs/2606.24206
+
+18. Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
+   yue han ⋅ Chong Li ⋅ Zhening Liu ⋅ Cong Huang ⋅ Fang Deng ⋅ Yong Liu ⋅ Fangyun Wei ⋅ Yan Lu
+   arXiv: https://arxiv.org/abs/2607.01222
+   page:  https://yuehan99.github.io/Ink3D-TextureGen/
+
+19. Interact3D: Compositional 3D Generation of Interactive Objects
+   Hui Shan ⋅ Keyang Luo ⋅ Ming Li ⋅ Sizhe Zheng ⋅ Yanwei Fu ⋅ Zhen Chen ⋅ Xiangru Huang
+   arXiv: https://arxiv.org/abs/2603.16085
+
+20. Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models
+   Wenyue Chen ⋅ Wenjue Chen ⋅ Peng Li ⋅ Qinghe Wang ⋅ XU JIA ⋅ Heliang Zheng ⋅ Rongfei Jia ⋅ Yuan Liu ⋅ Ronggang Wang
+   arXiv: https://arxiv.org/abs/2603.22782
+   page:  https://xishuxishu.github.io/Know3D.github.io/
+
+21. LaGen: Towards Autoregressive LiDAR Scene Generation
+   Sizhuo Zhou ⋅ Xiaosong Jia ⋅ Fanrui Zhang ⋅ Junjie Li ⋅ Juyong Zhang ⋅ Yukang Feng ⋅ Jianwen Sun ⋅ Songbur Wong ⋅ Junqi You ⋅ Junchi Yan
+   arXiv: https://arxiv.org/abs/2511.21256
+   code:  https://github.com/szzhou88/LaGen
+
+22. Lightweight Online Reinforcement Learning for Block Decomposition of CAD Models
+   Xitong Luo ⋅ Zhenghan Wu ⋅ Yucong Wang ⋅ Yi Cai
+
+23. LivingWorld: Interactive 4D World Generation with Environmental Dynamics
+   Hyeongju Mun ⋅ In-Hwan Jin ⋅ Sohyeong Kim ⋅ Kyeongbo Kong
+   arXiv: https://arxiv.org/abs/2604.01641
+
+24. Map2World: Segment Map Conditioned Text to 3D World Generation
+   Jaeyoung Chung ⋅ Suyoung Lee ⋅ Jianfeng Xiang ⋅ Jiaolong Yang ⋅ Kyoung Mu Lee
+   arXiv: https://arxiv.org/abs/2605.00781
+   page:  https://robot0321.github.io/Map2World/index.html
+
+25. Masked BRep Autoencoder via Hierarchical Graph Transformer
+   Yifei Li ⋅ Kang Wu ⋅ Wenming Wu ⋅ Xiao-Ming Fu
+   arXiv: https://arxiv.org/abs/2603.14927
+
+26. NaLA: A 3D Native LLM Layout Agent for High-quality 3D Scene Generation
+   Cheng Wan ⋅ Yongsen Mao ⋅ Wenzheng Wu ⋅ Yuxuan Xie ⋅ Chucheng Xiang ⋅ Runze Wang ⋅ Xiang Zhang ⋅ zhongyuan liu ⋅ Rushi Dai ⋅ Yuan Liu
+   arXiv: https://arxiv.org/abs/2606.29395
+   code:  https://github.com/adamcwan/NaLA-code
+   page:  https://adamcwan.github.io/NaLA/
+
+27. OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder
+   Sensen Gao ⋅ Zhaoqing Wang ⋅ Qihang Cao ⋅ Dongdong Yu ⋅ Changhu Wang ⋅ Tongliang Liu ⋅ Mingming Gong ⋅ Jiawang Bian
+   arXiv: https://arxiv.org/abs/2603.16099
+   code:  https://github.com/SensenGao/OneWorld
+
+28. Optimization-Guided Diffusion for Interactive Scene Generation
+   Shihao Li ⋅ Naisheng Ye ⋅ Tianyu Li ⋅ Kashyap Chitta ⋅ Tuo An ⋅ Peng Su ⋅ Boyang Wang ⋅ Haiou Liu ⋅ Chen Lv ⋅ Hongyang Li
+   arXiv: https://arxiv.org/abs/2512.07661
+
+29. Penetration-Free Compositional 3D Generation via Gaussian Surface Offset
+   Yilin Shao ⋅ Licheng Jiao ⋅ Lingling Li ⋅ Xu Liu ⋅ Fang Liu ⋅ Wenping Ma ⋅ Long Sun ⋅ Jiaxuan Zhao
+
+30. Pointer-CAD v2: Plan-Then-Construct CAD Generation with Dimension-Aware Parametric Precision
+   Dacheng Qi ⋅ Chenyu Wang ⋅ Jingwei Xu ⋅ Yi Ma ⋅ Shenghua Gao
+   arXiv: https://arxiv.org/abs/2606.29301
+   code:  https://github.com/Snitro/Pointer-CAD-v2
+
+31. PWM-ArtGen: Part World Model for Articulated Object Generation
+   Wentao Zheng ⋅ Ancong Wu
+   arXiv: https://arxiv.org/abs/2607.02045
+
+32. Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning
+   Kazi Sajeed Mehrab ⋅ Hani Alomari ⋅ Najibul Sarker ⋅ Zaber Abdul Hakim ⋅ Chia-Wei Tang ⋅ Anuj Karpatne ⋅ Chris Thomas
+   arXiv: https://arxiv.org/abs/2607.15374
+
+33. Reflecting Process Expertise in Procedural Material Generation
+   Kunal Gupta ⋅ Gaurav Joshi ⋅ Yen-Ru Chen ⋅ Seemandhar Jain ⋅ Ishit Mehta ⋅ Manmohan Chandraker
+   arXiv: https://arxiv.org/abs/2607.13318
+   page:  https://materialapprentice.github.io
+
+34. Roam2Room: A Unified Floorplan-to-Furnished Framework for Controllable Indoor Scene Generation
+   Wenbo Li ⋅ Zipeng Qin ⋅ Xiaoliang Ju ⋅ Rongyao Fang ⋅ Hongsheng LI
+
+35. ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation
+   Hanxiao Sun ⋅ Mingxin Yang ⋅ Shuhui Yang ⋅ Zebin He ⋅ Xintong Han ⋅ Hongbo Fu ⋅ Chunchao Guo ⋅ Wenhan Luo
+   arXiv: https://arxiv.org/abs/2605.21121
+
+36. RoMan-4D: Learning Robot Arm Manipulation from 4D World Models
+   Kaichen Zhou ⋅ Yuzhen Chen ⋅ Fangneng Zhan ⋅ Hang Hua ⋅ Grace Chen ⋅ Xinhai Chang ⋅ Ao Qu ⋅ Yilun Du ⋅ Zhuang Liu ⋅ Paul Pu Liang ⋅ Mengyu Wang
+
+37. Scale3D: Autoregressive Modeling for Large Outdoor Scene Generation
+   DI QI ⋅ Zheng Sun ⋅ Xuanyang Zhang ⋅ Gang Yu
+
+38. Scene Generation at Absolute Scale: Utilizing Semantic and Geometric Guidance From Text for Accurate and Interpretable 3D Indoor Scene Generation
+   Stefan Ainetter ⋅ Thomas Deixelberger ⋅ Edoardo Dominici ⋅ Philipp Drescher ⋅ Konstantinos Vardis ⋅ Markus Steinberger
+   arXiv: https://arxiv.org/abs/2603.13910
+
+39. SceneOrchestra: Efficient Agentic 3D Scene Synthesis via Full Tool-Call Trajectory Generation
+   Yun He ⋅ Kelin Yu ⋅ Matthias Zwicker
+   arXiv: https://arxiv.org/abs/2604.19907
+
+40. SGMatch: Semantic-Guided Non-Rigid Shape Matching with Flow Regularization
+   Tianwei Ye ⋅ Xiaoguang Mei ⋅ Yifan Xia ⋅ Fan Fan ⋅ Jun Huang ⋅ Jiayi Ma
+   arXiv: https://arxiv.org/abs/2603.12937
+   page:  https://yetianwei.github.io/SGMatch/
+
+41. Sparse auto-regressive modeling for scene generation from multi-view images
+   Thomas Lucas ⋅ Maxime Pietrantoni ⋅ Wonjune Cho ⋅ Bardienus Duisterhof ⋅ Philippe Weinzaepfel ⋅ Vincent Leroy ⋅ Jerome Revaud
+
+42. Steering 3D Generations: Preference Alignment via Direct Reward and Preference Optimization
+   Yuanhang Wang ⋅ Lizhe Qi ⋅ Wenqiang Zhang
+
+43. SuperVoxelGPT: Adaptive and Ordered 3D Tokenization for Autoregressive Shape Generation
+   Yuan Li ⋅ Congyi Zhang ⋅ Xifeng Gao ⋅ Xiaohu Guo
+   arXiv: https://arxiv.org/abs/2605.29655
+
+44. TACO-Net: Topological Signatures Triumph in 3D Object Classification
+   Anirban Ghosh ⋅ Ayan Dutta
+   arXiv: https://arxiv.org/abs/2509.24802
+
+45. Taming LLMs for Codematic Indoor Scene Generation
+   yixun liang ⋅ Qianyi Wu ⋅ Chuan Fang ⋅ Rui Chen ⋅ Jiahang Liu ⋅ Jianfeng Zhang ⋅ Ping Tan
+
+46. TopoGAT: Plug-and-Play Topological Graph Attention for Fine-Grained 3D Segmentation
+   Xinyu Jiang ⋅ Lech Szymanski ⋅ Steven Mills
+
+47. TORA: Topological Representation Alignment for 3D Shape Assembly
+   Nahyuk Lee ⋅ Zhiang Chen ⋅ Marc Pollefeys ⋅ Sunghwan Hong
+   arXiv: https://arxiv.org/abs/2604.04050
+   page:  https://nahyuklee.github.io/tora
+
+48. Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention
+   Yiwen Chen ⋅ Zhihao Li ⋅ Yihao Luo ⋅ Yikai Wang ⋅ Zhang Hu ⋅ Le Li ⋅ Qin Li ⋅ Chi Zhang ⋅ Guosheng Lin
+   arXiv: https://arxiv.org/abs/2507.17745
+   page:  https://buaacyw.github.io/ultra3d/
+
+49. WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation
+   Amogh Joshi ⋅ Julian Ost ⋅ Felix Heide
+   arXiv: https://arxiv.org/abs/2603.29089
+   page:  https://light.princeton.edu/worldflow3d
+

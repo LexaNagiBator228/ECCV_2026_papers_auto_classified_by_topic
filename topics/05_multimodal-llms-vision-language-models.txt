@@ -1,0 +1,1110 @@
+Multimodal LLMs & Vision-Language Models  (283 papers, 174 with arXiv links)  [Multimodal, Language & Video Understanding]
+============================================================================
+
+1. 3D-Aware VLMs with Implicit and Explicit Geometries
+   Wenhao Li ⋅ Xueying Jiang ⋅ Quanhao Qian ⋅ Deli Zhao ⋅ Ran Xu ⋅ Shijian Lu ⋅ Gongjie Zhang
+   arXiv: https://arxiv.org/abs/2607.21595
+   code:  https://github.com/Vegetebird/VLM-IE3D
+
+2. 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering
+   Changwoo Baek ⋅ Kyeongbo Kong
+   arXiv: https://arxiv.org/abs/2608.01185
+   page:  https://cvsp-lab.github.io/3DZip
+
+3. A Classifier-Agnostic Zero-Shot Adversarial Attack Detection via CLIP
+   Hodaya Krakover ⋅ Meir Levi ⋅ Eyal Gofer ⋅ Guy Gilboa
+   arXiv: https://arxiv.org/abs/2606.30342
+
+4. AdaBoosting Text Prompts for Vision-Language Models
+   Seokhee Jin ⋅ Changhwan Sung ⋅ Sunung Mun ⋅ Hoyoung Kim ⋅ Jungseul Ok
+   arXiv: https://arxiv.org/abs/2607.00684
+
+5. ADAPT: Attention Dynamics Alignment with Preference Tuning for Faithful MLLMs
+   Zhiyuan Yao ⋅ Zheren Fu ⋅ Zhixiao Zheng ⋅ Jiajun Li ⋅ Yi Tu ⋅ Zhendong Mao
+
+6. AdaThinking-E: One-Token Entropy Regulation for Adaptive Thinking
+   Zining Wang ⋅ Tongkun Guan ⋅ Boming Chen ⋅ Zhentao Guo ⋅ Jianqiang Liu ⋅ chao jin ⋅ Chen Duan ⋅ Kai zhou ⋅ Pengfei Yan ⋅ Wei Shen ⋅ Xiaokang Yang
+
+7. AMCI: Unlock the Potential of Large Multimodal Models for Fine-grained Open-world Classification via Adaptive Memory Context Injection
+   Xiao Liu ⋅ Haiyang Zheng ⋅ Nan Pu ⋅ Wenjing Li ⋅ Nicu Sebe ⋅ Zhun Zhong
+
+8. An Inverse-Adversarial and Difficulty-Adaptive Robust Vision-Language Model
+   Ruobing Xu ⋅ Junhao Dong ⋅ Xiaohua Xie
+
+9. Anchored, Not Graded: How Vision-Language Models Fail at Slant-from-Texture Perception
+   Qian Zhang ⋅ Michal Golovanevsky ⋅ Fulvio Domini ⋅ James Tompkin
+   arXiv: https://arxiv.org/abs/2606.06714
+
+10. AnchorPrune: Relevance-Anchored Contextual Expansion for Visual Token Pruning
+   Kyuan Oh ⋅ Bumsoo Kim
+   arXiv: https://arxiv.org/abs/2607.07033
+   code:  https://github.com/MULTI-cau/AnchorPrune
+
+11. AnE: Pushing the Reasoning Frontier of Multimodal LLMs via Anchor Evolution
+   Zehao Wang ⋅ Yihan Zeng ⋅ Zidong Gong ⋅ Yuanfan Guo ⋅ Feng Zhu ⋅ Hongzhi Zhang ⋅ Wei Zhang ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2605.25571
+
+12. AnyGround3D: Towards Grounding Any 3D Object in the Wild via 2D-to-3D Lifting
+   Yingping Liang ⋅ Wenxuan Guo
+
+13. Asymmetric Anchoring: Opening the Black Box of MLLMs for Forgery Detection
+   Zhiqiang Yang ⋅ Renshuai Tao ⋅ Chunjie Zhang ⋅ Zhaoxiang Liu ⋅ Xiaolong Zheng ⋅ Yao Zhao
+
+14. Attention-based Vision-Language Memory for Spatial Reasoning
+   Zuntao Liu ⋅ Zuntao Liu ⋅ Taimeng Fu ⋅ Shaoshu Su ⋅ Cherie Ho ⋅ Chen Wang
+
+15. AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs
+   Yuan Zhang ⋅ Chun-Kai Fan ⋅ Sicheng Yu ⋅ Junwen Pan ⋅ Tao Huang ⋅ Ming Lu ⋅ Kuan Cheng ⋅ Qi She ⋅ Shanghang Zhang
+   arXiv: https://arxiv.org/abs/2506.16112
+
+16. Background Blurring Matters: Improving Visual Grounding by Merging Text-Irrelevant Tokens
+   Ruilin Yao ⋅ Shengwu Xiong ⋅ Shanshan Yang ⋅ Tianyu Zou ⋅ Shili Xiong ⋅ Yi Rong
+
+17. Before Thinking, Learn to Decide: Proactive Routing for Efficient Visual Reasoning
+   Yinan ZHOU ⋅ Haokun Lin ⋅ Yichen Wu ⋅ Yuxin Chen ⋅ Teng Wang ⋅ Caifeng Shan ⋅ Zhenan Sun ⋅ Chen Ma ⋅ Li Zhu ⋅ Ying Shan
+   arXiv: https://arxiv.org/abs/2606.30217
+
+18. Benchmarking MLLMs on Mistake Recognition and Explanation in Single-Step Components of Cooking
+   Shun Takashige ⋅ Atsushi Hashimoto ⋅ Shin’ichi Satoh
+
+19. Beyond Disjoint Tasks: Towards More Natural Continual Learning for Vision-Language Models
+   Xiang Xu ⋅ Yiyang Su ⋅ Tianchen Zhao ⋅ Zheng Zhang ⋅ Zhuowen Tu ⋅ Anil Jain ⋅ Jonathan Wu
+
+20. Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation
+   Wayner Barrios ⋅ SouYoung Jin
+   arXiv: https://arxiv.org/abs/2603.13099
+
+21. Break Visual-Linguistic Asymmetry: Unleashing VLM's Cross-Modal Potential for General Face Forgery Detection
+   Guilin Pang ⋅ Yiu-ming Cheung ⋅ Ruiqi Li ⋅ Weifeng Su
+
+22. BrepCoder: A Unified Multimodal Large Language Model for Multi-task B-rep Reasoning
+   Mingi Kim ⋅ Yongjun Kim ⋅ Jungwoo Kang ⋅ Hyungki Kim
+   arXiv: https://arxiv.org/abs/2602.22284
+
+23. BrepLLM: Enabling Large Language Models to Understand Boundary Representations
+   Liyuan Deng ⋅ Hao Guo ⋅ Yongkang Dai ⋅ Yunpeng Bai ⋅ Yifan Zhu ⋅ Yuanyuan Gao ⋅ Huaxi Huang ⋅ Yilei Shi
+   arXiv: https://arxiv.org/abs/2512.16413
+   page:  https://user-deng.github.io/BrepLLM/
+
+24. Bridging Vision and Language Concepts through Optimal Transport Semantic Flow
+   Chenyang Zhang ⋅ Anqi Dong ⋅ Guangming Zhu ⋅ Nuoye Xiong ⋅ Siyuan Wang ⋅ Lin Mei ⋅ Liang Zhang
+   arXiv: https://arxiv.org/abs/2606.26891
+
+25. Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models
+   yuhang han ⋅ Yuyang Wu ⋅ Zhengbo Jiao ⋅ Yiyu Wang ⋅ Xuyang Liu ⋅ Shaobo Wang ⋅ Hanlin xu ⋅ Xuming Hu ⋅ Linfeng Zhang
+   arXiv: https://arxiv.org/abs/2603.27375
+   page:  https://kawhiiiileo.github.io/KAWHI_PAGE/
+
+26. C3-Bench: A Context-Aware Change Captioning Benchmark
+   JAEWOO KIM ⋅ Hyeongbeom Kim ⋅ Ue-Hwan Kim
+   arXiv: https://arxiv.org/abs/2606.25445
+
+27. CabinSI: Omni-Cabin Spatial Reasoning through Explicit Visual Cognitive Maps
+   Mengxue Qu ⋅ Hengrui Hu ⋅ Mingming Ma ⋅ Ming Lei ⋅ Jie Gao ⋅ Henghui Ding ⋅ Yao Zhao ⋅ Kenn wu ⋅ Yunchao Wei
+
+28. CaPCL: Caption-Preserved Continual Learning for Text-to-Image Retrieval
+   Naoya Sogi ⋅ Ren Ohkubo ⋅ Takashi Shibata ⋅ Makoto Terao ⋅ Yusuke Hosoya ⋅ Takayuki Okatani
+
+29. CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels
+   Jirong Li ⋅ Satoshi Ikehata ⋅ Shuhei Kurita ⋅ Ikuro Sato
+
+30. Caption Bottleneck Models
+   Seref Cagliyan ⋅ Umut Ozdemir ⋅ Merve Tapli ⋅ Emre Akbas
+   arXiv: https://arxiv.org/abs/2607.00578
+
+31. CARE: Causally-Aligned Reasoning Exploration for Medical Large Language Models
+   Yucheng Zhou ⋅ Peng Luo ⋅ Qianning Wang ⋅ Cheng-zhong Xu ⋅ Shen Jianbing
+
+32. CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion
+   Moritz Böhle ⋅ Amelie Royer ⋅ Juliette Marrie ⋅ Edouard Grave ⋅ Patrick Perez
+   arXiv: https://arxiv.org/abs/2512.19535
+   page:  https://kyutai.org/casa
+
+33. Ceptor: Vision-Language Model-Infused Diverse Guidance for Detecting Anything
+   Jinyang Li ⋅ Bin-Bin Gao ⋅ Weifu Fu ⋅ Jingnan Luo ⋅ Hanqiu Deng ⋅ Yue Guo ⋅ Jun Liu ⋅ Yong Liu ⋅ Chengjie Wang ⋅ Wenbing Tao
+
+34. Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens
+   Yiming Qin ⋅ Bomin Wei ⋅ Jiaxin Ge ⋅ Konstantinos Kallidromitis ⋅ Stephanie Fu ⋅ Trevor Darrell ⋅ XuDong Wang
+   arXiv: https://arxiv.org/abs/2511.19418
+   page:  https://wakalsprojectpage.github.io/covt-website/
+
+35. ChronusOmni: Improving Time Awareness of Omni-Modal Large Language Models
+   Yijing Chen ⋅ Yihan Wu ⋅ Kaisi Guan ⋅ Wenhui Tan ⋅ Yuchen Ren ⋅ Yuyue Wang ⋅ Ruihua Song ⋅ Liyun Ru
+   arXiv: https://arxiv.org/abs/2512.09841
+   code:  https://github.com/YJCX330/Chronus/
+
+36. Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit Schematic Understanding
+   Jinyuan Deng ⋅ Yuqi Jiang ⋅ Wenjing Huang ⋅ Xin Li ⋅ Qi Sun ⋅ Cheng Zhuo
+
+37. Co-Steer: Cross-Modal Collaborative Steering for Jailbreaking MLLMs
+   Jingmin Zhu ⋅ Rollin Omari ⋅ Tamas Abraham ⋅ Junae Kim ⋅ Amardeep Kaur ⋅ Trung Le ⋅ Dinh Q Phung ⋅ Qiuhong Ke
+
+38. CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
+   Li Haodong ⋅ Chunmei Qing ⋅ Huanyu Zhang ⋅ Dongzhi Jiang ⋅ Yihang Zou ⋅ Hongbo Peng ⋅ Dingming Li ⋅ Yuhong Dai ⋅ ZePeng Lin ⋅ Juanxi Tian ⋅ Yi Zhou ⋅ Siqi Dai
+   arXiv: https://arxiv.org/abs/2603.08652
+
+39. CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts
+   Lianyu Hu ⋅ shengqian qin ⋅ Zeqin Liao ⋅ Qing Guo ⋅ Liang Wan ⋅ Wei Feng ⋅ Yang Liu
+   arXiv: https://arxiv.org/abs/2606.31986
+   code:  https://github.com/hulianyuyy/CoLT
+
+40. Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning
+   Xuehui Wang ⋅ Xuankun Yang ⋅ Wei Shen
+   arXiv: https://arxiv.org/abs/2607.02484
+
+41. COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models
+   Ziqi Zhou ⋅ Weize Quan ⋅ Mining Tan ⋅ Zhihan Chen ⋅ Dandan Zheng ⋅ Jingdong Chen ⋅ JUN ZHOU ⋅ Weiming Dong ⋅ Dong-ming Yan
+
+42. Concept-as-Tree: A Controllable Synthetic Data Framework Makes Stronger Personalized VLMs
+   Ruichuan An ⋅ Kai Zeng ⋅ Ming Lu ⋅ Sihan Yang ⋅ Renrui Zhang ⋅ Huitong Ji ⋅ Hao Liang ⋅ Wentao Zhang
+   arXiv: https://arxiv.org/abs/2503.12999
+
+43. ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning
+   Ting Huang ⋅ zhenyu zhang ⋅ Wenyuan Huang ⋅ Hao Tang ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2607.17599
+
+44. Constructing and Interpreting Digital Twin Representations for Visual Reasoning via Large Language Models and Reinforcement Learning
+   Yiqing Shen ⋅ Mathias Unberath
+
+45. Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization
+   Byungoh Ko ⋅ Jinyoung Park ⋅ Jongha Kim ⋅ Jeehye Na ⋅ Jaewon Cho ⋅ Hyunwoo Kim
+   arXiv: https://arxiv.org/abs/2608.12158
+   code:  https://github.com/mlvlab/C2-DPO
+
+46. Contrastive-Guided Self-Supervised Latent Visual Reasoning for Hallucination Mitigation
+   Aoxue Dai ⋅ Ningning Wang
+
+47. CORE-V: Chain-Of-thought REasoning for Image Editing with Visual Interaction
+   Tianyang Yan ⋅ Peisen Zhao ⋅ Guanghao Zheng ⋅ Mingxing Xu ⋅ Zhibo Zhang ⋅ Wenrui Dai ⋅ Junni Zou ⋅ Hongkai Xiong ⋅ Xiaopeng Zhang ⋅ Qi Tian
+
+48. CoverPrune: Coverage-Driven Token Pruning for 3D VLMs via Optimal Transport
+   Peng Ling ⋅ Yingda Yin ⋅ Lingting Zhu ⋅ Weikai Chen ⋅ Shengju Qian ⋅ Zeyu HU ⋅ Xin Wang ⋅ Wenming Yang
+   arXiv: https://arxiv.org/abs/2608.13226
+   code:  https://github.com/Brucess/CoverPrune
+
+49. CrossView: Can Vision-Language Models Reason Across Cameras?
+   Sahil Shah ⋅ S P Sharan ⋅ Harsh Goel ⋅ Manvik Pasula ⋅ Adithya Hebbalae ⋅ Minkyu Choi ⋅ Sandeep Chinchali
+   arXiv: https://arxiv.org/abs/2608.15539
+   page:  https://utaustin-swarmlab.github.io/CrossView
+
+50. CURE: Cumulative Knowledge Reuse for Efficient Device-Server Hybrid Inference in Vision-Language Models
+   Youngjun Lee ⋅ Doyoung Kim ⋅ Junhyeok Kang ⋅ Hwanjun Song ⋅ Jae-Gil Lee
+
+51. Curvature-Guided Mixing for MLLM Adaptation
+   Jinglong Yang ⋅ Jiaxuan He ⋅ Wenjian Huang ⋅ Zhan Zhuang ⋅ Jianguo Zhang
+   arXiv: https://arxiv.org/abs/2606.24963
+
+52. Debiased Textual Prompt Tuning for Enhancing Unknown Class Discovery
+   Yuxin Fan ⋅ Junbiao Cui ⋅ Changhao Liu ⋅ Xingwang Zhao ⋅ Jiye Liang
+
+53. DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning
+   JIAJIAN HUANG ⋅ Dongliang Zhu ⋅ Zitong Yu ⋅ Hui Ma ⋅ Jiayu Zhang ⋅ Chunmei Zhu ⋅ Xiaochun Cao
+   arXiv: https://arxiv.org/abs/2603.23916
+
+54. Decoding Multimodal Causality: End-to-End Multimodal Mediation Pathways Inference
+   Yulong Li ⋅ Xiwei Liu ⋅ Niranjana Menon ⋅ Yuxuan Zhang ⋅ Jianxu Chen ⋅ Rong Xia ⋅ Haolin Yang ⋅ Peixin Guo ⋅ Yutong Xie ⋅ Imran Razzak
+
+55. Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners
+   Yunhan Wang ⋅ Eshika Khandelwal ⋅ Edson Araujo ⋅ Walid Bousselham ⋅ Nina Shvetsova ⋅ Hilde Kuehne
+   arXiv: https://arxiv.org/abs/2607.00125
+   code:  https://github.com/yunhanwang1105/DeCoDe
+
+56. DeCoPatch: Revealing Causal Latent Subspaces in Vision-Language Models for GUI Grounding
+   Yongkang Zhang ⋅ Linjia Kang ⋅ Zhimin Wang ⋅ Duo Wu ⋅ Zhi Wang
+
+57. Delineating Knowledge Boundaries for Honest Large Vision-Language Models
+   Junru Song ⋅ Yimeng Hu ⋅ Yijing Chen ⋅ Huining Li ⋅ Qian Li ⋅ Lizhen Cui ⋅ Yuntao Du
+   arXiv: https://arxiv.org/abs/2604.26419
+
+58. Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views
+   Jiho Choi ⋅ Seonho Lee ⋅ Seojeong Park ⋅ Hyunjung Shim
+   arXiv: https://arxiv.org/abs/2606.23557
+
+59. DetPO: In-Context Learning with Multi-Modal LLMs for Few-Shot Object Detection
+   Gautam Rajendrakumar Gare ⋅ Neehar Peri ⋅ Matvei Popov ⋅ Shruti Jain ⋅ John Galeotti ⋅ Deva Ramanan
+   arXiv: https://arxiv.org/abs/2603.23455
+   page:  https://ggare-cmu.github.io/DetPO/
+
+60. DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models
+   Walid Bousselham ⋅ Angie Boggust ⋅ Hendrik Strobelt ⋅ Hilde Kuehne
+   arXiv: https://arxiv.org/abs/2603.06302
+   page:  https://walidbousselham.com/DEX-AR
+
+61. DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving
+   Ziyi Song ⋅ Chen Xia ⋅ Hang Yu ⋅ Sheng Zhou ⋅ Zhisheng Niu
+   arXiv: https://arxiv.org/abs/2608.09333
+
+62. DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models
+   Xinlong Chen ⋅ Weihong Lin ⋅ Jingyun Hua ⋅ Linli Yao ⋅ Yue Ding ⋅ Bozhou Li ⋅ Bohan Zeng ⋅ Yang Shi ⋅ Qiang Liu ⋅ Yuanxing Zhang ⋅ Pengfei Wan ⋅ Liang Wang
+   arXiv: https://arxiv.org/abs/2601.19267
+   page:  https://diadem-captioner.github.io/
+
+63. DICE: Disentangled Instance-Class knowlEdge prompt tuning via SAE for Vision-Language Models
+   Daeun Lee ⋅ Seungwoo Jang ⋅ Kwangsu Kim
+
+64. Different Changes Require Different Reasoning: Change-Type-Specialized Experts for Robust Change Captioning
+   Jiyoung Park ⋅ InJae Oh ⋅ Jung Uk Kim
+
+65. Diffusion-Based Immersive Visual Reasoning
+   Yifeng Zhang ⋅ Ming Jiang ⋅ Qi Zhao
+
+66. Direct Preference Optimization for Perceptual Alignment via Vision-Language Consistency
+   Seungyeon Lee ⋅ Donggyu Lee
+
+67. DiscoVL: Unveiling Disentangled Cross-Modal Representation Learning via Orthogonal Adversarial Regularization for Vision-Language Models
+   Mengping Dong ⋅ Jinbao Li ⋅ Fei Li
+
+68. Dive into the implicit biases of low-rank vision-language alignment
+   Mingjia Shi ⋅ Shuo Wang ⋅ Xiaobo Wang ⋅ Sifan Zhou ⋅ Kai Wang ⋅ Tianyu Fu ⋅ Chenxu Zhao ⋅ Anyang Su ⋅ Ping Jiang ⋅ Minghui Wu
+   arXiv: https://arxiv.org/abs/2607.08194
+
+69. Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models
+   Amira Guesmi ⋅ Muhammad Shafique
+   arXiv: https://arxiv.org/abs/2603.15940
+
+70. Do Vision Language Models Recognize Visual Ambiguity?
+   Huy Ta ⋅ Trang Nguyen ⋅ Townim Chowdhury ⋅ ANKIT YADAV ⋅ Minh-Son To ⋅ Zhibin Liao ⋅ Johan Verjans ⋅ Vu Phan
+
+71. DoCoG: Mask-based Multi-Type Grounded Chain-of-Thought for Document QA
+   Sai Madhusudan Gunda ⋅ Jyothi Jinka ⋅ Hrithik Sagar ⋅ Aryan Jain ⋅ Venkata Venna ⋅ Anirudh Srinivasan ⋅ SANTOSH RAVI KIRAN SARVADEVABHATLA
+
+72. Dual Distribution Estimation for Zero-shot Noisy Test-Time Adaptation with VLMs
+   Wenjie Zhu ⋅ Yabin Zhang ⋅ Liang Xu ⋅ Xin Jin ⋅ Wenjun Zeng ⋅ Yabin Zhang
+   arXiv: https://arxiv.org/abs/2606.25758
+   code:  https://github.com/ZhuWenjie98/DDE
+   page:  https://zhuwenjie98.github.io/DDE-project-page/
+
+73. Dual-Generalization-aware Minimization for Continual Fine-Tuning of Vision-Language Models
+   Yanan Chen ⋅ Tieliang Gong ⋅ Yanle Lyu ⋅ Yuanhong Zhang ⋅ Weizhan Zhang
+
+74. DualTAP: A Dual-Task Adversarial Protector for Mobile MLLM Agents
+   Fuyao Zhang ⋅ Jiaming Zhang ⋅ CHE WANG ⋅ Xiongtao Sun ⋅ Yurong Hao ⋅ Guowei Guan ⋅ Wenjie Li ⋅ Longtao Huang ⋅ Wei Lim
+   arXiv: https://arxiv.org/abs/2511.13248
+
+75. EGM: Efficient Visual Grounding Language Models
+   Guanqi Zhan ⋅ Changye Li ⋅ Zhijian Liu ⋅ Yao Lu ⋅ Yi Wu ⋅ Song Han ⋅ Ligeng Zhu
+   arXiv: https://arxiv.org/abs/2601.13633
+
+76. Eliciting Self-Verification in Multimodal Reasoning Agents with Reinforcement Learning
+   Vishwas Sathish ⋅ Viresh Ranjan ⋅ Xinliang Zhu ⋅ Arnab Dhua ⋅ Douglas Gray
+
+77. EmbedCopilot: Evaluating Vision-Language Models for Hardware-Aware Embedded System Development
+   Dongsheng Yuan ⋅ Yimo Deng ⋅ Huangxun Chen
+
+78. EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models
+   Xuanlang Dai ⋅ Yujie Zhou ⋅ Long Xing ⋅ Jiazi Bu ⋅ Xilin Wei ⋅ Yuhong Liu ⋅ Beichen Zhang ⋅ Kai Chen ⋅ Yuhang Zang
+   arXiv: https://arxiv.org/abs/2603.12252
+   page:  https://internlm.github.io/EndoCoT/
+
+79. Enhancing Alignment for Unified Multimodal Models via Semantically-Grounded Supervision
+   Jiyeong Kim ⋅ Yerim So ⋅ Hyesong Choi ⋅ Uiwon Hwang ⋅ Dongbo Min
+   arXiv: https://arxiv.org/abs/2603.19807
+
+80. Enhancing Interpretability in CLIP with Optimal Transport-based Submodular Optimization for Ophthalmic Imaging
+   Sihong Lu ⋅ Jian Yang ⋅ Lei Luo
+
+81. Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models
+   Marcel Gröpl ⋅ Jaewoo Jung ⋅ Seungryong Kim ⋅ Marc Pollefeys ⋅ Sunghwan Hong
+   arXiv: https://arxiv.org/abs/2604.08456
+   page:  https://entropy-gradient-grounding.github.io/
+
+82. Error-Driven Scene Editing for 3D Grounding in Large Language Models
+   Yue Zhang ⋅ Zun Wang ⋅ Han Lin ⋅ Jialu Li ⋅ Jianing Yang ⋅ Yonatan Bitton ⋅ Idan Szpektor ⋅ Mohit Bansal
+   arXiv: https://arxiv.org/abs/2511.14086
+   code:  https://github.com/zhangyuejoslin/Deer-3D
+
+83. ESC: Emotional Self-Correction for Reliable Vision-Language Models
+   Tien-Huy Nguyen ⋅ Nhat Nguyen ⋅ Nhat-Huy Nguyen ⋅ Hung Nguyen ⋅ Huy Nguyen ⋅ Thanh-Huy Nguyen ⋅ Cuong Nguyen ⋅ Hoang Le ⋅ Dat Nguyen ⋅ Phat Huynh ⋅ Min Xu ⋅ Ulas Bagci
+   arXiv: https://arxiv.org/abs/2607.02089
+   page:  https://genai4e.github.io/ESC/
+   page:  https://genai4e.github.io/ESC/?
+
+84. Explicit Logic Channel for Validation and Enhancement of MLLMs on Zero-Shot Tasks
+   Mei Chee Leong ⋅ Gu Ying ⋅ Hui Tan ⋅ Liyuan Li ⋅ Nancy Chen
+   arXiv: https://arxiv.org/abs/2603.11689
+
+85. Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding
+   Shihao Wang ⋅ Shilong Liu ⋅ Yuanguo Kuang ⋅ Xinyu Wei ⋅ Yangzhou Liu ⋅ Zhiqi Li ⋅ Yunze Man ⋅ Guo Chen ⋅ Andrew Tao ⋅ Guilin Liu ⋅ Jan Kautz ⋅ Yabin Zhang ⋅ Zhiding Yu
+
+86. Finding Highlight Images In Your Albums:From Benchmark To MLLM
+   Rong Qin ⋅ Congcong Sun ⋅ Yaopeng Dong ⋅ Yanbin Sun ⋅ Chensen Ding ⋅ Chenxi Zhao ⋅ Biao Wang ⋅ Qian Zhang ⋅ Eunil Park ⋅ Chi Man VONG ⋅ Jufeng Yang
+
+87. FingerCap: Fine-grained Finger-level Hand Motion Captioning
+   Xin Shen ⋅ Rui Zhu ⋅ Lei Shen ⋅ Zhuojie Wu ⋅ Xinyu Wang ⋅ Kaihao Zhang ⋅ Tianqing Zhu ⋅ Shuchen Wu ⋅ Chenxi Miao ⋅ Weikang Li ⋅ Deguo Xia ⋅ Jizhou Huang ⋅ Xin Yu
+   arXiv: https://arxiv.org/abs/2511.16951
+
+88. FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models
+   Kaitong Cai ⋅ jusheng zhang ⋅ Sizhuo Ma ⋅ Bingqian Lu ⋅ Jian Wang ⋅ Keze Wang
+   arXiv: https://arxiv.org/abs/2512.20561
+
+89. Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning
+   Yuyao Ge ⋅ Shenghua Liu ⋅ Yiwei Wang ⋅ Lingrui Mei ⋅ Baolong Bi ⋅ Xuanshan Zhou ⋅ Jiayu Yao ⋅ Jiafeng Guo ⋅ Xueqi Cheng
+   arXiv: https://arxiv.org/abs/2509.06461
+
+90. Fourier Compressor: Frequency-Domain Visual Token Compression for Vision-Language Models
+   Huanyu Wang ⋅ Jushi Kai ⋅ Haoli Bai ⋅ Lu Hou ⋅ Bo Jiang ⋅ Ziwei He ⋅ Zhouhan Lin
+   arXiv: https://arxiv.org/abs/2508.06038
+
+91. Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models
+   Juhong Min ⋅ Lazar Valkov ⋅ Vitali Petsiuk ⋅ Hossein Souri ⋅ Deen Dayal Mohan
+   arXiv: https://arxiv.org/abs/2604.21079
+
+92. From Illusion to Intention: Visual Rationale Learning for Reliable Evidence Acquisition
+   Changpeng Wang ⋅ Liu Junhan ⋅ Xi Chen ⋅ Haozhe Wang ⋅ Donglian Qi ⋅ Yunfeng Yan
+
+93. From Masks to Pixels and Meaning: A New Taxonomy, Benchmark and Metrics for VLM Image Tampering
+   Xinyi Shang ⋅ Yi Tang ⋅ Jiacheng Cui ⋅ Ahmed Elhagry ⋅ Salwa Al Khatib ⋅ Sondos Bsharat ⋅ Jiacheng Liu ⋅ Xiaohan Zhao ⋅ Jing-Hao Xue ⋅ Hao Li ⋅ Salman Khan ⋅ Zhiqiang Shen
+   arXiv: https://arxiv.org/abs/2603.20193
+   code:  https://github.com/VILA-Lab/PIXAR
+
+94. From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion
+   pengpeng Zeng ⋅ Yuyu Guo ⋅ Pengpeng Zeng ⋅ Jingkuan Song ⋅ Peng Di ⋅ Hang Yu ⋅ Lianli Gao
+   arXiv: https://arxiv.org/abs/2601.10710
+
+95. From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation
+   Haowen Gu ⋅ Gensheng Pei ⋅ Junzhu Mao ⋅ Qiong Wang ⋅ Mingwu Ren ⋅ Yazhou Yao
+
+96. Frozen CLIP Priors for Robust Self-Supervised Poisson Inverse Problems
+   Laura C. Diaz-Delgado ⋅ Emmanuel Martinez ⋅ Henry Arguello
+
+97. GAP-MLLM: Geometry-Aligned Pre-training for Activating 3D Spatial Perception in Multimodal Large Language Models
+   Jiaxin Zhang ⋅ Junjun Jiang ⋅ Haijie LI ⋅ Youyu Chen ⋅ Kui Jiang ⋅ Dave Zhenyu Chen
+   arXiv: https://arxiv.org/abs/2603.16461
+   page:  https://gapmllm.github.io/
+
+98. GeMoE: Gating Entropy is All You Need for Uncertainty-aware Adaptive Routing in MoE-based Large Vision-Language Models
+   Chaoxiang Cai ⋅ Minghe Weng ⋅ Jie Li ⋅ Yibo Jiang ⋅ Longrong Yang ⋅ Zequn Qin ⋅ Xi Li
+   arXiv: https://arxiv.org/abs/2606.26287
+
+99. GenAgent: Scaling Text-to-Image Generation via Agentic Multimodal Reasoning
+   Kaixun Jiang ⋅ Yuzheng Wang ⋅ Junjie Zhou ⋅ Pandeng Li ⋅ Zhihang Liu ⋅ Chen-Wei Xie ⋅ Zhaoyu Chen ⋅ Yun Zheng ⋅ Wenqiang Zhang
+   arXiv: https://arxiv.org/abs/2601.18543
+   code:  https://github.com/deep-kaixun/GenAgent
+
+100. Gender Bias in Vision-Language In-Context Learning
+   Tong Xiang ⋅ Yuta Nakashima ⋅ Noa Garcia
+
+101. General Incomplete Multimodal Learning via Dynamic Quality Perception
+   Xiangyu Meng ⋅ shicai wei
+   arXiv: https://arxiv.org/abs/2607.06943
+   code:  https://github.com/Yu-Five/GIML
+
+102. Generalize LMMs to Versatile Visual Modalities via Fabricated Modality Synthesis
+   YuanShihao YuanShihao ⋅ Yuanze Li ⋅ Ruyi Zhang ⋅ Ming LIU ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2607.10308
+   code:  https://github.com/Hunter-Will/VVM-Tuning
+
+103. GenRecal: Generation after Recalibration from Large to Small Vision-Language Models
+   Byung-Kwan Lee ⋅ Ryo Hachiuma ⋅ Yong Man Ro ⋅ Yu-Chiang Frank Wang ⋅ Yueh-Hua Wu
+   arXiv: https://arxiv.org/abs/2506.15681
+   page:  https://byungkwanlee.github.io/GenRecal-page/
+
+104. GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents
+   Xinyu Zhang ⋅ Yixin Wu ⋅ Boyang Zhang ⋅ Chenhao Lin ⋅ Chao Shen ⋅ Michael Backes ⋅ Yang Zhang
+   arXiv: https://arxiv.org/abs/2511.22441
+
+105. Geometry Grounding: Elevating Blind Distortion Correction with 3D Structural Priors
+   Xiang Li ⋅ Weimin Shi ⋅ Qichuan Geng ⋅ Zhong Zhou
+
+106. Global-Local Dual Perception for MLLMs in High-Resolution Text-Rich Image Translation
+   junxin lu ⋅ Tengfei Song ⋅ Zhanglin Wu ⋅ Lipengfei Lipengfei ⋅ Xiaowei Liang ⋅ Hui Yang ⋅ Kun Chen ⋅ NING XIE ⋅ Yunfei Lu ⋅ Jing Zhao ⋅ Shiliang Sun ⋅ Daimeng Wei
+   arXiv: https://arxiv.org/abs/2602.21956
+
+107. Going Deep: Deep Visual Prompting with LoTeP
+   Zijie Zhao ⋅ Yanru Wu ⋅ Yuji Wang ⋅ Haohua Wang ⋅ Enming Zhang ⋅ Wai Kin Chan ⋅ Yang Li
+
+108. GradingBench: Evaluating End-to-End Compositional Reasoning of MLLMs for Automated Exam Grading
+   Yuting Wang ⋅ Zixian Guo ⋅ Weihao You ⋅ Zhilong Ji ⋅ Jinfeng Bai ⋅ Wangmeng Zuo
+
+109. Ground3D-LMM: Fine-Grained 3D Point Grounding and Spatial Reasoning with LMM
+   Amol Harsh ⋅ Zongyan Han ⋅ Jean Lahoud ⋅ Ye Liu ⋅ Rao M Anwer ⋅ Hisham Cholakkal ⋅ Salman Khan ⋅ Fahad Shahbaz Khan
+   arXiv: https://arxiv.org/abs/2607.05493
+
+110. GTR: Guide-Then-Refine Token Compression for Training-Free Acceleration of Video-LLMs
+   Sijin Zhou ⋅ wei feng ⋅ Zhuang Qi ⋅ Zhonghua Wang ⋅ Lie Ju ⋅ Xiang An ⋅ Mehrtash Harandi ⋅ Zongyuan Ge
+
+111. Guardrail-Agnostic Societal Bias Evaluation in Large Vision-Language Models
+   Yusuke Hirota ⋅ Michael Boone ⋅ Arun Zachariah ⋅ Jibin Rajan Varghese ⋅ Yu-Chiang Frank Wang ⋅ Boyi Li ⋅ Ryo Hachiuma
+
+112. HIVE: Understanding Post Hallucination Reasoning in Vision Language Models
+   Feng He ⋅ Zhenting Wang ⋅ Qifan Wang ⋅ Qiang Guan ⋅ Dongfang Liu ⋅ Ruixiang Tang ⋅ Qiankun Li
+   arXiv: https://arxiv.org/abs/2607.07507
+   code:  https://github.com/hefengcs/HIVE
+
+113. Holo-Captioning: A Comprehensive Textual View of 3D Scenes
+   Kun-Yu Lin ⋅ Chengke Bu ⋅ Zhenguo Li ⋅ Kai Han
+
+114. HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task
+   Xiaoya Lu ⋅ Yijin Zhou ⋅ Zeren Chen ⋅ Ruocheng Wang ⋅ Bingrui Sima ⋅ Enshen Zhou ⋅ Lu Sheng ⋅ Dongrui Liu ⋅ Jing Shao
+   arXiv: https://arxiv.org/abs/2603.14367
+   code:  https://github.com/AI45Lab/HomeGuard
+
+115. How Far Are Video Models from True Multimodal Reasoning?
+   Xiaotian Zhang ⋅ Jianhui Wei ⋅ Yuan Wang ⋅ Jie Tan ⋅ Yichen Li ⋅ Yan Zhang ⋅ Ziyi Chen ⋅ Daoan Zhang ⋅ DEZHI YU ⋅ Wei Xu ⋅ Songtao Jiang ⋅ Zuozhu Liu
+   arXiv: https://arxiv.org/abs/2604.19193
+
+116. How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning
+   Luyu Yang ⋅ Yutong Dai ⋅ An Yan ⋅ Viraj Prabhu ⋅ Ran Xu ⋅ Zeyuan Chen
+   arXiv: https://arxiv.org/abs/2603.24866
+   page:  https://luluyuyuyang.github.io/dreamhouse
+
+117. How to Teach Large Multimodal Models New Skills
+   Zhen Zhu ⋅ Yiming Gong ⋅ Yao Xiao ⋅ Yaoyao Liu ⋅ Derek Hoiem
+   arXiv: https://arxiv.org/abs/2510.08564
+   code:  https://github.com/jessemelpolio/LMM_CL
+
+118. Human-Level Accuracy, Non-Human Strategies: Revealing Model-Human Divergence in Video Physical Reasoning
+   Fanhong Li ⋅ Shurui Zheng ⋅ Yinzi Yinzi ⋅ Junbo Cui ⋅ Lei Ji ⋅ Jia Liu
+
+119. HyFL-CLIP: Hyperbolic Fine-Tuning of CLIP for Robust Long-Context Understanding
+   jiha jang ⋅ Hayeon Kim ⋅ Junghun James Kim ⋅ Chulwon Lee ⋅ Se Young Chun
+   arXiv: https://arxiv.org/abs/2607.00428
+   page:  https://janeyeon.github.io/hyflclip
+
+120. HyLaR: Hybrid Latent Reasoning with Decoupled Policy Optimization
+   Tao Cheng ⋅ Shi-Zhe Chen ⋅ Hao Zhang ⋅ Yixin Qin ⋅ Jinwen Luo ⋅ Zheng Wei
+   arXiv: https://arxiv.org/abs/2604.20328
+   code:  https://github.com/EthenCheng/HyLaR
+
+121. ICLAgent: Integrated Circuit Footprint Geometry Labeling via LMM-empowered Multi-Agent Framework
+   Yida Wang ⋅ Yixin Liu ⋅ Taiting Lu ⋅ Lanqing Yang ⋅ Dian Ding ⋅ Juntao Zhou ⋅ Yifan Yang ⋅ Yi-Chao Chen ⋅ Mahanth Gowda
+
+122. Identifying and Resolving Pitfalls of Knowledge-Based VQA Benchmarks: Auditing, Repairing, and Augmenting
+   Qian Ma ⋅ S M Rayeed ⋅ Qiong Wu ⋅ Charles Stewart ⋅ Yao Ma
+   arXiv: https://arxiv.org/abs/2607.00159
+   code:  https://github.com/VAN-QIAN/ECCV26-ARA
+
+123. Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation
+   Chonghuinan Wang ⋅ Zhikai Chen ⋅ Chunwei Wang ⋅ Yecong Wan ⋅ Junwei Yang ⋅ Zhixin Wang ⋅ Wei Zhang ⋅ Jiaqi Xu ⋅ Renjing Pei ⋅ Xiaohe Wu ⋅ FAN LI ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2606.30054
+
+124. Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
+   Mahtab Bigverdi ⋅ Linjie Li ⋅ Weikai Huang ⋅ Jieyu Zhang ⋅ Tuhin Kundu ⋅ Zelun Luo ⋅ Chris Kim ⋅ Jaemin Cho ⋅ Ranjay Krishna ⋅ Linda Shapiro ⋅ Liu Yiming
+   arXiv: https://arxiv.org/abs/2606.03988
+
+125. Improving Reasoning in Vision-Language Models via Perception Verified Self-Training
+   Sourabh Sharma ⋅ Sonam Gupta ⋅ Sadbhawna Sadbhawna
+   arXiv: https://arxiv.org/abs/2606.22158
+
+126. Incentivizing Vision Language Models to Search for Long Video Question Answering
+   Harsh Goel ⋅ S P Sharan ⋅ Sahil Shah ⋅ Minkyu Choi ⋅ Joungbin An ⋅ Kristen Grauman ⋅ Sandeep Chinchali
+   arXiv: https://arxiv.org/abs/2607.02959
+   page:  https://utaustin-swarmlab.github.io/VSeek
+
+127. Information-Regularized Attention for Visual-Centric Reasoning
+   Guohao Sun ⋅ Xiaofang Wang ⋅ Yash Patel ⋅ Mengchen Liu ⋅ Zhiqiang Tao ⋅ Praveen Krishnan
+   arXiv: https://arxiv.org/abs/2607.00434
+
+128. Isotropic Embedding Perturbations for Robust Vision Language Encoders
+   Hyesong Choi ⋅ Daeun Kim ⋅ Song Park ⋅ Taekyung Kim ⋅ Byeongho Heo ⋅ Sangdoo Yun ⋅ Dongbo Min ⋅ Dongyoon Han
+
+129. LASER: A Corrective Lens for LVLMs via Visual Attention Preservation and Sink Suppression
+   Bowen Yuan ⋅ Zijian Wang ⋅ Yadan Luo ⋅ Shijie Wang ⋅ Zi Helen Huang
+
+130. LatentPilot: Scene-Aware Vision-and-Language Navigation by Dreaming Ahead with Latent Visual Reasoning
+   HAIHONG HAO ⋅ Lei Chen ⋅ Mingfei Han ⋅ Changlin Li ⋅ Dong An ⋅ Yuqiang Yang ⋅ Zhihui Li ⋅ Xiaojun Chang
+   arXiv: https://arxiv.org/abs/2603.29165
+   page:  https://abdd.top/latentpilot/
+
+131. LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
+   Linquan Wu ⋅ Tianxiang Jiang ⋅ Yifei Dong ⋅ Haoyu Yang ⋅ Fengji Zhang ⋅ Shichang Meng ⋅ AI Xuan ⋅ Linqi Song ⋅ Jacky Keung
+   arXiv: https://arxiv.org/abs/2601.10129
+
+132. Learning Active Perception for Pixel-Space Reasoning via Visual-Intent Stratified GRPO
+   Mingkang Zhu ⋅ Xi Chen ⋅ Senqiao Yang ⋅ Bei Yu ⋅ Hengshuang ZHAO ⋅ Jiaya Jia
+
+133. Learning Consistency in Reward Modeling for Multi-Modal Reasoning
+   Chen Li ⋅ Bolin Ni ⋅ Boxin Zhang ⋅ Ke Ye ⋅ Jinnian Zhang ⋅ Houwen Peng ⋅ Han Hu ⋅ Nanning Zheng
+
+134. Learning from Primitive: Probing Visual Reasoning of LVLMs via Counting
+   Liwei Che ⋅ Zhiyu Xue ⋅ Yihao Quan ⋅ Benlin Liu ⋅ Zeru Shi ⋅ Ruixiang Tang ⋅ Ranjay Krishna ⋅ Vladimir Pavlovic
+
+135. Learning to Deny: Action Denial in Multimodal Large Language Models
+   Raiyaan Abdullah ⋅ Shehreen Azad ⋅ Yogesh Rawat
+   arXiv: https://arxiv.org/abs/2606.31187
+   code:  https://github.com/raiyaan-abdullah/Learn-to-Deny
+
+136. Learning to Mask: Cross-Modal Noise Modulation for Hallucination Mitigation in Multi-modal Large Language Models
+   Zijian Song ⋅ Chunlei Wang ⋅ Kun He
+
+137. LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?
+   Kexian Tang ⋅ Junyao Gao ⋅ Yanhong Zeng ⋅ Haodong Duan ⋅ Sun Yanan ⋅ Zhening Xing ⋅ Wenran Liu ⋅ Kai Chen ⋅ Kaifeng Lyu
+   arXiv: https://arxiv.org/abs/2503.19990
+
+138. Less Data, Faster Convergence: Goal-Driven Data Optimization for Multimodal Instruction Tuning
+   Rujie Wu ⋅ Haozhe Zhao ⋅ Hai Ci ⋅ Yizhou Wang
+   arXiv: https://arxiv.org/abs/2603.12478
+   code:  https://github.com/rujiewu/GDO
+
+139. LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation
+   Zeyu Wang ⋅ Zilong Chen ⋅ Chenhui Gou ⋅ Feng Li ⋅ Chaorui Deng ⋅ Deyao Zhu ⋅ Kunchang Li ⋅ Weihao Yu ⋅ Haoqin Tu ⋅ Haoqi Fan ⋅ Cihang Xie
+   arXiv: https://arxiv.org/abs/2510.22946
+
+140. LiveK12Bench: Have Large Multimodal Models Truly Conquered High School-level Examinations?
+   Xiaohan Wang ⋅ Mingze Yin ⋅ Yilin Zhao ⋅ sinbadliu sinbadliu ⋅ Dian Li
+   arXiv: https://arxiv.org/abs/2605.26781
+
+141. LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models
+   Arpita Nema ⋅ Hanwei Zhu ⋅ Xi Zhang ⋅ Weisi Lin
+   arXiv: https://arxiv.org/abs/2607.01086
+
+142. Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs
+   Pengcheng Wang ⋅ Zhiquan Wang ⋅ Jayoung Lee ⋅ Zhuoyan Xu ⋅ Ran Xu ⋅ Saurabh Bagchi ⋅ Yin Li ⋅ Somali Chaterji
+   arXiv: https://arxiv.org/abs/2607.20357
+   page:  https://www.schaterji.io/publications/2026/jointtokencompute
+
+143. Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs
+   Qi Li ⋅ Yanzhe Zhao ⋅ Yongxin Zhou ⋅ Yameng Wang ⋅ Yandong Yang ⋅ Yuanjia Zhou ⋅ Jinxiang Liu
+   arXiv: https://arxiv.org/abs/2602.05275
+
+144. Make Geometry Matter for Spatial Reasoning
+   Shihua Zhang ⋅ Qiuhong Shen ⋅ Shizun Wang ⋅ Tianbo Pan ⋅ Xinchao Wang
+   arXiv: https://arxiv.org/abs/2603.26639
+   page:  https://suhzhang.github.io/GeoSR/
+
+145. MANGO: Unleashing Image Generation Capability of Unified Multimodal Models
+   Yi Wang ⋅ Mushui Liu ⋅ Wanggui He ⋅ Hanyang Yuan ⋅ Ziwei Huang ⋅ Guanghao Zhang ⋅ Wenkai Fang ⋅ Haoze Jiang ⋅ Shengxuming Zhang ⋅ Weilong Dai ⋅ Haofei Zhang ⋅ Mingli Song ⋅ Hao Jiang ⋅ Jie Song
+
+146. MED-LCDS: Multi-Expert-Domain CLIP Classification via Logit Calibration
+   Zheng Zeng ⋅ Deepak Sridhar ⋅ Nuno Vasconcelos
+
+147. Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes
+   Yuling Xi ⋅ Haokai Zhang ⋅ Muzhi Zhu ⋅ Hao Zhong ⋅ Zongze Du ⋅ Hengyu Zhao ⋅ Chenchen Jing ⋅ Yufei Yin ⋅ Bin Qin ⋅ Yongjie Yang ⋅ Zhenbo Luo ⋅ Hao Chen ⋅ Chunhua Shen
+
+148. MindBlock: Probing Spatial Assembly and Structure in Unified Multimodal Models
+   Baiqiao Yin ⋅ Junhao Liu ⋅ Han Yin ⋅ Heyang Yu ⋅ Tingxuan Zhang ⋅ Zhiheng Li ⋅ Chengzu Li ⋅ Jihan YANG ⋅ Manling Li ⋅ Chen Feng ⋅ Yiming Li
+
+149. MIRROR: Aligning Semantic Relations from Language to Image via Gromov--Wasserstein
+   Hong-Han Wang ⋅ Yuntao Wang ⋅ Hu Ding
+
+150. Mitigate Modality-Asymmetric Forgetting via Stabilizing Visual Representations in CLIP-Based Class-Incremental Learning
+   Yuanhong Zhang ⋅ Yanan Chen ⋅ Xin Zhang ⋅ Zhaoyang Wang ⋅ Weizhan Zhang ⋅ Muyao Yuan ⋅ Hongjin Niu ⋅ LAN MA ⋅ Yuan Gao ⋅ Joey Tianyi Zhou
+
+151. MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE
+   Junzhe Li ⋅ Yutao Cui ⋅ Tao Huang ⋅ Chuxuan Zeng ⋅ Weijie Kong ⋅ Yinping Ma ⋅ Chun Fan ⋅ Miles Yang ⋅ Zhao Zhong ⋅ Liefeng Bo
+   arXiv: https://arxiv.org/abs/2507.21802
+
+152. Mixture of Specialized Vision Experts: Unlocking Complementary Visual Insights for Faithful MLLM Reasoning
+   Yifei Gao ⋅ Liangliang You ⋅ Jiye Xie ⋅ changwei wang ⋅ Kexue Fu ⋅ Jingyi Liu ⋅ Rongtao Xu ⋅ Zhiqiang Kou ⋅ Haoran Xu ⋅ Longxiang Gao ⋅ Yu Zhang
+
+153. MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models
+   Alejandro Lozano ⋅ Ryan D'Cunha ⋅ Daniel Jarquin ⋅ Min Sun ⋅ Josiah Aklilu ⋅ James Burgess ⋅ Yuhui Zhang ⋅ Paola Robayo ⋅ Jin Ye ⋅ Ming Hu ⋅ Zhongying Deng ⋅ Junjun He ⋅ Xin Chen ⋅ Yue Yao ⋅ Robert Tibshirani ⋅ Jeffrey Nirschl ⋅ Xiaoxiao Sun ⋅ Serena Yeung-Levy
+   arXiv: https://arxiv.org/abs/2606.06696
+
+154. MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing
+   Hao-Xuan Ma ⋅ Guannan Lai ⋅ Han-Jia Ye
+   arXiv: https://arxiv.org/abs/2601.17814
+   code:  https://github.com/Hunter-Wrynn/MMR-Bench
+
+155. MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment
+   Elena Camuffo ⋅ Francesco Barbato ⋅ Mete Ozay ⋅ Simone Milani ⋅ Umberto Michieli
+   arXiv: https://arxiv.org/abs/2509.14001
+
+156. Molmo-Point: Better Pointing for VLMs with Grounding Tokens
+   Christopher Clark ⋅ Yue Yang ⋅ Jae Sung Park ⋅ Zixian Ma ⋅ Jieyu Zhang ⋅ Rohun Tripathi ⋅ Mohammadreza Salehi ⋅ Sangho Lee ⋅ Ranjay Krishna
+
+157. MotionAtlas: A High-Quality Dataset and Benchmark for Dense Motion Captioning
+   Weisong Liu ⋅ Haochen Wang ⋅ Gaokuan Gaokuan ⋅ Yuhao Wang ⋅ Yikang Zhou ⋅ Zhongwei Ren ⋅ Guangcan Mai ⋅ Anran Wang ⋅ Yanwei Li ⋅ Xiangtai Li ⋅ Zhaoxiang Zhang
+
+158. Multi-dimensional Preference Alignment by Conditioning Reward Itself
+   JIHO JANG ⋅ Jin-Young Kim ⋅ Kyungjune Baek ⋅ Nojun Kwak
+   arXiv: https://arxiv.org/abs/2512.10237
+
+159. MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model
+   Youngwan Lee ⋅ Soojin Jang ⋅ Yoorhim Cho ⋅ Seunghwan Lee ⋅ Yong-Ju Lee ⋅ Sung Hwang
+   arXiv: https://arxiv.org/abs/2603.18892
+   page:  https://youngwanlee.github.io/multihopspatial
+
+160. Multiple Images Distract Large Multimodal Models via Attention Fragmentation
+   Tingrui Qiao ⋅ Di Zhao ⋅ Yuzhuo Li ⋅ Bo Pang ⋅ Caroline Walker ⋅ Chris Cunningham ⋅ Yun Sing Koh
+
+161. MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling
+   Jin Xu ⋅ Xiaojian Huang ⋅ zhang zhihong ⋅ Luo Zhuodong ⋅ Xuejin Chen ⋅ Jie Zhao ⋅ Xin Liu ⋅ Wang Xinzhi ⋅ Jiansheng Wei
+
+162. NaVLM-PVC: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs
+   Shichu Sun ⋅ Yichen Zhang ⋅ Haolin Song ⋅ Zonghao Guo ⋅ Chi Chen ⋅ Yidan Zhang ⋅ Yuan Yao ⋅ Zhiyuan Liu ⋅ Maosong Sun
+
+163. Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating
+   Xiangkui Cao ⋅ Jie Zhang ⋅ Meina Kan ⋅ Shiguang Shan ⋅ Xilin CHEN
+   arXiv: https://arxiv.org/abs/2603.12598
+   code:  https://github.com/Xiangkui-Cao/Neural-Gate
+
+164. OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction
+   Zeyu CAI ⋅ Yuliang Xiu ⋅ renke wang ⋅ Zhijing Shao ⋅ Xiaoben Li ⋅ YU Siyuan ⋅ Chao Xu ⋅ Yang Liu ⋅ Baigui Sun ⋅ Jian Yang ⋅ zhenyu zhang
+   arXiv: https://arxiv.org/abs/2604.21575
+   page:  https://zcai0612.github.io/OmniFit/
+
+165. OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models
+   Jialv Zou ⋅ Bencheng Liao ⋅ Qian Zhang ⋅ Wenyu Liu ⋅ Xinggang Wang
+   arXiv: https://arxiv.org/abs/2503.08686
+   code:  https://github.com/hustvl/OmniMamba
+
+166. OmniSch: A Multimodal PCB Schematic Benchmark For Structured Diagram Visual Reasoning
+   Taiting Lu ⋅ Kaiyuan Lin ⋅ Yuxin Tian ⋅ Yubo Wang ⋅ Muchuan Wang ⋅ Sharique Khatri ⋅ Akshit Kartik ⋅ Yixi Wang ⋅ Amey Rane ⋅ Yida Wang ⋅ Yifan Yang ⋅ Yi-Chao Chen ⋅ yincheng jin ⋅ Mahanth Gowda
+   arXiv: https://arxiv.org/abs/2604.00270
+
+167. On Locality and Length-Generalization in Visual Reasoning
+   Pulkit Madan ⋅ Sanjay Haresh ⋅ Reza Ebrahimi ⋅ Apratim Bhattacharyya ⋅ Sunny Panchal ⋅ Roland Memisevic
+   arXiv: https://arxiv.org/abs/2607.09061
+
+168. On Test-Time Scaling for Vision-Language Models
+   Fawaz Sammani ⋅ Tzoulio Chamiti ⋅ Nikos Deligiannis
+   arXiv: https://arxiv.org/abs/2606.28864
+
+169. Open Your Eyes: Benchmarking the Detection of Fabricated Realities and Weaponized Ethics in VLMs
+   Amit Pandey ⋅ Aditya Mohan ⋅ Phani Sankar
+
+170. PACO: Stabilizing Vision Embeddings along Local Paths for Robust Vision-Language Models
+   Qihang Tang ⋅ Jiacheng Pi ⋅ Zhiguo Yang ⋅ Xu Liu ⋅ Perley Xu ⋅ Wenjie Ruan
+
+171. PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding
+   Seongmin Jung ⋅ Seongho Choi ⋅ Gunwoo Jeon ⋅ Minsu Cho ⋅ Jongwoo Lim
+   arXiv: https://arxiv.org/abs/2512.20907
+
+172. Parallel Vision Token Scheduling for Fast and Accurate Multimodal LMMs Inference
+   Wengyi Zhan ⋅ Mingbao Lin ⋅ Zhihang Lin ⋅ Rongrong Ji
+   arXiv: https://arxiv.org/abs/2511.18875
+
+173. Paying More Attention to Visual Tokens in Self-Evolving Large Multimodal Models
+   Shravan Venkatraman ⋅ Ritesh Thawkar ⋅ Omkar Thawakar ⋅ Rao M Anwer ⋅ Hisham Cholakkal ⋅ Salman Khan ⋅ Fahad Shahbaz Khan
+   arXiv: https://arxiv.org/abs/2606.27373
+   page:  https://mbzuai-oryx.github.io/VISE
+
+174. PercepTax: Benchmarking Cross-Property Reasoning in Vision-Language Models
+   Jonathan Lee ⋅ Xingrui Wang ⋅ Jiawei Peng ⋅ Luoxin Ye ⋅ Zehan Zheng ⋅ Tiezheng Zhang ⋅ Tao Wang ⋅ Wufei Ma ⋅ Siyi Chen ⋅ Yu-Cheng Chou ⋅ Prakhar Kaushik ⋅ Alan Yuille
+
+175. Personalize Your Large Vision-language Models With In-context Prompt Tuning
+   Yanshu Li ⋅ Jiaqian Li ⋅ Kuai Yu ⋅ Xi Xiao ⋅ Dongfang Liu ⋅ Tianyang Wang ⋅ Ruixiang Tang
+   arXiv: https://arxiv.org/abs/2605.31513
+
+176. Personalizing MLLMs via Reinforced Multimodal Reference Game
+   Deepayan Das ⋅ Davide Talon ⋅ Yiming Wang ⋅ Massimiliano Mancini ⋅ Elisa Ricci
+   arXiv: https://arxiv.org/abs/2606.28845
+   page:  https://deepayan137.github.io/papers/conversational-personalization.html
+
+177. PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM
+   Siwei Meng ⋅ Yawei Luo ⋅ Ping Liu
+   arXiv: https://arxiv.org/abs/2505.16456
+
+178. Prefill-Time Interventions against Adversarial Attacks on Large Vision-Language Models
+   Zhewen Yao ⋅ Yao Zhu ⋅ Shiliang Zhang
+
+179. ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models
+   Thomas De Min ⋅ Subhankar Roy ⋅ Stéphane Lathuilière ⋅ Elisa Ricci ⋅ Massimiliano Mancini
+   arXiv: https://arxiv.org/abs/2603.19466
+
+180. Probe, Anchor, and Amend: Active Test-Time Adaptation of Vision-Language Models
+   Jiaqi Lin ⋅ Chaoqi Chen ⋅ Xiasi Wang ⋅ Mingfu Yan ⋅ Jiancheng Huang ⋅ Jianzhuang Liu ⋅ Wenming Yang ⋅ Qingmin Liao
+
+181. ProLaViT: Learning Progressive Latent Visual Thoughts in Structured Latent Space
+   Peiming Li ⋅ Yifan Wang ⋅ Xiaotian Zhang ⋅ Zhiyuan Hu ⋅ Shiyu Li ⋅ Zheng Wei ⋅ Yang Tang
+   arXiv: https://arxiv.org/abs/2607.02907
+
+182. ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering
+   ZhengXian Wu ⋅ Hangrui Xu ⋅ Kai Shi ⋅ Zhuohong Chen ⋅ Yunyao Yu ⋅ Chuanrui Zhang ⋅ ZIRUI LIAO ⋅ JunYang JunYang ⋅ Zhenyu Yang ⋅ Haonan Lu ⋅ Haoqian Wang
+
+183. ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP
+   Sicheng Zhang ⋅ Muhammad Muzammal Naseer ⋅ Binzhu Xie ⋅ Naufal Suryanto ⋅ Shi Qiu ⋅ Jamal Bentahar ⋅ NAVEED AKHTAR ⋅ Shah Mubarak
+   arXiv: https://arxiv.org/abs/2606.26794
+   code:  https://github.com/RISys-Lab/ReasonCLIP
+
+184. Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective
+   Qiyao Xue ⋅ Haoming Wang ⋅ Weichen Liu ⋅ Shiqi Wang ⋅ Yuyang Wu ⋅ Wei Gao
+   arXiv: https://arxiv.org/abs/2512.02340
+   code:  https://huggingface.co/datasets/Xue0823/ReMindView-Bench
+
+185. ReflectCAP: Detailed Image Captioning with Reflective Memory
+   Kyungmin Min ⋅ Minbeom Kim ⋅ Kang-il Lee ⋅ Seunghyun Yoon ⋅ Kyomin Jung
+   arXiv: https://arxiv.org/abs/2604.12357
+
+186. RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models
+   Xun Liang ⋅ Honghui Yang ⋅ Weihang Pan ⋅ Boyuan Pan ⋅ Yao Hu ⋅ Binbin Lin ⋅ Deng Cai ⋅ Ruisi Zhao ⋅ Wenxiao Wang
+
+187. Reinforcing Vision-Language Models for Image Quality Assessment with Grounding Process Rewards
+   Jingwei Liu ⋅ Hongyan Li ⋅ Bo Liu ⋅ Tianlin Zhang ⋅ Yifei Qian ⋅ Congyang Zhao ⋅ Junhong Liu ⋅ Yang Cai ⋅ Ling Yang
+
+188. Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning
+   Haomin Wang ⋅ Qi Wei ⋅ Qianli Ma ⋅ Shengyuan Ding ⋅ Jinhui Yin ⋅ Kai Chen ⋅ hongjie Zhang
+   arXiv: https://arxiv.org/abs/2603.16189
+
+189. Residual-Guided Expert Specialization for Incomplete Multimodal Learning
+   Seunghun Baek ⋅ Jihwan Park ⋅ Jaeyoon Sim ⋅ Minjae Jeong ⋅ Hoseok Lee ⋅ Won Hwa Kim
+   arXiv: https://arxiv.org/abs/2606.30355
+
+190. Rethinking Visual Privacy: A Compositional Privacy Risk Framework for Severity Assessment with VLMs
+   Efthymios Tsaprazlis ⋅ Tiantian Feng ⋅ Anil Ramakrishna ⋅ Sai Karimireddy ⋅ Rahul Gupta ⋅ Shrikanth Narayanan
+   arXiv: https://arxiv.org/abs/2603.21573
+
+191. Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation
+   Fengnian Zhang ⋅ Tao Huang ⋅ Siyu Xu ⋅ Zhong Jin ⋅ Chang Xu
+   arXiv: https://arxiv.org/abs/2606.31382
+
+192. RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios
+   Tianyi Zhao ⋅ Jiawen Xi ⋅ Linhui Xiao ⋅ Junnan Li ⋅ Xue Yang ⋅ Maoxun Yuan ⋅ Xingxing Wei
+   arXiv: https://arxiv.org/abs/2512.24561
+
+193. RoadBench: Benchmarking MLLMs on Fine-Grained Spatial Understanding and Reasoning under Urban Road Scenarios
+   Jun Zhang ⋅ Xin Zhang ⋅ Jie Feng ⋅ Long Chen ⋅ Junhui Wang ⋅ Zhicheng Liu ⋅ Depeng Jin ⋅ Yong Li
+   arXiv: https://arxiv.org/abs/2511.18011
+   code:  https://github.com/tsinghua-fib-lab/RoadBench
+
+194. Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain
+   Yulin Luo ⋅ Chun-Kai Fan ⋅ Menghang Dong ⋅ Jiayu Shi ⋅ Xiangju Mi ⋅ Mengdi Zhao ⋅ Bo-Wen Zhang ⋅ Cheng Chi ⋅ Jiaming Liu ⋅ Gaole Dai ⋅ Rongyu Zhang ⋅ Ruichuan An ⋅ Kun Wu ⋅ Zhengping Che ⋅ shaoxuan Xie ⋅ Guocai Yao ⋅ Zhongxia Zhao ⋅ Pengwei Wang ⋅ Guang Liu ⋅ Zhongyuan Wang ⋅ Tiejun Huang ⋅ Shanghang Zhang
+   arXiv: https://arxiv.org/abs/2510.17801
+
+195. RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics
+   Yuzhi Huang ⋅ Jie Wu ⋅ Weijue Bu ⋅ Ziyi Xiong ⋅ Gaoyang Jiang ⋅ Ye Li ⋅ Kangye Ji ⋅ Shuzhao Xie ⋅ Yue Huang ⋅ Chenglei Wu ⋅ Jingyan Jiang ⋅ Zhi Wang
+   arXiv: https://arxiv.org/abs/2603.12939
+
+196. RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning
+   Yelin Wang ⋅ Zijia Song ⋅ Shuo Ye ⋅ Chuanguang Yang ⋅ Miaoyu Wang ⋅ Yong Xu ⋅ Zhulin An ⋅ Yongjun Xu ⋅ Zitong Yu
+   arXiv: https://arxiv.org/abs/2606.28266
+   code:  https://github.com/keaill/RSICCLLM
+
+197. Safe Responses Matter: Output-Aware Safety Guardrail Mitigate Over-Refusal in MLLMs
+   Jiayi Li ⋅ Kun Zhan
+   arXiv: https://arxiv.org/abs/2607.09697
+   code:  https://github.com/kunzhan/OutGuard
+
+198. SAFE-EQA: Semantic-Aware Efficient Exploration for Embodied Question Answering
+   Yijie Tang ⋅ Ke Xia ⋅ Jiazhao Zhang ⋅ Zhinan Yu ⋅ Zhiyuan Yu ⋅ Dezun Dong ⋅ Renjiao Yi ⋅ Chenyang Zhu ⋅ Kai Xu
+
+199. Same Person, Different Depiction: Counterfactual Evaluation of Vision-Language Models on Individuals with Limb Deficiencies
+   Heming Du ⋅ Jiaying Ying ⋅ Xin Chen ⋅ Sen Wang ⋅ Xue Li ⋅ Xin Yu
+
+200. Same Pool, Different Answer: Stable Best-of-N Selection for Vision-Language Models
+   Pengfei Zheng
+
+201. SAMPLe: A Sharpness Aware Minimization based Optimizer for Prompt Learning in Vision-Language Models
+   Hossein Rajoli nowdeh ⋅ Fatemeh Lotfi ⋅ Niloufar Alipour Talemi ⋅ Hossein Kashiani ⋅ Xiaolong Ma ⋅ Fatemeh Afghah
+
+202. SCoT: Similarity-guided Conflict-aware Task Consolidation for Continual VQA
+   Anand Patel ⋅ Moloud Abdar ⋅ Biplab Banerjee
+
+203. SDSA: Shallow-Deep Squeezing Adapter for Vision-Language Models
+   Hao Wang ⋅ Rui Zhu ⋅ Xiaoxu Li ⋅ Zhanyu Ma ⋅ Jing-Hao Xue
+
+204. See Only When Needed: Context-Aware Attention Intervention for Hallucination-Free LVLMs
+   Yuqing Lei ⋅ Wenbo Lyu ⋅ Yingjun Du ⋅ Xiantong Zhen ⋅ Cees Snoek ⋅ Ling Shao
+
+205. Seeing Isn't Orienting: A Cognitively Grounded Hierarchical Benchmark for Object Orientation in MLLMs
+   Nazia Tasnim ⋅ Keanu Nichols ⋅ Yuting Yan ⋅ Nicholas Ikechukwu ⋅ Elva Zou ⋅ Deepti Ghadiyaram ⋅ Bryan Plummer
+
+206. SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs with a Simple Yet Effective Baseline
+   Fengyuan Lu ⋅ Jiahe Feng ⋅ Zhengyang Zhou ⋅ Shaofeng Zhang ⋅ Wenbin Li ⋅ Qi Fan ⋅ Yang Gao
+
+207. Semantic Generative Tuning for Unified Multimodal Models
+   Songsong Yu ⋅ Yuxin Chen ⋅ Ying Shan ⋅ Yanwei Li
+   arXiv: https://arxiv.org/abs/2605.18714
+   page:  https://song2yu.github.io/SGT/
+
+208. ShellMaker: Language-Guided Exterior Completion under Structural Constraints
+   Ruiqi Xu ⋅ Daniel Aliaga
+   arXiv: https://arxiv.org/abs/2606.31680
+   page:  https://ruiqixu37.github.io/ShellMaker_web/
+
+209. Show Me Examples: Inferring Visual Concepts from Image Sets
+   Nick Stracke ⋅ Kolja Bauer ⋅ Stefan Andreas Baumann ⋅ Miguel Angel Bautista ⋅ Joshua Susskind ⋅ Bjorn Ommer
+   arXiv: https://arxiv.org/abs/2607.02402
+   code:  https://github.com/CompVis/set-learner
+
+210. SiGMA: Sign-Guided Merging and Adaptation framework for Multimodal Continual Instruction Tuning
+   Keonhee Park ⋅ Gunhee Kim
+
+211. SiPhy: Single-Image Physical Property Reasoning
+   Hoang Le ⋅ Joonwoo Kwon ⋅ Elkhan Ismayilzada ⋅ Yufei Zhang ⋅ Zijun Cui
+   arXiv: https://arxiv.org/abs/2607.22355
+
+212. SlowBA: An efficiency backdoor attack towards VLM-based GUI agents
+   Junxian Li ⋅ Tu Lan ⋅ Haozhen Tan ⋅ Yan Meng ⋅ Haojin Zhu
+   arXiv: https://arxiv.org/abs/2603.08316
+   code:  https://github.com/tu-tuing/SlowBA
+
+213. Spanning the Visual Analogy Space with a Weight Basis of LoRAs
+   Hila Manor ⋅ Rinon Gal ⋅ Haggai Maron ⋅ Tomer Michaeli ⋅ Gal Chechik
+   arXiv: https://arxiv.org/abs/2602.15727
+   page:  https://research.nvidia.com/labs/par/lorweb
+
+214. SPAR: Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models
+   Hongxiang Li ⋅ Hongxu chen ⋅ chenyang zhu ⋅ Xiaoshuang Huang ⋅ Jiayin Cai ⋅ Xiaolong Jiang ⋅ Yao Hu ⋅ Long Chen
+   arXiv: https://arxiv.org/abs/2606.23041
+
+215. Spectral Evolution-Guided Token Pruning in Large Multimodal Models
+   Bin Chen ⋅ Yuxiang Cai ⋅ Yadan Luo ⋅ Yi Zhang ⋅ Jianwei Yin ⋅ Zhi Chen
+
+216. SPOT-E: Test-Time Entropy Shaping with Visual Spotlights for Frozen VLMs
+   Bo Yin ⋅ Xiaobin Hu ⋅ Chengming Xu ⋅ Ruolin Shen ⋅ Mo Yang ⋅ Jiangning Zhang ⋅ Peng-Tao Jiang ⋅ Cheng Tan ⋅ Shuicheng Yan
+   arXiv: https://arxiv.org/abs/2606.20244
+   code:  https://github.com/YinBo0927/SPOT-E
+
+217. SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models
+   Weiyang Jin ⋅ Yuwei Niu ⋅ Jiaqi Liao ⋅ Chengqi Duan ⋅ Aoxue Li ⋅ Shenghua Gao ⋅ Xihui Liu
+   arXiv: https://arxiv.org/abs/2510.12784
+   page:  https://waynejin0918.github.io/srum_web/
+
+218. Stabilizing Ultra-Low-Bit Quantization of Multimodal LLMs via Global Bit Allocation
+   Guilin Li ⋅ Yuexiao Ma ⋅ Yue Zhang ⋅ Xinxiong Wu ⋅ Jiaqi Zhou ⋅ Qingheng Zhang ⋅ Yan Zhang ⋅ Fei Chao ⋅ Xiawu Zheng ⋅ Rongrong Ji
+
+219. Starve to Perceive: Taming Lazy Perception in VLMs with Constrained Visual Bandwidth
+   Yuhuan Wu ⋅ Haozhe Wang ⋅ Cong Wei ⋅ Chong Peng ⋅ Fangzhen Lin ⋅ Wenhu Chen
+   arXiv: https://arxiv.org/abs/2605.18603
+
+220. STAT: Soft Tail-dropping for Adaptive Visual Tokenization
+   Zeyuan Chen ⋅ Kai Zhang ⋅ Zhuowen Tu ⋅ Yuanjun Xiong
+
+221. Staying VIGILant: Mitigating Visual Laziness in MLLMs via Information-Theoretic Alignment
+   Xi Xiao ⋅ Chen Liu ⋅ Chih-Ting Liao ⋅ Yunbei Zhang ⋅ Qizhen Lan ⋅ YUXIANG WEI ⋅ Lin Zhao ⋅ Janet Wang ⋅ Jianyang Gu ⋅ Muchao Ye ⋅ Tianyang Wang ⋅ Hao Xu
+
+222. StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning
+   Yuan Qing ⋅ Chengzhi Mao ⋅ Boqing Gong
+   arXiv: https://arxiv.org/abs/2607.00465
+   page:  https://yuanqing-ai.github.io/StochasT
+
+223. SupGRPO: Enhancing GRPO with Matching-based Online SFT for Text Spotting
+   Xudong Xie ⋅ Yuzhe Li ⋅ Jing Shi ⋅ Zhifei Zhang ⋅ Curtis Wigington ⋅ Zhaowen Wang
+
+224. SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations
+   Jason Wu ⋅ Shir-Kang Jin ⋅ Yuyang Yuan ⋅ Maggie Wigness ⋅ Lance Kaplan ⋅ Hang Qiu ⋅ Mani Srivastava
+
+225. Syn-GRPO: Self-Evolving Data Synthesis for MLLM Perception Reasoning
+   Qihan Huang ⋅ Haofei Zhang ⋅ Rong Wei ⋅ Yi Wang ⋅ Rui Tang ⋅ Mingli Song ⋅ Jie Song
+   arXiv: https://arxiv.org/abs/2511.19343
+   code:  https://github.com/hqhQAQ/Syn-GRPO
+
+226. SyncLoop: A Multimodal Dual-Loop Framework for Self-Improving Mathematical Reasoning
+   xiuwei chen ⋅ Wentao Hu ⋅ Hanhui Li ⋅ Yongxin Wang ⋅ Jun Zhou ⋅ Zisheng Chen ⋅ Meng Cao ⋅ Yihan Zeng ⋅ Kui Zhang ⋅ Yu-Jie Yuan ⋅ Jianhua Han ⋅ Hang Xu ⋅ Xiaodan Liang
+   arXiv: https://arxiv.org/abs/2507.16518
+
+227. Synesthesia via Direct Latent Augmentation: Bypassing the Decode-Encode Loop for Cross-Modal Distillation
+   Cristian Sbrolli ⋅ Nicolas Michel ⋅ Matteo Matteucci ⋅ Toshihiko Yamasaki
+
+228. T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability
+   Savya Khosla ⋅ Sethuraman T V ⋅ Aryan Chadha ⋅ Alex Schwing ⋅ Derek Hoiem
+   arXiv: https://arxiv.org/abs/2604.18573
+   code:  https://github.com/savya08/T-REN
+
+229. TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs
+   KEJIA ZHANG ⋅ Keda TAO ⋅ Zhiming Luo ⋅ Chang Liu ⋅ Jiasheng Tang ⋅ Huan Wang
+   arXiv: https://arxiv.org/abs/2507.21584
+
+230. TecoPrompt: Temporal-Conservative Prompt Learning for Vision-Language Models
+   zeyi shao ⋅ Haowen Hua ⋅ Jiaxin Zhang ⋅ John See ⋅ Zeyd Boukhers ⋅ Cong Yang
+
+231. Temporal and Cross-modal Alignment for Enhanced Audiovisual Video Captioning
+   Chen Zhao ⋅ Jiajun Ma ⋅ Qilong Huang ⋅ Tiehan Fan ⋅ Hongyu Li ⋅ Zhuoliang Kang ⋅ Xiaoming Wei ⋅ Jian Yang ⋅ Ying Tai
+   arXiv: https://arxiv.org/abs/2607.01667
+
+232. The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models
+   Robert Welch ⋅ Emir Konuk ⋅ Kevin Smith
+   arXiv: https://arxiv.org/abs/2603.16728
+
+233. Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models
+   Lu Wang ⋅ Zhuoran Jin ⋅ Yupu Hao ⋅ Yubo Chen ⋅ Kang Liu ⋅ Yulong Ao ⋅ Jun Zhao
+   arXiv: https://arxiv.org/abs/2603.11896
+   code:  https://github.com/wl666hhh/Think_While_Watching/
+
+234. Thinking Ahead: Foresight Intelligence in MLLMs and World Model
+   Zhantao Gong ⋅ Liaoyuan Fan ⋅ Qing Guo ⋅ Xun Xu ⋅ Xulei Yang ⋅ Shijie Li
+   arXiv: https://arxiv.org/abs/2511.18735
+
+235. Thinking from the Robot’s View: The CoT-HRC Benchmark for Human Intent Reasoning in Embodied Collaboration
+   Chenxi Deng ⋅ Chao Xu ⋅ JianmingLiu JianmingLiu ⋅ Shaofei Chen
+
+236. To Adapt or Not to Adapt? Selective Adaptation for Vision-Language Models
+   Siru Jiang ⋅ Yuwei Liang ⋅ Jian Liang ⋅ Ran He ⋅ Tieniu Tan
+
+237. ToDRE: Effective Visual Token Pruning via Token Diversity and Task Relevance
+   Duo Li ⋅ Zuhao Yang ⋅ Xiaoqin Zhang ⋅ Ling Shao ⋅ Shijian Lu
+   arXiv: https://arxiv.org/abs/2505.18757
+
+238. Token-Based Affordance Grounding with Large Vision-Language Models
+   Seung Il Lee ⋅ Qinqian Lei ⋅ Daguang Xu ⋅ Dong Yang ⋅ Robby T. Tan ⋅ Yixin Chen ⋅ Bo Wang
+   arXiv: https://arxiv.org/abs/2607.03595
+
+239. Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning
+   Jingyun Chen ⋅ Linghan Cai ⋅ Zhikang Wang ⋅ Yi Huang ⋅ Songhan Jiang ⋅ Shenjin Huang ⋅ Hongpeng Wang ⋅ Yongbing Zhang
+   arXiv: https://arxiv.org/abs/2511.17052
+
+240. Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning
+   Zhen Zeng ⋅ Leijiang Gu ⋅ Zhangling Duan ⋅ Feng Li ⋅ Zenglin Shi ⋅ Cees Snoek ⋅ Meng Wang
+   arXiv: https://arxiv.org/abs/2511.20196
+   code:  https://github.com/zeng-zhen/S-MLLMUn
+
+241. Towards Purified Multi-Label Test-Time Adaptation of Vision-Language Models
+   Yiwen Liang ⋅ Hui Chen ⋅ Yizhe Xiong ⋅ Mengyao Lyu ⋅ Yuhan Cao ⋅ Zijia Lin ⋅ SHUAICHENG NIU ⋅ Sicheng Zhao ⋅ Jungong Han ⋅ Guiguang Ding
+
+242. Towards Scalable Pre-training of Visual Tokenizers for Generation
+   Jingfeng Yao ⋅ Yuda Song ⋅ Yucong Zhou ⋅ Xinggang Wang
+   arXiv: https://arxiv.org/abs/2512.13687
+   code:  https://github.com/MiniMax-AI/VTP
+
+243. Towards Spatial Trace with Reasoning in Vision-Language Models for Robotics
+   Enshen Zhou ⋅ Yibo Li ⋅ Jingkun An ⋅ Jiayuan Zhang ⋅ Shanyu Rong ⋅ Mengzhen Liu ⋅ Yi Han ⋅ Yuheng Ji ⋅ Huajie Tan ⋅ Jiawei He ⋅ Pengwei Wang ⋅ Zhongyuan Wang ⋅ Cheng Chi ⋅ Lu Sheng ⋅ Shanghang Zhang
+   arXiv: https://arxiv.org/abs/2512.13660
+   page:  https://zhoues.github.io/RoboTracer
+
+244. Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs
+   Sanghwan Kim ⋅ Rui Xiao ⋅ Stephan Alaniz ⋅ Yongqin Xian ⋅ Zeynep Akata
+   arXiv: https://arxiv.org/abs/2510.00705
+
+245. Transferability Between Understanding and Generation in Unified Multimodal Models
+   Jiwon Kang ⋅ Heeji Yoon ⋅ Jaewoo Jung ⋅ Jaewon Min ⋅ Minkyeong Jeon ⋅ Biyeon Hwang ⋅ Sangwon Jung ⋅ Seungryong Kim
+   arXiv: https://arxiv.org/abs/2607.04423
+   page:  https://cvlab-kaist.github.io/UMM_Transferability/
+
+246. TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs
+   Yanqi Wu ⋅ Runhe Lai ⋅ Xinhua Lu ⋅ Qichao Chen ⋅ Zhiping Zhou ⋅ Jia-Xin Zhuang ⋅ Weijiang Yu ⋅ Ruixuan Wang
+   arXiv: https://arxiv.org/abs/2608.05616
+   code:  https://github.com/wyqstan/TruthLens
+
+247. UC-VLM: Consistency-Driven Learning for AI-Generated Image Detection with Vision-Language Large Models
+   Lei Tan ⋅ Shuwei Li ⋅ Mohan Kankanhalli ⋅ Robby T. Tan
+   arXiv: https://arxiv.org/abs/2608.15238
+
+248. UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors
+   Xiaoyan Cong ⋅ Zekun Li ⋅ Zhiyang Dou ⋅ Hongyu Li ⋅ Omid Taheri ⋅ chuan guo ⋅ Abhay Mittal ⋅ Sizhe An ⋅ Taku Komura ⋅ Wojciech Matusik ⋅ Michael Black ⋅ Srinath Sridhar
+   arXiv: https://arxiv.org/abs/2603.15975
+   page:  https://oliver-cong02.github.io/UMO.github.io/
+
+249. UniDDT: Unifying Multimodal Understanding and Generation with Decoupled Diffusion Transformer
+   Shuai Wang ⋅ Liang Li ⋅ Yang Chen ⋅ Ruopeng Gao ⋅ Yao Teng ⋅ Limin Wang
+   arXiv: https://arxiv.org/abs/2606.16255
+
+250. UniReflect: Self-Reflection Tuning for Unified Multimodal Understanding and Generation
+   Cong Wei ⋅ Zepeng Huang ⋅ Haoxian Tan ⋅ liang shuang ⋅ Lishuai Gao ⋅ Pengfei Yan ⋅ Xiaoming Wei
+
+251. Unlocking Complex Image Editing via Natively Interleaved Visual Textual CoT with Deep Confidence Reasoning
+   Zhentao Zou ⋅ Zhengrong Yue ⋅ Kunpeng Du ⋅ Binglei Bao ⋅ Hanting Li ⋅ Haizhen Xie ⋅ Guozheng Xu ⋅ Yue Zhou ⋅ jie hu ⋅ Xue Jiang ⋅ Xinghao Chen
+
+252. Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection
+   Adhémar de Senneville ⋅ Xavier Bou ⋅ Jérémy Anger ⋅ Rafael Grompone von Gioi ⋅ Gabriele Facciolo
+   arXiv: https://arxiv.org/abs/2603.24181
+
+253. Unsafe by Reciprocity: How Generation–Understanding Coupling Undermines Safety in Unified Multimodal Models
+   Kaishen Wang ⋅ Heng Huang
+   arXiv: https://arxiv.org/abs/2603.27332
+
+254. UrbanAlign: Post-hoc Semantic Calibration for VLM-Human Preference Alignment
+   Yecheng Zhang ⋅ RONG ZHAO ⋅ Zhizhou Sha ⋅ Yong Li ⋅ Lei Wang ⋅ Ce Hou ⋅ Wen Ji ⋅ HUANG HAO ⋅ yunshan wan ⋅ Jian Yu ⋅ Junhao Xia ⋅ Yuru Zhang ⋅ Chunlei Shi
+   arXiv: https://arxiv.org/abs/2602.19442
+
+255. V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions
+   Chenrui Fan ⋅ Yijun Liang ⋅ Shweta Bhardwaj ⋅ Kwesi Cobbina ⋅ Ming Li ⋅ Tianyi Zhou
+   arXiv: https://arxiv.org/abs/2512.11995
+
+256. VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection
+   Qiang Wang ⋅ XINYUAN GAO ⋅ SongLin Dong ⋅ Jizhou Han ⋅ Jiangyang Li ⋅ Yuhang He ⋅ Zhiheng Ma ⋅ Yihong Gong
+   arXiv: https://arxiv.org/abs/2511.19436
+   page:  https://vdcagent.github.io
+
+257. VERDICT: Training-Free Step-Wise Verification of Multimodal Reasoning via Disagreement-Aware Consensus
+   Rohit Sinha ⋅ Kunal Tilaganji ⋅ Tanuja Ganu ⋅ Nagarajan Natarajan ⋅ Amit Sharma ⋅ Vineeth N Balasubramanian
+   arXiv: https://arxiv.org/abs/2608.10665
+
+258. Vero: Open Reinforcement Learning Recipes for Visual Reasoning
+   Gabriel Sarch ⋅ Linrong Cai ⋅ Qunzhong Wang ⋅ Haoyang Wu ⋅ Danqi Chen ⋅ Zhuang Liu
+
+259. VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization
+   Yikun Liu ⋅ Yuan Liu ⋅ Shangzhe Di ⋅ Haicheng Wang ⋅ Zhongyin Zhao ⋅ Le Tian ⋅ Zhou Xiao ⋅ Jie Zhou ⋅ Jiangchao Yao ⋅ Yanfeng Wang ⋅ Weidi Xie
+   arXiv: https://arxiv.org/abs/2602.09934
+
+260. Video-Holmes: Can MLLM Think like Holmes for Complex Video Reasoning?
+   JUNHAO CHENG ⋅ Yuying Ge ⋅ Teng Wang ⋅ Yixiao Ge ⋅ Jing Liao ⋅ Ying Shan
+   arXiv: https://arxiv.org/abs/2505.21374
+   code:  https://github.com/TencentARC/Video-Holmes
+
+261. VIEW2SPACE: Studying Multi-View Visual Reasoning from Sparse Observations
+   Fucai Ke ⋅ Zhixi Cai ⋅ Boying Li ⋅ Long Chen ⋅ Beibei Lin ⋅ Weiqing Wang ⋅ Pari Delir Haghighi ⋅ Gholamreza Haffari ⋅ Hamid Rezatofighi
+   arXiv: https://arxiv.org/abs/2603.16506
+
+262. ViewFusion: Structured Spatial Thinking Chains for Multi-View Reasoning
+   Xingjian Tao ⋅ Yiwei Wang ⋅ Yujun Cai ⋅ Yifan Song ⋅ Jing Tang
+   arXiv: https://arxiv.org/abs/2603.06024
+
+263. VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models
+   Dominick Reilly ⋅ Manish Govind ⋅ Le Xue ⋅ Srijan Das
+   arXiv: https://arxiv.org/abs/2510.13808
+   code:  https://github.com/dominickrei/VisCoP
+
+264. Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning
+   Shaofeng Yin ⋅ Jiaxin Ge ⋅ Zora Wang ⋅ Xiuyu Li ⋅ Chenyang Wang ⋅ Michael Black ⋅ Trevor Darrell ⋅ Angjoo Kanazawa ⋅ Haiwen Feng
+   arXiv: https://arxiv.org/abs/2601.11109
+   page:  https://fugtemypt123.github.io/VIGA-website/
+
+265. VisNec: Measuring and Leveraging Visual Necessity for Multimodal Instruction Tuning
+   Mingkang Dong ⋅ Hongyi Cai ⋅ jie li ⋅ Sifan Zhou ⋅ Bin Ren ⋅ Kunyu Peng ⋅ Yuqian Fu
+   arXiv: https://arxiv.org/abs/2603.01195
+   page:  https://dmk041218.github.io/VisNec/
+
+266. VISOR++ : VISUAL INPUT BASED STEERING FOR LARGE VISION LANGUAGE MODELS
+   Ravikumar Balakrishnan ⋅ Mansi Phute
+
+267. VisReason: A Large-Scale Dataset for Visual Chain-of-Thought Reasoning
+   Lingxiao Li ⋅ Yifan Wang ⋅ Xinyan Gao ⋅ Chen Tang ⋅ Xiangyu Yue ⋅ Chenyu You
+   arXiv: https://arxiv.org/abs/2511.17731
+   page:  https://y-research-sbu.github.io/VisReason/
+
+268. VisReflect: Latent Visual Reflection for Fine-Grained Perception in Long Visual Context
+   Xiaoqian Shen ⋅ Mohamed Elhoseiny
+   arXiv: https://arxiv.org/abs/2606.30288
+   page:  https://xiaoqian-shen.github.io/VisReflect
+
+269. Visual Prompt Discovery via Semantic Exploration
+   Jaechang Kim ⋅ Yotaro Shimose ⋅ Zhao Wang ⋅ Kuang-Da Wang ⋅ Jungseul Ok ⋅ Shingo Takamatsu
+   arXiv: https://arxiv.org/abs/2603.16250
+   page:  https://jaechang.dev/projects/SEVEX/
+
+270. VisWordBench: Bridging the Gap in Cross-modal Reasoning for Multimodal Large Language Models
+   Tianshu Zhang ⋅ Junzhe Chen ⋅ Yean Cheng ⋅ Demin Zhu ⋅ Haoze Zheng ⋅ Lijie Wen
+
+271. ViTexQA: A Multi-Frame Temporal Perception Dataset for Video Text Question Answering
+   Zhentao Guo ⋅ Chen Duan ⋅ Tongkun Guan ⋅ Zining Wang ⋅ Kai zhou ⋅ Pengfei Yan
+   arXiv: https://arxiv.org/abs/2606.24602
+
+272. VIVAS: Vitalizing Visual Perception in VLM Pre-training via Vision-language Unified Autoregressive Supervision
+   Zhehan Kan ⋅ Yubo Zhu ⋅ Xinghua Jiang ⋅ Zhixiang Wei ⋅ Shifeng Liu ⋅ Wei Tong ⋅ Sheng Zhong ⋅ Qingmin Liao ⋅ Wenming Yang ⋅ Xin Li ⋅ Yinsong Liu ⋅ Deqiang Jiang ⋅ Xing Sun
+
+273. VKnowU: Evaluating Visual Knowledge Understanding in Multimodal LLMs
+   Tianxiang Jiang ⋅ Sheng Xia ⋅ Yicheng Xu ⋅ Linquan Wu ⋅ Xiangyu Zeng ⋅ Limin Wang ⋅ Yu Qiao ⋅ Yi Wang
+   arXiv: https://arxiv.org/abs/2511.20272
+   code:  https://github.com/OpenGVLab/VKnowU
+
+274. VLMSysTrojan: Stealthy System-Aware Backdoor Attacks Against Vision-Language Models
+   Yezheng Cheng ⋅ Zexin Li ⋅ Jiaqi Wu ⋅ Zhihong Zhang ⋅ Simin Chen
+
+275. VLZip: Unified Visual and Textual Compression for Interleaved Long-Context Modeling
+   Yuqi Zhang ⋅ pengpeng Zeng ⋅ Yuyu Guo ⋅ Wenjie Yang ⋅ Lingchen Meng ⋅ Peng Di ⋅ Hang Yu ⋅ Zuxuan Wu ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2608.08630
+   code:  https://github.com/ShareLab-SII/VLZip
+
+276. What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features
+   Chen-yi Lu ⋅ Yueh-Shao Chen ⋅ Somali Chaterji
+   arXiv: https://arxiv.org/abs/2607.23271
+   page:  https://stevencylu.github.io/PeakPatch/
+
+277. When Sinks Help or Hurt: Unified Framework for Attention Sink in MLLMs
+   Jiho Choi ⋅ Jaemin Kim ⋅ JINHWI PARK ⋅ Seunghoon Hong ⋅ Sanghwan Kim
+
+278. Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding
+   Tsung-Chih Chiang ⋅ Hsuan-Kung Yang ⋅ Jou-Min Liu ⋅ Ting-Ru Liu ⋅ Chun-Wei Huang ⋅ Quan Kong ⋅ Chun-Yi Lee
+
+279. Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding
+   Jiwan Kim ⋅ Kibum Kim ⋅ Wonjoong Kim ⋅ Byung-Kwan Lee ⋅ Chanyoung Park
+   arXiv: https://arxiv.org/abs/2604.12358
+   page:  https://ptkjw1997.github.io/DSTP-page/
+
+280. Why Do Vision Language Models Struggle To Recognize Human Emotions?
+   Madhav Agarwal ⋅ Sotirios Tsaftaris ⋅ Laura Sevilla ⋅ Steven McDonagh
+   arXiv: https://arxiv.org/abs/2604.15280
+
+281. Why Far Looks Up: Probing Spatial Representation in Vision-Language Models
+   Cheolhong Min ⋅ Jaeyun Jung ⋅ Daeun Lee ⋅ Hyeonseong Jeon ⋅ Yu Su ⋅ Jonathan Tremblay ⋅ Chan Hee Song ⋅ Jaesik Park
+   arXiv: https://arxiv.org/abs/2605.30161
+   page:  https://cheolhong0916.github.io/whyfarlooksup.github.io/
+
+282. X-Stream: Benchmarking MLLMs as Multiplexers for Multi-Stream Understanding
+   Peiwen Sun ⋅ Xudong LU ⋅ Huadai Liu ⋅ Yang Bo ⋅ Dongming Wu ⋅ Huankang Guan ⋅ Minghong Cai ⋅ Jinpeng Chen ⋅ Xintong Guo ⋅ Shuhan LI ⋅ FANG LIU ⋅ Rui Liu ⋅ Xiangyu Yue
+
+283. YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Reasoning
+   Quansheng Hu ⋅ Qin Sun ⋅ Qiansen Dai ⋅ Jin Ding ⋅ Wan Zhang ⋅ Xue Zhou ⋅ Jianxiao Zou
+

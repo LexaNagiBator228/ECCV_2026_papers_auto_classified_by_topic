@@ -1,0 +1,130 @@
+Document, OCR & Structured Text  (33 papers, 19 with arXiv links)  [Multimodal, Language & Video Understanding]
+============================================================================
+
+1. A Scalable Vector Graphics Latent Space
+   Leonardo Zini ⋅ Elia Frigieri ⋅ Lorenzo Baraldi
+
+2. Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods
+   Xingsong Ye ⋅ Yongkun Du ⋅ Jiaxin Zhang ⋅ Haojie Zhang ⋅ Chong Sun ⋅ Chen Li ⋅ Jing LYU ⋅ Zhineng Chen
+   arXiv: https://arxiv.org/abs/2606.24484
+   code:  https://github.com/YesianRohn/WATER
+
+3. BaFCo: A Document Understanding Benchmark for Complex Bangla Form Comprehension
+   Abu Tyeb Azad ⋅ Ishita Apan ⋅ Fahim Ahmed ⋅ Sumaiya Katha ⋅ Ezharuddin Jubaer ⋅ Armun Alam ⋅ Pranjal Nandi ⋅ Amin Ali ⋅ Aman Chadha ⋅ Md Mofijul Islam ⋅ A K M Mahbubur Rahman
+   arXiv: https://arxiv.org/abs/2607.05614
+   code:  https://huggingface.co/datasets/Mausul/bafco
+
+4. Beyond Script Family Boundaries: Towards Unified Open-Set Scene Text Recognition
+   Chang Liu ⋅ Elisa Smith
+
+5. Bridging Online and Offline Handwriting via Differentiable Physical Rendering
+   Seonmi Park ⋅ Seunghyun Shin ⋅ Vihaan Misra ⋅ Dongmin Shin ⋅ Ukcheol Shin ⋅ Jean Oh ⋅ Hae-Gon Jeon
+   arXiv: https://arxiv.org/abs/2608.03198
+   page:  https://seonmip.github.io/onoff
+
+6. CubicSplat: Differentiable Vector Graphics via Error-Bounded Forward Relaxation
+   Chenglong Liu ⋅ Xin Zhang ⋅ Yimeng Zhu ⋅ Liyang He ⋅ Yixiao Ma ⋅ Yu Su ⋅ Zhenya Huang ⋅ Qi Liu
+
+7. DocLayout-VL: A Foundational Model for Hierarchical, Open-set, and Promptable Document Layout Segmentation
+   Venkata Venna ⋅ Srihari Bandarupalli ⋅ Anirudh Srinivasan ⋅ R Raghuveer ⋅ Sai Madhusudan Gunda ⋅ SANTOSH RAVI KIRAN SARVADEVABHATLA
+
+8. Embedding Rotation Invariance for Provable Multi-Oriented Scene Text Recognition
+   zhibin ma ⋅ Pengwen Dai ⋅ Yi Liu ⋅ Xugong Qin ⋅ Chenyun Yu ⋅ Xiaochun Cao
+   arXiv: https://arxiv.org/abs/2608.10684
+
+9. ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis
+   Xike Zhang ⋅ Maoyuan Ye ⋅ Juhua Liu ⋅ Bo Du
+   arXiv: https://arxiv.org/abs/2603.25168
+
+10. FontCopilot: Towards Generalist Multimodal Large Language Models for Holistic Chinese Font Engineering
+   Yu Liu ⋅ Yang Liu ⋅ Ying Gao ⋅ Yang Ding ⋅ Cunrui Wang
+
+11. GryphOne: Symbol-Aware Masked Diffusion for Structural Refinement in Offline Handwritten Mathematical Expression Recognition
+   Takaya Kawakatsu ⋅ Ryo Ishiyama
+   arXiv: https://arxiv.org/abs/2602.03370
+
+12. Hierarchical Style Aggregation for Versatile Chinese Handwriting Generation
+   Jiangpeng Wang ⋅ Fei Gao ⋅ Nannan Wang
+
+13. i-Design: Step-by-Step Graphic Layout Design with Progressive Aesthetic Policy Optimization
+   Sohan Patnaik ⋅ Rishabh Jain ⋅ Balaji Krishnamurthy ⋅ Mausoom Sarkar
+
+14. Invoice Haystack: Benchmarking Document Retrieval and Visual Question Answering Under Strong Visual Homogeneity
+   Heethanjan Kanagalingam ⋅ Thenukan Pathmanathan ⋅ Mokeeshan Vathanakumar ⋅ Basim Azam ⋅ Sarah Erfani ⋅ NAVEED AKHTAR
+   arXiv: https://arxiv.org/abs/2606.25343
+
+15. iSyncTab: Learning Cross-Modal Feature Sequencing for Image-Tabular Data via Neural Synchrony
+   Al Zadid Sultan Bin Habib ⋅ Md Younus Ahamed ⋅ Prashnna Gyawali ⋅ Gianfranco Doretto ⋅ Donald Adjeroh
+
+16. LoGAN: Multilingual Font Localization with Generative Agents
+   Zhuoning Yuan ⋅ Ta-Ying Cheng ⋅ Benjamin Klein
+
+17. MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting
+   Aman Anand ⋅ Partha Pratim Roy ⋅ Palaiahnakote Shivakumara ⋅ Umapada Pal
+
+18. MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding
+   Hejun Dong ⋅ Junbo Niu ⋅ Bin Wang ⋅ Weijun Zeng ⋅ Wentao Zhang ⋅ Conghui He
+   arXiv: https://arxiv.org/abs/2603.22458
+
+19. Mitigating Sycophancy in Multimodal Chart Understanding via Vision-Grounded Verification
+   Xiaolong Wang ⋅ Zhiwei Lin ⋅ Tai Liu ⋅ Qiang Li ⋅ Jian Sun
+
+20. Narrative-Driven Paper-to-Slide Generation via ArcDeck
+   Tarik Can Ozden ⋅ SACHIDANAND VISHNUKUMAR SARMINI ⋅ Furkan Horoz ⋅ Ozgur Kara ⋅ Junho Kim ⋅ James Rehg
+   arXiv: https://arxiv.org/abs/2604.11969
+   page:  https://arcdeck.org/
+
+21. P-MTP: Efficient Document Parsing via Multi-Token Prediction with Progressive Depth Scaling
+   Le Xiang ⋅ Chenxi Zhai ⋅ Shu Wei ⋅ Jingjing Wu ⋅ Qunyi Xie ⋅ Xiao Tan ⋅ KunbinChen KunbinChen ⋅ Wei He
+   arXiv: https://arxiv.org/abs/2606.24447
+
+22. PDF-Omni: Poincaré Dual Disk Distortion Field-based Recurrent Update for Omnidirectional Stereo Matching
+   Yunseok Yang ⋅ Eunjin Son ⋅ Sang Lee
+
+23. PolyLayout: Multi-room Manhattan Layout Estimation
+   Gustav Hanning ⋅ Shaohui Liu ⋅ Rémi Pautrat ⋅ Marc Pollefeys ⋅ Kalle Åström ⋅ Viktor Larsson
+   arXiv: https://arxiv.org/abs/2608.03323
+   page:  https://ghanning.github.io/PolyLayout
+
+24. PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
+   Jiazhe Wei ⋅ Ken Li ⋅ Tianyu Lao ⋅ Haofan Wang ⋅ Yueming Lyu ⋅ Liang Wang ⋅ Caifeng Shan ⋅ Chenyang Si
+   arXiv: https://arxiv.org/abs/2512.04082
+   page:  https://postercopilot.github.io/
+
+25. Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models
+   Futa Waseda ⋅ Shojiro Yamabe ⋅ Daiki Shiono ⋅ Kento Sasaki ⋅ Tsubasa Takahashi
+   arXiv: https://arxiv.org/abs/2512.11899
+   page:  https://turingmotors.github.io/rio-vqa/
+
+26. Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild
+   Cheng Cui ⋅ Changda Zhou ⋅ Tingquan Gao ⋅ Xueqing Wang ⋅ ZIYUE GAO ⋅ Jing Tang ⋅ Yi Liu
+   arXiv: https://arxiv.org/abs/2603.04205
+
+27. Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback
+   Guotao Liang ⋅ Zhangcheng Wang ⋅ Juncheng Hu ⋅ Haitao Zhou ⋅ Ziteng Xue ⋅ Jing Zhang ⋅ Dong Xu ⋅ Qian Yu
+   arXiv: https://arxiv.org/abs/2604.20730
+
+28. RT-DocLayout: Real-Time End-to-End Document Layout Analysis with Reading Order in the Wild
+   Cheng Cui ⋅ Tingquan Gao ⋅ Xueqing Wang ⋅ Changda Zhou ⋅ Hongen Liu ⋅ Ting Sun ⋅ Yubo Zhang ⋅ Zelun Zhang ⋅ Jiaxuan Liu ⋅ Manhui Lin ⋅ Yue Zhang ⋅ Suyin Liang ⋅ Yiqing Xiang ⋅ Yi Liu
+   arXiv: https://arxiv.org/abs/2606.23344
+
+29. StrucTab: A Structured Optimization Framework for Table Parsing
+   Gengluo Li ⋅ Shangpin Peng ⋅ Chengquan Zhang ⋅ Binghong Wu ⋅ Hao Feng ⋅ Weinong Wang ⋅ Pengyuan Lyu ⋅ Huawen Shen ⋅ Xingyu Wan ⋅ Zhuotao Tian ⋅ Han Hu ⋅ Can Ma ⋅ Yu ZHOU
+   arXiv: https://arxiv.org/abs/2606.29905
+   code:  https://github.com/VirtualLUOUCAS/StrucTab
+
+30. Table-MCR2TR: Merged-Cell-Aware Table Recognition via Reinforced Multimodal Language Models
+   Bangbang Zhou ⋅ Zhaoqing Zhu ⋅ Feiyu Gao ⋅ Hangdi Xing ⋅ Yadong Qu ⋅ Qi Zheng ⋅ Ming Yan ⋅ Hongtao Xie
+
+31. This Looks Distinctly Like That: Grounding Interpretable Recognition in Stiefel Geometry against Neural Collapse
+   Junhao Jia ⋅ Jiaqi Wang ⋅ Yunyou Liu ⋅ Haodong Jing ⋅ Yueyi Wu ⋅ Xian Wu ⋅ Yefeng Zheng
+   arXiv: https://arxiv.org/abs/2603.08374
+
+32. UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters
+   Yongkun Du ⋅ Zhineng Chen ⋅ Yazhen Xie ⋅ Weikang Bai ⋅ Hao Feng ⋅ Wei Shi ⋅ Yuchen Su ⋅ Can Huang ⋅ Yu-Gang Jiang
+
+33. UniTranslator: A Unified Multi-modal framework for End-to-end In-Image Machine Translation
+   Jiahao Lyu ⋅ Pei Fu ⋅ Zhenhang Li ⋅ Shaojie Zhang ⋅ Jiahui Yang ⋅ Yu ZHOU ⋅ Can Ma ⋅ Zhenbo Luo ⋅ Jian Luan
+   arXiv: https://arxiv.org/abs/2606.24333
+   code:  https://github.com/SeerRay-Lab/Unitranslator
+

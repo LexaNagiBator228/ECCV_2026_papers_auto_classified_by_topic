@@ -1,0 +1,579 @@
+Object Detection & Segmentation  (150 papers, 85 with arXiv links)  [Recognition & Perception]
+============================================================================
+
+1. A Dual-space Patch-driven Complementary Learning Framework for Semi-supervised Multi-organ Segmentation
+   Baixi Liang ⋅ Shuohong Xia ⋅ Sihao Li ⋅ Yunyun Yang
+
+2. A Simple Baseline with Placement Prior for Point-Supervised Oriented Object Detection
+   Runxiang Liu ⋅ Kaikai Xie ⋅ Qianxi Cao ⋅ Yuming Fang ⋅ Jiebin Yan ⋅ Junjie Chen
+
+3. Adaptive Latent Trajectory Anchoring for Action Segmentation Dataset Condensation
+   Arthème Gauthier-Villars ⋅ Guodong Ding ⋅ Angela Yao
+   arXiv: https://arxiv.org/abs/2607.09081
+
+4. Adaptive Spectrum-Aware Feature Disentangled Network for Small Object Detection
+   Yang Guo ⋅ Zihan Yang ⋅ Feifei Kou ⋅ Yulan Hu ⋅ Ran Zhang ⋅ Siyuan Yao
+   arXiv: https://arxiv.org/abs/2606.29029
+   code:  https://github.com/ManOfStory/SFDNet
+
+5. Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation
+   Lucas Görnhardt ⋅ Timo Bartels ⋅ Niklas Schwarz ⋅ Tim Fingscheidt
+   arXiv: https://arxiv.org/abs/2606.09536
+
+6. AffoGato: Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale
+   Junha Lee ⋅ Eunha Park ⋅ Chunghyun Park ⋅ Dahyun Kang ⋅ Minsu Cho
+   arXiv: https://arxiv.org/abs/2506.12009
+   page:  https://junha-l.github.io/affogato/
+
+7. Align and Segment: Unsupervised Learning for Building Segmentation From Misaligned Labels
+   Venkanna Babu Guthula ⋅ Oswin Krause ⋅ Dimitri Gominski ⋅ Hui Zhang ⋅ Johan Mottelson ⋅ Ankit Kariryaa ⋅ Nico Lang ⋅ Christian Igel
+   arXiv: https://arxiv.org/abs/2607.10841
+   code:  https://github.com/venkanna37/align-and-segment
+
+8. BEVOpen3D: Towards Open-World 3D Object Detection in Bird's-Eye-View
+   Huyue Zeng ⋅ Jiaqi Yang ⋅ Xian-Feng Han
+
+9. Beyond Isolated Objects: Relationship-aware Open Vocabulary Scene Understanding via 3D Scene Graph Analysis
+   Xianhao Chen ⋅ Jiarui Hu ⋅ Yuanbo Yang ⋅ Xiyu Zhang ⋅ Tengyue Wang ⋅ Hujun Bao ⋅ Guofeng Zhang ⋅ Zhaopeng Cui
+   arXiv: https://arxiv.org/abs/2607.05348
+   page:  https://cxavireh.github.io/relgraphov-projectpage
+
+10. Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision
+   LING LI ⋅ Bowen Liu ⋅ Zinuo Zhan ⋅ Peng Jie ⋅ Jianhui Zhong ⋅ Kenglun Chang ⋅ Zhidong Deng
+   arXiv: https://arxiv.org/abs/2603.26646
+
+11. Breaking the Model Forgetting Cycle in Long-Incremental 3D Object Detection
+   Peisheng Qian ⋅ Jie Xu ⋅ Xulei Yang ⋅ Na Zhao
+   arXiv: https://arxiv.org/abs/2607.14560
+   code:  https://github.com/qianpeisheng/LDMR
+
+12. C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation
+   Jinlong Wang ⋅ Xun Huang ⋅ Qiming Xia ⋅ Shijia Zhao ⋅ Chenglu Wen
+   arXiv: https://arxiv.org/abs/2607.01827
+
+13. Cast and Attached Shadow Detection via Iterative Light and Geometry Reasoning
+   Shilin Hu ⋅ Jingyi Xu ⋅ Sagnik Das ⋅ Dimitris Samaras ⋅ Hieu Le
+   arXiv: https://arxiv.org/abs/2512.06179
+   page:  https://shilin21.github.io/attached_detection/
+
+14. Causal Yet Future-Aware: Dual-Path Temporal Modeling for Online Action Segmentation
+   Zhichao Zheng ⋅ Peirong Ma ⋅ Ying Zhou ⋅ Li Kong ⋅ Junsheng Zhou
+
+15. CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement
+   Zhihao Yang ⋅ Zhiyu Xiang ⋅ Peng Xu ⋅ Tianyu Pu ⋅ Kai Wang ⋅ Eryun Liu ⋅ Dongping Zhang ⋅ Yong Ding
+   arXiv: https://arxiv.org/abs/2607.19036
+   code:  https://github.com/Megalo-f/CoGoal3D
+
+16. Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving
+   Adwait Chandorkar ⋅ Kai Krink ⋅ Yerdana Maulenbay ⋅ Hasan Tercan ⋅ Tobias Meisen
+   arXiv: https://arxiv.org/abs/2607.02074
+
+17. Context-Interactive Reasoning for Group Activity Detection
+   Xi Ai ⋅ Weihong Ren ⋅ Shuhuan Han ⋅ Haoran Xu ⋅ Qian Dong ⋅ Pengyang Su ⋅ Zijian Wang ⋅ Shengchun Lin ⋅ Zhiyong Wang ⋅ Honghai Liu
+
+18. CoT-PL: Chain-of-Thought Pseudo-Labeling for Open-Vocabulary Object Detection
+   Hojun Choi ⋅ Youngsun Lim ⋅ Jaeyo Shin ⋅ Hyunjung Shim
+
+19. CountEx: Fine-Grained Counting via Exemplars and Exclusion
+   Yifeng Huang ⋅ Gia Nguyen ⋅ Minh Hoai Nguyen
+   arXiv: https://arxiv.org/abs/2602.19432
+   code:  https://github.com/bbvisual/CountEx
+
+20. CURE: Contextual Debiasing and Unbiased Refinement for Training-Free Open-Vocabulary Semantic Segmentation
+   Jiean Wang ⋅ Sanqing Qu ⋅ Fan Lu ⋅ Huanhuan Bao ⋅ Wei Tian ⋅ Bo Jin ⋅ Jiangtong Li ⋅ Junqiao Zhao ⋅ Guang Chen
+
+21. DA-F2F: Domain-Adaptive Object Detection with Feature-to-Feature Modulation and Alignment
+   HoTaek Oh ⋅ Hee-Jun Kim ⋅ Hyo-Jun Lee
+
+22. Defect-aware Hybrid Prompt Optimization for Zero-Shot Multi-type Anomaly Detection and Segmentation
+   Nadeem Nazer ⋅ Hongkuan Zhou ⋅ Lavdim Halilaj ⋅ Ylli Sadikaj ⋅ Steffen Staab
+
+23. Deformable and Multi-view Gradient-Aligned Physical Adversarial Camouflage
+   Jiawei Liang ⋅ Puning Zhao ⋅ tianrui lou ⋅ Haoqing Zhang ⋅ Xianghao Jiao ⋅ Bozheng Lin ⋅ Ming Zhang ⋅ Xiaochun Cao
+
+24. Detect by Track: Making Detector-Free Matcher Trackable
+   Yusuke Sekikawa ⋅ HIDEKI SHIRAI ⋅ Ruka Eto ⋅ Yuzhe Hao ⋅ Kengo Mitsui ⋅ Nakamasa Inoue
+
+25. Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift
+   Longtian Wang ⋅ Chenhao Lin ⋅ Zhengyu Zhao ⋅ Le Yang ⋅ Shiwei Wang ⋅ Yuhan Zhi ⋅ Xiaofei Xie ⋅ Chao Shen
+
+26. DGSeg: Dynamic Gating of Semantic-Spatial Guided Predictions for Reasoning Segmentation
+   Ruizhe Zeng ⋅ Siyu Cao ⋅ Lu Zhang ⋅ Zhi-yong Liu
+   arXiv: https://arxiv.org/abs/2607.04779
+   code:  https://github.com/RZZeng/DGSeg
+
+27. Diffusion Model as a Generalized Segmentation Learner
+   Haoxiao Wang ⋅ Antao Xiang ⋅ Haiyang Sun ⋅ Peilin Sun ⋅ Changhao Pan ⋅ Yifu Chen ⋅ Minjie Hong ⋅ Weijie Wang ⋅ Shuang Chen ⋅ Yue Chen ⋅ ZHOU ZHAO
+
+28. DINOde: Continuous Vision-Text Alignment for Open-Vocabulary Semantic Segmentation
+   Sung-Hoon Yoon ⋅ Hoyong Kwon ⋅ Changgyoon Oh ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2607.21371
+   code:  https://github.com/yoon307/DINOde
+
+29. Domain Adaptive Object Detection via Dual-Stream Bilevel-Cycle Optimization
+   Yannan Chen ⋅ Wei Wang ⋅ Ruoyu Chen ⋅ Wenqiang Wang ⋅ Jiancheng Wang ⋅ Mingbo Yang ⋅ Yaowei Wang ⋅ Xiaochun Cao
+   arXiv: https://arxiv.org/abs/2606.31373
+
+30. Efficient RGB-T Object Detection via Sparse Cross-Modality Fusion
+   CHAO TIAN ⋅ Zikun Zhou ⋅ Chao Yang ⋅ guoqing zhu ⋅ Zhenyu He
+   arXiv: https://arxiv.org/abs/2606.30215
+
+31. EM3M: An Electron Micrograph Dataset for Microstructural Segmentation and Generation
+   Nan Wang ⋅ Zhiyi Xia ⋅ Yiming Li ⋅ Shi Tang ⋅ Zoe Fan ⋅ Xi Fang ⋅ Haoyi Tao ⋅ ZHANG SIYUAN ⋅ Guolin Ke ⋅ Yanhui Hong
+   arXiv: https://arxiv.org/abs/2508.16239
+   code:  https://huggingface.co/datasets/UniParser/EM3M
+   page:  https://www.bohrium.com/apps/uni-aims
+
+32. Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting
+   Jiyang Huang ⋅ Hongru Chen ⋅ Wei Lin ⋅ Jia Wan ⋅ Antoni Chan
+   arXiv: https://arxiv.org/abs/2603.16241
+
+33. Explicit Semantic–Spatial Alignment for Open-Vocabulary Object Detection
+   Pengyang Su ⋅ Weihong Ren ⋅ Shuhuan Han ⋅ Qian Dong ⋅ Haoran Xu ⋅ Xi Ai ⋅ Zijian Wang ⋅ Zhiyong Wang ⋅ Honghai Liu
+
+34. Exploring Efficient Reasoning Segmentation with Small Language Models
+   Changsong Wen ⋅ Zelin Peng ⋅ Yu Huang ⋅ Xiaokang Yang ⋅ Wei Shen
+
+35. Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation
+   Kwonyoung Ryu ⋅ In-Jae Lee ⋅ Jonghyun Jin ⋅ Hyunjee Lee ⋅ Jongmin Lee ⋅ Jaesik Park
+   arXiv: https://arxiv.org/abs/2607.19765
+   page:  https://kwonyoung9120.github.io/PanopticLVSM/
+
+36. FAIR: Feature-Augmented Implicit Regularization for AI-generated Fake Image Detection
+   Md Redwanul Haque ⋅ Manzur Murshed ⋅ Manoranjan Paul ⋅ Tsz-Kwan Lee
+
+37. Fast and Flexible Robustness Certificates for Semantic Segmentation
+   Thomas Massena ⋅ Corentin Friedrich ⋅ Franck Mamalet ⋅ Mathieu Serrurier
+   arXiv: https://arxiv.org/abs/2512.06010
+
+38. FeVOS: Foresight Expression Video Object Segmentation
+   Kehan Lan ⋅ Kaining Ying ⋅ Henghui Ding
+   arXiv: https://arxiv.org/abs/2606.25585
+   page:  https://henghuiding.com/FeVOS/
+
+39. FMS2: Unified Flow Matching for Segmentation and Synthesis of Thin Structures
+   Babak Asadi ⋅ Peiyang Wu ⋅ Mani Golparvar-Fard ⋅ Viraj Jayminkumar Shah ⋅ Ramez Hajj
+
+40. Following the Flow: Advection-Consistent Modeling for Event-based Small Object Detection
+   Wen Guo ⋅ Fulong Cai ⋅ Wuzhou Quan
+   arXiv: https://arxiv.org/abs/2606.22378
+   code:  https://github.com/fulongcai/PACT
+
+41. FoundYou: A Unified Model for Personalized Segmentation and Retrieval
+   Gabriele Trivigno ⋅ Marcos Alfaro Perez ⋅ Claudia Cuttano ⋅ Gabriele Berton ⋅ Luis Payá ⋅ Carlo Masone
+
+42. Free-Lunch Augmentation by Revisiting Diffusion-Based Data Generation for Cross-Domain Few-Shot Object Detection
+   Zijian Zhuang ⋅ Yixiong Zou ⋅ Yuhua Li ⋅ Ruixuan Li
+   arXiv: https://arxiv.org/abs/2608.04394
+   code:  https://github.com/zzzzj311-droid/Free-Lunch-SITN
+
+43. Free‑CD: Probabilistically Decoupled Training-Free Open-Vocabulary Change Detection with Resolution-Invariant Feature Inversion
+   Yongshuo Zhu ⋅ LU LI ⋅ Keyan Chen ⋅ Zhenwei Shi ⋅ ZHOU Fugen
+
+44. Frequency Director: Learnable Mixture of Frequency Experts for Unified Concealed Scene Segmentation
+   Guangqian Guo ⋅ Aixi Ren ⋅ Xuehui Yu ⋅ Pengxu Wei ⋅ Yong Guo ⋅ shan gao
+
+45. From Drop-off to Recovery: A Mechanistic Analysis of Segmentation in MLLMs
+   Boyong Wu ⋅ Sanghwan Kim ⋅ Zeynep Akata
+   arXiv: https://arxiv.org/abs/2603.17228
+
+46. From Visual Primitives to Semantic Masks: Fine-Grained Visual-Linguistic Alignment for Open-Vocabulary Remote Sensing Image Segmentation
+   Yuchen Deng ⋅ Yang Xu ⋅ Zhihui Wei ⋅ Zebin Wu
+
+47. FSDC-DETR: A Frequency-Spatial Domain Collaborative DETR for Small-Object Detection
+   Aiwen Liu ⋅ Chengguang Zhu ⋅ Gang Wang ⋅ Dandan Zhu ⋅ Haodong Lin ⋅ Yan Wang ⋅ Huiyu Zhou ⋅ Zhengyi Pan
+   arXiv: https://arxiv.org/abs/2607.05176
+
+48. FST-SAM3: Taming SAM~3 with Frequency-Spatio-Temporal Refinement for Video Polyp Segmentation
+   Guanhao Wu ⋅ Guilian Chen ⋅ Huisi Wu ⋅ Jing Qin
+
+49. Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection
+   Peng Zhang ⋅ Tingfa Xu ⋅ Shuaihao Han ⋅ Jianan Li
+   arXiv: https://arxiv.org/abs/2607.05148
+
+50. GEAR-Seg: A Grounded Explainable Agent for Reasoning Segmentation and Data Engine
+   Yanan Wang ⋅ Wen li ⋅ Yibin Ying ⋅ Zhenghao Fei
+   arXiv: https://arxiv.org/abs/2607.00544
+
+51. Geo-DPO: Aligning Semantic Intent with Geometry for 3D Affordance Segmentation
+   Ziqian Yang ⋅ Xiaolei Wang ⋅ Xianglin Qiu ⋅ Weiguang Zhao ⋅ Quan Zhang ⋅ Jimin Xiao
+
+52. GeoDetect: Geometric Adversarial Detection for VLPs
+   Afsaneh Hasanebrahimi ⋅ Hanxun Huang ⋅ Christopher Leckie ⋅ James Bailey ⋅ Sarah Erfani
+   arXiv: https://arxiv.org/abs/2607.14737
+
+53. Group3D: MLLM-Guided Semantic Grouping for Open-Vocabulary 3D Object Detection
+   Youbin Kim ⋅ Jinho Park ⋅ Hogun Park ⋅ Eunbyung Park
+   arXiv: https://arxiv.org/abs/2603.21944
+   page:  https://ubin108.github.io/Group3D/
+
+54. HIDA: A Human-Intuition-Guided Depth-Aware Framework for Zero-Shot Amodal Segmentation
+   PENG LI ⋅ Kelin Wang ⋅ Bingchuan Chen ⋅ Ya-Li Hou ⋅ Mingxia Shen ⋅ Bo Li
+
+55. Hierarchical and Holistic Open-Vocabulary Functional 3D Scene Graphs for Indoor Spaces
+   Xinggang Hu ⋅ Chenyangguang Zhang ⋅ Alexandros Delitzas ⋅ Xiangkui Zhang ⋅ Marc Pollefeys ⋅ Francis Engelmann ⋅ Xiangyang Ji
+   arXiv: https://arxiv.org/abs/2605.15753
+
+56. Hierarchical Prompt Injector for Domain Generalization Segmentation
+   Xin Kun Lin ⋅ Ruoyu Guo ⋅ Jiaqi Guo ⋅ Maurice Pagnucco ⋅ Yang Song
+
+57. Hierarchical Spatial and Channel Aggregation for Cross-domain Few-shot Segmentation
+   Sujun Sun ⋅ Mingwu Ren ⋅ Haofeng Zhang
+   arXiv: https://arxiv.org/abs/2606.24296
+
+58. HVA-Fusion:Hierarchical Velocity-Aware 4D Radar-LiDAR Fusion for Robust 3D Object Detection
+   Jingxian Wu ⋅ Lu Wang ⋅ Lisheng Xu ⋅ Jun Cheng
+
+59. IACD: Iterative Adversarial Collaborative Detection via Dual-Perspective Blind Spot Discovery
+   Xiaoyan Li ⋅ Cuicui Jiang ⋅ Jiaoping Chen ⋅ Rumei Yang
+
+60. InfraNet: Quality-Aware RGB Guidance for Infrared Object Detection
+   Zichao Feng ⋅ Haodong Zhu ⋅ JingYing Yang ⋅ Linlin Yang ⋅ Yangyang Ren ⋅ Sheng Xu ⋅ Yuguang Yang ⋅ Xuhui Liu ⋅ Juan Zhang ⋅ Tian Wang ⋅ Baochang Zhang
+   arXiv: https://arxiv.org/abs/2607.03795
+
+61. Intra-Class Consistency Guided Class-Agnostic Event Segmentation
+   Zhipeng Sui ⋅ Haiqing Hao ⋅ Weihua He ⋅ Wenhui Wang
+
+62. IP-SAM: Rethinking Prompt-Conditioned Segmentation for Prompt-Absent Deployment
+   Huiyao Zhang ⋅ Jin Bai ⋅ Rui Guo ⋅ Jianwen Tan ⋅ Hongfei Wang ⋅ Ye Li
+   arXiv: https://arxiv.org/abs/2603.27250
+
+63. Iterative Refinement of Semantic and Spatial Representations for Open-Vocabulary Camouflaged Object Segmentation
+   Fangyan Wang ⋅ Ge Jiao ⋅ Guowen Yue
+
+64. Label-Free Text Prototype Adaptation for Open Vocabulary Segmentation
+   Keli Wang ⋅ Meixuan Li ⋅ Tianyu Li ⋅ Guoqing Wang
+
+65. Learning Accurate Segmentation Purely from Self-Supervision
+   Zuyao You ⋅ Zuxuan Wu ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2602.23759
+
+66. Learning Probabilistic Embeddings for Unsupervised Action Segmentation
+   Shuai Li ⋅ Duc Vu ⋅ Juergen Gall
+   arXiv: https://arxiv.org/abs/2607.05263
+   code:  https://github.com/derkbreeze/PEOT
+
+67. Learning Structurally Consistent Representations for Multi-View Radar Semantic Segmentation
+   ALI ZIA ⋅ Muhammad Ramzan ⋅ Abdelwahed Khamis ⋅ Usman Ali ⋅ Abdul Rehman
+   arXiv: https://arxiv.org/abs/2606.31609
+
+68. Learning Structured Visual Compositional Representations for Weakly Supervised Referring Expression Comprehension
+   Lian Xu ⋅ Mohammed Bennamoun ⋅ Farid Boussaid ⋅ Hamid Laga ⋅ Yulan Guo ⋅ Dan Xu
+   arXiv: https://arxiv.org/abs/2607.04638
+
+69. Liquid Fusion of Heterogeneous Representations Towards General Salient Object Detection
+   Ke Chen ⋅ Ling Zhou ⋅ Yi Liu ⋅ Guangqi Jiang ⋅ Gengshen Wu ⋅ Shoukun Xu
+   arXiv: https://arxiv.org/abs/2606.26849
+   code:  https://github.com/cke520/LFNet
+
+70. LlamaSeg: Image Segmentation via Autoregressive Mask Generation
+   Jiru Deng ⋅ Tengjin Weng ⋅ Tianyu Yang ⋅ Wenhan Luo ⋅ Zhiheng Li ⋅ Wenhao Jiang
+   arXiv: https://arxiv.org/abs/2505.19422
+   code:  https://github.com/GML-FMGroup/llamaseg
+
+71. LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension
+   Shunya Kato ⋅ Taiki Miyanishi ⋅ Shuhei Kurita ⋅ Mahiro Ukai ⋅ Nakamasa Inoue ⋅ Chenhui Chu
+   arXiv: https://arxiv.org/abs/2607.02096
+   code:  https://github.com/shunya-kato/LongEgoRefer
+
+72. LoRC: Detecting AI-Generated Images via Low-Rank Collapse in the Semantic-Residual Space
+   Haozhen Yan ⋅ Ruoxin Chen ⋅ Jiahui Zhan ⋅ Taiping Yao ⋅ Bo Wang ⋅ Youchang xiao ⋅ Shouhong Ding ⋅ Liqing Zhang ⋅ Jianfu Zhang
+
+73. Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention
+   Haiqing Hao ⋅ Zhipeng Sui ⋅ Rong Zou ⋅ Zijia Dai ⋅ Nikola Zubic ⋅ Davide Scaramuzza ⋅ Wenhui Wang
+   arXiv: https://arxiv.org/abs/2603.06228
+
+74. M4-SAR: A Multi-Resolution, Multi-Polarization, Multi-Scene, Multi-Source Dataset and Benchmark for optical-SAR Object Detection
+   Chao Wang ⋅ Wei Lu ⋅ Xiang Li ⋅ Jian Yang ⋅ Lei Luo
+   arXiv: https://arxiv.org/abs/2505.10931
+   code:  https://github.com/wchao0601/M4-SAR
+
+75. Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs
+   Yung-Hsu Yang ⋅ Luigi Piccinelli ⋅ Samuel Rota Bulò ⋅ Sunghwan Hong ⋅ Denys Rozumnyi ⋅ Johannes Schönberger ⋅ Zuria Bauer ⋅ Hermann Blum ⋅ Peter Kontschieder ⋅ Marc Pollefeys
+   arXiv: https://arxiv.org/abs/2608.12179
+   page:  https://royyang0714.github.io/Map-Det3D
+
+76. MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images
+   Qinyue Tong ⋅ Ziqian Lu ⋅ Jun Liu ⋅ Rui Zuo ⋅ Zheming Lu ⋅ Yueming Jin
+   arXiv: https://arxiv.org/abs/2511.12110
+   code:  https://github.com/Edisonhimself/MediRound
+
+77. MiNQVIS: Mitigating Noisy Queries for Robust Online Video Instance Segmentation
+   Jie Qiao ⋅ Jianxu Chen ⋅ Xiaowei Xu
+
+78. Mitigating Pose–Scale Discrepancy Bias and Reforming Multi-Support Reasoning for Few-Shot Semantic Segmentation
+   Shreya Biswas ⋅ Zhaozheng Yin
+
+79. MoCA3D: Monocular 3D Bounding Box Prediction in the Image Plane
+   Changwoo Jeon ⋅ Rishi Upadhyay ⋅ Achuta Kadambi
+   arXiv: https://arxiv.org/abs/2603.19538
+
+80. ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation
+   Qingze He ⋅ Fagui Liu ⋅ Dengke Zhang ⋅ Qingmao Wei ⋅ Quan Tang
+   arXiv: https://arxiv.org/abs/2604.07021
+   code:  https://github.com/Autumnair007/ModuSeg
+
+81. MoMCE: Mixture of Modality and Cue Experts for Multimodal Deception Detection
+   Dongliang Zhu ⋅ Ruimin Hu ⋅ Zitong Yu ⋅ Xiaobao Guo ⋅ Mei Wang ⋅ Shuo Ye ⋅ Fei Ma ⋅ Xiaochun Cao
+
+82. MomentSeg: Moment-Centric Sampling for Enhanced Referring Video Object Segmentation
+   Ming Dai ⋅ Sen Yang ⋅ Boqiang Duan ⋅ Wankou Yang ⋅ Jingdong Wang
+
+83. MonoSR: Open-Vocabulary Spatial Reasoning on Monocular Images
+   Qirui Wang ⋅ Jingyi He ⋅ Yining Pan ⋅ Si Yeo ⋅ Xulei Yang ⋅ Shijie Li
+   arXiv: https://arxiv.org/abs/2511.19119
+
+84. NegAS: Negative Label Guided Attention and Scoring for Out-of-Distribution Object Detection with Vision-Language Models
+   Yingjie Zhang ⋅ Shuai Li ⋅ Peng Wang
+   arXiv: https://arxiv.org/abs/2606.22537
+
+85. NUN: Nested Unfolding Network for Real-World Concealed Object Segmentation
+   Chunming He ⋅ Rihan Zhang ⋅ Longxiang Tang ⋅ Dingming Zhang ⋅ Bojian Zhang ⋅ Fengyang Xiao ⋅ Jingjia Feng ⋅ Sina Farsiu
+
+86. OBBSeg: Irregular Lesion Segmentation under Oriented Bounding Box Annotations
+   Jun Wei ⋅ Xinchang Liu ⋅ Yu Liu ⋅ Chuhua Yang ⋅ Shuhui Wang ⋅ Hui Huang
+   arXiv: https://arxiv.org/abs/2607.06007
+   code:  https://github.com/StarLxc3/OBBSeg
+
+87. Online 3D Instance Segmentation at task-oriented granularity with Unposed Monocular Video
+   Dong Wu ⋅ Baicheng Li ⋅ Yingdian Cao ⋅ Shunkai Zhou ⋅ Yiwen Lu ⋅ Hongbin Zha
+
+88. Online Reasoning Video Object Segmentation
+   jinyuan Liu ⋅ Yang Wang ⋅ Zeyu Zhao ⋅ Weixin Li ⋅ Song Wang ⋅ Ruize Han
+   arXiv: https://arxiv.org/abs/2604.11411
+
+89. OP3DSG: Open-vocabulary Part-aware 3D Scene Graph Generation for Real-world Environments
+   Yirum Kim ⋅ Ue-Hwan Kim
+   arXiv: https://arxiv.org/abs/2606.29786
+
+90. Open-Vocabulary 3D Object Detection with Co-Distillation Discovery and Dual Guidance Robust Training
+   Shangbo Yuan ⋅ Jie Xu ⋅ Xiaofeng Zhu ⋅ Na Zhao
+
+91. Open-Vocabulary BEV Segmentation with 3D-Aware Geometric Constraints
+   Hojun Choi ⋅ Seulbin Hwang ⋅ Dae Kim ⋅ Kisung Kim ⋅ Hyunjung Shim ⋅ Jinhan Lee
+   arXiv: https://arxiv.org/abs/2606.24353
+   page:  https://hchoi256.github.io/projects/ovbevseg/
+
+92. Open-Vocabulary Long Term Action Anticipation
+   Syed Talal Wasim ⋅ Jinhui Yi ⋅ Hamid Suleman ⋅ Ahmad Javed ⋅ Yanan Luo ⋅ Muhammad Muzammal Naseer ⋅ Juergen Gall
+
+93. OpenPanoD: Aligning Multimodal Prompts and Spherical Representations for Open-Vocabulary Panoramic Detection
+   Hang Xu
+
+94. Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection
+   Aoting Zhang ⋅ Dongbao Yang ⋅ Chang Liu ⋅ Xiaopeng Hong ⋅ Can Ma ⋅ Yu ZHOU
+   arXiv: https://arxiv.org/abs/2607.17340
+
+95. P3-SAM: Native 3D Part Segmentation
+   CHANGFENG MA ⋅ YANG LI ⋅ Xinhao Yan ⋅ Jiachen Xu ⋅ Yunhan Yang ⋅ Chunshi Wang ⋅ Zibo Zhao ⋅ Yanwen Guo ⋅ Zhuo Chen ⋅ Chunchao Guo
+   arXiv: https://arxiv.org/abs/2509.06784
+   page:  https://murcherful.github.io/P3-SAM/
+
+96. Pano3D: Unified 3D Reconstruction and Panoptic Segmentation
+   Victor Barberteguy ⋅ Ahmet Iscen ⋅ Mathilde Caron ⋅ Alireza Fathi ⋅ Gül Varol ⋅ Cordelia Schmid
+   arXiv: https://arxiv.org/abs/2606.14307
+   page:  https://victorbbt.github.io/Pano3D/
+
+97. PASR: Pattern-Aware Scene-Conditioned Reasoning for Camouflaged Object Detection
+   Xinyu Wang ⋅ Jintang Xue ⋅ C.-C. Jay Kuo
+
+98. Per‑Object IoU Forecasting for Deadline‑Aware Real‑Time Embedded Detection Control
+   Erfan Foorginejad ⋅ Akshar Chavan ⋅ Marco Brocanelli
+
+99. PhenoLeaf-TS: A Time-Series Benchmark for Leaf Instance Segmentation, Tracking, and Growth Stage Classification
+   Rijad Saric ⋅ Basim Azam ⋅ Sarmad Khan ⋅ Edhem Custovic
+
+100. PhysFlowNet: Learning Canonical Latent Manifolds via Spatio-Spectral Physics Priors for Underwater Object Detection
+   XUETING Liu ⋅ Haoyu Ji ⋅ Wenze Huang ⋅ Zhihao Yang ⋅ Yu Gao ⋅ Weihong Ren ⋅ Zhiyong Wang ⋅ Honghai Liu
+
+101. Pixel-wise Planarity for High-Precision Monocular Plane Segmentation
+   Ahmetcan Yavuz ⋅ Alpay Ozkan ⋅ Rémi Pautrat ⋅ Shaohui Liu ⋅ Marc Pollefeys
+
+102. PKINet-v2: Towards Powerful and Efficient Poly-Kernel Remote Sensing Object Detection
+   Xinhao Cai ⋅ Liulei Li ⋅ Gensheng Pei ⋅ Zeren Sun ⋅ Yazhou Yao ⋅ Wenguan Wang
+   arXiv: https://arxiv.org/abs/2603.16341
+
+103. PLOT: Pseudo-Labeling via Object Tracking for Monocular 3D Object Detection
+   SeokYeong Lee ⋅ Sithu Aung ⋅ JunYong Choi ⋅ Seungryong Kim ⋅ Ig-Jae Kim ⋅ Junghyun Cho
+
+104. PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection
+   Xuanming Shang ⋅ Weijia Zhang ⋅ Chao Ma
+
+105. QASA: Quality-Guided K-Adaptive Slot Attention for Unsupervised Object-Centric Learning
+   Tianran Ouyang ⋅ Xingping Dong ⋅ Jing Zhang ⋅ Mang Ye ⋅ Kaihao Zhang ⋅ Bo Du
+   arXiv: https://arxiv.org/abs/2601.12936
+
+106. QST-SAM: Leveraging Cross-modal Instructions for Few-shot Referring Video Object Segmentation
+   Xin Liu ⋅ Weijia Li ⋅ Tao Chen ⋅ Hongsong Wang ⋅ Guosen Xie ⋅ Caifeng Shan ⋅ Fang Zhao
+
+107. RA-SOD: Reliability-Aware RGB-T Salient Object Detection under Modality Degradation
+   Hongbo Gao ⋅ Zhengyu Li ⋅ XUERU NIE ⋅ Dihao Zhu ⋅ lijun zhao ⋅ Yunke Wang ⋅ Chang Xu
+
+108. RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather
+   Heejun Park ⋅ Jaeseok Jeong ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2607.04587
+   code:  https://github.com/parkie0517/RAF
+
+109. REAL-OW: Rehearsal-free Open World Object Detection with Low-Rank Adaptation and Dual-Stage Objectness Modeling
+   Huazhong Zhang ⋅ Xiaowen Fu ⋅ Yang Zhang ⋅ Linlin Shen ⋅ Jinbao Wang
+   arXiv: https://arxiv.org/abs/2607.03004
+
+110. Real-Time Source-Free Object Detection
+   Sairam V C Rebbapragada ⋅ Varun Gopal ⋅ Poornima Jain ⋅ Vineeth N Balasubramanian ⋅ Muhammad Haris Khan
+   arXiv: https://arxiv.org/abs/2606.31834
+   code:  https://github.com/Sairam13001/RT-SFOD/
+
+111. ReliefSAM: A Geometry-Augmented Multi-Prior Adapter for Bas-Relief Segmentation
+   YIHANG CHEN ⋅ Xiang Lyu ⋅ Rui Xu ⋅ Jiao PAN ⋅ Fadjar Thufail ⋅ Brahmantara Brahmantara ⋅ JIAQING LIU ⋅ Satoshi Tanaka ⋅ Liang Li
+
+112. Rethinking Prototype-based Similarity Learning for Few-Shot Object Detection
+   KunHo Heo ⋅ Seungjae kim ⋅ Wongyu Lee ⋅ SuYeon Kim ⋅ MyeongAh Cho
+   arXiv: https://arxiv.org/abs/2606.23069
+   code:  https://github.com/VisualScienceLab-KHU/ReSet
+
+113. Rethinking Pseudo-Labels: Multi-Granularity Supervision for Domain Adaptive Object Detection
+   Haohao Ma ⋅ Weimin Lu ⋅ Qiqi Ge
+
+114. RiO-DETR: DETR for Real-time Oriented Object Detection
+   Zhangchi Hu ⋅ Yifan Zhao ⋅ Yansong Peng ⋅ Wenzhang SUN ⋅ Xiangchen Yin ⋅ Jie Chen ⋅ Peixi Wu ⋅ Hebei Li ⋅ xinghao wang ⋅ Dongsheng Jiang ⋅ Xiaoyan Sun
+   arXiv: https://arxiv.org/abs/2603.09411
+   code:  https://github.com/RicePasteM/RiO-DETR
+
+115. Robust onion: Peeling Open Vocab Object Detectors Under Noise
+   Priyank Pathak ⋅ Mukilan Karuppasamy ⋅ Aaditya Baranwal ⋅ Shruti Vyas ⋅ Yogesh Rawat
+   arXiv: https://arxiv.org/abs/2606.26734
+
+116. RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models
+   Zijun Liao ⋅ Yian Zhao ⋅ Xin Shan ⋅ Yu Yan ⋅ Chang Liu ⋅ lei lu ⋅ Xiangyang Ji ⋅ Jie Chen
+   arXiv: https://arxiv.org/abs/2510.25257
+
+117. RT-SDGOD: Real-Time Single-Domain Generalized Object Detection
+   Yupeng Zhang ⋅ Fangzhuo Gao ⋅ Ruize Han ⋅ Wei Feng ⋅ Liang Wan
+   arXiv: https://arxiv.org/abs/2606.09367
+
+118. S2-FracMix: Self-Saliency Fractal Mixup
+   Khawar Islam ⋅ Arif Mahmood ⋅ Xin Jin ⋅ NAVEED AKHTAR
+
+119. Safe Generalization: Mitigating Catastrophic Forgetting in Single-Source Multi-Organ Segmentation via Collaborative Causal Learning
+   Yucheng Song ⋅ Ruoxi Yu ⋅ Feng Shu ⋅ Cheng Huang ⋅ HaoKang Ding ⋅ Zhifang Liao
+
+120. SAM-MT: Real-Time Interactive Multi-Target Video Segmentation
+   Ruiqi Shen ⋅ Chang Liu ⋅ Henghui Ding
+   arXiv: https://arxiv.org/abs/2607.08688
+   page:  https://henghuiding.com/SAM-MT/
+
+121. SAM2Matting: Generalized Image and Video Matting
+   Ruiqi Shen ⋅ Guangquan Jie ⋅ Chang Liu ⋅ Henghui Ding
+   arXiv: https://arxiv.org/abs/2606.27339
+   page:  https://henghuiding.com/SAM2Matting/
+
+122. SARIF: Segment Anything for Robust Image Forensics
+   Dong-Hyun Moon ⋅ Ju-Hyeon Nam ⋅ Sang-Chul Lee
+   arXiv: https://arxiv.org/abs/2606.21108
+   code:  https://github.com/Inha-CVAI/SARIF_ECCV2026
+
+123. Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision
+   Weijian Jian ⋅ Xiaoyue Zhang ⋅ Bin Xiao ⋅ Chunyu Xie ⋅ Yixiao He ⋅ Yutao Liu ⋅ Dawei Leng ⋅ Yuhui Yin
+
+124. Segmenting Visuals With Querying Words: Language Anchors For Semi-Supervised Image Segmentation
+   Numair Nadeem ⋅ Saeed Anwar ⋅ Muhammad Asad ⋅ Abdul Bais
+   arXiv: https://arxiv.org/abs/2506.13925
+
+125. Segmenting, Fast and Slow: Real-Time Open-Vocabulary Video Instance Segmentation with Dual-Path Processing
+   Luca Barsellotti ⋅ Martin Sundermeyer ⋅ Mattia Segu ⋅ Nikita Araslanov ⋅ Muhammad Ferjad Naeem ⋅ Marcella Cornia ⋅ Yongqin Xian ⋅ Maxim Berman
+   arXiv: https://arxiv.org/abs/2607.00124
+
+126. SegPAR: Class-Centric Decision-Based Sparse Attack for Semantic Segmentation
+   Dongsu Song ⋅ Daeyun Go ⋅ BOSEUNG SEO ⋅ Jay Hoon Jung
+   arXiv: https://arxiv.org/abs/2608.11285
+   code:  https://github.com/KAU-QuantumAILab/SegPAR
+
+127. Selective Synergistic Learning for Video Object-Centric Learning
+   WonJun Moon ⋅ Jae-Pil Heo
+   arXiv: https://arxiv.org/abs/2606.15527
+
+128. SEMIR: Topology-Preserving Graph Minors for Thin-Structure Segmentation
+   Luke Miller ⋅ Yugyung Lee
+   arXiv: https://arxiv.org/abs/2606.24935
+
+129. SFD-Net: Sharp Feature Detection Network Based on Local Geometric Features
+   Inyoung Oh ⋅ Kwanghee Ko
+
+130. SGQA: Semantic-Geometric Quality Alignment for Training-Free Few-Shot Instance Segmentation
+   Yuhao Qing ⋅ Liuyan Feng ⋅ Haoyuan Li
+
+131. Slim-DETR: Real-Time Tiny Object Detection with Efficient Interaction and Gaussian Query
+   Tong Wu ⋅ Jiahao Zhang ⋅ Juntao Guan ⋅ Lai Rui
+
+132. SOVTrack: Open-Vocabulary Multi-Object Tracking with Self-Supervised Pseudo Labeling and Feature Distillation
+   Zekun QIAN ⋅ Ruize Han ⋅ Junhui Hou ⋅ Wei Feng
+
+133. StAR: Segment Anything Reasoner
+   Seokju Yun ⋅ Dongheon Lee ⋅ Noori Bae ⋅ Jaesung Jun ⋅ Chanseul Cho ⋅ Youngmin Ro
+
+134. Sticking Information in Plain Sight: Encoding and Detecting Hidden Stickers in the Real World
+   Christina Shatford ⋅ Szymon Rusinkiewicz
+
+135. Taming Dynamic Clutter: Variance-Driven Adaptive Gain Control for Bio-inspired Small Target Detection
+   Jiaxiang Li ⋅ Shaobing Gao ⋅ Qinbing Fu ⋅ Meiyi Li ⋅ Tiansheng Lu ⋅ Minjie Tan
+
+136. Task-Agnostic Incremental Vision-Language Object Detection via Prompt Augmentation and Distribution-Aware Fusion
+   Yonghan Jiang ⋅ Zhengyuan Xie ⋅ Wenchu Liu ⋅ Linlan Huang ⋅ Fei Yang ⋅ Xialei Liu
+
+137. TMI: Text-to-Image Meets Image-to-Image for Complementary Data Synthesis to Boost Long-Tailed Instance Segmentation
+   Hyeonseop Song ⋅ Seokhun Choi ⋅ Hoseok Do
+   arXiv: https://arxiv.org/abs/2607.08201
+   page:  https://seokhunchoi.github.io/TMI
+
+138. Toward Robust In-Context Segmentation via Concept Guidance
+   Zhigang Chen ⋅ Xiawu Zheng ⋅ Rongrong Ji
+   arXiv: https://arxiv.org/abs/2606.28149
+   code:  https://github.com/Kakarot1103/CG-ICS
+
+139. Towards High-Resolution Visual Perception via Hierarchical Entity Exploration
+   Ziyu Ma ⋅ Shidong Yang ⋅ Yuxiang Ji ⋅ Yiming Hu ⋅ Tongwen Huang ⋅ Yong Wang ⋅ Jianfei Cai ⋅ Xiangxiang Chu
+   arXiv: https://arxiv.org/abs/2607.00816
+
+140. Towards Open-World Referring Expression Comprehension: A Benchmark with Training-free Multi-task Consistency Checker
+   Zongjian Wu ⋅ Lei Zhang
+   arXiv: https://arxiv.org/abs/2605.25706
+   page:  https://zongjianwu.github.io/openref
+
+141. Towards Sparsely Annotated Open World Object Detection
+   HEEJU HAN ⋅ AJEONG KIM ⋅ Jinsun Park
+   arXiv: https://arxiv.org/abs/2608.12714
+
+142. Towards Unsupervised Multi-modal Semantic Segmentation
+   Haitian Zhang ⋅ Thai Nguyen ⋅ Xiangyuan Wang ⋅ Mohan Liu ⋅ Addison Wang
+   arXiv: https://arxiv.org/abs/2607.12372
+
+143. UniPart: Towards Zero-shot Language-Grounded 3D Part Segmentation for Embodied Interaction
+   Xinqiang Yu ⋅ Zekun Qi ⋅ Jiawei He ⋅ Wenyao Zhang ⋅ Xuchuan Chen ⋅ Guocai Yao ⋅ Li Yi ⋅ Zhaoxiang Zhang ⋅ HE WANG
+
+144. Unsupervised Semantic Segmentation Facilitates Model Understanding
+   Xiaoyan Yu ⋅ Lisa Mais ⋅ Peter Hirsch ⋅ Nick Lechtenbörger ⋅ Jannik Franzen ⋅ Andreas Mardt ⋅ Dagmar Kainmueller
+   arXiv: https://arxiv.org/abs/2605.29691
+
+145. VCP-DCN: Beyond Visual Concealed Property via Depth Collaborative Network for Camouflaged Object Detection
+   Songsong Duan ⋅ Xi Yang ⋅ Nannan Wang
+   arXiv: https://arxiv.org/abs/2607.27843
+
+146. What is the Right Embedding Space for Contrastive Learning in Referring Expression Counting?
+   Kostas Triaridis ⋅ Panagiotis Kaliosis ⋅ E-Ro Nguyen ⋅ Jingyi Xu ⋅ Dimitris Samaras ⋅ Hieu Le
+
+147. When Specialists Meet Generalists: Segmenter-Coordinated Asymmetric Learning for Label-Deficient Concealed Object Segmentation
+   Chunming He ⋅ Dingming Zhang ⋅ Longxiang Tang ⋅ Ziyun Yang ⋅ Fengyang Xiao ⋅ Sina Farsiu
+
+148. When W4A4 Breaks Camouflaged Object Detection: Token-Group Dual-Constraint Activation Quantization
+   Tianqi Li ⋅ Wenyu Fang ⋅ Xin He ⋅ Xue Geng ⋅ Xu Cheng ⋅ Yun Liu
+   arXiv: https://arxiv.org/abs/2604.16855
+   code:  https://github.com/MCG-NKU/nku-model-compre
+
+149. X2SAM: Any Segmentation in Images and Videos
+   Hao Wang ⋅ Limeng Qiao ⋅ Chi Zhang ⋅ Lin Ma ⋅ Guanglu Wan ⋅ Xiangyuan Lan ⋅ Xiaodan Liang
+   arXiv: https://arxiv.org/abs/2605.00891
+
+150. ZMIS-SAM: Segment Anything Model Enhanced With Wavelet Transform For Zooplankton Microscopy Image Instance Segmentation
+   Dekun Yuan ⋅ Zhongwei Li ⋅ Zheng Qiao ⋅ Jie Zhang
+   arXiv: https://arxiv.org/abs/2607.27585
+

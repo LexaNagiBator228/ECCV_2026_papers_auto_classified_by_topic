@@ -1,0 +1,244 @@
+Audio-Visual, Speech & Tactile Sensing  (57 papers, 46 with arXiv links)  [Application Domains]
+============================================================================
+
+1. A First Exploration of Neuromorphic OT-CFM for Multi-Speaker VSR
+   Lin Chen ⋅ Jingping Fang ⋅ Hairui Liu ⋅ Chenyang Xu ⋅ Junhao Chen ⋅ Xiaorui Li ⋅ Weidong Cai ⋅ Xiaoming Chen
+   arXiv: https://arxiv.org/abs/2606.31225
+
+2. AdaDexGrasp: Adaptive Dexterous Grasping via 3D Visuo-Tactile Representation Fusion
+   Xirui Liang ⋅ Jingkai Xu ⋅ Jiaqi Liang ⋅ Yuran Wang ⋅ Ruochong Li ⋅ Yuanpei Chen ⋅ Masayoshi TOMIZUKA ⋅ Wei Zhan ⋅ Ruihai Wu
+   arXiv: https://arxiv.org/abs/2608.07600
+
+3. Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video
+   Ikechukwu D Adebi ⋅ Sagnik Majumder ⋅ Kristen Grauman
+   arXiv: https://arxiv.org/abs/2512.12165
+   page:  http://vision.cs.utexas.edu/projects/av_camera_pose
+
+4. Audio-Visual Continual Test-Time Adaptation without Forgetting
+   Sarthak Kumar Maharana ⋅ Akshay Mehra ⋅ Bhavya Ramakrishna ⋅ Yunhui Guo ⋅ Guan-Ming Su
+   arXiv: https://arxiv.org/abs/2602.18528
+
+5. AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation
+   Trung Kien Pham ⋅ I Chen ⋅ Qifeng Chen ⋅ Long Chen
+   arXiv: https://arxiv.org/abs/2606.30811
+
+6. Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models
+   Yijie Qian ⋅ Juncheng Wang ⋅ Chao Xu ⋅ Huihan Wang ⋅ Yuxiang Feng ⋅ Yang Liu ⋅ Baigui Sun ⋅ Yong Liu ⋅ Shujun Wang
+   arXiv: https://arxiv.org/abs/2607.09091
+
+7. C3ASD: Multi-Level Consistency-Driven Representation Learning for Robust Active Speaker Detection
+   Jin Hong ⋅ Jisoo Park ⋅ Junseok Kwon
+
+8. Conditional Flow Matching for Visually-Guided Acoustic Highlighting
+   Hugo Malard ⋅ Gael Le Lan ⋅ Daniel Wong ⋅ David Alon ⋅ YI-CHIAO WU ⋅ Sanjeel Parekh
+   arXiv: https://arxiv.org/abs/2602.03762
+
+9. Conversational Human Audio-visual Talking Dialogue Generation
+   Junhao Song ⋅ Lluis Guasch ⋅ Xilin He ⋅ zhongyu yang ⋅ Yingfang Yuan ⋅ Weicheng Xie ⋅ Linlin Shen ⋅ Lin Haijun ⋅ Shizhe Liu ⋅ Wei Pang ⋅ Siyang Song
+   arXiv: https://arxiv.org/abs/2607.02799
+
+10. DAP: Doppler-aware Point Network for Heterogeneous mmWave Action Recognition
+   Jiaying Lin ⋅ Shiman Wu ⋅ Jinfu Liu ⋅ Can Wang ⋅ Mengyuan Liu
+   arXiv: https://arxiv.org/abs/2605.09604
+
+11. DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression
+   Bingzhou Li ⋅ Tao Huang
+   arXiv: https://arxiv.org/abs/2603.15685
+   code:  https://github.com/laychou666/DASH
+
+12. Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models
+   Hongyu Li ⋅ Wanjia Fu ⋅ Xiaoyan Cong ⋅ Zekun Li ⋅ Binghao Huang ⋅ Hanxiao Jiang ⋅ Xintong He ⋅ Yiqing Liang ⋅ Rao Fu ⋅ Tao Lu ⋅ Srinath Sridhar ⋅ Kevin Smith ⋅ George Konidaris ⋅ Yunzhu Li
+   arXiv: https://arxiv.org/abs/2607.05390
+   page:  https://deform360.lhy.xyz
+
+13. Delayed Bidirectional Alignment via Disentangled Audio Semantics for Audio-Visual Segmentation
+   Jingqi Tian ⋅ Yiheng Du ⋅ Haoji Zhang ⋅ Yuji Wang ⋅ Isaac Ning Lee ⋅ Xulong Bai ⋅ Tianrui Zhu ⋅ Jingxuan Niu ⋅ Yansong Tang
+   arXiv: https://arxiv.org/abs/2512.20117
+   page:  https://trilarflagz.github.io/DDAVS-page/
+
+14. Don't Let the Video Speak: Audio-Contrastive Preference Optimization for Audio-visual Language Models
+   Ami Baid ⋅ Zihui Xue ⋅ Kristen Grauman
+
+15. HiChor: Hierarchical Choreography Generation from Pop Music with Choreographic Primitives
+   Jungsu Kim ⋅ Jungwoo Huh ⋅ Jeongwook Choi ⋅ Wen-Huang Cheng ⋅ Jian-Yu Jiang-Lin ⋅ Weisi Lin ⋅ Sanghoon Lee
+
+16. HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching
+   Lanmiao Liu ⋅ Esam Ghaleb ⋅ asli ozyurek ⋅ Zerrin Yumak
+
+17. HumanOmni-Speaker: Identifying Who said What and When
+   Detao Bai ⋅ Xihan Wei ⋅ Zhiheng Ma
+   arXiv: https://arxiv.org/abs/2603.21664
+
+18. HybridSim: A Physics–Learning Hybrid Digital Twin for mmWave Human Sensing
+   Weitao Xiong ⋅ Tianyu Liu ⋅ Peng Li ⋅ KOK CHUNG CHUA ⋅ Toa Khim ⋅ Pu Wang ⋅ Hongfei Xue
+   arXiv: https://arxiv.org/abs/2607.15806
+   page:  https://weitao-xiong.github.io/HybridSim/
+
+19. ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA
+   Aviad Dahan ⋅ Moran Yanuka ⋅ Noa Kraicer ⋅ Lior Wolf ⋅ RAJA GIRYES
+   arXiv: https://arxiv.org/abs/2603.10256
+
+20. JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching
+   Mingi Kwon ⋅ Joonghyuk Shin ⋅ Jaeseok Jeong ⋅ Jaesik Park ⋅ Youngjung Uh
+   arXiv: https://arxiv.org/abs/2506.23552
+   page:  https://joonghyuk.com/jamflow-web
+
+21. JoVA: Unified Multimodal Learning for Joint Video-Audio Generation and Editing
+   Xiaohu Huang ⋅ Haoyang He ⋅ Hao Zhou ⋅ Qiangpeng Yang ⋅ Min Zheng ⋅ Kai Han
+   arXiv: https://arxiv.org/abs/2512.13677
+   page:  https://visual-ai.github.io/jova
+
+22. MAVIN: Multi-Shot Audio-Visual Generation with Customized Narrative Control
+   Kaiqi Liu ⋅ Yunyao Mao ⋅ Ziqi Cai ⋅ Zheng Geng ⋅ Jing Wang ⋅ Qiulin Wang ⋅ Xintao Wang ⋅ Pengfei Wan ⋅ Kun Gai ⋅ Shuchen Weng ⋅ Boxin Shi
+   arXiv: https://arxiv.org/abs/2606.29473
+
+23. MeanTalker: Efficient and Expressive Speech-Driven 3D Facial Animation via Geometric-Aware Mean Flow
+   Zhongyuan Zhao ⋅ Zhihao Li ⋅ Qing Li ⋅ Leidong Fan ⋅ KANGLIN LIU
+
+24. Meric: A Unified Framework for Multimodal Music Generation and Retrieval via Representation Space Anchoring
+   Xihua Wang ⋅ Yinbo Wang ⋅ Jingchao Zhang ⋅ Ruihua Song
+
+25. MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech
+   Chengyao Wang ⋅ Zhisheng Zhong ⋅ Bohao PENG ⋅ Senqiao Yang ⋅ Yuqi Liu ⋅ Haokun GUI ⋅ Bin Xia ⋅ Jingyao Li ⋅ Bei Yu ⋅ Jiaya Jia
+   arXiv: https://arxiv.org/abs/2509.25131
+   code:  https://github.com/dvlab-research/MGM-Omni
+
+26. MindFlow: Harmonizing Cognitive Semantics and Acoustic Dynamics for Facial Animation Generation in Dyadic Conversations
+   Hejia Chen ⋅ Haoxian Zhang ⋅ Xu He ⋅ Xiaoqiang Liu ⋅ Pengfei Wan ⋅ Shoulong Zhang ⋅ Shuai Li
+   arXiv: https://arxiv.org/abs/2606.27779
+
+27. MMControl: Unified Multi-Modal Control for Joint Audio-Video Generation
+   Liyang Li ⋅ Wen Wang ⋅ Canyu Zhao ⋅ Tianjian Feng ⋅ Zhiyue Zhao ⋅ Hao Chen ⋅ Chunhua Shen
+   arXiv: https://arxiv.org/abs/2604.19679
+   page:  https://aim-uofa.github.io/MMControl/
+
+28. Music-to-Dance Generation via Atomic Movements
+   Xinhao Cai ⋅ Yixuan Sun ⋅ Minghang Zheng ⋅ Qingchao Chen ⋅ Xin Jin ⋅ Song-Chun Zhu ⋅ Yang Liu
+   arXiv: https://arxiv.org/abs/2607.13978
+
+29. MuSViT: A Foundation Vision Model for Sheet Music Representation
+   Carlos Penarrubia ⋅ Antonio Rios-Vila ⋅ Eliseo Fuentes-Martinez ⋅ Juan Martinez-Sevilla ⋅ Francisco Castellanos ⋅ María Alfaro-Contreras ⋅ Jorge Calvo-Zaragoza
+   arXiv: https://arxiv.org/abs/2606.31811
+
+30. Objects as Audio-Visual Modal Sound Fields
+   Zisen Shao ⋅ Zihao Wei ⋅ Derong Jin ⋅ Ruohan Gao
+   arXiv: https://arxiv.org/abs/2608.05145
+   page:  https://zisenshao.github.io/AV-MSF/
+
+31. OmniForcing: Unleashing Real-time Joint Audio-Visual Generation
+   Yaofeng Su ⋅ Yuming Li ⋅ Zeyue Xue ⋅ Jie Huang ⋅ Siming Fu ⋅ Haoran Li ⋅ Haoyang Huang ⋅ Nan Duan
+   arXiv: https://arxiv.org/abs/2603.11647
+   page:  https://omniforcing.com
+
+32. OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video
+   JUNFU PU ⋅ Yuxin Chen ⋅ Teng Wang ⋅ Ying Shan
+   arXiv: https://arxiv.org/abs/2604.11102
+   page:  https://arcomniscript.github.io
+
+33. Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space
+   Thanh V. T. Tran ⋅ Ngoc-Son Nguyen ⋅ Luong Tran ⋅ Long-Khanh Pham ⋅ Paarth Neekhara ⋅ Shehzeen Hussain ⋅ Van Nguyen
+   arXiv: https://arxiv.org/abs/2607.06405
+
+34. Q-TriM: Question-Guided Tri-Modal Attention for Audio–Visual Question Answering
+   SungHun Kim ⋅ Seung Baek
+   arXiv: https://arxiv.org/abs/2607.03825
+   code:  https://github.com/Sunghun95/Q-TriM
+
+35. Recognizing Co-Speech Gestures in-the-Wild
+   Sindhu Hegde ⋅ K R Prajwal ⋅ Andrew ZISSERMAN
+   arXiv: https://arxiv.org/abs/2605.31589
+   page:  https://www.robots.ox.ac.uk/~vgg/research/grw
+
+36. See &amp; Sniff: Learning Visuo-Olfactory Representations
+   Seongyu Kim ⋅ Seungwoo Lee ⋅ Hyeonggon Ryu ⋅ Joon Son Chung ⋅ Arda Senocak
+
+37. Seeing Touch from Motion: A Unified Modality-Aware Visuo-Tactile Policy with Tactile Motion Correlation
+   Shengqi Xu ⋅ Yang Liu ⋅ Guojin Zhong ⋅ Fanjie Wang ⋅ Hu Luo ⋅ Hanyu Zhou ⋅ WeiYao Zhang ⋅ Ziyi Ye ⋅ Zuxuan Wu ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2606.29941
+   page:  https://shengqi77.github.io/Seeing-Touch-from-Motion/
+
+38. SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset
+   Ariel Gjaci ⋅ Antonio Sgorbissa ⋅ Vittorio Murino
+   arXiv: https://arxiv.org/abs/2606.30001
+
+39. Sound-based Multi-Person 3D Pose Estimation
+   Yusuke Oumi ⋅ Yuto Shibata ⋅ Go Irie ⋅ Akisato Kimura ⋅ Yoshimitsu Aoki ⋅ Mariko Isogawa
+
+40. SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark
+   Sania Bano ⋅ Shahzad Ahmad ⋅ Santosh Vipparthi ⋅ Sukalpa Chanda ⋅ Subrahmanyam Murala
+   arXiv: https://arxiv.org/abs/2607.18109
+
+41. Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance
+   Akio Hayakawa ⋅ Masato Ishii ⋅ Takashi Shibuya ⋅ Yuki Mitsufuji
+   arXiv: https://arxiv.org/abs/2506.20995
+   page:  https://ahykw.github.io/sbsv2a/
+
+42. StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring
+   Jianfang Li ⋅ Xiangyue Zhang ⋅ Jiaxu Zhang ⋅ Kaixing Yang ⋅ Steven Hoi
+   arXiv: https://arxiv.org/abs/2608.01643
+   page:  https://xiangyue-zhang.github.io/StreamTalk/
+
+43. Structured-Noise Masked Modeling for Video, Audio and Beyond
+   Aritra Bhowmik ⋅ Carlos Hinojosa ⋅ Fida Mohammad Thoker ⋅ Bernard Ghanem ⋅ Cees Snoek
+   arXiv: https://arxiv.org/abs/2503.16311
+
+44. SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation
+   Juncheng Ma ⋅ Yuxuan Du ⋅ Sun Yanan ⋅ Zhening Xing ⋅ Changlin Li ⋅ Zhenyu Tang ⋅ Bo Li ⋅ Peng-Tao Jiang ⋅ Li Yuan ⋅ Daquan Zhou ⋅ Yonghong Tian
+   arXiv: https://arxiv.org/abs/2606.30849
+
+45. Tac2Real: Reliable and GPU Visuotactile Simulation for Online Reinforcement Learning and Zero-shot Real-World Deployment
+   Ningyu YAN ⋅ Shuai Wang ⋅ Xing Shen ⋅ Hui Wang ⋅ Hanqing Wang ⋅ Yang Xiang ⋅ Jiangmiao Pang
+   arXiv: https://arxiv.org/abs/2603.28475
+   page:  https://ningyurichard.github.io/tac2real-project-page/
+
+46. Tactile Modality Fusion for Vision-Language-Action Models
+   Charlotte Morissette ⋅ Amin Abyaneh ⋅ Wei-Di Chang ⋅ Anas Houssaini ⋅ David Meger ⋅ Hsiu-Chin Lin ⋅ Jonathan Tremblay ⋅ Gregory Dudek
+   arXiv: https://arxiv.org/abs/2603.14604
+   page:  https://charliem7.github.io/projects/TacFilm/
+
+47. Text Dictates, Music Decorates: Energy-based Attention for Editable Dance Generation
+   Seong Jong Yoo ⋅ Siyuan Peng ⋅ Felix Gu ⋅ Stratis Aloimonos ⋅ Cornelia Fermuller
+   arXiv: https://arxiv.org/abs/2606.22726
+   code:  https://github.com/SeongJong-Yoo/STREAM
+
+48. Text-based Tactile Graphics Generation for the Visually Impaired
+   Ruihan Gao ⋅ Joonghyuk Shin ⋅ Ava Pun ⋅ Jaesik Park ⋅ Wenzhen Yuan ⋅ Jun-Yan Zhu
+   arXiv: https://arxiv.org/abs/2607.22674
+   page:  https://ruihangao.github.io/Text2TactileGraphics/
+
+49. Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation
+   Baiqin Wang ⋅ Sen Chen ⋅ Jiankuo Zhao ⋅ Xiangyu Liu ⋅ Zhen Lei ⋅ Xiangyu Zhu
+   arXiv: https://arxiv.org/abs/2606.31088
+   page:  https://bq-wang0511.github.io/InterTalk/
+
+50. Unison: Harmonizing Motion, Speech, and Sound for Human-Centric Audio-Video Generation
+   Shihao Cheng ⋅ Jiaxu Zhang ⋅ Quanyue Song ⋅ Shansong Liu ⋅ Guo Zhi ⋅ Xiao-Lei Zhang ⋅ Chi Zhang ⋅ Xuelong Li ⋅ Zhigang Tu
+   arXiv: https://arxiv.org/abs/2605.08729
+
+51. UniTac: A Unified Multimodal Model for Cross-Sensor Tactile Understanding and Generation
+   Jiahang Tu ⋅ Fengyu Yang ⋅ Chenyang Ma ⋅ Xihang Yu ⋅ Ziyao Zeng ⋅ Shaokai Wu ⋅ Hanbin Zhao ⋅ Zhi Tao ⋅ Chao Zhang ⋅ Hui Qian ⋅ Alex Wong
+   arXiv: https://arxiv.org/abs/2606.31451
+
+52. Video-HolmesV2: Can MLLMs Reason with Spatio-Temporal Audio-Visual Evidence in Long Videos?
+   Zhaoyang Wei ⋅ Zipeng Wang ⋅ Yushe Cao ⋅ Chenhui Qiang ⋅ Shuaibing Cheng ⋅ Xuesong Yang ⋅ Sen Nie ⋅ Bowen Jiang ⋅ Wenchao Ding ⋅ Yanchao Hao ⋅ Zheng Wei ⋅ Xuehui Yu ⋅ Zhenjun Han
+
+53. VisTa3D: A Dataset and Benchmark for Vision, Tactile, and 3D Point Clouds-based Thin Object Reconstruction
+   Shania Guo ⋅ Yeongsik Seo ⋅ Andrew Fu ⋅ Mei Hao ⋅ Iris Xia ⋅ Jiwon Lee ⋅ Xinyi Xie ⋅ Hyoungseob Park ⋅ Aaron Dollar ⋅ Alex Wong
+
+54. VoCa: Unified Autoregressive Modeling for Talking Audio-Video Generation
+   Zhuofan Zong ⋅ Jiale Yuan ⋅ Yufei Liu ⋅ Dongzhi Jiang ⋅ Hao Shao ⋅ Zimu Lu ⋅ Ke Wang ⋅ Yunqiao Yang ⋅ Mingjie Zhan ⋅ Hongsheng LI
+
+55. Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
+   Yoonhyung Park ⋅ Minji Kim ⋅ Sungwon Moon ⋅ Jiyoung Lee
+   arXiv: https://arxiv.org/abs/2607.00302
+   page:  http://mmai.ewha.ac.kr/splash/
+
+56. What Images Cannot Say: Language-Guided Olfactory Representation Learning
+   Eleftherios Tsonis ⋅ Xi WANG ⋅ Vicky Kalogeiton
+   arXiv: https://arxiv.org/abs/2607.06402
+   page:  https://www.lix.polytechnique.fr/vista/projects/2026_scent_tsonis/
+
+57. Whence the Voice? Self-supervised Dual-source Audio-Visual Localisation via Selective Convergence
+   Han Hu ⋅ Dongheng Lin ⋅ Yuqi Hou ⋅ Haotian LI ⋅ Hyung Jin Chang ⋅ Jianbo Jiao
+   arXiv: https://arxiv.org/abs/2608.05816
+

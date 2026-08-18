@@ -1,0 +1,96 @@
+Computational Imaging & Novel Sensors  (27 papers, 8 with arXiv links)  [3D, Geometry & Imaging]
+============================================================================
+
+1. 340 FPS Reflection-free Video from Spikes Modulated by a Rapidly Rotating Polarizer
+   Lishuai Huang ⋅ Yeliduosi Xiaokaiti ⋅ Youwei Lyu ⋅ Langyue Chang ⋅ Boxin Shi ⋅ Shikui Wei ⋅ Yao Zhao ⋅ Meng Jian ⋅ Yashen Wang ⋅ Yakun Chang
+
+2. Broadband Wide Field of View Imaging with Computational Mirrors
+   Vishwanath Saragadam ⋅ Niki Nezakati ⋅ Amit Roy-Chowdhury ⋅ Vivek Boominathan
+   arXiv: https://arxiv.org/abs/2605.00029
+
+3. CLDefocus: Physically Grounded Compound-Lens Defocus Blur Synthesis
+   Yunkyu Lee ⋅ Woohyeok Kim ⋅ Sunghyun Cho
+
+4. D3F-IR: Dual-Domain Deterministic Flow Matching for Visible-to-Infrared Translation
+   Peiyi Zeng ⋅ Diedong Feng ⋅ Zhen Liu ⋅ Zhenming Peng ⋅ Bing Zeng ⋅ Shuaicheng Liu
+
+5. Degradation-Robust and Temporally Consistent Infrared–Visible Video Fusion via One-step Diffusion Framework
+   Songcheng Du ⋅ HaoYuan Xu ⋅ Xingyuan Li ⋅ Yang Zou ⋅ Jinyuan Liu ⋅ YUNPENG BAI ⋅ Ying Li
+
+6. DualResPS: Dual-Resolution Photometric Stereo Using a Frame-Event Hybrid Camera
+   Haotian Zhuang ⋅ Bohan Yu ⋅ Zhuofeng Wang ⋅ Boxin Shi
+
+7. E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes
+   Jiajun Zhai ⋅ Hao Shi ⋅ Shangwei Guo ⋅ Kailun Yang ⋅ Kaiwei Wang
+   arXiv: https://arxiv.org/abs/2604.04834
+   code:  https://github.com/JJayzee/E-VLA
+
+8. EvDiff: High Quality Video with an Event Camera
+   Weilun Li ⋅ Lei Sun ⋅ Ruixi Gao ⋅ Qi Jiang ⋅ Yuqin Ma ⋅ Kaiwei Wang ⋅ Ming-Hsuan Yang ⋅ Luc Van Gool ⋅ Danda Paudel
+
+9. EVEE: Event-Based Online Adaptation for Matching on Unknown Targets
+   Zejing Zhao ⋅ Cheng Ju ⋅ Yanwen Zhang ⋅ Akio NAMIKI
+
+10. Event-based Sparse-view Background-Oriented Schlieren Tomography
+   Xinyu Zhou ⋅ Shihao Hu ⋅ Peiqi Duan ⋅ Chao Xu ⋅ Boxin Shi
+
+11. EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera
+   Jingqian Wu ⋅ Bohan Yu ⋅ Jun Hoong Chan ⋅ Edmund Lam ⋅ Boxin Shi
+
+12. EVKit: An Open-source Flexible Toolkit for Efficient Event Camera Data Storage and Loading
+   Yilun Wu ⋅ Guido De Croon
+
+13. From Noise to Events: Conditional Diffusion for Event Data Augmentation
+   Ruofei Wang ⋅ Ziyuan Luo ⋅ Peiqi Duan ⋅ Xiufeng HUANG ⋅ Boxin Shi ⋅ Renjie Wan
+
+14. Hybrid Event–Frame Sensors: Modeling, Calibration, and Simulation
+   yunfan lu ⋅ Nico Messikommer ⋅ Xiaogang Xu ⋅ Liming Chen ⋅ Yuhan Chen ⋅ Nikola Zubic ⋅ Davide Scaramuzza ⋅ Hui Xiong
+   arXiv: https://arxiv.org/abs/2511.18037
+
+15. MAVFusion: Efficient Infrared and Visible Video Fusion via Motion-Aware Sparse Interaction
+   Xilai Li ⋅ Weijun Jiang ⋅ Xiaosong Li ⋅ Yang Liu ⋅ Hongbin Wang ⋅ Tao Ye ⋅ Huafeng Li ⋅ Haishu Tan
+   arXiv: https://arxiv.org/abs/2604.01958
+   code:  https://github.com/ixilai/MAVFusion
+
+16. NeLU3D: Neural Inverse Structured Light without Modeling the Projector
+   Giancarlo Pereira ⋅ David Fouhey ⋅ Claudio Silva ⋅ Daniele Panozzo
+
+17. Physics-Guided Deep Learning for Linear Mueller Matrix Acquisition
+   Yuan Liang ⋅ Shaoli Liu ⋅ Jiachun Huang
+
+18. Pol-CACTI: A System and dataset forHigh-Speed Polarized Video Compressive Imaging
+   Yunfeng Song ⋅ Yidong Luo ⋅ Ping Wang ⋅ xingjian jiang ⋅ Xin Yuan
+
+19. Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation
+   Irene Kim ⋅ Sai Tanmay Reddy Chakkera ⋅ Alexandros Graikos ⋅ Dimitris Samaras ⋅ Akshat Dave
+   arXiv: https://arxiv.org/abs/2603.27891
+   page:  https://irnkim.github.io/poppy/
+
+20. Provable and Robust Wavefront Sensing via Self-Reference Interferometry
+   Nebiyou Yismaw ⋅ Vishwanath Saragadam ⋅ Aswin C. Sankaranarayanan ⋅ M. Salman Asif
+   arXiv: https://arxiv.org/abs/2604.03564
+
+21. REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception
+   Vincenzo Polizzi ⋅ David Lindell ⋅ Jonathan Kelly
+
+22. Rethinking IRSTD: Single-Point Supervision Guided Encoder-only Framework is Enough for Infrared Small Target Detection
+   Rixiang Ni ⋅ Boyang Li ⋅ Chen Jun ⋅ Zhijie Chen ⋅ Feiyu Ren ⋅ Yuji Wang ⋅ Haoyang Yuan ⋅ Wujiao He ⋅ Wei An
+   arXiv: https://arxiv.org/abs/2604.05363
+   code:  https://github.com/NIRIXIANG/SPIRE-IRSTD
+
+23. SAFER-Activities: A Dataset for Smart Assessment of Fall Events and Routine Activities
+   Diwas Lamsal ⋅ Pramod Wickramatilake ⋅ Jednipat Moonrinta ⋅ Mongkol Ekpanyapong ⋅ Matthew Dailey
+
+24. Stokes-Informed Diffusion for Robust Linear Polarization Estimation
+   Yidong Luo ⋅ Chenggong Li ⋅ Yuchao Feng ⋅ Boxin Shi ⋅ Junchao Zhang ⋅ Xin Yuan
+   arXiv: https://arxiv.org/abs/2607.21239
+
+25. Two-Way Street: Efficient VSLAM using Collaborative In-Sensor and Off-Sensor processing
+   Hongyi Zhang ⋅ Laurie Bose ⋅ Piotr Dudek ⋅ Walterio Mayol-Cuevas
+
+26. Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal
+   Radim Špetlík ⋅ David Futschik ⋅ Radek Danecek ⋅ Feitong Tan ⋅ Ziqian Bai ⋅ Rohit Pandey ⋅ Yinda Zhang
+
+27. Video Can Teach PAN-Sharpening: PSF-Aware Cross-Domain Supervision
+   Hyun-Ho Kim ⋅ Munchurl Kim ⋅ Jaehyup Lee
+

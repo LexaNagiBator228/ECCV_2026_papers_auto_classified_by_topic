@@ -1,0 +1,74 @@
+Retrieval & Cross-Modal Alignment  (18 papers, 12 with arXiv links)  [Multimodal, Language & Video Understanding]
+============================================================================
+
+1. Beyond Categorical Matching: Intra-Class Graded Relevance Estimation for Cross-Modal 3D Retrieval
+   shunning liu ⋅ YingPeng Zhang ⋅ Jianing Lin ⋅ Yifan Wang ⋅ Yang Zhang ⋅ Chun Yuan
+
+2. CMDR: Contextual Multimodal Document Retrieval
+   Ryota Tanaka ⋅ Taku Hasegawa ⋅ Kyosuke Nishida
+   arXiv: https://arxiv.org/abs/2607.05927
+   page:  https://cmdr-bench.github.io/
+
+3. CoCo-IR: Conversational Composed Image Retrieval
+   Shengcao Cao ⋅ Tanmaya Dabral ⋅ Zhongli Ding ⋅ Madhuri Shanbhogue ⋅ Kaifeng Chen ⋅ Zhe Li ⋅ Mojtaba Seyedhosseini ⋅ Liang-Yan Gui ⋅ Yu-Xiong Wang
+
+4. Controlling Embedding Spaces with Text-Conditioned Transformations
+   Joseph Fioresi ⋅ Fabian Caba ⋅ Pankaj Nathani ⋅ Shah Mubarak ⋅ Kushal Kafle
+   arXiv: https://arxiv.org/abs/2607.22919
+   page:  https://joefioresi718.github.io/ControlEmbed_webpage/
+
+5. ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval
+   Yuhan Liu ⋅ Pei Fu ⋅ Hang Li ⋅ Yukun Qi ⋅ Chao Jiang ⋅ Jingwen Fu ⋅ Zhen Liu ⋅ Bin Qin ⋅ Zhenbo Luo ⋅ Jian Luan ⋅ Jingmin Xin
+   arXiv: https://arxiv.org/abs/2606.20280
+
+6. Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings
+   Haonan Jiang ⋅ Yuji Wang ⋅ Yongjie Zhu ⋅ Xin Lu ⋅ Wenyu Qin ⋅ Meng Wang ⋅ Pengfei Wan ⋅ Yansong Tang
+   arXiv: https://arxiv.org/abs/2602.13823
+
+7. FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval
+   Zhenqi He ⋅ Ziqi Jiang ⋅ Yuanpei Liu ⋅ Yanghao Wang ⋅ Teng Wang ⋅ Long Chen
+   arXiv: https://arxiv.org/abs/2607.02284
+
+8. Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval
+   Tong Wang ⋅ Yunhan Zhao ⋅ Shu Kong
+   arXiv: https://arxiv.org/abs/2602.00813
+   page:  https://leowangtong.github.io/Paracosm/
+
+9. HitMem: Hierarchical Temporal 3D Memory with Multi-Modal Context-Aware Retrieval for Dynamic Environments
+   Ruijie Tang ⋅ Chenye Zou ⋅ Guoquan Wu ⋅ Jun Wei ⋅ Wei Chen ⋅ Jiaxin Zhu
+
+10. Learning Sample-wise Rank-Aware Interpolation Weights for Composed Visual Data Retrieval
+   Boseung Jeong ⋅ Taegyu Park ⋅ Donghyeon Kwon ⋅ Hyunsouk Cho ⋅ Suha Kwak
+
+11. Learning to Compose: Revisiting Proxy Task Design for Zero-Shot Composed Image Retrieval
+   Jingjing Zhang ⋅ Lei Zhang ⋅ Zheren Fu ⋅ Zhendong Mao
+   arXiv: https://arxiv.org/abs/2607.00374
+
+12. LightSTAR: Efficient Visual Document Retrieval via Lightweight Selection with Vision-Adaptive Refinement
+   Tongkun Guan ⋅ Haocheng Wang ⋅ Wei Shen ⋅ Xiaokang Yang
+   arXiv: https://arxiv.org/abs/2606.23539
+   code:  https://github.com/bokufa/LightSTAR
+
+13. ME-IQA: Memory-Enhanced Image Quality Assessment via Re-Ranking
+   Kanglong Fan ⋅ Tianhe Wu ⋅ Wen Wen ⋅ Jianzhao Liu ⋅ le yang ⋅ Yabin ZHANG ⋅ Yiting Liao ⋅ Junlin Li ⋅ Li Zhang
+   arXiv: https://arxiv.org/abs/2603.20785
+
+14. MG2-RAG: Multi-Granularity Graph for Multimodal Retrieval-Augmented Generation
+   Sijun Dai ⋅ Qiang Huang ⋅ Xiaoxing You ⋅ Jun Yu
+
+15. MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents
+   Dannong Xu ⋅ zhongyu yang ⋅ Jun Chen ⋅ Yingfang Yuan ⋅ Ming Hu ⋅ Lei Sun ⋅ Luc Van Gool ⋅ Danda Paudel ⋅ Chun-Mei Feng
+   arXiv: https://arxiv.org/abs/2603.05697
+
+16. Representation Alignment for Just Image Transformers is not Easier than You Think
+   Jaeyo Shin ⋅ Jiwook Kim ⋅ Hyunjung Shim
+   arXiv: https://arxiv.org/abs/2603.14366
+   code:  https://github.com/kaist-cvml/PixelREPA
+
+17. TSEmbed: Unlocking Task Scaling in Universal Multimodal Embeddings
+   Yebo Wu ⋅ Feng Liu ⋅ Ziwei Xie ⋅ Changwang Zhang ⋅ Jun Wang ⋅ Li Li
+   arXiv: https://arxiv.org/abs/2603.04772
+
+18. Unbalanced Optimal Transport for Efficient Visual Document Retrieval
+   Hoyeon Shin ⋅ Jeongyeon Kim ⋅ Yeong Jun Koh ⋅ Yeoneung Kim ⋅ Hanul Kim
+

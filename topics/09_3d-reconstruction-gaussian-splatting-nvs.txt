@@ -1,0 +1,1235 @@
+3D Reconstruction, Gaussian Splatting & NVS  (313 papers, 178 with arXiv links)  [3D, Geometry & Imaging]
+============================================================================
+
+1. 2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction
+   Tianbao Zhang ⋅ Zhenyu Liang ⋅ Zhenbo Song ⋅ Nana Wang ⋅ Xiaomei Zhang ⋅ Xudong Cai ⋅ Zheng Zhu ⋅ Kejian Wu ⋅ Gang Wang ⋅ Zhaoxin Fan
+   arXiv: https://arxiv.org/abs/2603.19964
+
+2. 360Anything: Geometry-Free Lifting of Images and Videos to 360°
+   Ziyi Wu ⋅ Daniel Watson ⋅ Andrea Tagliasacchi ⋅ David Fleet ⋅ Marcus Brubaker ⋅ Saurabh Saxena
+   arXiv: https://arxiv.org/abs/2601.16192
+   page:  https://360anything.github.io/
+
+3. 360° Image Perception with MLLMs: A Comprehensive Benchmark and a Training-Free Method
+   Huyen Thi Thanh Tran ⋅ Van-Quang Nguyen ⋅ Farros Alferro ⋅ Kang-Jun Liu ⋅ Takayuki Okatani
+   arXiv: https://arxiv.org/abs/2603.16179
+
+4. 3D Gaussian Splatting Compression with Object Scalability
+   Ruixiang Xue ⋅ Tong Chen ⋅ Zhan Ma
+
+5. 3D Gaussian Texture for Real-time Mesoscale Appearance Synthesis and Rendering
+   Xiang Chen ⋅ Jia Li ⋅ Lu Wang ⋅ Beibei Wang
+
+6. 3D-ReGen: A Unified 3D Geometry Regeneration Framework
+   Geon Yeong Park ⋅ Roman Shapovalov ⋅ Rakesh Ranjan ⋅ Jong Chul Ye ⋅ Andrea Vedaldi ⋅ Thu Nguyen-Phuoc
+
+7. 3DGS3: Joint Super Sampling and Frame Interpolation for Real-Time Large-Scale 3DGS Rendering
+   Yibo Zhao ⋅ Fan Gao ⋅ Youcheng Cai ⋅ Ligang Liu
+
+8. 4D-VGGT: A SpatioTemporal Foundation Model for Dynamic Scene Geometry Estimation
+   Haonan Wang ⋅ Hanyu Zhou ⋅ Haoyue Liu ⋅ Luxin Yan
+
+9. 4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video
+   Jae Won Jang ⋅ Yeonjin Chang ⋅ Wonsik Shin ⋅ Juhwan Cho ⋅ Nojun Kwak
+   arXiv: https://arxiv.org/abs/2603.21618
+   page:  https://jaewon040.github.io/4dgs360/
+
+10. Active View Selection with Perturbed Gaussian Ensemble for Tomographic Reconstruction
+   Yulun Wu ⋅ Ruyi Zha ⋅ Wei Cao ⋅ Yingying Li ⋅ Yuanhao Cai ⋅ Yaoyao Liu
+   arXiv: https://arxiv.org/abs/2603.06852
+   page:  https://perturbed-gaussian-ensemble.cvmlgroup.web.illinois.edu/
+
+11. ActiveStructure: Plane Scene Graph-Guided Active 3D Gaussian Splatting
+   Yingzhao Li ⋅ Yan Li ⋅ Yanjie Liu ⋅ Hanyu Zhou ⋅ lijun zhao ⋅ Gim Hee Lee
+
+12. AdaptiveSplat: Texture Aware Controllable 3D Gaussian Allocation for Feed-Forward Reconstruction
+   Badrinath Singhal ⋅ Srihari G ⋅ Sreehari Iyer ⋅ Ankit Dhiman ⋅ Venkatesh Babu Radhakrishnan
+
+13. AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors
+   Aymen Mir ⋅ Riza Alp Guler ⋅ Xiangjun Tang ⋅ Peter Wonka ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2603.17975
+   page:  https://miraymen.github.io/ahoy/
+
+14. AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting
+   Minh-Quan Bui ⋅ Jaeho Moon ⋅ Munchurl Kim
+   arXiv: https://arxiv.org/abs/2603.25129
+   page:  https://kaist-viclab.github.io/airsplat-site
+
+15. AnchorSplat: Fast and Structure Consistent Detail Synthesis for Gaussian Splatting
+   Dexu Zhu ⋅ Jiangnan Shao ⋅ Xiaofeng Wang ⋅ Junxian Duan ⋅ Jie Cao ⋅ Zheng Zhu ⋅ Huaibo Huang
+   arXiv: https://arxiv.org/abs/2607.01290
+   code:  https://github.com/zhude233/AnchorSplat
+
+16. AnyView: Synthesizing Any Novel View in Dynamic Scenes
+   Basile Van Hoorick ⋅ Dian Chen ⋅ Shun Iwase ⋅ Pavel Tokmakov ⋅ Muhammad Zubair Irshad ⋅ Igor Vasiljevic ⋅ Swati Gupta ⋅ Fangzhou Cheng ⋅ Sergey Zakharov ⋅ Vitor Guizilini
+   arXiv: https://arxiv.org/abs/2601.16982
+   page:  https://tri-ml.github.io/AnyView/
+
+17. Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes
+   Xi Li ⋅ Linyuan Li ⋅ Yan Wu ⋅ Tong Rao ⋅ Kai Zhang ⋅ Xinchen Hui ⋅ Cihui Pan
+   arXiv: https://arxiv.org/abs/2606.30047
+   page:  https://argus-paper.realsee.ai
+
+18. Articulat3D: Reconstructing Articulated Digital Twins From Monocular Videos with Geometric and Motion Constraints
+   Lijun Guo ⋅ Haoyu Zhao ⋅ Xingyue Zhao ⋅ Rong Fu ⋅ Linghao Zhuang ⋅ Siteng Huang ⋅ Zhongyu Li ⋅ Hua Zou
+   arXiv: https://arxiv.org/abs/2603.11606
+   page:  https://maxwell-zhao.github.io/Articulat3D/
+
+19. Articulated Object Reconstruction from Rest-State Observation
+   Daeun Lee ⋅ Jaeah Lee ⋅ Woosung Kim ⋅ Haebeom Jung ⋅ Jaesik Park
+   arXiv: https://arxiv.org/abs/2607.27749
+
+20. Auto3R: Automated 3D Reconstruction and Scanning via Data-driven Uncertainty Quantification
+   Chentao Shen ⋅ Sizhe Zheng ⋅ Bingqian Wu ⋅ Yaohua Feng ⋅ Yuanchen Fei ⋅ Mingyu Mei ⋅ Hanwen Jiang ⋅ Xiangru Huang
+   arXiv: https://arxiv.org/abs/2512.04528
+   page:  https://tomatoma00.github.io/auto3r.github.io
+
+21. AVSplat:Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning
+   MUYU XU ⋅ Fangneng Zhan ⋅ Yu Wei ⋅ Hanspeter Pfister ⋅ Shijian Lu
+
+22. Beyond Inpainting: Unleash 3D Understanding for Stable Camera-Controlled Video Re-rendering
+   Dongyu Chen ⋅ Yixin Guo ⋅ Shuojin Yang ⋅ Tai-Jiang Mu ⋅ Shimin Hu
+
+23. BioMTBee: Biologically Constrained Multi-View Template-Based 3D Reconstruction of Bumblebee
+   Yi Zhang ⋅ Minchen Ye ⋅ Nenggan Zheng
+
+24. Boba: Batched Simulation for Physics-Based Gaussian Digital Twins
+   Yihan Pang ⋅ Hanxiao Jiang ⋅ Sushant Kondguli ⋅ Sarita Adve ⋅ Shenlong Wang
+
+25. Bootstrapping Articulated 3D Reconstruction from 2D Image Collections
+   Jakub Zadrozny ⋅ Oisin Mac Aodha ⋅ Hakan Bilen
+   arXiv: https://arxiv.org/abs/2607.03891
+   page:  https://jakubzadrozny.github.io/bat3r/
+
+26. Calibrated Harmonic Overlaid Implicit Neural Representations for Multi-Dimensional Data
+   Honghang Chen ⋅ XIUJUN ZHANG ⋅ Xiaoli Sun ⋅ MINGQING XIAO
+   arXiv: https://arxiv.org/abs/2606.26763
+   code:  https://github.com/chorl0229/CHOIR
+
+27. CAM3R: Camera-Agnostic Model for 3D Reconstruction
+   Namitha Guruprasad ⋅ Abhay Kumar Yadav ⋅ Cheng Peng ⋅ Rama Chellappa
+   arXiv: https://arxiv.org/abs/2603.22631
+
+28. Capacity-Controlled Multi-View Stylization of 3D Gaussian Splatting
+   Zhihao Wen ⋅ Yixin Yang ⋅ Bojian Wu ⋅ Yang Zhou ⋅ Dani Lischinski ⋅ Danny Cohen-Or ⋅ Hui Huang
+   arXiv: https://arxiv.org/abs/2606.26754
+   page:  https://vcc2310.github.io/SceneStyler/
+
+29. CasaMaestro: Multi-View Panoramas for House-Scale 3D Reconstruction
+   Yuzhou Ji ⋅ Xiaotian Yang ⋅ Zhipeng Zhang
+   arXiv: https://arxiv.org/abs/2606.31086
+
+30. City-Level 3D Surface Reconstruction with Viewpoint Orientation Partitioning and Scene Completion
+   Liang Han ⋅ Wenyuan Zhang ⋅ Junsheng Zhou ⋅ Yushen Liu ⋅ Zhizhong Han
+   arXiv: https://arxiv.org/abs/2607.03771
+   page:  https://hanl2010.github.io/VOP-GS
+
+31. Closing the Capacity–Convergence Gap: Globally Optimal Configuration of Implicit Neural Representations
+   Sipeng Chen ⋅ Yan Zhang ⋅ Shibo Li
+
+32. CoIn: Comprehensive 2D-3D Inpainting with Gaussian Splatting Guidance
+   Hana Kim ⋅ Minje Kim ⋅ Tae-Kyun Kim
+
+33. Complex-Valued 2D Gaussian Representation for Computer-Generated Holography
+   Yicheng Zhan ⋅ Xiangjun Gao ⋅ Long Quan ⋅ Kaan Akşit
+   arXiv: https://arxiv.org/abs/2511.15022
+
+34. Confidence-Based Mesh Extraction from 3D Gaussians
+   Lukas Radl ⋅ Felix Windisch ⋅ Andreas Kurz ⋅ Thomas Köhler ⋅ Michael Steiner ⋅ Markus Steinberger
+   arXiv: https://arxiv.org/abs/2603.24725
+   page:  https://r4dl.github.io/CoMe/
+
+35. Consistent Feature Transport for Image Relighting
+   Bohan Zhang ⋅ huanweiliang huanweiliang ⋅ Yuhan He ⋅ Hongteng Xu ⋅ Xiaochao Qu ⋅ Luoqi Liu ⋅ Dixin Luo ⋅ Ting Liu
+   arXiv: https://arxiv.org/abs/2607.17833
+   code:  https://github.com/Dixin-Lab/CFT
+
+36. ControlHair: Synergizing Physics Simulator and Video Diffusion for Controllable Dynamic Hair Rendering
+   Weikai Lin ⋅ Haoxiang Li ⋅ Yuhao Zhu
+   arXiv: https://arxiv.org/abs/2509.21541
+   page:  https://linwk20.github.io/controlhair-web
+
+37. Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization
+   Xiangfei Guo ⋅ Hao Shi ⋅ Yufan Zhang ⋅ Zhonghua Yi ⋅ maoyongqi maoyongqi ⋅ Xiaoting Yin ⋅ Kaiwei Wang
+
+38. D-Rex : Diffusion Rendering for Relightable Expressive Avatars
+   Timo Teufel ⋅ xilong zhou ⋅ Umar Iqbal ⋅ Jan Kautz ⋅ Marc Habermann ⋅ Vladislav Golyanik ⋅ Christian Theobalt
+   arXiv: https://arxiv.org/abs/2604.27871
+   page:  https://vcai.mpi-inf.mpg.de/projects/DRex/
+
+39. DANTE-W: Diffuse Albedo Neural Texturing in the Wild
+   Guangyu Wang ⋅ Tianheng Lu ⋅ Ruqi Huang ⋅ Lu Fang
+   arXiv: https://arxiv.org/abs/2606.30677
+
+40. DASAM3D: A Unified Foundation Model for Enhanced 3D Scene Reconstruction and Segmentation
+   RONNY XAVIER VELASTEGUI SANDOVAL ⋅ Max Pfingsthorn ⋅ Sezer Karaoglu ⋅ Theo Gevers
+
+41. Decoupled Illumination Priors for Spatially Controllable Multi-View Indoor Scene Relighting
+   Chenjian Gao ⋅ Linning Xu ⋅ Tianfan Xue
+   arXiv: https://arxiv.org/abs/2607.08879
+   page:  https://cjeen.github.io/lumepalette
+
+42. DefenseSplat: Enhancing the Robustness of 3D Gaussian Splatting via Frequency-Aware Filtering
+   Yiran Qiao ⋅ Yiren Lu ⋅ Yunlai Zhou ⋅ Rui Yang ⋅ Linlin Hou ⋅ Yu Yin ⋅ Jing Ma
+   arXiv: https://arxiv.org/abs/2602.19323
+
+43. Deformable Triangle Splatting: Flexible Primitives for Real-Time Radiance Field Rendering
+   Oriol Jiménez-Ayguadé ⋅ Antonio Agudo
+   arXiv: https://arxiv.org/abs/2607.22446
+   page:  https://orioljim1.github.io/detris
+
+44. Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging
+   Shuhong Liu ⋅ Xining Ge ⋅ Ziying Gu ⋅ Quanfeng Xu ⋅ Ziteng Cui ⋅ Lin Gu ⋅ Xuangeng Chu ⋅ Jun Liu ⋅ Dong Li ⋅ Tatsuya Harada
+   arXiv: https://arxiv.org/abs/2601.23276
+
+45. Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos
+   Shuo Sun ⋅ Unal Artan ⋅ Malcolm Mielle ⋅ Achim Lilienthal ⋅ Martin Magnusson
+   arXiv: https://arxiv.org/abs/2603.12064
+
+46. DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis
+   Cheng-You Lu ⋅ Yi-Shan Hung ⋅ Wei Chi ⋅ Hao Ping Wang ⋅ Charlie Tsai ⋅ Yu-Cheng Chang ⋅ Yu-Lun Liu ⋅ Thomas Do ⋅ Chin-teng Lin
+   arXiv: https://arxiv.org/abs/2604.13416
+   page:  https://johnnylu305.github.io/df3dv1k_web/
+
+47. Differentiable Polarized Path Tracing
+   Pramod Rao ⋅ Jérémy Riviere ⋅ xilong zhou ⋅ Abhijeet Ghosh ⋅ Abhimitra Meka ⋅ Thabo Beeler ⋅ Marc Habermann ⋅ Christian Theobalt ⋅ Delio Vicini
+   arXiv: https://arxiv.org/abs/2607.13265
+   page:  https://vcai.mpi-inf.mpg.de/projects/DPPT/
+
+48. Diffusion-Based Material Regularization for Physics-Based Inverse Rendering
+   Jingwang Ling ⋅ Lifan Wu ⋅ Feng Xu ⋅ Shuang Zhao
+   arXiv: https://arxiv.org/abs/2606.31065
+   page:  https://gerwang.github.io/diffusion-regularized-inverse-rendering/
+
+49. DINO-SLAM: DINO-Informed RGB-D SLAM for Neural Implicit and Explicit Representations
+   ZIREN GONG ⋅ Xiaohan Li ⋅ Fabio Tosi ⋅ Youmin Zhang ⋅ Stefano Mattoccia ⋅ Jun Wu ⋅ Matteo Poggi
+   arXiv: https://arxiv.org/abs/2507.19474
+
+50. Director: Instance-aware Gaussian Splatting for Dynamic Scene Modeling and Understanding
+   Yuheng Jiang ⋅ Yiwen Cai ⋅ Zihao Wang ⋅ Yize Wu ⋅ Sicheng Li ⋅ Zhuo Su ⋅ Lan Xu ⋅ Shaohui Jiao
+   arXiv: https://arxiv.org/abs/2604.01678
+   page:  https://caiyw2023.github.io/Director/
+
+51. DLGStream: Dynamic Language-embedded Guassian Splatting for Open-vocabulary Enabled Free-viewpoint Video Streaming
+   ZHIHUI KE ⋅ Yvyang Liu ⋅ Xiaobo Zhou ⋅ Tie Qiu
+   arXiv: https://arxiv.org/abs/2606.28840
+   code:  https://github.com/kkkzh/DLGStream
+
+52. Do Flat Minima Improve Sparse Novel View Synthesis?
+   Youngsik Yun ⋅ Dongjun Gu ⋅ Youngjung Uh
+   arXiv: https://arxiv.org/abs/2511.17918
+   page:  https://bbangsik13.github.io/FASR
+
+53. Don’t Mask Out the Background! Natural-Light Photometric Stereo via Illumination Reconstruction
+   Taiga Hashida ⋅ Hiroaki Santo ⋅ Fumio Okura
+
+54. DPGS: A Diffusion-Prior Guided Framework for Large-Scale 3D Gaussian Splatting Reconstruction
+   Shidong Zhang ⋅ shuaixin li ⋅ Juntong Qi ⋅ Haoxin Zhang ⋅ Xiao zhang ⋅ Xiaozhou Zhu ⋅ Wen Yao
+
+55. DR-GS: Physically-Based Deformable and Relightable 2D Gaussians
+   Jiaxin LI ⋅ Tong Wu ⋅ Yi Wei ⋅ Tailin Wu ⋅ Li Zhang
+   arXiv: https://arxiv.org/abs/2606.29379
+
+56. Drop-In Perceptual Optimization for 3D Gaussian Splatting
+   Ezgi Ozyilkan ⋅ Zhiqi Chen ⋅ Oren Rippel ⋅ Jona Ballé ⋅ Kedar Tatwawadi
+   arXiv: https://arxiv.org/abs/2603.23297
+   page:  https://apple.github.io/ml-perceptual-3dgs
+
+57. DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting
+   Qian Wang ⋅ Yu Wang ⋅ Weiqi Li ⋅ Xinhua Cheng ⋅ Xiandong MENG ⋅ Ronggang Wang ⋅ Jian Zhang
+
+58. Dynamic Inverse Rendering for Enhanced Material-Lighting Decomposition
+   Raza Yunus ⋅ Benjamin Ummenhofer ⋅ Jan Eric Lenssen ⋅ Eddy Ilg
+   arXiv: https://arxiv.org/abs/2607.09329
+   page:  https://razayunus.github.io/DIR
+
+59. Dynamic-Robust Photometric–Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding
+   Boyu xxx ⋅ Li Yang ⋅ Yan Xu ⋅ Wei Liu ⋅ Nian Liu ⋅ Sikui Zhang ⋅ Yan Wang ⋅ Chunfeng Yuan ⋅ Weiming Hu
+
+60. D²R²OSR: Degradation-Disentangled Representation for Real-World Omnidirectional Image Super-Resolution
+   Hongyu An ⋅ Xinfeng Zhang ⋅ Xu Fan ⋅ Shijie Zhao ⋅ Li Zhang ⋅ Ruiqin Xiong
+
+61. E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes
+   Koya Sakamoto ⋅ Taiki Miyanishi ⋅ Daichi Azuma ⋅ Shuhei Kurita ⋅ Shu Morikuni ⋅ Naoya Chiba ⋅ Motoaki Kawanabe ⋅ Yusuke Iwasawa ⋅ Yutaka Matsuo
+   arXiv: https://arxiv.org/abs/2604.17969
+   page:  https://k0uya.github.io/e3vs-proj/
+
+62. EDM:Event-guided Diffusion Model for Video Shadow Detection in Complex Dynamic Scenes
+   boyang gao ⋅ jiayi guo ⋅ Ziyu Wang ⋅ Yingbin Cui ⋅ Zhan Tu
+
+63. EGGS: Explicitly Granular 3D Gaussian Splatting via Luma-Aware and Volume-Preserving Attribute Factorization
+   InGyu Jeong ⋅ Hyunmin Jung
+
+64. Enhancing Embodied Reasoning and Grounding by Novel View Synthesis
+   Yu-Ji Kim ⋅ Dahye Lee ⋅ Kim Jun-Seong ⋅ Nam Hyeon-Woo ⋅ GeonU Kim ⋅ Yongjin Kwon ⋅ Yu-Chiang Frank Wang ⋅ Jaesung Choe ⋅ Tae-Hyun Oh
+
+65. Event-driven Motion Deblurring via Trajectory-based Kernel Reconstruction
+   Zhiwei Zhong ⋅ Peilin CHEN ⋅ Wei Dong ⋅ Bo Li ⋅ Anmin Liu ⋅ Shiqi Wang
+
+66. FaCT-GS: Fast and Scalable CT Reconstruction with Gaussian Splatting
+   Pawel Pieta ⋅ Rasmus Juul Pedersen ⋅ Sina Borgi ⋅ Jakob Jørgensen ⋅ Jens Wenzel Andreasen ⋅ Vedrana Dahl
+   arXiv: https://arxiv.org/abs/2604.01844
+   code:  https://github.com/PaPieta/fact-gs
+
+67. Fast and Compact 3D Gaussian Splatting with Polarized Opacity Prior
+   Zi-Ming Wang ⋅ Kevin Duan ⋅ Ko Wei Huang ⋅ Akihiro Sugimoto ⋅ Shang-Hong Lai
+
+68. FillGS: Filling Observation Gaps in 4D Gaussian Splatting via Viewpoint-Time Selection and Generative Refinement
+   Takashi Otonari ⋅ Toshihiko Yamasaki
+   arXiv: https://arxiv.org/abs/2607.29284
+
+69. FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction
+   Seonghyun Jin ⋅ Jong Chul Ye
+   arXiv: https://arxiv.org/abs/2603.18493
+   code:  https://github.com/jinotter3/FILT3R
+
+70. FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors
+   Khiem Vuong ⋅ Deva Ramanan ⋅ Srinivasa G. Narasimhan
+
+71. Flash-Refine: Frustum-Guided Local Incremental Learning for Efficient 3D Gaussian Splatting Completion
+   Nuocheng Ji ⋅ Hanyang Zhuang ⋅ Chunxiang Wang ⋅ Ming Yang
+
+72. FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views via Compact Semantic Representation
+   Qijian Tian ⋅ Xin Tan ⋅ Jiayu Ying ⋅ Xuhong Wang ⋅ Yuan Xie ⋅ Lizhuang Ma
+   arXiv: https://arxiv.org/abs/2512.17541
+   page:  https://fangzhou2000.github.io/projects/fleg
+
+73. Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow
+   Shenhan Qian ⋅ Ganlin Zhang ⋅ Elliott (Shangzhe) Wu ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2602.14021
+   page:  https://shenhanqian.github.io/flow4r
+
+74. Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields
+   Mihnea Jurca ⋅ Bert hauwermeiren ⋅ Adrian Munteanu
+   arXiv: https://arxiv.org/abs/2603.19834
+
+75. Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction
+   Akhmedkhan Shabanov ⋅ Peter Hedman ⋅ Ethan Weber ⋅ Zhengqin Li ⋅ Denys Rozumnyi ⋅ Gael Le Lan ⋅ Naina Dhingra ⋅ Lei Luo ⋅ Andrea Vedaldi ⋅ Christian Richardt ⋅ Andrea Tagliasacchi ⋅ Bo Zhu ⋅ Numair Khan
+   arXiv: https://arxiv.org/abs/2604.04874
+   page:  https://free-range-gaussians.github.io
+
+76. From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians
+   Diego Gomez ⋅ Antoine Guedon ⋅ Nissim Maruani ⋅ Bingchen Gong ⋅ Maks Ovsjanikov
+   arXiv: https://arxiv.org/abs/2604.07337
+   page:  http://diego1401.github.io/BlobsToSpokesWebsite/index.html
+
+77. From Local to Global: A Progressive Reconstruction Network for Diffractive Snapshot Spectral Imaging
+   Zhengyue Zhuge ⋅ Shiqi Chen ⋅ Chi Zhang ⋅ Jiahui Xu ⋅ Tianchen Qiu ⋅ Dingchuan Yu ⋅ Yueting Chen
+
+78. From Reconstruction to Decision: A Post-Encoder Plug-in Adapter for Curvilinear Segmentation
+   Qin Lei ⋅ Jiang Zhong ⋅ Xin Xiao ⋅ ymyang ymyang ⋅ Hao Wu
+   arXiv: https://arxiv.org/abs/2606.23486
+
+79. F⁴Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting
+   Injae Kim ⋅ Chaehyeon Kim ⋅ Minseong Bae ⋅ Minseok Joo ⋅ Hyunwoo Kim
+
+80. GaINeR: Geometry-Aware Implicit Neural Representation for Image Editing
+   Weronika Jakubowska ⋅ Mikołaj Zieliński ⋅ Rafał Tobiasz ⋅ Krzysztof Byrski ⋅ Maciej Zieba ⋅ Dominik Belter ⋅ Przemysław Spurek
+
+81. GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures
+   Patrick Noras ⋅ Jun Myeong Choi ⋅ Didier Stricker ⋅ Pieter Peers ⋅ Roni Sengupta
+
+82. GARDEN: Gravity-Aligned Reconstruction of Disentangled ENvironments from RGB images
+   Jiahao Sun ⋅ Dingkun Wei ⋅ Zehong Shen ⋅ Hongyu Zhou ⋅ Yujun Shen ⋅ Liang Li
+
+83. Gaussian Volumetric Representation for Efficient Shear–Warp Visualization
+   Mayuri Mathur ⋅ Ojaswa Sharma
+   arXiv: https://arxiv.org/abs/2607.25377
+
+84. GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification
+   Yijia Weng ⋅ Zhicheng Wang ⋅ Songyou Peng ⋅ Saining Xie ⋅ Howard Zhou ⋅ Leonidas Guibas
+   arXiv: https://arxiv.org/abs/2509.25603
+
+85. Gaussians on Fire: High-Frequency Reconstruction of Flames
+   Jakob Nazarenus ⋅ Dominik Michels ⋅ Wojciech Palubicki ⋅ Simin Kou ⋅ Fang-Lue Zhang ⋅ Soren Pirk ⋅ Reinhard Koch
+   arXiv: https://arxiv.org/abs/2511.22459
+
+86. Generalizable Neural Reconstruction of High-Fidelity Surfaces via Sparse Volumetric Representations
+   Aoxiang Fan ⋅ Corentin Dumery ⋅ Nicolas Talabot ⋅ Ming Xu ⋅ Hieu Le ⋅ Pascal Fua
+
+87. Geometric Context Transformer for Streaming 3D Reconstruction
+   Lin-Zhuo Chen ⋅ Jian Gao ⋅ Shangzhan Zhang ⋅ Yihang Chen ⋅ Nan Xue ⋅ Jianyuan Wang ⋅ Christian Rupprecht ⋅ Xun Cao ⋅ Xing Zhu ⋅ Yujun Shen ⋅ Yao Yao ⋅ YINGHAO XU
+   arXiv: https://arxiv.org/abs/2604.14141
+   code:  https://github.com/robbyant/lingbot-map
+   page:  https://technology.robbyant.com/lingbot-map
+
+88. Geometric Foundation Model Distillation for Efficient Lunar 3D Reconstruction
+   Clémentine Grethen
+   arXiv: https://arxiv.org/abs/2607.01851
+   page:  https://clementinegrethen.github.io/publications/ECCV.html
+
+89. Geometric Probing for Isotropic Optimization Manifold in Sparse-View 3D Gaussian Splatting
+   Yunlong Zhao ⋅ Xiaoheng Deng ⋅ Hongyan Xu ⋅ Yichao Cao ⋅ Keke Huang ⋅ Shuo Yang ⋅ Xiangjian He ⋅ Lei Fan ⋅ Zhuohua Qiu ⋅ Xiu Su
+
+90. Geometry-Aware Style Transfer in 3D Gaussian Splatting
+   Min Hyeok Bang ⋅ Jun Hyeong Kim ⋅ Seung-Wook Kim ⋅ Se-Ho Lee
+   arXiv: https://arxiv.org/abs/2606.24144
+   code:  https://github.com/oweixx/gast
+
+91. Geometry-Preserving in 3D Gaussian Splatting for LiDAR-Camera Extrinsic Calibration
+   Kyoleen Kwak ⋅ Daeho Kim ⋅ Jeong Woon Lee ⋅ Hyoseok Hwang
+   arXiv: https://arxiv.org/abs/2606.20103
+
+92. Geometry-Propagated Gaussian Splatting for Aerial Sparse Novel View Synthesis
+   Yijing Wang ⋅ Xu Tang ⋅ Jingjing Ma ⋅ Xiangrong Zhang
+
+93. GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis
+   Minjun Kang ⋅ Inkyu Shin ⋅ Taeyeop Lee ⋅ Myungchul Kim ⋅ In Kweon ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2603.14965
+   page:  https://sites.google.com/view/minjun-kang/geonvs-eccv26
+
+94. GLARE: Towards Generalizable Detection of Latent Diffusion Images with Global-Local Reconstruction Error
+   Jiangtao Yan ⋅ Jiazhen Ji ⋅ Zhongyu Zhang ⋅ Yuge Huang ⋅ Wenbin Wang ⋅ Shouhong Ding
+
+95. GlassGS: Geometry and Concept-Aware 3D Gaussian Splatting for Reflective Enclosures
+   Mingxuan Cui ⋅ Yunrui Zhu ⋅ Wuqi Wang ⋅ Di Lin ⋅ Jianhua Zhang ⋅ Jie Zhang ⋅ Ming-Ming Cheng ⋅ Shengyong Chen ⋅ Qing Guo
+
+96. Global Pose Control for Generative View Synthesis in Normalized Object Coordinate Space
+   Zhibing Li ⋅ Amogh Gupta ⋅ Behnoosh Parsa ⋅ Dan Casas
+   arXiv: https://arxiv.org/abs/2607.02712
+   page:  https://lizb6626.github.io/GlobalNVS/
+
+97. GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
+   Roni Itkin ⋅ Noam Issachar ⋅ Yehonatan Keypur ⋅ Xingyu Chen ⋅ Anpei Chen ⋅ Sagie Benaim
+   arXiv: https://arxiv.org/abs/2604.15284
+   page:  https://r-itk.github.io/globalsplat/
+
+98. GMODiff: One-Step Gain Map Refinement with Diffusion Priors for Efficient HDR Reconstruction
+   Tao Hu ⋅ Weiyu Zhou ⋅ Yanjie Tu ⋅ Wei Dong ⋅ Peng Wu ⋅ Qingsen Yan ⋅ Yanning Zhang
+   arXiv: https://arxiv.org/abs/2512.16357
+   code:  https://github.com/gbymat/GMODiff
+
+99. GO-Renderer: Generative Object Rendering with 3D-aware Controllable Video Diffusion Models
+   Zekai Gu ⋅ Shuoxuan Feng ⋅ Yansong Wang ⋅ Hanzhuo Huang ⋅ Zhongshuo Du ⋅ Chengfeng Zhao ⋅ Chengwei Ren ⋅ Peng Wang ⋅ Yuan Liu
+   arXiv: https://arxiv.org/abs/2603.23246
+   page:  https://igl-hkust.github.io/GO-Renderer
+
+100. GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction
+   Enpeng Li ⋅ Yunzhou Zhang ⋅ Zhiyao Zhang ⋅ Dexuan Lyu ⋅ Chenyu Wang ⋅ Chiyuan Cui ⋅ Cheng Cheng
+
+101. Grounding World Simulation Models in a Real-World Metropolis
+   Junyoung Seo ⋅ Hyunwook Choi ⋅ Minkyung Kwon ⋅ Jinhyeok Choi ⋅ Siyoon Jin ⋅ Gayoung Lee ⋅ Junho Kim ⋅ JoungBin Lee ⋅ Geonmo Gu ⋅ Dongyoon Han ⋅ Sangdoo Yun ⋅ Seungryong Kim ⋅ Jin-Hwa Kim
+   arXiv: https://arxiv.org/abs/2603.15583
+   page:  https://seoul-world-model.github.io/
+
+102. Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting
+   Ziyuan Xia ⋅ Jingyi Xu ⋅ Chong Cui ⋅ Yuanhong Yu ⋅ Jiazhao Zhang ⋅ Qingsong Yan ⋅ Ni Tao ⋅ Junbo Chen ⋅ Xiaowei Zhou ⋅ Hujun Bao ⋅ Ruizhen Hu ⋅ Sida Peng
+   arXiv: https://arxiv.org/abs/2604.12626
+   page:  https://zju3dv.github.io/habitat-gs/
+
+103. HandSCS: Structural Coordinate Space for Animatable Hand Gaussian Splatting
+   Yilan Dong ⋅ Wenqing WANG ⋅ Qing Wang ⋅ Jiahao Yang ⋅ Haohe Liu ⋅ Xiatian Zhu ⋅ Greg Slabaugh ⋅ Shanxin Yuan
+   arXiv: https://arxiv.org/abs/2503.14736
+
+104. Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat
+   Simone Foti ⋅ Caner Korkmaz ⋅ Stefanos Zafeiriou ⋅ Tolga Birdal
+
+105. High-speed Imaging through Turbulence with Event-based Light Fields
+   Yu-Hsiang Huang ⋅ Levi Burner ⋅ Sachin Shah ⋅ Ziyuan Qu ⋅ Adithya Pediredla ⋅ Christopher Metzler
+   arXiv: https://arxiv.org/abs/2603.14023
+
+106. Holo360D: A Large-Scale Real-World Dataset with Continuous Trajectories for Advancing Panoramic 3D Reconstruction and Beyond
+   Jing OU ⋅ Zidong Cao ⋅ Yinrui Ren ⋅ Zhuoxiao Li ⋅ Jinjing Zhu ⋅ Tongyan Hua ⋅ Shuai Zhang ⋅ Hui Xiong ⋅ Wufan Zhao
+   arXiv: https://arxiv.org/abs/2604.22482
+   code:  https://github.com/Jou719/Holo360D
+
+107. HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations
+   Yaqiao Dai ⋅ Renjiao Yi ⋅ Zhirui Gao ⋅ Wei Chen ⋅ Kai Xu ⋅ Chenyang Zhu
+   arXiv: https://arxiv.org/abs/2607.08398
+
+108. HorizonRelight: Relighting Long-horizon Videos Consistently via Diffusion Transformers
+   Jing Yang ⋅ Mayoore Jaiswal ⋅ Zian Wang ⋅ Xiao Zeng ⋅ Yajie Zhao ⋅ Jianyuan Min ⋅ Rochelle Pereira
+   arXiv: https://arxiv.org/abs/2606.29095
+   page:  https://research.nvidia.com/labs/sil/projects/horizonrelight/
+
+109. HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human–Scene Interactions
+   Yukang Cao ⋅ Haozhe Xie ⋅ Fangzhou Hong ⋅ Long Zhuo ⋅ Zhaoxi Chen ⋅ Liang Pan ⋅ Ziwei Liu
+   arXiv: https://arxiv.org/abs/2603.15612
+   page:  https://yukangcao.github.io/HSImul3R/
+
+110. Implicit Neural Representation Facilitates Unified Universal Vision Encoding
+   Matthew Gwilliam ⋅ Xiao Wang ⋅ Xuefeng Hu ⋅ Zhenheng Yang
+   arXiv: https://arxiv.org/abs/2601.14256
+   code:  https://github.com/tiktok/huvr
+
+111. Implicit Neural Representation for Spherical Harmonics Reconstruction of Motion-Corrupted Fetal Diffusion MRI
+   Wenxuan Wu ⋅ Irina Grigorescu ⋅ Ruowen Qu ⋅ Jo Hajnal ⋅ J-Donald Tournier ⋅ Maria Deprez
+
+112. Improving Sparse-View 3DGS Generalization via Flat Minima Optimization
+   Kangmin Seo ⋅ Sangeek Hyun ⋅ MinKyu Lee ⋅ Jae-Pil Heo
+   arXiv: https://arxiv.org/abs/2607.00885
+   page:  https://kangrnin.github.io/FlatMinGS
+
+113. InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling
+   Tianheng Lu ⋅ Guangyu Wang ⋅ Ruqi Huang ⋅ Lu Fang
+
+114. Incremental Online Scene Reconstruction by 3D Gaussian Triangulation
+   Yanjin Zhu ⋅ Shaofan Liu ⋅ Jianke Zhu
+   arXiv: https://arxiv.org/abs/2607.10690
+
+115. IndoorSplat: Enhanced Indoor Scene Reconstruction with Structured 2D Gaussian Splatting
+   Min Shi ⋅ Tao Yang ⋅ Xigang Zhao ⋅ Qi Wang ⋅ Dengming Zhu ⋅ Zhaoxin Li
+
+116. InSpace: Structure-Aware 3D Indoor Scene Generation from a Single 360° Image
+   Gwanhyeong Koo ⋅ Hyunsu Kim ⋅ Youngji Kim ⋅ Taejae Lee ⋅ Siwoo Lim ⋅ Sunjae Yoon ⋅ Suyong Yeon ⋅ Chang Yoo
+   arXiv: https://arxiv.org/abs/2607.03990
+   page:  https://kookie12.github.io/InSpace-Project-Page/
+
+117. InstantHDR: Single-forward Gaussian Splatting for High Dynamic Range 3D Reconstruction
+   Dingqiang Ye ⋅ Jiacong Xu ⋅ Jianglu Ping ⋅ Yuxiang Guo ⋅ Chao Fan ⋅ Vishal Patel
+   arXiv: https://arxiv.org/abs/2603.11298
+
+118. InstaPano: Zero-shot Instance Layout Controlled Panorama Generation Via Global Attention Fusion
+   Zejian Li ⋅ Rui Huang ⋅ Lefan Hou ⋅ Pei Chen ⋅ Heyuan Xu ⋅ Shengyuan Zhang ⋅ Kewen Zhu ⋅ Huanghuang Deng ⋅ Li Liu ⋅ Lingyun Sun
+
+119. InstGS: Shared-Template Gaussian Instancing for Object-Redundancy-Free Rendering
+   Zi'ang Lu ⋅ Qian Zhang ⋅ Kang Du ⋅ Dong Liang ⋅ John Li ⋅ Xinyao Wei ⋅ Zeyu Wang ⋅ Jinyuan Jia
+
+120. Integrated Forward–Inverse Network for Reconstruction for Lensless Image Reconstruction
+   Donggeon Bae ⋅ Jaewoo Jung ⋅ Yong Guk Kang ⋅ Kyung Chul Lee ⋅ Taeyoung Kim ⋅ Jongho Kim ⋅ Sangjun Byun ⋅ Joonsik Park ⋅ Seung Ah Lee
+
+121. Interaction-Aware 4D Gaussian Splatting for Dynamic Hand-Object Interaction Reconstruction
+   Hao Tian ⋅ Chenyangguang Zhang ⋅ Rui Liu ⋅ Wen Shen ⋅ Xiaolin Qin
+   arXiv: https://arxiv.org/abs/2511.14540
+
+122. Iterative Perceptual Alignment for VLMs via Deterministic Reconstruction Feedback
+   Xiaorui Chen ⋅ Hanzhong Guo ⋅ Nizhe Cai ⋅ Jieliang Luo
+
+123. KineticGS: Momentum-driven Coherent 4D Gaussian Splatting for Monocular Dynamic Scene Reconstruction
+   Yunqing Wang ⋅ Baoyao Yang ⋅ SI-QI LIU ⋅ CHONG YIN ⋅ Yihua Shao ⋅ Hao Tang
+
+124. KISS-GS: 3D Gaussian Splatting Compression Kept Simple
+   Wieland Morgenstern ⋅ Friedrich Elias Branschke ⋅ Florian Fleischmann ⋅ Adrian Szatmari ⋅ Paul Schlack ⋅ Florian Barthel ⋅ Anna Hilsmann ⋅ Peter Eisert
+
+125. Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
+   Evan Ntavelis ⋅ Sean Wu ⋅ Mohamad Shahbazi ⋅ Fabio Maninchedda ⋅ Dmitry Kostiaev ⋅ Artem Sevastopolsky ⋅ Mehak Gupta ⋅ Vittorio Megaro ⋅ Trevor Phillips ⋅ Thomas Etterlin ⋅ Jeronimo Bayer ⋅ Simon Schaefer ⋅ Matthias Vestner ⋅ Shridhar Ravikumar ⋅ Christian Zimmermann ⋅ Alejandro Blumentals ⋅ Reinhard Knothe ⋅ Mathias Deschler ⋅ Alexey Artemov ⋅ Stefan Brugger ⋅ Peter Kaufmann ⋅ Sebastian Martin ⋅ Brian Amberg ⋅ Tom Runia
+   arXiv: https://arxiv.org/abs/2605.04035
+   page:  https://apple.github.io/ml-headsup/
+
+126. Large-Scale Light Field Synthesis from Videos Enables Geometrically Consistent Bokeh Editing
+   Haoming Cai ⋅ Zhoutong Zhang ⋅ Christopher Metzler ⋅ Shumian Xin
+
+127. Latent Fusion: Decoding Consolidated 3D Geometry from Feed-forward Geometry Transformer Latents
+   Laura Fink ⋅ Linus Franke ⋅ George Kopanas ⋅ Marc Stamminger ⋅ Peter Hedman
+
+128. Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion
+   Fadi Khatib ⋅ Meirav Galun ⋅ Ronen Basri
+
+129. Learning Implicit Constitutive Laws for Dynamic 3D Gaussian Splatting from Monocular Videos
+   Xiaoyang Liu ⋅ Kai Han
+
+130. Learning Physics-based Forward Model Corrections in Unrolled Networks for Diffuser-based Imaging
+   Yoko Sogabe ⋅ Shiori Sugimoto ⋅ Shoichiro Saito ⋅ Masaki Kitahara
+
+131. Learning Spectral and Polarimetric Clues for One-to-Multimodal Novel View Synthesis
+   Federico Lincetto ⋅ Gianluca Agresti ⋅ Mattia Rossi ⋅ Piergiorgio Sartor ⋅ Pietro Zanuttigh
+   arXiv: https://arxiv.org/abs/2607.02372
+   page:  https://medialab.dei.unipd.it/paper_data/SPoILeR/
+
+132. Learning Video Dynamics with Predictive Differentiable Rendering
+   Yujin Tang ⋅ Tian Zhou ⋅ Xin Lin ⋅ Cheng Tan ⋅ Yifan Hu ⋅ Rong Jin ⋅ SouYoung Jin ⋅ Liang Sun
+   arXiv: https://arxiv.org/abs/2606.31050
+
+133. LEGO: Leveled Language Gaussian Splatting
+   Yuning Peng ⋅ Haiping Wang ⋅ Yuan Liu ⋅ Yipeng Lu ⋅ Zhen Dong ⋅ Bisheng Yang
+   arXiv: https://arxiv.org/abs/2608.10057
+   page:  https://pz0826.github.io/LEGO-Webpage/
+
+134. LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering
+   Yachuan Huang ⋅ Liwen Xiao ⋅ Liao Shen ⋅ Qiwen Wang ⋅ Huiqiang Sun ⋅ Zhiyu Pan ⋅ Zhiguo Cao
+
+135. LiDAR-EVS: Enhance Extrapolated View Synthesis for 3D Gaussian Splatting with Pseudo-LiDAR Supervision
+   Yiming Huang ⋅ Xin Kang ⋅ Sipeng Zhang ⋅ Hongliang Ren ⋅ Weihua Zhang ⋅ Junjie Lai
+   arXiv: https://arxiv.org/abs/2603.14763
+
+136. LiFlow: Flow Matching for 3D LiDAR Scene Completion
+   Andrea Matteazzi ⋅ Dietmar Tutsch
+   arXiv: https://arxiv.org/abs/2602.02232
+   code:  https://github.com/matteandre/LiFlow
+
+137. LIIFusion: Coarse-to-fine Framework for Generative MEF via Implicit Neural Representation
+   Sangmin Han ⋅ Jinho Kim ⋅ Jinwoo Kim ⋅ Dongyoung Kim ⋅ Seon Joo Kim
+
+138. Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation
+   Akio Hayakawa ⋅ Yusuke Mukuta ⋅ Tatsuya Harada
+
+139. LiteGS: a high-performance framework to train 3dgs in subminutes via system and algorithm codesign
+   Kaimin Liao ⋅ Hua Wang ⋅ Zhi Chen ⋅ Luchao Wang ⋅ Yaohua Tang
+   arXiv: https://arxiv.org/abs/2503.01199
+
+140. LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory
+   Junyi Zhang ⋅ Charles Herrmann ⋅ Junhwa Hur ⋅ Chen Sun ⋅ Ming-Hsuan Yang ⋅ Forrester Cole ⋅ Trevor Darrell ⋅ Deqing Sun
+   arXiv: https://arxiv.org/abs/2603.03269
+   page:  https://LoGeR-project.github.io/
+
+141. LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows
+   Zhengqin Li ⋅ Cheng Zhang ⋅ Jakob Engel ⋅ Dong Zhao
+   arXiv: https://arxiv.org/abs/2604.05182
+
+142. LumiDepth: Stable Monocular Depth in Multi-Illumination Scenes
+   Anqi Cheng ⋅ Zhiyuan Yang ⋅ Tianjiao Li ⋅ Haiyue Zhu ⋅ Kezhi Mao
+
+143. LumiTokens: 3D Relighting via Token-Space Lighting Transformation
+   Yiwen Chen ⋅ Matheus Gadelha ⋅ Huaizu Jiang
+
+144. MAC-Splat: Multi-Attribute Consistency for High-Fidelity Sparse-View Reconstruction
+   Jinqian Yang ⋅ Yichen Wu ⋅ Wanhua Li ⋅ Haokun Lin ⋅ Renzhen Wang ⋅ Xiangchu Feng ⋅ Xixi Jia
+   arXiv: https://arxiv.org/abs/2607.10792
+
+145. MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos
+   ZIREN GONG ⋅ Xiaohan Li ⋅ Fabio Tosi ⋅ Ninghui Xu ⋅ Stefano Mattoccia ⋅ Jianfei Cai ⋅ Matteo Poggi
+   arXiv: https://arxiv.org/abs/2607.15211
+
+146. MagnetGS-Mesh: High-Quality Multi-Object Mesh Reconstruction via Adaptive Surface Optimization
+   Min-Su Park ⋅ Yeonho Han ⋅ Uijoon Jeong ⋅ Jun-Hyeong Park ⋅ Eun-Seok Ryu
+
+147. MambaRaw: Selective State Space Modeling for Efficient 4K RAW Image Reconstruction
+   Peize Li ⋅ Fanhu Zeng ⋅ Tongda Xu ⋅ XINJIE ZHANG ⋅ Xingtong Ge ⋅ Haotian Zhang ⋅ Xingguo Xu ⋅ Yan Wang
+   arXiv: https://arxiv.org/abs/2606.24479
+   code:  https://github.com/Peizeli1/MambaRaw
+
+148. Manifold-Aware Spectral Compaction: A Graph Signal Processing Perspective on Online Gaussian Reduction for 3DGS SLAM
+   Jiayi Tian ⋅ Jiaze Wang ⋅ Tian Xia ⋅ Wenzhe zhao ⋅ Pengju Ren
+
+149. MaterialFlow: Attribute-Disentangled Material Transfer via Trajectory-Aware Velocity Modulation
+   Sung-Lin Tsai ⋅ Bo-Kai Ruan ⋅ Yu-Hsuan Chen ⋅ Wen-Huang Cheng ⋅ Hong-Han Shuai
+
+150. Matryoshka Gaussian Splatting
+   Zhilin Guo ⋅ Boqiao Zhang ⋅ Hakan Aktas ⋅ Kyle Fogarty ⋅ Jeffrey Hu ⋅ Nursena Aslan ⋅ Wenzhao Li ⋅ Canberk Baykal ⋅ Albert Miao ⋅ Josef Bengtson ⋅ Chenliang Zhou ⋅ Weihao Xia ⋅ Cristina Vasconcelos ⋅ Cengiz Oztireli
+   arXiv: https://arxiv.org/abs/2603.19234
+   page:  https://zhilinguo.github.io/MGS
+
+151. MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting
+   Chengkai Wang ⋅ Luoyu Hong ⋅ Yiting Zhao ⋅ Jiamin Wang ⋅ Xiang Feng ⋅ Feiwei Qin ⋅ Zhenzhong Kuang ⋅ Xuefei Yin ⋅ Ali Bashashati ⋅ Yanming Zhu
+
+152. MeGAS: Thermomechanical Dynamic Gaussian Splatting for Thermophysical Scene Editing
+   Zesong Yang ⋅ Yuanhang Lei ⋅ Yihang Chen ⋅ Jiaer Huang ⋅ liyuan cui ⋅ Boming Zhao ⋅ Peter Yichen Chen ⋅ Hujun Bao ⋅ Zhaopeng Cui
+   arXiv: https://arxiv.org/abs/2606.23455
+   page:  http://zju3dv.github.io/MeGAS
+
+153. MessyKitchens: Contact-rich object-level 3D scene reconstruction
+   Junaid Ahmed Ansari ⋅ Ran Ding ⋅ Fabio Pizzati ⋅ Ivan Laptev
+   arXiv: https://arxiv.org/abs/2603.16868
+   page:  https://messykitchens.github.io/
+
+154. MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
+   Yufei Cai ⋅ Xuesong Niu ⋅ Guosheng Lin ⋅ Hao LU ⋅ Kai Wu ⋅ Kun Gai
+   arXiv: https://arxiv.org/abs/2607.12000
+   code:  https://github.com/KlingAIResearch/MetaView
+
+155. Minute4D: Training High-Fidelity 4D Gaussian Splatting in One Minute
+   BINJIAN XIE ⋅ Chenhui Shi ⋅ Pengju Zhang ⋅ Yihong Wu
+
+156. MLP Splatting: Object-Centric Neural Fields
+   Shinjeong Kim ⋅ Yuzhou Cheng ⋅ Xin Kong ⋅ Paul Kelly ⋅ Andrew Davison
+   arXiv: https://arxiv.org/abs/2606.03877
+   page:  https://shinjeongkim.com/mlp-splatting
+
+157. mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis
+   Adnan Armouti ⋅ Yixuan Gao ⋅ Rajalakshmi Nandakumar
+
+158. MoBa-GS: Learning a Spatially-Varying Motion Basis over a Dynamic Canonical Space for 4D Reconstruction
+   Guan Yuan Tan ⋅ Arghya Pal ⋅ Sailaja Rajanala ⋅ Raphaël Phan ⋅ Chee-Ming Ting
+
+159. MoCam: Unified Novel View Synthesis via Structured Denoising Dynamics
+   Haofeng Liu ⋅ Yang Zhou ⋅ Ziheng Wang ⋅ Zhengbo Xu ⋅ Zhan Peng ⋅ Jie Ma ⋅ Jun Liang ⋅ Shengfeng He ⋅ Jing Li
+   arXiv: https://arxiv.org/abs/2605.12119
+   page:  https://orange-3dv-team.github.io/MoCam
+
+160. Modeling and Compensating Phase Error in High-speed 3D Reconstruction
+   Yuchong Chen ⋅ Jian Yu ⋅ Pengcheng Yao ⋅ Shaoyan Gai ⋅ Feipeng Da
+
+161. MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
+   Haitian Li ⋅ Haozhe Xie ⋅ Junxiang Xu ⋅ Beichen Wen ⋅ Fangzhou Hong ⋅ Ziwei Liu
+   arXiv: https://arxiv.org/abs/2603.19231
+   page:  https://lihaitian.com/MonoArt
+
+162. Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting
+   Xiaobiao Du ⋅ YuAn Wang ⋅ Hao Li ⋅ Bosheng Wang ⋅ Xun Sun ⋅ Xin Yu
+   arXiv: https://arxiv.org/abs/2606.30017
+   page:  https://xiaobiaodu.github.io/flux-gs-project/
+
+163. MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins
+   WenBo Xu ⋅ Liu Liu ⋅ li zhang ⋅ Dan Guo ⋅ Ruonan Liu
+   arXiv: https://arxiv.org/abs/2603.12936
+
+164. MotionEditGS: Editing Motion and Appearance of 4D Scenes from Monocular Video via Semantically Anchored Gaussians
+   Daehyun We ⋅ Youngho Yoon ⋅ Jiyong Boo ⋅ KUK-JIN YOON
+
+165. MotionSplicer: Part-Based Motion Editing for 4D Volumetric Videos
+   Chaerin Min ⋅ Praccho Muna-McQuay ⋅ Tao Lu ⋅ James Tompkin ⋅ Srinath Sridhar
+
+166. MSVS-VAE: Multi-Scale Anchored VecSet for High-Fidelity 3D Reconstruction
+   Dehao Hao ⋅ Kaiyi Zhang ⋅ Tanghui Jia ⋅ Xiangjun Gao ⋅ Dongyu Yan ⋅ Weikai Chen ⋅ Zeyu HU ⋅ Lingting Zhu ⋅ Yingda Yin ⋅ Runze Zhang ⋅ Li Yuan ⋅ Xin Wang ⋅ Long Quan
+   arXiv: https://arxiv.org/abs/2607.24436
+
+167. Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation
+   Rui Wang ⋅ Quentin Lohmeyer ⋅ Siyu Tang ⋅ Mirko Meboldt
+   arXiv: https://arxiv.org/abs/2606.22197
+   page:  https://batfacewayne.github.io/Multi4D.io/
+
+168. MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting
+   Jianwei Hu ⋅ Tingxuan Huang ⋅ Hengyu Zhou ⋅ Ningna Wang ⋅ Xiaohu Guo ⋅ Jinshan Lai ⋅ Bin Wang
+   arXiv: https://arxiv.org/abs/2607.01578
+
+169. MVGS: Multi-view Regulated Gaussian Splatting for Novel View Synthesis
+   Xiaobiao Du ⋅ Yida Wang ⋅ Xin Yu
+   arXiv: https://arxiv.org/abs/2410.02103
+   page:  https://xiaobiaodu.github.io/mvgs-project/
+
+170. NanoGS: Training-Free and Lightweight Gaussian Splat Simplification
+   Butian Xiong ⋅ Rong Liu ⋅ Tiantian Zhou ⋅ Meida Chen ⋅ Zhiwen Fan ⋅ Andrew Feng
+
+171. NEOMAP: Novel-View Synthesis via Noise Initialization by Manifold Alternating Projection
+   Jinxi Li ⋅ Tianyi Zhang ⋅ Yafei YANG ⋅ Zihui Zhang ⋅ Peng Huang ⋅ Koon Lin ⋅ Bo Yang
+
+172. NeuIDO: Neural Intrinsic Dynamics Operator for Physics-Informed 4D World Models
+   Jiajing Lin ⋅ Xin Zhang ⋅ Jianhua Sun
+
+173. Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction
+   Jorge Condor ⋅ Nicolas Moënne-Loccoz ⋅ Merlin Nimier-David ⋅ Piotr Didyk ⋅ Zan Gojcic ⋅ Qi Wu
+   arXiv: https://arxiv.org/abs/2604.01204
+
+174. NeuralGarSim: Geometry-agnostic Garment Simulation with Neural Fields
+   Arihant Gaur ⋅ Navami Kairanda ⋅ Christian Theobalt ⋅ Vladislav Golyanik
+
+175. Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Primitives
+   Victor Rong ⋅ Jan Held ⋅ Victor Chu ⋅ Daniel Rebain ⋅ Marc Van Droogenbroeck ⋅ Kyros Kutulakos ⋅ Andrea Tagliasacchi ⋅ David Lindell
+   arXiv: https://arxiv.org/abs/2512.13796
+   page:  https://lessvrong.com/cs/nexels
+
+176. Novel View Synthesis as Video Completion
+   Qi Wu ⋅ Khiem Vuong ⋅ Minsik Jeon ⋅ Srinivasa G. Narasimhan ⋅ Deva Ramanan
+   arXiv: https://arxiv.org/abs/2604.08500
+   page:  https://frame-crafter.github.io/
+
+177. NURBS Splatting: A Unified Differentiable Rendering Framework for Vector Graphics
+   Jingye Qiu ⋅ Shizhe Zhou
+   arXiv: https://arxiv.org/abs/2606.31764
+
+178. OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning
+   Haocong He ⋅ Chenfei Liao ⋅ Zichen Wen ⋅ Zihao Dongfang ⋅ Xu Zheng ⋅ Bin Ren ⋅ Chang Su ⋅ Zixin Zhang ⋅ Harold Haodong Chen ⋅ Hongfei Zhang ⋅ Weijia Li ⋅ Kailun Yang ⋅ Conghui He ⋅ Xuming Hu ⋅ Nicu Sebe ⋅ Linfeng Zhang
+   arXiv: https://arxiv.org/abs/2606.30378
+
+179. OmniLife360: A Benchmark for 3D Reconstruction from In-the-Wild 360° Captures
+   Zonglin Zhao ⋅ Bowen Zhang ⋅ Yatai Li ⋅ Chao.Liang Chao.Liang ⋅ Zhipeng Zhang
+
+180. OmniRen: Neural Rendering wih Heterogeneous Scene Primitives
+   Chong Zeng ⋅ Yue Dong ⋅ Pieter Peers ⋅ lvmin zhang ⋅ Maneesh Agrawala
+
+181. OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams
+   Yibin Yan ⋅ Jilan Xu ⋅ Shangzhe Di ⋅ Haoning Wu ⋅ Weidi Xie
+   arXiv: https://arxiv.org/abs/2603.12265
+   page:  https://go2heart.github.io/omnistream/
+
+182. OmniX: Any-view and Any-time 4D reconstruction via Feed-forward Trajectory Fields
+   Yanqin Jiang ⋅ Tengfei Wang ⋅ Zhenwei Wang ⋅ Chenjie Cao ⋅ Junta Wu ⋅ Wenhan Luo ⋅ Weiming Hu ⋅ Jin Gao ⋅ Chunchao Guo
+   arXiv: https://arxiv.org/abs/2607.10840
+   page:  https://omnix4d.github.io/
+
+183. OmniX: From Unified Panoramic Generation and Perception To Graphics-Ready 3D Scenes
+   Yukun Huang ⋅ Jiwen Yu ⋅ Yanning Zhou ⋅ Jianan Wang ⋅ Xintao Wang ⋅ Pengfei Wan ⋅ Xihui Liu
+   arXiv: https://arxiv.org/abs/2510.26800
+   page:  https://yukun-huang.github.io/OmniX/
+
+184. On Geometric Understanding and Learned Priors in Feed-forward 3D Reconstruction Models
+   Jelena Bratulić ⋅ Sudhanshu Mittal ⋅ Thomas Brox ⋅ Christian Rupprecht
+   arXiv: https://arxiv.org/abs/2512.11508
+
+185. One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control
+   Zhenxing Mi ⋅ YUXIN WANG ⋅ Dan Xu
+   arXiv: https://arxiv.org/abs/2511.18922
+   page:  https://mizhenxing.github.io/One4D
+
+186. OREO: Fidelity Alignment in 3D Generation via On-the-fly Rendering-Editing Optimization
+   Zhiyuan MA ⋅ WENBO HU ⋅ Wang Zhao ⋅ Pengfei Wang ⋅ Ying Shan ⋅ Yabin Zhang
+
+187. Overlap-Consistent View Decomposition for Adapting Vision--Language Models to 360° Panoramas
+   Seungwoo Woo ⋅ Daewon Jung ⋅ Sekyoung Youm
+
+188. PaD-GS: Leveraging Distortion Map for Panoramic Gaussian Splatting
+   Yihang Xu ⋅ Qiulei Dong
+
+189. PanoLess: Environment Reconstruction from Partial Reflective Views
+   Ahitagni Das ⋅ Ashok Veeraraghavan ⋅ Vivek Boominathan
+   arXiv: https://arxiv.org/abs/2607.25362
+
+190. Panoramic Affordance Prediction
+   Zixin Zhang ⋅ Chenfei Liao ⋅ Hongfei Zhang ⋅ Harold Haodong Chen ⋅ Kanghao Chen ⋅ Zichen Wen ⋅ Litao Guo ⋅ Bin Ren ⋅ Xu Zheng ⋅ Yinchuan Li ⋅ Xuming Hu ⋅ Nicu Sebe ⋅ Yingcong Chen
+   arXiv: https://arxiv.org/abs/2603.15558
+
+191. PanoRec: Spatially-Structured Sequence Modeling for Multi-Granularity Panoramic Retrieval
+   Zidong Cao ⋅ Ding Zhou ⋅ Wenyao Gao ⋅ Lutao Jiang ⋅ Hui Xiong
+
+192. PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation
+   Dingwen Xiao ⋅ WEIMING ZHANG ⋅ Shiqi Wen ⋅ Addison Wang
+   arXiv: https://arxiv.org/abs/2604.07901
+
+193. Parametric SDF for Dynamic Surface Reconstruction
+   Chong Gao ⋅ Kai Ye ⋅ Qiyu Dai ⋅ Yiming Shao ⋅ Qiong Zeng ⋅ Ding Liang ⋅ Yanpei Cao ⋅ Guanbin Li ⋅ Wenzheng Chen
+
+194. PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction
+   Yuankun Yang ⋅ Yi Wei ⋅ Bo Bai ⋅ Wenyang Zhou ⋅ Li Zhang
+
+195. PhysConvex: Physics-Informed Dynamic Convex Fields for Reconstruction and Simulation
+   Dan Wang ⋅ Xinrui Cui ⋅ Serge Belongie ⋅ Ravi Ramamoorthi
+   arXiv: https://arxiv.org/abs/2602.18886
+
+196. Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch
+   Gabriele Mario Caddeo ⋅ Pasquale Marra ⋅ Lorenzo Natale
+   arXiv: https://arxiv.org/abs/2604.09100
+
+197. Physically Grounded Dual-Opacity Gaussian Splatting for Joint RGB-TIR Reconstruction
+   Jin Liu ⋅ Dabin leng ⋅ Jiagang Chen ⋅ Haodong Li ⋅ Jiguang Li ⋅ Zhao Huang ⋅ Xiaoshuai Zhang ⋅ Zhiwen Zheng ⋅ Xingru Huang ⋅ Qi Xu
+
+198. PIC: Revisiting INR for Image Coding with Fast Encoding and Sub-Millisecond Decoding
+   Xiang Liu ⋅ Jinxiang Wang ⋅ Bin Chen ⋅ Zimo Liu ⋅ Mingyao Hong ⋅ Jiawei Li ⋅ Yaowei Wang ⋅ Shu-Tao Xia
+
+199. PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
+   Cao Duy ⋅ Phong Nguyen
+   arXiv: https://arxiv.org/abs/2607.01803
+
+200. Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity
+   Wei Zhou ⋅ Xinzhe Shi ⋅ Xingxing Hao ⋅ Xing Hao ⋅ Kang Li ⋅ Jinye Peng ⋅ Ying He
+
+201. Point2Pose: Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects Via 2D Point Trackers
+   Tzu-Yuan Lin ⋅ Ho Lee ⋅ Kevin Doherty ⋅ Yonghyeon Lee ⋅ Sangbae Kim
+   arXiv: https://arxiv.org/abs/2604.10415
+
+202. PointSplat: Compact Gaussian Splatting via Human-Centric Prediction
+   Yujie Guo ⋅ Yudong Jin ⋅ Lingteng Qiu ⋅ Zehong Shen ⋅ Zhen Xu ⋅ Zhang Jing ⋅ Xianchao Shen ⋅ Hujun Bao ⋅ Sida Peng ⋅ Xiaowei Zhou
+   arXiv: https://arxiv.org/abs/2606.32036
+   page:  https://zju3dv.github.io/pointsplat
+
+203. Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis
+   Chamuditha Jayanga Ahangama Galappaththige ⋅ Thomas Gottwald ⋅ Peter Stehr ⋅ Edgar Heinert ⋅ Niko Suenderhauf ⋅ Dimity Miller ⋅ Matthias Rottmann
+   arXiv: https://arxiv.org/abs/2603.22786
+   page:  https://chumsy0725.github.io/3DGS-Uncertainty/
+
+204. PrimitiveUDF: Primitive-Based Unsigned Distance Fields for Surface Reconstruction from Point Clouds
+   Xin Deng ⋅ Bo Yang ⋅ Yifei Shi ⋅ Bing Wang
+
+205. PRISM3D: Probabilistic Refinement and Robust Initialization for Physically Consistent Scene Modeling under Extreme Motion Blur
+   Gopi Raju Matta ⋅ Reddypalli Trisha ⋅ Divya Madhuri Vemunuri ⋅ Kaushik Mitra
+   arXiv: https://arxiv.org/abs/2607.03855
+
+206. PriSplat: Propagating Reliable Multi-view Information for Distractor-Free 3DGS
+   Yunseo Yang ⋅ Youngho Yoon ⋅ KUK-JIN YOON
+
+207. R3RECON: Radiance-Field-Free Active Reconstruction via Renderability
+   Xiaofeng Jin ⋅ Matteo Frosi ⋅ Yiran Guo ⋅ Matteo Matteucci
+
+208. RADmesh: Remesh-Aware Mesh Deformation
+   Nam Anh Dinh ⋅ Itai Lang ⋅ Oded Stein ⋅ Rana Hanocka
+
+209. RaPTGS: Render-Agnostic Post-Training Compression of 3D Gaussian Splatting
+   Asif Jawad ⋅ K. M. Azwad Hossain
+
+210. RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video
+   Ulrich Prestel ⋅ Stefan Andreas Baumann ⋅ Nick Stracke ⋅ Bjorn Ommer
+   arXiv: https://arxiv.org/abs/2605.31535
+   page:  https://compvis.github.io/rayder
+
+211. Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction
+   Xiangyu Sun ⋅ Liu.Liu Liu.Liu ⋅ Seungkwon Yang ⋅ Jingbing Han ⋅ Seungtae Nam ⋅ Zhizhong Su ⋅ Eunbyung Park
+   arXiv: https://arxiv.org/abs/2607.07168
+   page:  https://xiangyu1sun.github.io/NoDrift3R-project-page/
+
+212. RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction
+   Feiran Wang ⋅ Zezhou Shang ⋅ Gaowen Liu ⋅ Yan Yan
+   arXiv: https://arxiv.org/abs/2603.20588
+   page:  https://raymap3r.github.io/
+
+213. Real-Time LiDAR Gaussian Splatting SLAM via Geometry-Aware Covariance Coupling
+   SeungJun Tak ⋅ Yewon Jeon ⋅ Hwang Jaeik ⋅ Suk Min Hwang ⋅ SeongboHa SeongboHa ⋅ Hyeonwoo Yu
+
+214. ReconDreamer-RL: Enhancing Reinforcement Learning via Diffusion-based Reconstruction
+   Chaojun Ni ⋅ Guosheng Zhao ⋅ Xiaofeng Wang ⋅ Zheng Zhu ⋅ Wenkang Qin ⋅ Chen Xinze ⋅ Guanghong Jia ⋅ Guan Huang ⋅ Wenjun Mei
+   arXiv: https://arxiv.org/abs/2508.08170
+
+215. ReconPhys: Reconstruct Appearance and Physical Attributes from Single Video
+   Boyuan Wang ⋅ Xiaofeng Wang ⋅ Yongkang Li ⋅ Zheng Zhu ⋅ Yifan Chang ⋅ Angen Ye ⋅ Guosheng Zhao ⋅ Chaojun Ni ⋅ Guan Huang ⋅ Yijie Ren ⋅ Yueqi Duan ⋅ Xingang Wang
+   arXiv: https://arxiv.org/abs/2604.07882
+
+216. ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views
+   Giuseppe Stracquadanio ⋅ Kevin Raj ⋅ Julia Grabinski ⋅ Stefan Roth
+
+217. Reconstructing 3D Human-Object Interaction via a Unified Triplane Space
+   Yuhang Chen ⋅ Chenxing Wang
+
+218. Reconstructing Dense Depth of Dark Scenes with Sparse LiDAR, Noisy Events, and Blurry RGB
+   Jianbo Cao ⋅ Yuqi Han ⋅ Siming Zheng ⋅ Bo Wang ⋅ Tong Guo ⋅ Jinli Suo
+
+219. Reconstructing Humans and Objects in Interaction using Large Reconstruction Models
+   Agniv Chatterjee ⋅ Georgios Pavlakos
+
+220. Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations
+   Andrii Zadaianchuk ⋅ Leonardo Barcellona ⋅ Lennard Schuenemann ⋅ Christian Gumbsch ⋅ Zehao Wang ⋅ Muhammad Zubair Irshad ⋅ Fabien Despinoy ⋅ Rahaf Aljundi ⋅ Efstratios Gavves ⋅ Sergey Zakharov
+
+221. Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation
+   Hyunmin Cho ⋅ Jaejun Yoo ⋅ Kyong Hwan Jin
+   arXiv: https://arxiv.org/abs/2607.21485
+
+222. Reflection-aware generative novel view synthesis
+   GeonU Kim ⋅ Shin Dong-Yeon ⋅ Tae-Hyun Oh
+
+223. RefracGS: Novel View Synthesis Through Refractive Water Surfaces with 3D Gaussian Ray Tracing
+   Yiming Shao ⋅ Qiyu Dai ⋅ Chong Gao ⋅ Guanbin Li ⋅ Yequan Wang ⋅ He Sun ⋅ Qiong Zeng ⋅ Baoquan Chen ⋅ Wenzheng Chen
+   arXiv: https://arxiv.org/abs/2603.21695
+   page:  https://yimgshao.github.io/refracgs/
+
+224. ReInGS: Re-Initializing 3D Gaussians against Sparsity Discrepancy in Few-Shot Novel View Synthesis
+   Junao Shen ⋅ Tian Feng ⋅ Haojie Dong ⋅ Jinkang Ji ⋅ Tianjia Shao
+
+225. Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting
+   Junoh Lee ⋅ Junmyeong Lee ⋅ Yeon-Ji Song ⋅ Inhwan Bae ⋅ Jisu Shin ⋅ Hae-Gon Jeon ⋅ Jin-Hwa Kim
+   arXiv: https://arxiv.org/abs/2603.24994
+
+226. Render-FM: Feedforward Model for Real-time Photorealistic Volumetric Rendering
+   Zhongpai Gao ⋅ Benjamin Planche ⋅ Meng Zheng ⋅ Anwesa Choudhuri ⋅ Van Nguyen ⋅ Terrence Chen ⋅ Ziyan Wu
+   arXiv: https://arxiv.org/abs/2505.17338
+   page:  https://gaozhongpai.github.io/renderfm/
+
+227. REON-NVS: Real-Time Online Novel-View Synthesis from Sparse-View Videos
+   Daeyeon Kim ⋅ Jinhyeok Kim ⋅ Gangmin Kwon ⋅ Seungjoo Shin ⋅ Sunghyun Cho
+
+228. RePer-360: Releasing Perspective Priors for 360° Depth Estimation via Self-Modulation
+   Cheng Guan ⋅ Chunyu Lin ⋅ Zhijie Shen ⋅ Junsong Zhang ⋅ Jiyuan Wang
+   arXiv: https://arxiv.org/abs/2603.05999
+   code:  https://github.com/munimo/RePer360
+
+229. ReSplat: Learning Recurrent Gaussian Splatting
+   Haofei Xu ⋅ Daniel Barath ⋅ Andreas Geiger ⋅ Marc Pollefeys
+   arXiv: https://arxiv.org/abs/2510.08575
+   code:  https://github.com/cvg/resplat
+   page:  https://haofeixu.github.io/resplat/
+
+230. Revisiting the Volumetric Data of 4DME: Compression, Extension and Benchmarking for Micro-Expression Analysis
+   Samuel Boccara ⋅ Amar Tious ⋅ Guoying Zhao ⋅ Yante Li ⋅ Toinon Vigier ⋅ Vincent Ricordel
+
+231. ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video
+   Xiaozhong Lyu ⋅ Gen Li ⋅ Zhiyin Qian ⋅ Xucong Zhang ⋅ Marc Pollefeys ⋅ Siyu Tang
+   arXiv: https://arxiv.org/abs/2607.17790
+   page:  https://reviv4d.github.io/
+
+232. RIGS: Radar-Informed Gaussian Splatting for Uncertainty-Aware 3D Occupancy and Motion Prediction
+   Zeyu Han ⋅ Junzhe Wu ⋅ Fang Zhang ⋅ Maani Ghaffari Jadidi ⋅ Jianqiang Wang
+
+233. Robust 3DGS-based SLAM via Adaptive Kernel Smoothing
+   Shouhe Zhang ⋅ Dayong Ren ⋅ WEN LI ⋅ Piaopiao Yu ⋅ Sensen Song ⋅ Kaikai Shao ⋅ Yurong Qian
+   arXiv: https://arxiv.org/abs/2511.23221
+
+234. Robust and Efficient Monocular 3D Gaussian SLAM for Kilometer-Scale Outdoor Scenes
+   Sicheng Yu ⋅ Dongxu Shen ⋅ Beizhen ZHAO ⋅ Ding Guanzhi ⋅ Hao Wang
+   arXiv: https://arxiv.org/abs/2606.30436
+
+235. RoomPlanner: Reachability-Aware View Sampling for Text-to-Room 3D Gaussian Splatting
+   Wenzhuo Sun ⋅ MingJian Liang ⋅ Wenxuan Song ⋅ Xuelian Cheng ⋅ Zongyuan Ge
+
+236. SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection
+   Kim Jun-Seong ⋅ Tae-Hyun Oh ⋅ Eduardo Pérez Pellitero ⋅ Youngkyoon Jang
+   arXiv: https://arxiv.org/abs/2601.03024
+   page:  https://saresgs.github.io/
+
+237. SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers
+   Jianing Deng ⋅ Yuanzhe LI ⋅ Jialu Wang ⋅ Song Wang ⋅ Tianlong Chen ⋅ Huanrui Yang ⋅ Jingtong Hu
+   arXiv: https://arxiv.org/abs/2607.03612
+   code:  https://github.com/jndeng/SAF3R
+
+238. Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+   Chin-Yang Lin ⋅ Yang-Che Sun ⋅ Cheng Sun ⋅ Fu-En Yang ⋅ Min-Hung Chen ⋅ Yen-Yu Lin ⋅ Wei-Chen Chiu ⋅ Yu-Lun Liu
+
+239. SceneHI: High-Resolution 3D-Consistent Scene Texturing with Controllable Illumination
+   Athanasios Tragakis ⋅ Marco Aversa ⋅ Daniela Ivanova ⋅ Chaitanya Kaul ⋅ Roderick Murray-Smith ⋅ Daniele Faccio ⋅ Paul Henderson
+
+240. Schroedinger’s Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics
+   Timy Phan ⋅ Jannik Wiese ⋅ Bjorn Ommer
+
+241. SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction
+   Vsevolod Skorokhodov ⋅ Chenghao Xu ⋅ Shuo Sun ⋅ Olga Fink ⋅ Malcolm Mielle
+   arXiv: https://arxiv.org/abs/2603.18774
+
+242. Seek to Segment: Active Perception for Panoramic Referring Segmentation
+   Song Tang ⋅ Shuming Hu ⋅ Xincheng Shuai ⋅ Henghui Ding ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2607.02497
+   page:  https://henghuiding.com/APRS/
+
+243. Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow
+   Quan Meng ⋅ Yujin Chen ⋅ Lei Li ⋅ Matthias Niessner ⋅ Angela Dai
+   arXiv: https://arxiv.org/abs/2603.28548
+   page:  https://quan-meng.github.io/projects/seen2scene/
+
+244. SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images
+   Jinyuan Qu ⋅ Hongyang Li ⋅ Lei Zhang
+   arXiv: https://arxiv.org/abs/2603.19926
+
+245. SFM: Taming State Space Models for Text-to-Motion via Spatial-Frequency Modeling
+   Shang Gao ⋅ Haicheng Liao ⋅ Wenshuo Chen ⋅ Yumu Xie ⋅ Jiaxun Zhang ⋅ Bin Rao ⋅ Chengyue Wang ⋅ Yanchen Guan ⋅ Zhiyong Cui ⋅ Shiqi Ou ⋅ Yutao Yue ⋅ Zhenning Li
+
+246. SharpGS: Sharpness-Preserving 3D Gaussian Splatting with Differentiable Blur-Driven Density Control
+   Moonsoo Jeong ⋅ Dongbeen Kim ⋅ Minseong Kim ⋅ Sungkil LEE
+
+247. SHINE-PPG: Non-Lambertian Intrinsic Decomposition for Illumination-Robust rPPG
+   Shih-Yu Yang ⋅ Yen-Chun Chou ⋅ Pei-Kai Huang ⋅ Chiou-Ting Hsu
+
+248. SkipGS: Post-Densification Backward Skipping for Efficient 3DGS Training
+   Jingxing Li ⋅ Yongjae Lee ⋅ Deliang Fan
+   arXiv: https://arxiv.org/abs/2603.08997
+   code:  https://github.com/ASU-ESIC-FAN-Lab/SkipGS
+
+249. SkyLume: A Large-Scale Multi-Illumination Aerial Benchmark for Urban Scene Reconstruction and Beyond
+   Zhuoxiao Li ⋅ Wenzong Ma ⋅ Taoyu Wu ⋅ Jinjing Zhu ⋅ Shuai Zhang ⋅ Jing OU ⋅ Tongyan Hua ⋅ Yinrui Ren ⋅ Rongjun Qin ⋅ Hui Xiong ⋅ Wufan Zhao
+
+250. SLAM-Former: Putting SLAM into One Transformer
+   Yijun Yuan ⋅ Zhuoguang Chen ⋅ Kenan Li ⋅ Weibang Wang ⋅ Minghui Qin ⋅ Zhijian Fang ⋅ Weicheng Zheng ⋅ Hang Zhao
+   arXiv: https://arxiv.org/abs/2509.16909
+   page:  https://tsinghua-mars-lab.github.io/SLAM-Former
+
+251. SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting
+   Haozheng Yu ⋅ Xinyu Yang ⋅ Rundong Luo ⋅ Jennifer Sun ⋅ Bharath Hariharan
+
+252. SMP-UWGS: Coupled Physics-Geometry Optimization for Scalable Multi-Partition Underwater 3D Reconstruction
+   宇轩 刘 ⋅ Jinhui Zhang
+
+253. Sparse-View Surface Reconstruction using Gaussian Splatting through High-Confidence Depth Propagation with Normal Priors
+   Liang Han ⋅ Bangcai Wei ⋅ Junsheng Zhou ⋅ Yushen Liu ⋅ Zhizhong Han
+   arXiv: https://arxiv.org/abs/2607.03765
+   page:  https://hanl2010.github.io/DP-GS
+
+254. Spectral Gating via Damped Oscillations for Adaptive Implicit Neural Representations
+   Alex Costanzino ⋅ Pierluigi Zama Ramirez ⋅ Giuseppe Lisanti ⋅ Luigi Di Stefano
+   arXiv: https://arxiv.org/abs/2606.23129
+   page:  https://alex-costanzino.github.io/fdho/
+
+255. SplatPainter: Interactive Authoring of 3D Gaussians from 2D Edits via Test-Time Training
+   Yang Zheng ⋅ Hao Tan ⋅ Kai Zhang ⋅ Peng Wang ⋅ Leonidas Guibas ⋅ Gordon Wetzstein ⋅ Wang Yifan
+   arXiv: https://arxiv.org/abs/2512.05354
+   page:  https://y-zheng18.github.io/SplatPainter/
+
+256. Stabilizing Deep Reconstruction Operators with Contractive Anchoring
+   Arghya Sinha ⋅ Trishit Mukherjee ⋅ Kunal Chaudhury
+   arXiv: https://arxiv.org/abs/2607.23341
+
+257. StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production–Living Simulations with Stardew Valley
+   Weihao Tan ⋅ Changjiu Jiang ⋅ Yu Duan ⋅ Mingcong Lei ⋅ Li JiaGeng ⋅ Yitian Hong ⋅ Xinrun Wang ⋅ Bo An
+   arXiv: https://arxiv.org/abs/2507.07445
+   page:  https://weihaotan.github.io/StarDojo
+
+258. StructSplat: Generalizable 3D Gaussian Splatting from Uncalibrated Sparse Views
+   Jia-Chen Zhao ⋅ Beiqi Chen ⋅ Xinyang Chen ⋅ Guangcong Wang ⋅ Liqiang Nie
+   arXiv: https://arxiv.org/abs/2606.28321
+   code:  https://github.com/J-C-Zhao/StructSplat
+   page:  https://structsplat.github.io
+
+259. Structure Gaussian Splatting SLAM
+   Yan Li ⋅ Yingzhao Li ⋅ Gim Hee Lee
+
+260. StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction
+   GaHye Lee ⋅ Gyoonseo Kim ⋅ Wonjong Jang ⋅ Jooeun Son ⋅ Seungyong Lee
+   arXiv: https://arxiv.org/abs/2607.26889
+
+261. StyleFusion360: View-Consistent Head Stylization via Adaptive Style Modulation
+   Furkan Guzelant ⋅ Arda Goktogan ⋅ Tarık Kaya ⋅ Aysegul Dundar
+   arXiv: https://arxiv.org/abs/2511.22411
+
+262. SubSplat: High-Resolution Pixel-aligned 3DGS via Sub-pixel Gaussian Reparameterization
+   Jiun Lee ⋅ Jaekwang Kim ⋅ Sangmin Lee
+   arXiv: https://arxiv.org/abs/2607.20813
+
+263. SupIR-GS: Thermal Infrared Super-Resolution Novel View Synthesis with Imaging-Calibrated 3D Gaussian Splatting
+   Jin Liu ⋅ Haodong Li ⋅ Jiagang Chen ⋅ Dabin leng ⋅ Jiguang Li ⋅ Zhao Huang ⋅ Xiaoshuai Zhang ⋅ Qi Xu ⋅ Zhiwen Zheng ⋅ Xingru Huang
+
+264. SVI360: Spherical Video Interpolation
+   Le Kim NGUYEN ⋅ Renato Martins ⋅ Pascal Vasseur ⋅ Cedric Demonceaux
+   arXiv: https://arxiv.org/abs/2607.11710
+   page:  https://icb-vision-ai.github.io/video360_interpolation/
+
+265. SyncFix: Multi-View Consistent Diffusion Refinement of 3D Reconstructions
+   Deming Li ⋅ Cheng Peng ⋅ Abhay Kumar Yadav ⋅ Rama Chellappa ⋅ Anand Bhattad
+
+266. SynLF: Zero-Shot Metric Depth from Light Field Cameras via Physics-Grounded Synthesis
+   Zhexuan Cao ⋅ Yuduo Guo ⋅ Peisheng Ding ⋅ Zhan Shi ⋅ Hui Qiao
+
+267. SyntheticDoc: A Large Synthetic Dataset for Document Unwarping and Illumination Correction
+   Daniel Woortmann ⋅ Tanguy Magne ⋅ Olga Sorkine-hornung
+
+268. Tackling Misattribution in 3D Intrinsic Decomposition via Proximity Attention Point Rendering
+   Alireza Moazeni ⋅ Shichong Peng ⋅ Yanshu Zhang ⋅ Chirag Vashist ⋅ Ke Li
+
+269. Temporally Aware Densification for Dynamic 3D Gaussian Splatting
+   VIKRAM SANDU ⋅ Mayurdeep Pathak ⋅ Rajiv Soundararajan
+   arXiv: https://arxiv.org/abs/2606.23212
+
+270. Temporally Stable Generative Illumination with a One-Step Diffusion Model
+   Harish Anand ⋅ Alexandr Kuznetsov ⋅ Sungye Kim ⋅ Wojciech Uss ⋅ Wojciech Kaliński ⋅ Rama Harihara
+
+271. TetraSDF: Analytic Isosurface Extraction with Multi-resolution Tetrahedral Grid
+   Seonghun Oh ⋅ Youngjung Uh ⋅ Jin-Hwa Kim
+   arXiv: https://arxiv.org/abs/2511.16273
+
+272. The Sterkfontein Caves Dataset: A Novel View Rendering Challenge from the Cradle of Humankind
+   Ireton Liu ⋅ Brian Xu ⋅ Dominic Stratford ⋅ Steven James ⋅ Richard Klein ⋅ James Tompkin
+
+273. ThermoGS: Decoupling Physical Surface Attributes for Spatio-Temporal Thermal Field Emulation via 4D Gaussian Splatting
+   Kun Yang ⋅ Yuxiang Liu ⋅ Zeyu Cui ⋅ Shen Yan ⋅ Maojun Zhang ⋅ Yu Liu ⋅ Xue Wang ⋅ Qing Wang
+
+274. TIDES: Time-Derivative Event Simulation via Deformable Reconstruction
+   Christopher Thirgood ⋅ Dipon Kumar Ghosh ⋅ Simon Hadfield
+
+275. TopoFuse: Topology-Aware Tri-Planar Fusion for 3D Cryo-Electron Tomography Segmentation
+   Rohit Kumar Salla ⋅ Neelesh Gupta ⋅ Xingjian Li ⋅ Min Xu
+
+276. TopoGS: Planar Reconstruction via Topology-Aware 3D Gaussian Splatting
+   Shanshan Pan ⋅ Jiale Chen ⋅ Yilin Liu ⋅ Hui Huang
+   arXiv: https://arxiv.org/abs/2607.16838
+   page:  https://vcc.tech/research/2026/TopoGS
+
+277. TouchAnything: Diffusion-Guided 3D Reconstruction from Sparse Robot Touches
+   Langzhe Gu ⋅ Hung-Jui Huang ⋅ Mohamad Qadri ⋅ Michael Kaess ⋅ Wenzhen Yuan
+   arXiv: https://arxiv.org/abs/2604.08945
+   page:  https://grange007.github.io/touchanything
+
+278. Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering
+   Ankit Dhiman ⋅ Kunal Kathare ⋅ Pranav Vignesh ⋅ LOKESH BOREGOWDA ⋅ Venkatesh Babu Radhakrishnan
+
+279. Triangle Splatting SLAM
+   Nicholas Fry ⋅ Eric Dexheimer ⋅ Kirill Mazur ⋅ Paul Kelly ⋅ Andrew Davison
+   arXiv: https://arxiv.org/abs/2605.31419
+
+280. TriFlow: Generating Artist-Like 3D Mesh Topology via Nearest-Vertex Vector Fields
+   Haoxuan Li ⋅ Ziya Erkoç ⋅ Daniele Sirigatti ⋅ Vladislav Rosov ⋅ Lei Li ⋅ Angela Dai ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2606.20131
+   page:  https://derkleineli.github.io/triflow/
+
+281. TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting
+   Suwoong Yeom ⋅ Joonsik Nam ⋅ Seunggyu Choi ⋅ Lucas Lee ⋅ Sangmin Kim ⋅ Jaesik Park ⋅ Joonsoo Kim ⋅ Kugjin Yun ⋅ Kyeongbo Kong ⋅ Suk-Ju Kang
+   arXiv: https://arxiv.org/abs/2604.00538
+   page:  https://wwwjjn.github.io/TRiGS-project_page/
+
+282. TriNLOS: Triplane Representations for Neural Non-Line-of-Sight Imaging
+   Bonmu Do ⋅ Ji Hyun Nam
+
+283. TriSplat: Adaptive Triplane for Sparse-View Large-Scale Scene Reconstruction
+   Ryo Umagami ⋅ Tomohiro Hashimoto ⋅ Xuangeng Chu ⋅ Ziteng Cui ⋅ Yusuke Mukuta ⋅ Jia Deng ⋅ Tatsuya Harada
+
+284. TrustCLIP: Learning Private Visual Features via Adversarial Reconstruction
+   Nikos Athanasiou ⋅ Ilya A. Petrov ⋅ Angela Yao ⋅ Shugao Ma ⋅ Eric Sauser ⋅ Edoardo Remelli ⋅ Shreyas Hampali ⋅ Johannes Schönberger ⋅ Fadime Sener ⋅ Bugra Tekin
+   arXiv: https://arxiv.org/abs/2607.04484
+   page:  https://atnikos.github.io/trustclip/
+
+285. Twin-DAgger: Synergizing Digital Twins and Human Corrections for Efficient Robot Manipulation
+   Jiahang Li ⋅ Zhirui Zhang ⋅ Kairan Ding ⋅ Fan Fei ⋅ Yunkai Tang ⋅ Jiaming Liu ⋅ Xiao He ⋅ Ziyu Chen ⋅ Gaohao Zhou ⋅ Jieji Ren ⋅ Yandong Guo ⋅ Shanghang Zhang ⋅ Boxin Shi
+
+286. Under One Sun: Multi-Object Generative Perception of Materials and Illumination
+   Nobuo Yoshii ⋅ Xinran (Nicole) Han ⋅ Ryo Kawahara ⋅ Todd Zickler ⋅ Ko Nishino
+   arXiv: https://arxiv.org/abs/2603.19226
+   page:  https://vision.ist.i.kyoto-u.ac.jp/research/onesun/
+
+287. UniDynamics: Event-RGB Fusion for Unified Future 4D Dynamic Scene Generation
+   Daikun Liu ⋅ Xin Zhan ⋅ Teng Wang ⋅ Xiaoping Wang ⋅ Changyin Sun
+
+288. Unified Panoramic–Gaussian Representation for Monocular 4D Scene Synthesis
+   Yuankun Yang ⋅ Yi Wei ⋅ Wenyang Zhou ⋅ Li Zhang
+   arXiv: https://arxiv.org/abs/2607.01663
+
+289. UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment
+   Yongzhe Lyu ⋅ Shaofei Wang ⋅ Yixin Chen ⋅ Siyuan Huang
+
+290. UniQueR: Unified Query-based Feedforward 3D Reconstruction
+   Chensheng Peng ⋅ Quentin HERAU ⋅ Jiezhi Yang ⋅ Yichen Xie ⋅ Yihan Hu ⋅ Wenzhao Zheng ⋅ Matthew Strong ⋅ Masayoshi TOMIZUKA ⋅ Wei Zhan
+   arXiv: https://arxiv.org/abs/2603.22851
+
+291. UniSim-SLAM: Feed-Forward SLAM with Unified Sim(3) Optimization
+   inha Lee ⋅ Dongjae Jeong ⋅ Junhee Lee ⋅ Kyungdon Joo
+   arXiv: https://arxiv.org/abs/2608.01706
+   page:  https://vision3d-lab.github.io/unisim-slam/
+
+292. UniTriSplat: A Unified 3D Gaussian Splatting Framework with Uniform Spherical Rasterization for Universal Cameras
+   Yipeng Zhu ⋅ Huajian Huang ⋅ Tristan Braud ⋅ Sai Kit Yeung
+   arXiv: https://arxiv.org/abs/2606.29794
+   page:  https://yipengzhu0809.github.io/UniTriSplat/
+
+293. VideoSfM: Exploiting Temporal Structure for Video-Based Structure-from-Motion
+   Zador Pataki ⋅ Paul-Edouard Sarlin ⋅ Marc Pollefeys
+
+294. ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis
+   Moonyeon Jeong ⋅ Seunggi Min ⋅ Suhyeon Lee ⋅ Hongje Seong
+   arXiv: https://arxiv.org/abs/2603.25265
+   page:  https://cvlab-uos.github.io/ViewSplat
+
+295. VIGS-SLAM: Visual Inertial Gaussian Splatting SLAM
+   Zihan Zhu ⋅ Wei Zhang ⋅ Moyang Li ⋅ Norbert Haala ⋅ Marc Pollefeys ⋅ Daniel Barath
+   arXiv: https://arxiv.org/abs/2512.02293
+   page:  https://vigs-slam.github.io
+
+296. VKSR: Scalable Kernel Surface Reconstruction Using Vecchia's Approximation
+   Maximilian Weiherer ⋅ Chukwudi Williams Umah ⋅ Bernhard Egger
+
+297. VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction
+   Weijie Wang ⋅ Yeqing Chen ⋅ Zeyu Zhang ⋅ Hengyu Liu ⋅ Haoxiao Wang ⋅ ZhiYuan Feng ⋅ Wenkang Qin ⋅ Feng Chen ⋅ Jiawang Bian ⋅ Zheng Zhu ⋅ Donny Y. Chen ⋅ Bohan Zhuang
+   arXiv: https://arxiv.org/abs/2509.19297
+   code:  https://github.com/ziplab/VolSplat
+   page:  https://lhmd.top/volsplat
+
+298. VSDiffusion: Taming Ill-Posed Shadow Generation via Visibility-Constrained Diffusion
+   Jing Li ⋅ Jing Zhang
+   arXiv: https://arxiv.org/abs/2603.08020
+
+299. Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
+   Zhiqi Li ⋅ Chengrui Dong ⋅ Zhenhua Du ⋅ Hangning Zhou ⋅ Cong Qiu ⋅ Hailong Qin ⋅ Mu Yang ⋅ Dongxu Wei ⋅ Peidong Liu
+   arXiv: https://arxiv.org/abs/2606.30045
+
+300. Weight-Space Mixture-of-Experts for Implicit Neural Representation Classification
+   Stanisław Janik ⋅ Michal Byra
+   arXiv: https://arxiv.org/abs/2607.29463
+
+301. What if? Emulative Simulation with World Models for Situated Reasoning
+   Ruiping Liu ⋅ Yufan Chen ⋅ Yuheng Zhang ⋅ Junwei Zheng ⋅ Kunyu Peng ⋅ Chengzhi Wu ⋅ Chenguang Huang ⋅ Di Wen ⋅ Jiaming Zhang ⋅ Kailun Yang ⋅ Rainer Stiefelhagen
+   arXiv: https://arxiv.org/abs/2603.06445
+   code:  https://github.com/RuipingL/WanderDream
+
+302. What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility
+   Filippo Ziliotto ⋅ Luciano Serafini ⋅ Lamberto Ballan ⋅ Tommaso Campari
+   arXiv: https://arxiv.org/abs/2607.09503
+
+303. When 3D Gaussian Splatting Recovers Real Surfaces
+   Songhe Wang ⋅ David Miller
+
+304. Wid3R: Wide Field-of-View 3D Reconstruction via Camera Model Conditioning
+   Dongki Jung ⋅ Jaehoon Choi ⋅ Adil Qureshi ⋅ Somi Jeong ⋅ Dinesh Manocha ⋅ Suyong Yeon
+   arXiv: https://arxiv.org/abs/2602.05321
+
+305. WildCity: A Real-World Dataset for City-Scale Rendering and Beyond
+   Xiangyu Han ⋅ Mengyu Yang ⋅ Jiaqi Li ⋅ Bowen Chang ⋅ Ziyu Chen ⋅ Hexu Zhao ⋅ Rahul Agrawal ⋅ Anthony Rodriguez ⋅ Rajani Acharya ⋅ Fiona Hua ⋅ Marco Pavone ⋅ Chen Feng ⋅ Yiming Li
+
+306. WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images
+   Xiyu Zhang ⋅ Jingyu Zhuang ⋅ Hongjia Zhai ⋅ Zizheng Yan ⋅ Jinwei Chen ⋅ Guofeng Zhang ⋅ Qingnan Fan
+   arXiv: https://arxiv.org/abs/2607.05347
+   page:  https://zju3dv.github.io/wildsplat/
+
+307. WilLaGS: Latent-Conditional 3D Appearance Fields for Robust Gaussian Splatting In-the-Wild
+   yuhao Bai ⋅ Qianqiu Tan ⋅ Lilong Chen ⋅ Huanhuan Lv ⋅ Lijun Chen
+
+308. World Reconstruction From Inconsistent Views
+   Lukas Höllein ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2603.16736
+   code:  https://github.com/lukasHoel/video_to_world
+   page:  https://lukashoel.github.io/video_to_world
+
+309. X-SG2S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks
+   Zihang Cheng ⋅ Wentao Bao ⋅ HUIPING ZHUANG ⋅ Chun Li ⋅ Xin Meng ⋅ Ziqian Zeng ⋅ Cen Chen ⋅ Ming Li ⋅ Fei Yu
+
+310. Zero-Shot Novel Depth Synthesis Using Foundation Models Scene Representations
+   Denis Akola ⋅ David Fouhey
+
+311. ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting
+   Jiayu Ding ⋅ Meilu Song ⋅ Xiaoyi Zhang ⋅ Hongbo Jin ⋅ Yichen Jin ⋅ Xiangtian Si
+   arXiv: https://arxiv.org/abs/2607.18801
+   page:  https://inkmind-ai.github.io/ZeroSplat
+
+312. Φeat: Physically-Grounded Material Feature Representation
+   Giuseppe Vecchio ⋅ Adrien Kaiser ⋅ Claudia Cuttano ⋅ ROUFFET Romain ⋅ Rosalie MARTIN ⋅ Elena Garces ⋅ Tamy Boubekeur
+
+313. ∂DIBR: Differentiable Depth Image-based Rendering for Fast Novel View Synthesis
+   Armand Losfeld ⋅ Sarah Dury ⋅ Gauthier Lafruit ⋅ Mehrdad Teratani ⋅ Daniele Bonatto
+

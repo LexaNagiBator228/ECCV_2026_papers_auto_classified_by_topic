@@ -1,0 +1,109 @@
+Other / Uncategorized  (26 papers, 20 with arXiv links)  [Unclassified]
+============================================================================
+
+1. AIMold: An Autonomous AI-based Pipeline for Complex Mold Design
+   Pengyun Qiu ⋅ Shuo Wang ⋅ Zeyuan Chen ⋅ Yihao Zhi ⋅ Chongjie Ye ⋅ XIAOGUANG HAN
+   arXiv: https://arxiv.org/abs/2608.00800
+   code:  https://github.com/tb2-sy/AIMold
+
+2. ARGENT: Adaptive Hierarchical Image-Text Representations
+   Chuong Huynh ⋅ Hossein Souri ⋅ Abhinav Kumar ⋅ Vitali Petsiuk ⋅ Deen Dayal Mohan ⋅ Suren Kumar
+   arXiv: https://arxiv.org/abs/2603.23311
+
+3. Attention is Case-Sensitive
+   Maximilian Dillitzer ⋅ Tin Stribor Sohn ⋅ Jason Corso ⋅ Michael Auerbach
+   arXiv: https://arxiv.org/abs/2608.03711
+
+4. Automatic Method Illustration Generation for AI Scientific Papers via Drawing Middleware Creation, Evolution, and Orchestration
+   ZHUOLING Li ⋅ Jiarui Zhang ⋅ Ping Hu ⋅ Jason Kuen ⋅ Jiuxiang Gu ⋅ Hossein Rahmani ⋅ Jun Liu
+   arXiv: https://arxiv.org/abs/2603.29590
+
+5. AutoPhyX: Automatic Text-Condition Physics Property Generation
+   Bei Huang ⋅ Yixin Chen ⋅ Hongbin Zha ⋅ Yuru Pei ⋅ Siyuan Huang
+
+6. Bottom-up modeling of repeated elements via single image analysis-by-synthesis
+   syrine kalleli ⋅ Alexei Efros ⋅ Mathieu Aubry
+
+7. Bridging the Geometry Mismatch: Frequency-Aware Anisotropic Serialization for Thin-Structure SSMs
+   Jin Bai ⋅ Huiyao Zhang ⋅ Qi Wen ⋅ Ningyang Li ⋅ Shengyang Li ⋅ Atta ur Rahman ⋅ Xiaolin Tian
+   arXiv: https://arxiv.org/abs/2603.28503
+
+8. Color Pass-Through via Camera-Display Coupling
+   Ruikang Li ⋅ Molin Li ⋅ Jiarui Wu ⋅ Zhe Wei ⋅ Pengpeng Liu ⋅ Tianfan Xue
+   arXiv: https://arxiv.org/abs/2607.12746
+   page:  https://lyricccco.github.io/color-pass-through/
+
+9. From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation
+   Mohammad Mahdi ⋅ Nedko Savov ⋅ Danda Paudel ⋅ Luc Van Gool
+   arXiv: https://arxiv.org/abs/2604.13793
+
+10. FUSE: A Flow-based Mapping Between Shapes
+   Lorenzo Olearo ⋅ Giulio Viganò ⋅ Daniele Baieri ⋅ Filippo Maggioli ⋅ Simone Melzi
+   arXiv: https://arxiv.org/abs/2511.13431
+
+11. Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding
+   Xianjin Wu ⋅ Dingkang Liang ⋅ Tianrui Feng ⋅ Kui Xia ⋅ Yumeng Zhang ⋅ Xiaofan Li ⋅ Xiao Tan ⋅ Xiang Bai
+   arXiv: https://arxiv.org/abs/2603.19235
+   code:  https://github.com/H-EmbodVis/VEGA-3D
+
+12. Honey, I Shrunk the Arc de Triomphe!
+   Yuanbo Xiangli ⋅ Hanyu Chen ⋅ Xueqing Tsang ⋅ Noah Snavely
+   arXiv: https://arxiv.org/abs/2606.02379
+   page:  https://metricscenes.github.io/
+
+13. LangLoc: “Tell Me What You See”
+   Shaurya Kishore Panwar ⋅ Roham Zendehdel Nobari ⋅ Shirley Lau ⋅ Abu Bakr Rahman Shaik ⋅ Manuel Günther ⋅ Marc Pollefeys ⋅ Daniel Barath
+   arXiv: https://arxiv.org/abs/2607.05077
+
+14. Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision
+   Yuandong Pu ⋅ Le Zhuo ⋅ Kaiwen Zhu ⋅ Liangbin Xie ⋅ Wenlong Zhang ⋅ Xiangyu Chen ⋅ Peng Gao ⋅ Yu Qiao ⋅ Chao Dong ⋅ Yihao Liu
+   arXiv: https://arxiv.org/abs/2504.04903
+
+15. PuzLM: Solving Jigsaw Puzzles with Sequence-to-Sequence Language Models
+   Gur Elkin ⋅ Ofir I Shahar ⋅ Ohad Ben-Shahar
+   arXiv: https://arxiv.org/abs/2511.06315
+
+16. Ray-Path-Aware Virtual Point Removal on 2D Layer-Wise Nearest Point Map
+   DAEHYEON JEON ⋅ Kyungdon Joo ⋅ Jae-Young Sim
+
+17. SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video
+   Xinyao Zhang ⋅ Wenkai Dong ⋅ YuXin Song ⋅ Bo Fang ⋅ Qi Zhang ⋅ Jing Wang ⋅ Fan Chen ⋅ Hui Zhang ⋅ Haocheng Feng ⋅ Yu Lu ⋅ Hang Zhou ⋅ Chun Yuan ⋅ Jingdong Wang
+   arXiv: https://arxiv.org/abs/2603.19228
+
+18. Task-driven Processing with Coarse-to-Fine Glimpse-based Active Perception
+   Oleh Kolner ⋅ Thomas Ortner ⋅ Stanislaw Wozniak ⋅ Angeliki Pantazi
+
+19. Text-Conditioned Background Generation for Editable Multi-Layer Documents
+   Taewon Kang ⋅ Joseph K J ⋅ Christopher Tensmeyer ⋅ Jihyung Kil ⋅ Wanrong Zhu ⋅ Ming C Lin ⋅ Vlad Morariu
+   arXiv: https://arxiv.org/abs/2512.17151
+
+20. The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos
+   Zhuoyuan Wu ⋅ Xurui Yang ⋅ Jiahui Huang ⋅ Yue Wang ⋅ Jun Gao
+   arXiv: https://arxiv.org/abs/2512.05398
+   code:  https://github.com/wuzy2115/DYNAPO
+
+21. Trajectory Forcing: Structure-First Generation with Controllable Semantic Trajectories
+   Merve Kocabas ⋅ Gege Gao ⋅ Bernhard Schölkopf ⋅ Andreas Geiger
+   arXiv: https://arxiv.org/abs/2606.22527
+   page:  https://mervekocabas.github.io/TrajectoryForcing/
+
+22. Unsupervised Pixel-Level Semantic Left-Right Understanding of In-the-Wild Images
+   Weikang Wang ⋅ Tobias Weißberg ⋅ Florian Bernard
+   arXiv: https://arxiv.org/abs/2607.05006
+
+23. Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild
+   Trang Nguyen ⋅ Sidong Zhang ⋅ Shiv Shankar ⋅ Gauri Jagatap ⋅ Deepak Chandran ⋅ Andrea Fanelli ⋅ Madalina Fiterau
+   arXiv: https://arxiv.org/abs/2607.06875
+   page:  https://information-fusion-lab-umass.github.io/video2reaction-bench.github.io
+
+24. VIGOR: VIdeo Geometry-Oriented Reward for Temporal Generative Alignment
+   Tengjiao Yin ⋅ Jinglei Shi ⋅ Heng Guo ⋅ Xi WANG
+   arXiv: https://arxiv.org/abs/2603.16271
+   page:  https://vigor-geometry-reward.com/
+
+25. VOID: Video Object and Interaction Deletion
+   Saman Motamed ⋅ William Harvey ⋅ Benjamin Klein ⋅ Luc Van Gool ⋅ Zhuoning Yuan ⋅ Ta-Ying Cheng
+
+26. WALL-EVE: World Alignment with Rule Learning in Visual Environments
+   Siyu Zhou ⋅ Tianyi Zhou ⋅ Yijun Yang ⋅ Deheng Ye ⋅ Chengqi Zhang ⋅ Jing Jiang ⋅ Guodong Long
+

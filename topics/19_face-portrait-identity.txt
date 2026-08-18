@@ -1,0 +1,138 @@
+Face, Portrait & Identity  (38 papers, 16 with arXiv links)  [Humans, Agents & Autonomy]
+============================================================================
+
+1. Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer
+   Bo Wei ⋅ Xianhui Lin ⋅ Yi Dong ⋅ Zhongzhong Li ⋅ Zonghui Li ⋅ Zirui Wang ⋅ Jiachen Yang ⋅ Xing Liu ⋅ Hong Gu ⋅ Xiaoming Li ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2606.31089
+
+2. Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration
+   Bin WU ⋅ Wei Wang ⋅ Yahui Liu ⋅ Chi Zhang ⋅ Yao Zhao
+
+3. Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds
+   Changjin Kim ⋅ Seunghun Paik ⋅ Dongsoo Kim ⋅ Jae Hong Seo
+
+4. BRepFacetGen: Reverse Engineering B-Reps By Generative Face Segmentation
+   Ka Hei Hui ⋅ Vikas Thamizharasan ⋅ Pradeep Kumar Jayaraman ⋅ Xiang Xu
+
+5. CLIP-AUTT: Test-Time Personalization with Action Unit Prompting for Fine-Grained Video Emotion Recognition
+   Muhammad Osama Zeeshan ⋅ Masoumeh Sharafi ⋅ Benoît Savary ⋅ Alessandro Lameiras Koerich ⋅ Marco Pedersoli ⋅ Eric Granger
+   arXiv: https://arxiv.org/abs/2603.27999
+
+6. Compositional Non-Face Re-Identification Pressure under Cumulative Vision Releases
+   Tirth Joshi ⋅ Honggang Wang
+
+7. Discovering Geometric Biases in 3D Face Reconstruction: A Curvature-Aware Spectral Framework for Fairness Evaluation
+   Veronika Shilova ⋅ Emmanuel Malherbe ⋅ Giovanni Palma ⋅ Panagiotis-Alexandros Bokaris ⋅ Laurent Risser ⋅ Jean-Michel Loubes
+   arXiv: https://arxiv.org/abs/2607.07486
+
+8. DTI: Dynamic Trajectory Initialization for Generative Face Video Super-Resolution
+   Yingwei TANG ⋅ Chen Yan ⋅ Wendi Liu ⋅ Qiang Hu ⋅ Xiaoyun Zhang
+   arXiv: https://arxiv.org/abs/2606.29198
+
+9. Extreme Face Super-Resolution through Identity Fitting and Decoupling
+   Jiarui Yang ⋅ Hang Guo ⋅ Wen Huang ⋅ Shu-Tao Xia ⋅ Tao Dai
+
+10. Face Anything: 4D Face Reconstruction from Any Image Sequence
+   Umut Kocasarı ⋅ Simon Giebenhain ⋅ Richard Shaw ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2604.19702
+   page:  https://kocasariumut.github.io/FaceAnything/
+
+11. FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations
+   Yiming Wang ⋅ Jiahao Chen ⋅ Qingming Li ⋅ Chunyi Zhou ⋅ Zhi Chen ⋅ Lingzhong Meng ⋅ Jinbao Li ⋅ Shouling Ji
+
+12. FaceMoE: Mixture of Experts for Low-Resolution Face Recognition
+   Kartik Narayan ⋅ Vishal Patel
+   arXiv: https://arxiv.org/abs/2606.32040
+   code:  https://github.com/Kartik-3004/FaceMoE
+   page:  https://kartik-3004.github.io/FaceMoE/
+
+13. Fair and Faithful: A Diffusion-Enhanced Dataset and Hybrid State-Space Mamba for Face Super-Resolution
+   Tao Wang ⋅ Peiwen Xia ⋅ Bowen Tang ⋅ Jinwei Chen ⋅ Kaihao Zhang ⋅ Bo Li
+
+14. FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing
+   Fengjian Xue ⋅ Xuecheng Wu ⋅ Heli Sun ⋅ Yunyun Shi ⋅ Shi Chen ⋅ Liangyu Fu ⋅ Jinheng Xie ⋅ Dingkang Yang ⋅ Hao Wang ⋅ Junxiao Xue ⋅ Liang He
+   arXiv: https://arxiv.org/abs/2603.29697
+
+15. FlowFace: Rectifying Identity Conditioning with Riemannian Geometry for Face Generation
+   Xinran Deng ⋅ Yiling Wu ⋅ Ye Tian ⋅ Libo Zhang
+
+16. HairOrbit: Multi-view Aware 3D Hair Modeling from Single Portraits
+   Leyang Jin ⋅ Yujian Zheng ⋅ Bingkui Tong ⋅ Yuda Qiu ⋅ Zhenyu Xie ⋅ Hao Li
+   arXiv: https://arxiv.org/abs/2604.02867
+
+17. ID-PreFeR: ID-Preserving Face Restoration with Mixed Data Quality
+   Chengxuan Zhu ⋅ Yuchen Hong ⋅ Qingnan Fan ⋅ Qi Zhang ⋅ Bingtao Fu ⋅ Jinxiu Liang ⋅ Jinwei Chen ⋅ Huaqi Zhang ⋅ Chao Xu ⋅ Boxin Shi
+
+18. In-Context Sync-LoRA for Portrait Video Editing
+   Sagi Polaczek ⋅ Or Patashnik ⋅ Ali Mahdavi-Amiri ⋅ Danny Cohen-Or
+   arXiv: https://arxiv.org/abs/2512.03013
+   page:  https://sagipolaczek.github.io/Sync-LoRA/
+
+19. IREU: Identity-Related Encoder-Only Unlearning for Customized Portrait Generation
+   Chaoyi Shi ⋅ Shanshan Zhang ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2606.29880
+
+20. Learning to Attract and Repel: Dual Quality Margin Learning for Face Recognition (DQM-Face)
+   El Belabbaci ⋅ Bhavesh Wani ⋅ Philipp Terhörst
+
+21. MagicMakeup: A Region-Controllable Diffusion Transformer for High-Fidelity Makeup-Transfer
+   Ziyi Wang ⋅ Siming Zheng ⋅ yang yang ⋅ Shusong Xu ⋅ Hao Zhang ⋅ Bo Li ⋅ Changqing Zou ⋅ Peng-Tao Jiang
+
+22. MirrorPPR: Exemplar-Based Portrait Photo Retouching
+   Zhihong Liu ⋅ Zheng Li ⋅ Jiachun Jin ⋅ Siqi Kou ⋅ Yitao Jian ⋅ Fengpei Yu ⋅ Zhijie Deng
+   arXiv: https://arxiv.org/abs/2606.29308
+   page:  https://sjtu-deng-lab.github.io/MirrorPPR
+
+23. MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation
+   Zhiyuan Xia ⋅ Haojie Li ⋅ Jingyu Lin ⋅ Yiguo Qiao ⋅ Cunjian Chen
+   arXiv: https://arxiv.org/abs/2607.19886
+
+24. Noise-Robust Face Recognition via Non-target Similarity Distribution Guided Sample Selection
+   Fanglong Wu ⋅ Youqiang Gui ⋅ Cheng Peng
+
+25. Noise-Robust Facial Expression Recognition via Mamba-driven Neighbor Weight Refinement
+   Yuzhuang Yang ⋅ Xiaolin Tian ⋅ Qigong Sun
+
+26. OmniFace: Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
+   Xu Guo ⋅ Fulong Ye ⋅ Xinghui Li ⋅ Pengqi Tu ⋅ Pengze Zhang ⋅ Qichao Sun ⋅ Songtao Zhao ⋅ Xiangwang Hou ⋅ Qian HE
+
+27. Parallax Portrait Matting
+   Xin Cai ⋅ Jiawen Chen ⋅ Lars Jebe ⋅ Tianfan Xue ⋅ Zhoutong Zhang
+   arXiv: https://arxiv.org/abs/2607.11205
+
+28. PriSM: Parsing and Style-Mixed Consistency for Unsupervised Domain Adaptation in Facial Landmark Detection
+   Chieh-Yu Yang ⋅ Hou-Ning Hu ⋅ Sykai Chen ⋅ Yu-Lun Liu ⋅ Yen-Yu Lin
+
+29. Pro-Pose: Unpaired Full-Body Portrait Synthesis via Canonical UV Maps
+   Sandeep Mishra ⋅ Yasamin Jafarian ⋅ Andreas Lugmayr ⋅ Yingwei Li ⋅ Varsha Ramakrishnan ⋅ Srivatsan Varadharajan ⋅ Alan Bovik ⋅ Ira Kemelmacher-Shlizerman
+   arXiv: https://arxiv.org/abs/2512.17143
+
+30. Purify then Guide: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing
+   Yingjie Ma ⋅ Xun Lin ⋅ Zitong Yu ⋅ Haonan Wang ⋅ Ruixin Zhang ⋅ Shouhong Ding ⋅ Xin Liu ⋅ Xiaochen Yuan ⋅ Weicheng Xie ⋅ Linlin Shen
+   arXiv: https://arxiv.org/abs/2505.09484
+
+31. Rethinking Attention Reallocation for Multimodal Emotion Recognition
+   Yazhe Lyu ⋅ Yixiong Zou ⋅ Jinghan Hu ⋅ Yuhua Li ⋅ Ruixuan Li
+
+32. Reweighting Framewise Attention in Video Transformers for Facial Emotion Recognition
+   Seongro Yoon ⋅ Donghyeon Cho ⋅ Jinsun Park ⋅ Francois Bremond
+
+33. Sparsity-Inducing Divergence Losses for Biometric Verification
+   Dimitrios Koutsianos ⋅ Ladislav Mosner ⋅ Yannis Panagakis ⋅ Themos Stafylakis
+   arXiv: https://arxiv.org/abs/2606.31664
+
+34. TextFace: Compositional Text-Guided Identity Preserving Face Synthesis for Face Recognition
+   Junzhe Yang ⋅ Mingjie He ⋅ Shiguang Shan
+
+35. TIGER: Taming Identity, Geometry, and Generative Priors for High-Quality Face Video Restoration
+   Yang Zhou ⋅ Wenxue Li ⋅ Peng Zhang ⋅ Yifei Chen ⋅ Fei Wang ⋅ Daiguo Zhou
+
+36. TRAM: Finetuning-Free Test-Time Adaptation for Generalized Face Anti-Spoofing with Only a Few Bonafide Samples
+   Wang QIRUI ⋅ SI-QI LIU
+
+37. Visible Yet Unrecognizable: Frequency-Selective Facial Privacy via Attention
+   Atul Kumar ⋅ Akshay Agarwal
+
+38. μFlow: Leveraging Average Images for Improving Generalisation of Deepfake Faces Detectors
+   Orazio Pontorno ⋅ Mattia Litrico ⋅ Luca Guarnera ⋅ Mario Valerio Giuffrida ⋅ Sebastiano Battiato
+

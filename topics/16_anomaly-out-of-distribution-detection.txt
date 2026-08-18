@@ -1,0 +1,198 @@
+Anomaly & Out-of-Distribution Detection  (52 papers, 27 with arXiv links)  [Recognition & Perception]
+============================================================================
+
+1. A Comprehensive Analysis about Unsupervised Outlier Detection for Images
+   Zhonghang Liu ⋅ Siyuan Chen ⋅ Jingwen Yu ⋅ Changshuo Wang ⋅ Kunyang Li ⋅ Jiangbo Lu
+
+2. Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection
+   Ali Balapour ⋅ Faraz Hach
+   arXiv: https://arxiv.org/abs/2606.29181
+
+3. ArcAD: Anomaly-Rectified Calibration for Cold-Start Supervised Anomaly Detection
+   Ningning Han ⋅ Lei Fan ⋅ Jia Guo ⋅ Yunkang Cao ⋅ Xiu Su ⋅ Feng Cao ⋅ Donglin Di ⋅ Tonghua Su
+   arXiv: https://arxiv.org/abs/2607.02252
+   code:  https://github.com/LGC-AD/ArcAD
+
+4. BAAF: Universal Transformation of One-Class Classifiers for Unsupervised Image Anomaly Detection
+   Declan McIntosh ⋅ Alexandra Branzan Albu
+   arXiv: https://arxiv.org/abs/2602.13091
+
+5. BATQuant: Outlier-Resilient MXFP4 Quantization via Learnable Block-wise Optimization
+   Jifu Li ⋅ Manyi Zhang ⋅ Xiaobo Xia ⋅ Han Bao ⋅ Haoli Bai ⋅ Zhenhua Dong ⋅ Xianzhi Yu
+   arXiv: https://arxiv.org/abs/2603.16590
+
+6. Beyond Common Sense: Grounding Logical Anomaly Detection in Inspection Criteria
+   Yuanze Li ⋅ YuanShihao YuanShihao ⋅ Zimeng Zhu ⋅ Ming LIU ⋅ Wangmeng Zuo ⋅ Guangming Shi
+
+7. Beyond Prompts: Unconditional 3D Inversion for Out-of-Distribution Shapes
+   Victoria Chen ⋅ Emery Pierson ⋅ Léopold Maillard ⋅ Maks Ovsjanikov
+   arXiv: https://arxiv.org/abs/2604.14914
+   page:  https://daidedou.sorpi.fr/publication/beyondprompts
+
+8. Bounding-Box Trajectories Matter for Video Anomaly Detection
+   Inpyo Song ⋅ Jangwon Lee
+   arXiv: https://arxiv.org/abs/2605.21957
+
+9. CL-Anomaly: Layer-Adaptive Mixture-of-Experts with Multimodal Large Language Model for Continual Learning in Anomaly Detection
+   Wen Dong ⋅ Zhao Wang ⋅ Shuangqing Zhang ⋅ Kai Sun ⋅ Ben Li ⋅ Guosen Xie ⋅ Caifeng Shan ⋅ Fang Zhao
+   arXiv: https://arxiv.org/abs/2607.02930
+   code:  https://github.com/WenDongyp/CL-Anomaly
+
+10. CLUE-VAD: Structured Semantic Clues for Understanding Explainable Events in Video Anomaly Detection
+   MYOUNG-CHUL KIM ⋅ Junhee Lee ⋅ ChaeBeen Bang ⋅ MyeongAh Cho
+
+11. CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection
+   Junhao Cai ⋅ Deyu Zeng ⋅ Junhao Pang ⋅ JunYu Chen ⋅ Qiwei Liang ⋅ Xiaopin ZHONG ⋅ Zongze Wu
+   arXiv: https://arxiv.org/abs/2606.20300
+   code:  https://github.com/Junhaocai27/CMDS-AD
+   page:  https://cmds-ad.github.io/
+
+12. DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling
+   Shilei Zeng ⋅ Xurui Li ⋅ Yaohan Tang ⋅ Yu Zhou
+   arXiv: https://arxiv.org/abs/2608.07904
+   code:  https://github.com/HUST-SLOW/DeCo
+
+13. DeCoFlow: Structural Decomposition of Normalizing Flows for Continual Anomaly Detection
+   hun im ⋅ Jungi Lee ⋅ Subeen Cha ⋅ Pilsung Kang
+   arXiv: https://arxiv.org/abs/2606.26687
+
+14. DeltaDeno: Zero-Shot Anomaly Generation via Delta-Denoising Attribution
+   Chaoran Xu ⋅ Chengkan Lv ⋅ Qiyu Chen ⋅ Yunkang Cao ⋅ Feng Zhang ⋅ Zhengtao Zhang
+   arXiv: https://arxiv.org/abs/2511.16920
+   code:  https://github.com/CROVO1026/DeltaDeno
+
+15. DeMuS: Learning Decoupled Matching and Scoring for Batch Zero-Shot Industrial Anomaly Detection
+   Zhengyang Zhao ⋅ Hailong Sun ⋅ Binhang Qi ⋅ Hongrui Yu ⋅ Zhongchi Wang ⋅ Hang Xu
+
+16. Distribution-Aware Feature Selection for Post-hoc Out-of-Distribution Detection
+   Max Gutbrod ⋅ David Rauber ⋅ Christoph Palm
+
+17. Divide and Align: Disentangled Vision-Language Learning for Text-Based Person Anomaly Search
+   Alex Ergasti ⋅ Tomaso Fontanini ⋅ Claudio Ferrari ⋅ Massimo Bertozzi ⋅ Andrea Prati
+
+18. ECC: Encoder-Centric Corruption for Fine-Grained Vision in VLMs
+   Hyesong Choi ⋅ Daeun Kim ⋅ Sungmin Cha ⋅ Kwang Moo Yi ⋅ Dongbo Min
+
+19. EGVLR: Evidence-Grounded Vision–Language Reinforcement for Anomaly Reasoning
+   SHIH-CHIH(Leo) LIN ⋅ Ying-Heng Lu ⋅ DONG YE ⋅ Shang-Hong Lai
+
+20. Exploiting Local Flatness for Efficient Out-of-Distribution Detection
+   Seonghwan Park ⋅ Hyunji Jung ⋅ Dongyeop Lee ⋅ Namhoon Lee
+   arXiv: https://arxiv.org/abs/2606.29952
+
+21. Fast Dynamic Prototypes for Unsupervised Anomaly Detection and Localization
+   Mingliang Li ⋅ Hanxi Li ⋅ Lin Wu ⋅ Changhong Liu ⋅ Xiaowei Zhao
+
+22. FlowDec: Temporal Conditional Flow Decorruptor for Robust Continuous Vision-Language Navigation
+   Yufei Zhang ⋅ Changhao Chen
+   arXiv: https://arxiv.org/abs/2606.22424
+
+23. FuDU: A Fuzzy Dual-dimension Uncertainty Framework for Streaming Active Learning in Industrial Defect Detection
+   Zhaoyang Wang ⋅ Haiyong Chen ⋅ Binyi Su ⋅ Xinwei Lyu
+
+24. Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection
+   Runzhi Deng ⋅ Yundi Hu ⋅ Yiming Zhong ⋅ Zhao Wang ⋅ Xixi Liu ⋅ Hongsong Wang ⋅ Caifeng Shan ⋅ Fang Zhao
+   arXiv: https://arxiv.org/abs/2607.03817
+
+25. GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis
+   Yishen Liu ⋅ Hongchang Chen ⋅ Pengcheng Zhao ⋅ Yunfan Bao ⋅ Yuxi Tian ⋅ Jieming Zhang ⋅ HAO CHEN ⋅ Zhi Zheng ⋅ Yongchun Liu ⋅ Ying Li ⋅ Dongpu Cao
+   arXiv: https://arxiv.org/abs/2604.08301
+
+26. HLRAD: High-dimensional Latent Representation for Unified Anomaly Detection
+   Tianrui Zhang ⋅ Ziheng Zang ⋅ Ningmu Zou
+
+27. If It's Not Efficient, It's Not Usable: Real-Time OOD Detection with Latent De-Biasing and High-Quality Negative Samples
+   Yuchuan Li ⋅ Jae-Mo Kang ⋅ Il-Min Kim
+
+28. IMMoE: Incomplete Multi-View Anomaly Detection via Mixture of View Experts Fusion
+   Lei Hu
+   arXiv: https://arxiv.org/abs/2607.19032
+   code:  https://github.com/HULEI7/IMMoE
+
+29. Inductive Visual Logic for Few-Shot Out-Of-Distribution Adaptation in VLMs
+   Hung-Jen Chen ⋅ Yu-Heng Ho ⋅ Ting-Yao Huang ⋅ Po-Hsiang Hsu ⋅ LIYU CHEN ⋅ Chun-Yi Lee ⋅ Min Sun
+
+30. Learning to Corrupt for Better Restoration
+   Joonkyu Park ⋅ Wooseok Lee ⋅ Jaeha Kim ⋅ Sehoon Kim ⋅ Bokyeung Lee ⋅ Kyoung Mu Lee
+
+31. Leveraging Dark Knowledge for Intrinsic Multimodal Out-of-Distribution Detection
+   Nimeshika Udayangani Hewa Dehigahawattage ⋅ Sarah Erfani ⋅ Christopher Leckie
+
+32. LogiCo: A Unified Framework for Logical and Structural Anomaly Detection
+   Ximiao Zhang ⋅ Min Xu ⋅ Xiuzhuang Zhou
+   arXiv: https://arxiv.org/abs/2606.28688
+   code:  https://github.com/cnulab/LogiCo
+
+33. MATCH: Flow Matching for Multi-View Anomaly Detection
+   Mathis Kruse ⋅ Melissa Schween ⋅ Bodo Rosenhahn
+
+34. Modality-Aware Out-of-Distribution Detection for Multi-Modal Action Recognition
+   Lars Doorenbos ⋅ Duc Vu ⋅ Serdar Ozsoy ⋅ Juergen Gall
+   arXiv: https://arxiv.org/abs/2606.24404
+
+35. O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning
+   Mei Yuan ⋅ Qi Long ⋅ Qifeng Wu ⋅ Zhenyang Li ⋅ Yizhou Zhao ⋅ Lei Wang ⋅ Yang Liu ⋅ Min Xu
+   arXiv: https://arxiv.org/abs/2607.18142
+
+36. PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates
+   SATOSHI HASHIMOTO ⋅ Yanan Wang ⋅ Hitoshi Nishimura ⋅ Mori Kurokawa
+   arXiv: https://arxiv.org/abs/2512.06845
+
+37. PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images
+   Ruiqi Wang ⋅ Yiming Qian ⋅ FENGGEN YU ⋅ Yuxuan Lu ⋅ Dakuo Wang ⋅ Hao Richard Zhang ⋅ Jing Huang
+   arXiv: https://arxiv.org/abs/2608.04210
+
+38. Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks
+   jie li ⋅ Hongyi Cai ⋅ Mingkang Dong ⋅ Muxin Pu ⋅ Shan You ⋅ Fei Wang ⋅ Tao Huang
+   arXiv: https://arxiv.org/abs/2511.19474
+
+39. Proximity-CLIP: Text-Guided Semantic Proximity Learning for Zero-Shot Anomaly Detection
+   Manwen Yang ⋅ Leqian Ding ⋅ Yu Guo ⋅ Fei Wang
+
+40. Ranked Activation Shift for Post-hoc Out-of-Distribution Detection
+   Gianluca Guglielmo ⋅ Marc Masana
+   arXiv: https://arxiv.org/abs/2604.08572
+   code:  https://github.com/gigug/RAS
+
+41. ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding
+   Chia-Hui Chen ⋅ Shih-Ying Yeh ⋅ Fu-En Yang ⋅ Min-Hung Chen ⋅ Shang-Hong Lai
+
+42. ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection
+   Camile Lendering ⋅ Erkut Akdag ⋅ Joaquin Figueira Chacon ⋅ Egor Bondarev
+   arXiv: https://arxiv.org/abs/2608.01793
+   code:  https://github.com/CLendering/ReFP-AD
+
+43. ReinDriveGen: Reinforcement Post-Training for Out-of-Distribution Driving Scene Generation
+   Hao ZHANG ⋅ Lue Fan ⋅ Weikang Bian ⋅ Zehuan Wu ⋅ Lewei Lu ⋅ Zhaoxiang Zhang ⋅ Hongsheng LI
+   arXiv: https://arxiv.org/abs/2604.01129
+   page:  https://drive-sim.github.io/ReinDriveGen/
+
+44. Rethinking Adversary in Semantic Segmentation: An Out-of-Distribution Perspective
+   Shuchang Wang ⋅ Shuchang Wang ⋅ Xiaoman Liu ⋅ Zhenbo Shi ⋅ Zhidong Yu ⋅ weisongjn weisongjn ⋅ Wei Yang
+
+45. Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions
+   Chad Weatherly ⋅ Sen Lin
+   arXiv: https://arxiv.org/abs/2605.24251
+
+46. STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection
+   Jakub Micorek ⋅ Mateusz Kozinski ⋅ Horst Possegger
+
+47. Towards Video Anomaly Detection from Event Streams: A Baseline and Benchmark Datasets
+   Peng Wu ⋅ Yuting Yan ⋅ Guansong Pang ⋅ Yujia Sun ⋅ Qingsen Yan ⋅ Peng Wang ⋅ Yanning Zhang
+   arXiv: https://arxiv.org/abs/2603.24991
+
+48. Uncertainty-Weighted Fusion of Image and Synthetic Event for Video Anomaly Detection
+   SUNGHEON JEONG ⋅ Jihong Park ⋅ Mohsen Imani
+
+49. Unified Multi-Layer Subspace Modeling for Cross-Domain OOD Detection
+   Gerhard Krumpl ⋅ Henning Avenhaus ⋅ Horst Possegger
+
+50. UniScale: Arbitrary-Scale Anomaly Generation
+   Shilei Zeng ⋅ Linxin Guan ⋅ Xurui Li ⋅ Yaohan Tang ⋅ Yu Zhou
+
+51. VarProtoAD: Variational Prototype-Conditioned Prompting for Zero-Shot Anomaly Detection
+   Mengyang Zhao ⋅ Zhuolin He ⋅ Haiyang Yu ⋅ Teng Fu ⋅ Ke Niu ⋅ Xiangyang Xue
+
+52. Why Feature Magnitude Deceives OOD Detectors: An Angular Separation Perspective
+   Hanlin Li ⋅ Jing Ma ⋅ Zehang Wei ⋅ Jiamin Yan ⋅ Xiang Xiang
+

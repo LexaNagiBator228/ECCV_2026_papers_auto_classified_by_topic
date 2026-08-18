@@ -1,0 +1,118 @@
+Tracking & Correspondence over Time  (31 papers, 13 with arXiv links)  [Recognition & Perception]
+============================================================================
+
+1. Back-Tracking from Clarity: Self-Learning to See Text from Afar
+   Duc Tri Tran ⋅ Phi Le Nguyen ⋅ Minh Hoai Nguyen
+
+2. CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models
+   Li Gao ⋅ Liu Liu ⋅ Mingyang Lyu ⋅ Yang Cai
+   arXiv: https://arxiv.org/abs/2603.22846
+   code:  https://github.com/wlqcode/CoMaTrack-Bench
+
+3. ConTrack: Constrained Hand Motion Tracking with Adaptive Trade-off Control
+   Yutong Liang ⋅ Quanquan Peng ⋅ Rizhao Qiu ⋅ Xiaolong Wang
+   arXiv: https://arxiv.org/abs/2606.03177
+   page:  https://www.lyt0112.com/projects/ConTrack
+
+4. Cross-Species Animal Re-Identification with Semantic Consistency Learning
+   Shuoyi Chen ⋅ Yuejia Li ⋅ Mang Ye
+
+5. FeatTracker: Short- and Long-Range Temporal Feature Consistency for Robust Underwater Object Tracking
+   Jiaqing Li ⋅ Bin Lin ⋅ Chaocan Xue ⋅ Wu Ai ⋅ Qingping Zheng
+
+6. FusionTrack: Collaborative Multi-Object Tracking with Arbitrary Multi-UAVs
+   Xiaohe Li ⋅ Pengfei Li ⋅ Kaixin Zhang ⋅ Jiahao Li ⋅ Zide Fan
+
+7. GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking
+   Shiyu Zhang ⋅ Tianyang Xu ⋅ Zhangyong Tang ⋅ Wang He ⋅ Xiao-Jun Wu ⋅ Josef Kittler
+
+8. GoStop: Reinforcement Learning for Adaptive Temporal Aggregation in Event-Based Feature Tracking
+   Youngho Kim ⋅ Hoonhee Cho ⋅ Jae-young Kang ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2607.15699
+   code:  https://github.com/kmax2001/GoSTOP
+
+9. HieDG: A Hierarchical Discrete Geometry-Guided Framework for Multi-Animal Tracking
+   Chenxun Deng ⋅ Zhongde Zhang ⋅ Ye Yuan ⋅ Chengyang Zhang ⋅ Yifan Zhang ⋅ Bohao Chen ⋅ Hongying Yan ⋅ Hang Zhou ⋅ Hua Han ⋅ Xi Chen
+   arXiv: https://arxiv.org/abs/2607.00494
+
+10. High-Throughput Event-Based Feature Detection and Tracking on an Embedded CPU
+   Ethan Elms ⋅ Yasir Latif ⋅ Tat-Jun Chin
+
+11. History-Aware Transformation of ReID Features for Multiple Object Tracking
+   Ruopeng Gao ⋅ Yuyao Wang ⋅ Chunxu Liu ⋅ Limin Wang
+   arXiv: https://arxiv.org/abs/2503.12562
+   code:  https://github.com/MCG-NJU/HATReID-MOT
+
+12. HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
+   Dairu Liu ⋅ Zekun Qi ⋅ Jiayu Zeng ⋅ Yu Guan ⋅ Chenghuai Lin ⋅ Xuchuan Chen ⋅ Xinqiang Yu ⋅ Wenyao Zhang ⋅ HE WANG ⋅ Li Yi
+   arXiv: https://arxiv.org/abs/2608.13555
+
+13. Incentive Noise and Structural Prior Infusion for Multi-Modal Object Re-Identification
+   Weixiang Zhou ⋅ Yuhao Wang ⋅ Xingguo Xu ⋅ Cong Wang ⋅ Weizhen Zhou ⋅ Zhixun Su ⋅ Jinshan Pan
+
+14. Instance Segmentation as Tracking: A New Paradigm for Multi-Small-Object Tracking with Event Cameras
+   Nuo Chen ⋅ Shiman He ⋅ Boyang Li ⋅ Yingqian Wang ⋅ Chao Xiao ⋅ QianYin QianYin ⋅ Ruojing Li ⋅ Yihang Luo ⋅ Wei An ⋅ Miao Li
+
+15. Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking
+   Yueying Zhang ⋅ Timing Li ⋅ Bing Cao ⋅ Pengfei Zhu
+
+16. Mode-Conditioned Residual Calibration for Multi-Object Tracking
+   Muyu Li ⋅ Henan Hu ⋅ Deepak Jain ⋅ Xudong Zhao
+
+17. ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation
+   Aditya Iyer ⋅ Jack Roberts ⋅ Nora Ayanian
+   arXiv: https://arxiv.org/abs/2603.15812
+
+18. Motion-aware Sparse Pipeline for Lightweight Object Tracking
+   Qingmao Wei ⋅ Fagui Liu ⋅ Dengke Zhang ⋅ Qingze He ⋅ Quan Tang
+
+19. MuCHeR: Multi-Person Camera-Centric Human Detection, Mesh Recovery and Tracking
+   Guénolé Fiche ⋅ Philippe Weinzaepfel ⋅ Romain Brégier ⋅ Fabien Baradel
+
+20. OCTA-SOT: Online Cross-Modal Trajectory Adjustment for RGBT Anti-UAV Single Object Tracking under Spatio-Temporal Misalignment
+   Xiaokang Liu ⋅ Qi Jia ⋅ Jinrui Wang ⋅ Chengzhou Li ⋅ Yu Liu ⋅ Weimin Wang
+
+21. ODONet: Online Dynamic Offset Network for Visual Object Tracking
+   Qinghua Liu ⋅ Wanli Xue ⋅ Shengyong Chen
+
+22. Progressively Spiral Mamba Fusion for Multimodal Tracking
+   Zixuan Wang ⋅ Baojie Fan ⋅ Jiajun Ai ⋅ Wenzhang Zhou
+
+23. PS-MOT: Cultivating Instance Awareness from Point Seeds for Multi-Object Tracking
+   Kai Luo ⋅ Fei Teng ⋅ Mengfei Duan ⋅ Wanjun Jia ⋅ Xu Wang ⋅ Hao Shi ⋅ Kunyu Peng ⋅ Zhiyong Li ⋅ Kailun Yang
+   arXiv: https://arxiv.org/abs/2606.30476
+   code:  https://github.com/xifen523/PS-MOT
+
+24. Region-Aware Multimodal Interleaving for Animal Re-Identification
+   Yihao Wu ⋅ Di Zhao ⋅ Wayne Getz ⋅ Lingqiao Liu ⋅ Gillian Dobbie ⋅ Daniel Wilson ⋅ Yun Sing Koh
+
+25. Rethinking Temporal Modeling in Visual Object Tracking via Decoupled Auxiliary Supervision
+   Dailing Zhang ⋅ Shiyu Hu ⋅ Honghao Fu ⋅ Xiaokun Feng ⋅ Yipei Wang ⋅ Kang Cheong ⋅ Kaiqi Huang
+
+26. RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking
+   Yanqiu Yu ⋅ Zhifan Jin ⋅ Sijia Chen ⋅ Tongfei Chu ⋅ En Yu ⋅ Liman Liu ⋅ Wenbing Tao
+   arXiv: https://arxiv.org/abs/2602.22033
+
+27. SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking
+   Mohamad Alansari ⋅ Yonathan Michael ⋅ Hasan AlMarzouqi ⋅ Muhammad Muzammal Naseer ⋅ Naoufel Werghi ⋅ Sajid Javed
+   arXiv: https://arxiv.org/abs/2606.24449
+   page:  https://hamadya.github.io/SENTRY/page/
+
+28. SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision
+   Avigail Cohen Rimon ⋅ Amir Mann ⋅ Mirela Ben-Chen ⋅ Or Litany
+   arXiv: https://arxiv.org/abs/2603.24036
+   page:  https://avigailco.github.io/SpectralSplats/
+
+29. Stabilizing Real-World Visual Active Tracking with Action-Smooth Test-Time Adaptation
+   Haowei Sun ⋅ Shiteng Zhang ⋅ Jinwu Hu ⋅ Kaining Chen ⋅ Mingkui Tan
+
+30. TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation
+   Jini Yang ⋅ Eunbeen Hong ⋅ Soowon Son ⋅ Hyunkoo Lee ⋅ Sunghwan Hong ⋅ Sunok Kim ⋅ Seungryong Kim
+   arXiv: https://arxiv.org/abs/2603.23487
+
+31. Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels
+   Jiahao Lu ⋅ Jiayi Xu ⋅ WENBO HU ⋅ Ruijie Zhu ⋅ Chengfeng Zhao ⋅ Sai Kit Yeung ⋅ Ying Shan ⋅ Yuan Liu
+   arXiv: https://arxiv.org/abs/2603.02573
+   code:  https://github.com/TencentARC/Track4World
+   page:  https://jiah-cloud.github.io/Track4World.github.io/
+

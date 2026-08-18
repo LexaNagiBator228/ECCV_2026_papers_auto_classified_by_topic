@@ -1,0 +1,410 @@
+Video Understanding & Temporal Modeling  (104 papers, 59 with arXiv links)  [Multimodal, Language & Video Understanding]
+============================================================================
+
+1. ActionParty: Multi-Subject Action Binding in Generative Video Games
+   Alexander Pondaven ⋅ Ziyi Wu ⋅ Igor Gilitschenski ⋅ Philip Torr ⋅ Sergey Tulyakov ⋅ Fabio Pizzati ⋅ Aliaksandr Siarohin
+   arXiv: https://arxiv.org/abs/2604.02330
+   page:  https://action-party.github.io/
+
+2. Adapting MLLMs for Nuanced Video Retrieval
+   Piyush Nitin Bagad ⋅ Andrew ZISSERMAN
+   arXiv: https://arxiv.org/abs/2512.13511
+   page:  http://bpiyush.github.io/tara-website
+
+3. Amplify, Aggregate, and Adjust: VideoMAE-based Holistic-Subtle Aggregation for Micro-Action Recognition
+   Yan Zhang ⋅ Nan Pu ⋅ Wenjing Li ⋅ Zhun Zhong ⋅ Meng Wang
+
+4. Anchor Forcing: Anchor Memory and Tri-Region RoPE for Interactive Streaming Video Diffusion
+   yang yang ⋅ Tianyi Zhang ⋅ Wei Huang ⋅ Jinwei Chen ⋅ Boxi Wu ⋅ Xiaofei He ⋅ Deng Cai ⋅ Bo Li ⋅ Peng-Tao Jiang
+   arXiv: https://arxiv.org/abs/2603.13405
+   code:  https://github.com/vivoCameraResearch/Anchor-Forcing
+
+5. Are Video Reasoning Models Ready to Go Outside?
+   Yangfan He ⋅ Changgyu Boo ⋅ Jaehong Yoon
+   arXiv: https://arxiv.org/abs/2603.10652
+   page:  https://robust-video-reason.github.io/
+
+6. AViTS：Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation
+   Haoran Qin ⋅ zhengan yan ⋅ Shikang Zheng ⋅ Xiaobing Tu ⋅ Jiacheng Liu ⋅ Yuqi Lin ⋅ Chang Zou ⋅ Jinshan Liu ⋅ Peiliang Cai ⋅ Xiantao Zhang ⋅ Jinkui Ren ⋅ Linfeng Zhang
+
+7. Bayesian Uncertainty Attribution-Guided Fine-Tuning for Open-Set Action Recognition
+   Shehan Senavirathna ⋅ Hongji Guo ⋅ Qiang Ji
+
+8. Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
+   Sunqi Fan ⋅ Qingle Liu ⋅ Runqi Yin ⋅ Meng-Hao Guo ⋅ Shuojin Yang
+   arXiv: https://arxiv.org/abs/2606.29445
+   code:  https://github.com/VG-GUI-TASKER/VG-GUI-TASKER
+   page:  https://vg-gui-tasker.github.io/
+
+9. Cambrian-P: Pose-Grounded Video Understanding
+   Jihan YANG ⋅ Zifan Zhao ⋅ Xichen Pan ⋅ Shusheng Yang ⋅ Junyi Zhang ⋅ Hu Xu ⋅ Shang-Wen Li ⋅ Saining Xie
+   arXiv: https://arxiv.org/abs/2605.22819
+   page:  https://cambrian-mllm.github.io/
+
+10. Clue Matters: Empower Video Reasoning with Brain-Inspired Latent Clue Learning
+   Kaixin Zhang ⋅ Xiaohe Li ⋅ Jiahao Li ⋅ Haohua Wu ⋅ Xinyu Zhao ⋅ Zide Fan ⋅ Lei Wang
+
+11. Continuous Heart Rate Variability Estimation from Egocentric Systems for Skill Assessment
+   Berken Utku Demirel ⋅ Christian Holz
+
+12. Controllable Egocentric Video Generation via Occlusion-Aware Sparse 3D Hand Joints
+   Chenyangguang Zhang ⋅ Botao Ye ⋅ Boqi Chen ⋅ Alexandros Delitzas ⋅ Fangjinhua Wang ⋅ Marc Pollefeys ⋅ Xi Wang
+   arXiv: https://arxiv.org/abs/2603.11755
+
+13. CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing
+   Gaoxiang Cong ⋅ Liang Li ⋅ Jiaxin Ye ⋅ Zhedong Zhang ⋅ Hongming Shan ⋅ Yuankai Qi ⋅ Qingming Huang
+   arXiv: https://arxiv.org/abs/2604.12292
+
+14. CTEPM: Continuous-Time Event Process Memory for Long-Video Language Models
+   Yangyang Liu
+
+15. CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management
+   Chao Wang ⋅ Xudong Tan ⋅ Jianjian Cao ⋅ Kangcong Li ⋅ Tao Chen
+   arXiv: https://arxiv.org/abs/2603.19571
+   code:  https://github.com/streamingvideos/CurveStream
+
+16. DART: Difficulty-Adaptive Routing for Zero-Shot Video Temporal Grounding
+   zhengbo zhang ⋅ Mark Huang ⋅ Zhigang Tu ⋅ Ming-Hsuan Yang
+
+17. DE2TR: Dual Evidence Detection Transformer for Video Temporal Grounding
+   Yifan Zhang ⋅ Chengxu Liu ⋅ Yujie Dun ⋅ Xueming Qian
+
+18. Decoupling Moment from Event for Video Temporal Grounding
+   Yuda Zou ⋅ Boxiang Zhou ⋅ Xin Zhou ⋅ YIBO CHEN ⋅ Dejia Song ⋅ Xu Tang ⋅ Yao Hu ⋅ Yongchao Xu
+
+19. Demystifing Video Reasoning
+   Ruisi Wang ⋅ Zhongang Cai ⋅ Fanyi Pu ⋅ Junxiang Xu ⋅ Wanqi Yin ⋅ Maijunxian Wang ⋅ Ran Ji ⋅ Chenyang Gu ⋅ Bo Li ⋅ Ziqi Huang ⋅ Hokin Deng ⋅ Dahua Lin ⋅ Ziwei Liu ⋅ Lei Yang
+
+20. DeRA: Decoupled Representation Alignment for Video Tokenization
+   Pengbo Guo ⋅ Junke Wang ⋅ Zhen Xing ⋅ Chengxu Liu ⋅ Daoguo Dong ⋅ Xueming Qian ⋅ Zuxuan Wu
+   arXiv: https://arxiv.org/abs/2512.04483
+
+21. Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation
+   Xing Xie ⋅ Jiawei Liu ⋅ Shijun Zhou ⋅ Huijie Fan ⋅ Zhi Han ⋅ Yandong Tang ⋅ Liangqiong Qu
+
+22. Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval
+   Kyeongmo Chae ⋅ Jihoon Lee ⋅ Sangtae Ahn
+   arXiv: https://arxiv.org/abs/2607.20984
+
+23. DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer
+   Hengye Lyu ⋅ Zisu Li ⋅ Yue Hong ⋅ Yueting Weng ⋅ Jiaxin Shi ⋅ Hanwang Zhang ⋅ Chen Liang
+   arXiv: https://arxiv.org/abs/2604.13509
+
+24. Egocentric Procedure Parsing
+   Anubhav Anubhav ⋅ Archit Kambhamettu ⋅ Vatsal Agarwal ⋅ Pulkit Kumar ⋅ Abhinav Shrivastava
+
+25. EgoCogNav: Cognition-aware Human Egocentric Navigation
+   Zhiwen Qiu ⋅ Ziang Liu ⋅ Wenqian Niu ⋅ Tapomayukh Bhattacharjee ⋅ Saleh Kalantari
+   arXiv: https://arxiv.org/abs/2511.17581
+
+26. EgoEverything: A Benchmark for Human Behavior–Inspired Long-Context Egocentric Video Understanding in AR Environment
+   Qiance Tang ⋅ Ziqi Wang ⋅ Jieyu Lin ⋅ Ziyun Li ⋅ Barbara Salvo ⋅ Sai Qian Zhang
+   arXiv: https://arxiv.org/abs/2604.08342
+
+27. EgoPHI: Estimating 3D Hand-Object Contact and Force from Egocentric Vision
+   Andela Ilic ⋅ Rachel Schuchert ⋅ Yijing Jiang ⋅ Christian Holz
+
+28. EgoPolice: A Benchmark for Egocentric Video Understanding in High-Stakes Police Body-Worn Camera Footage
+   Max Saez-Diez ⋅ Jihoon Chung ⋅ Adam D. Wolsky ⋅ Greg Lanzalotto ⋅ Dean Knox ⋅ Jonathan Mummolo ⋅ Brandon Stewart ⋅ Olga Russakovsky
+   arXiv: https://arxiv.org/abs/2607.06468
+
+29. EgoSAT: A Comprehensive Benchmark of Egocentric Streaming Interaction Understanding
+   Yijia Lei ⋅ Jinzhao Li ⋅ Yichi Zhang ⋅ Jiacheng Hua ⋅ Yin Li ⋅ Miao Liu
+   arXiv: https://arxiv.org/abs/2606.24422
+   page:  https://leiyj23.github.io/EgoSAT/
+
+30. EgoSim: Egocentric World Simulator for Embodiment Interaction Generation
+   Jinkun Hao ⋅ Mingda Jia ⋅ Xudong Xu ⋅ Ruiyan Wang ⋅ Xihui Liu ⋅ Ran Yi ⋅ Lizhuang Ma ⋅ Jiangmiao Pang
+   arXiv: https://arxiv.org/abs/2604.01001
+
+31. EgoTraj: Real-World Egocentric Human Trajectory
+   Ahmad Yehia ⋅ Abduallah Mohamed ⋅ Tianyi Wang ⋅ Kun Qian ⋅ Jiseop Byeon ⋅ Junfeng Jiao ⋅ Christian Claudel
+
+32. EgoVITA: Learning to Plan and Verify for Egocentric Video Reasoning
+   Yogesh Kulkarni ⋅ Pooyan Fazli
+   arXiv: https://arxiv.org/abs/2511.18242
+
+33. Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding
+   Yikai Zheng ⋅ Xin Ding ⋅ Yifan Yang ⋅ Shiqi Jiang ⋅ Hao Wu ⋅ Qianxi Zhang ⋅ Weijun Wang ⋅ Ting Cao ⋅ Yunxin Liu
+   arXiv: https://arxiv.org/abs/2603.19054
+
+34. EventMemAgent: Hierarchical Event-Centric Memory for Online Video Understanding with Adaptive Tool Use
+   Siwei Wen ⋅ Zhangcheng Wang ⋅ Xingjian Zhang ⋅ Lei Huang ⋅ wenjun wu
+
+35. EventSTU: Event-Guided Efficient Spatio-Temporal Understanding for Video-LLMs
+   Wenhao Xu ⋅ Xin Dong ⋅ Yue Li ⋅ Haoyuan Shi ⋅ Yueyi Zhang ⋅ Zhiwei Xiong
+
+36. Evidence-Backed Video Question Answering
+   Shijie Wang ⋅ Honglu Zhou ⋅ Ziyang Wang ⋅ Ran Xu ⋅ Caiming Xiong ⋅ Silvio Savarese ⋅ Chen Sun ⋅ Juan Carlos Niebles
+   arXiv: https://arxiv.org/abs/2607.11862
+   code:  https://github.com/SalesforceAIResearch/EVQA
+
+37. EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning
+   Chengjun Yu ⋅ Xuhan Zhu ⋅ Chaoqun Du ⋅ Pengfei Yu ⋅ Wei Zhai ⋅ Yang Cao ⋅ Zheng-Jun Zha
+   arXiv: https://arxiv.org/abs/2603.09731
+
+38. FEEL (Force-Enhanced Egocentric Learning): A Dataset for Physical Action Understanding
+   Eadom Dessalene ⋅ Botao He ⋅ Michael Maynord ⋅ Yonatan Tussa ⋅ Pavan Mantripragada ⋅ Yianni Karabatis ⋅ Nirupam Roy ⋅ Yiannis Aloimonos
+   arXiv: https://arxiv.org/abs/2603.15847
+
+39. Fine-Grained Text-to-Video Retrieval for Camera-Trap Data
+   Valentin Gabeff ⋅ Baptiste Maquignaz ⋅ Jiaxian Shan ⋅ Sepideh Mamooler ⋅ Gencer Sumbul ⋅ Blair Costelloe ⋅ Devis TUIA ⋅ Alexander Mathis
+
+40. FlatLands: Generative Floormap Completion From a Single Egocentric View
+   Subhransu S. Bhattacharjee ⋅ Dylan Campbell ⋅ Rahul Shome
+
+41. Frames2Residual: Spatiotemporal Decoupling for Self-Supervised Video Denoising
+   Mingjie Ji ⋅ Zhan Shi ⋅ Kailai Zhou ⋅ Zixuan Fu ⋅ Xun Cao
+   arXiv: https://arxiv.org/abs/2603.10417
+
+42. From Evaluation to Enhancement: Benchmarking and Improving Think-with-Video Reasoning for Video Generative Models
+   Meng Luo ⋅ Yicheng Liu ⋅ Jiahao Wang ⋅ Yuanxing Zhang ⋅ Xin Tao ⋅ Pengfei Wan ⋅ Kun Gai ⋅ Hao Fei
+
+43. From Script to Shot: A Benchmark for Grounding Screenplays in Movies
+   jungu cho ⋅ Young-Jae Park ⋅ Seong Jong Ha ⋅ Siyeol Kim ⋅ Seungho Park ⋅ Jisu Shin ⋅ Junmyeong Lee ⋅ Chaemin Hwang ⋅ Hyunjun Jung ⋅ Sangeyl Lee ⋅ Hae-Gon Jeon
+
+44. Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition
+   Prajwal Gatti ⋅ Simon Jenni ⋅ Fabian Caba ⋅ Dima Damen
+   arXiv: https://arxiv.org/abs/2606.22416
+
+45. GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation
+   Rui Xie ⋅ Zhi Gao ⋅ Chenrui Shi ⋅ Zirui Shang ⋅ Lu Chen ⋅ Qing Li
+   arXiv: https://arxiv.org/abs/2603.26266
+   page:  https://sharryXR.github.io/GUIDE/
+
+46. GuideMe: Benchmarking Multi-Domain Task Guidance and Intervention in Streaming Video
+   FANG LIU ⋅ Jinpeng Chen ⋅ Ke Xu ⋅ Yuhao LIU ⋅ Huankang Guan ⋅ Xudong LU ⋅ Yang Bo ⋅ Gerhard P. Hancke ⋅ Rui Liu ⋅ Rynson Lau
+
+47. H2SVC: Head-aware Heterogeneous Streaming Video Cache for Online Video Understanding
+   han li ⋅ Xinyi Zhang ⋅ Wenrui Dai ⋅ Yaoming Wang ⋅ Xinyu Peng ⋅ Fan He ⋅ Hang Xu ⋅ Ziyang Zheng ⋅ Chenglin Li ⋅ Junni Zou ⋅ Hongkai Xiong
+
+48. HAS: Highlight-guided Attention Steering for Multimodal LLM Video Summarization
+   Rui Chu ⋅ Yingjie Lao
+   arXiv: https://arxiv.org/abs/2607.17994
+
+49. InstrAct: Towards Action-Centric Understanding in Instructional Videos
+   Zhuoyi Yang ⋅ Jiapeng Yu ⋅ Reuben Tan ⋅ Boyang Li ⋅ Huijuan Xu
+   arXiv: https://arxiv.org/abs/2604.08762
+
+50. Keep It Simple: Multi-Key Episodic Memory Retrieval for Ultra-Long Video Understanding
+   Yeeun Choi ⋅ Youngbeom Yoo ⋅ Joon-Young Lee ⋅ Hyolim Kang ⋅ Seon Joo Kim
+   arXiv: https://arxiv.org/abs/2608.07663
+   page:  https://choi-yeeun.github.io/MERIT/
+
+51. Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding
+   Jiaqi Li ⋅ Shuntian Zheng ⋅ Yixian Shen ⋅ JIA-HONG HUANG ⋅ Xiaoman Lu ⋅ Minzhe Ni ⋅ Yu Guan
+   arXiv: https://arxiv.org/abs/2603.05663
+   code:  https://github.com/JiaqiLi404/SemVID
+   page:  https://jiaqili404.github.io/SemVID
+
+52. Layer-Aware Video Composition via Split-then-Merge
+   Ozgur Kara ⋅ Yujia Chen ⋅ Ming-Hsuan Yang ⋅ James Rehg ⋅ Wen-Sheng Chu ⋅ Du Tran
+   arXiv: https://arxiv.org/abs/2511.20809
+   page:  https://split-then-merge.github.io
+
+53. Learning Consistent Temporal Grounding between Related Tasks in Sports Coaching
+   Arushi Rai ⋅ Adriana Kovashka
+   arXiv: https://arxiv.org/abs/2603.18453
+
+54. Learning Egocentric Cues from Exocentric Video using Privileged Egocentric Supervision
+   Dominick Reilly ⋅ Manish Govind ⋅ Le Xue ⋅ Srijan Das
+
+55. LENS: Adaptive Spatio-Temporal Zooming for Keyframe Sampling in Long-Form Videos
+   Ce Zhang ⋅ Jinxi He ⋅ Yaqi Xie ⋅ Katia Sycara
+
+56. Linear Scaling Video VLMs for Long Video Understanding
+   Cristobal Eyzaguirre ⋅ Jiajun Wu ⋅ Juan Carlos Niebles
+   arXiv: https://arxiv.org/abs/2605.31598
+
+57. LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
+   Xinyu Wang ⋅ Chongbo Zhao ⋅ Fangneng Zhan ⋅ Yue Ma
+   arXiv: https://arxiv.org/abs/2606.26740
+   page:  https://live-edit.github.io
+
+58. LogFA: Efficient Feature-Space Data Augmentation for Egocentric Temporal Action Segmentation
+   Zijia Lu ⋅ Ehsan Elhamifar
+
+59. MarineEVT: Advancing Event-Centric Marine Video Understanding via Visual Tool Reasoning
+   Tuan-An To ⋅ Wong Kwan ⋅ Tuan-Anh Vu ⋅ Ziqiang Zheng ⋅ Sai Kit Yeung
+   arXiv: https://arxiv.org/abs/2607.24064
+
+60. Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval
+   Jihyun Lee ⋅ Cheol-Ho Cho ⋅ Woojin Jun ⋅ Woojin Jeong ⋅ Jae-Pil Heo
+   arXiv: https://arxiv.org/abs/2607.19027
+
+61. MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing
+   Gal Fiebelman ⋅ Hadar Averbuch-Elor ⋅ Sagie Benaim
+   arXiv: https://arxiv.org/abs/2607.05376
+   page:  https://galfiebelman.github.io/mv-forcing/
+
+62. Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning
+   Wenzheng Zeng ⋅ Siyi Jiao ⋅ Chen Gao ⋅ Hwee Tou Ng ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2607.02963
+   code:  https://github.com/showlab/PadCaptioner
+
+63. QCA: Query- and Content-Aware Keyframe Selection for Long Video Understanding
+   Jun Peng ⋅ Baiyang Song ⋅ Jie Li ⋅ Hui Li ⋅ Yiyi Zhou ⋅ Rongrong Ji ⋅ Yonghong Tian
+   arXiv: https://arxiv.org/abs/2607.00983
+   code:  https://github.com/hktk07/QCA
+
+64. QSVideo: Query-Conditioned Semantic Temporal Retrieval for Video Understanding
+   Wei Ao ⋅ Lan Wang ⋅ Vishnu Boddeti
+   arXiv: https://arxiv.org/abs/2607.04559
+   code:  https://github.com/human-analysis/QSVideo
+
+65. Reasoning with Memory: A Temporal Granularity-Adaptive Framework for Training-Free Long Video Understanding
+   Linghao Meng ⋅ Qiankun Li ⋅ Junyuan Mao ⋅ Pujin Liao ⋅ Zhicheng He ⋅ Enbo Zhang ⋅ Kun Wang ⋅ Yang Liu ⋅ Huazhu Fu ⋅ Yueming Jin
+
+66. Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding
+   Shuimu Chen ⋅ Yuteng Chen ⋅ Yuanshen Guan ⋅ Zebang Cheng ⋅ Zeyu Zhang ⋅ shengqian qin ⋅ Bin Xia ⋅ Jiaran Li ⋅ Wenming Yang ⋅ Fei Ma
+   arXiv: https://arxiv.org/abs/2606.27922
+
+67. Reinforcing Video Reasoning with Focused Thinking
+   Jisheng Dang ⋅ Jingze Wu ⋅ Teng Wang ⋅ Xuanhui Lin ⋅ Nannan Zhu ⋅ Hongbo Chen ⋅ WEISHI ZHENG ⋅ Meng Wang ⋅ Tat-Seng Chua
+   arXiv: https://arxiv.org/abs/2505.24718
+   code:  https://github.com/longmalongma/TW-GRPO
+
+68. ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA
+   Minkuk Kim ⋅ Suyong Yun ⋅ Young Kim ⋅ Jinyoung Moon ⋅ Jinwoo Choi ⋅ Seong Tae Kim
+
+69. ReynoldsFlow: Physics-Inspired Spatiotemporal Flow Representation for Video Understanding
+   Yu-Hsi Chen ⋅ Ching-Kai Lin ⋅ PingKong Huang ⋅ Chin-Tien Wu
+
+70. S3-Prune: Stability-Aware Token Budgeting for Long-Form Video-Language Models
+   gilha lee ⋅ Seungil Lee ⋅ Hyun Kim
+
+71. ScanFocus: A Coarse-to-Fine Framework for Spatio-Temporal Video Grounding
+   Chen Kai ⋅ Ming Dai ⋅ Wenxuan Cheng ⋅ Wankou Yang
+   arXiv: https://arxiv.org/abs/2607.13421
+   code:  https://github.com/TenMinutes209/ScanFocus
+
+72. SE-DETR: Explicit Semantic Exploration for Generalizability and Distinguishability in Video Temporal Grounding
+   Chengyang Hu ⋅ Guanshuo Wang ⋅ Fufu Yu ⋅ Qiong Jia ⋅ Shouhong Ding ⋅ Lizhuang Ma
+
+73. Single-Query Person-Centric Bimanual Hand-Object Interaction Detection
+   Jonghyun Kim ⋅ Junho Roh ⋅ Yubin Yoon ⋅ Jaechul Kim ⋅ Jungho Lee ⋅ Hyotae Lee ⋅ Jongkuk Park ⋅ Taehwan Hwang
+
+74. Small Vision-Language Models are Smart Compressors for Long Video Understanding
+   Junjie Fei ⋅ Jun Chen ⋅ Zechun Liu ⋅ Yunyang Xiong ⋅ Chong Zhou ⋅ Wei Wen ⋅ Junlin Han ⋅ Mingchen Zhuge ⋅ Saksham Suri ⋅ Qi Qian ⋅ Shuming Liu ⋅ Lemeng Wu ⋅ Raghuraman Krishnamoorthi ⋅ Vikas Chandra ⋅ Mohamed Elhoseiny ⋅ Chenchen Zhu
+   arXiv: https://arxiv.org/abs/2604.08120
+   page:  https://FeiElysia.github.io/tempo-page/
+
+75. SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning
+   Tin Stribor Sohn ⋅ Maximilian Dillitzer ⋅ Jason Corso ⋅ Johannes Bach ⋅ Eric Sax
+
+76. Spatial Amsan: A Benchmark for Perception-Grounded Spatial Reasoning and Action Evaluation in Egocentric Manipulation
+   Changsoo Jung ⋅ Jack Fitzgerald ⋅ Ethan Seefried ⋅ Mariah Bradford ⋅ Nathaniel Blanchard
+
+77. Spatiotemporal Flux Probing for Single-Photon Videography
+   Jerry Yan ⋅ Matteo Forlivesi ⋅ Bowen Tan ⋅ Andrew Xie ⋅ Siddharth Somasundaram ⋅ Sotiris Nousias
+
+78. STAC: Selective Spatiotemporal Aggregation and Compression for Video Reasoning Segmentation
+   Hesham Syed ⋅ Yun Liu ⋅ Guolei Sun ⋅ Jing Yang ⋅ Henghui Ding ⋅ Xue Geng ⋅ Xudong Jiang
+   arXiv: https://arxiv.org/abs/2607.02922
+   code:  https://github.com/MCG-NKU/nku-video
+
+79. STEP: Spatial Thinking and Egocentric Pointing for Embodied Instruction Following
+   Hanxuan Li ⋅ Bin Fu ⋅ Zeyuan Lin ⋅ Ruiping Wang ⋅ Xilin CHEN
+
+80. STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding
+   Junho Kim ⋅ Hosu Lee ⋅ James Rehg ⋅ Minsu Kim ⋅ Yong Man Ro
+   arXiv: https://arxiv.org/abs/2603.27593
+   page:  https://interlive-team.github.io/STRIDE
+
+81. STVFocus: Query-guided Spatio-Temporal Visual Focusing for Video LLMs
+   Taehun Kong ⋅ Minyoung Park ⋅ Sangjun Ahn
+
+82. SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence
+   Yulu Pan ⋅ Han Yi ⋅ Seongsu Ha ⋅ Mohaiminul Islam ⋅ Benjamin Zhang ⋅ Lorenzo Torresani ⋅ Gedas Bertasius
+   arXiv: https://arxiv.org/abs/2605.31529
+
+83. Swap the Right Identity: Spatio-Temporal Preference Optimization for Identity Swapping
+   Hongdeng Shen ⋅ Xiongzheng Li ⋅ Jikang Cheng ⋅ Duo Li ⋅ Yunlong FENG ⋅ Jing Li
+
+84. Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos
+   Ziqi Gao ⋅ Jieyu Zhang ⋅ Wisdom Ikezogwo ⋅ Jae Sung Park ⋅ Tario You ⋅ Daniel Ogbu ⋅ Chenhao Zheng ⋅ Weikai Huang ⋅ Yinuo Yang ⋅ Winson Han ⋅ Quan Kong ⋅ Rajat Saini ⋅ Ranjay Krishna
+   arXiv: https://arxiv.org/abs/2602.23543
+
+85. TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding
+   Chaohong Guo ⋅ Xun Mo ⋅ Yongwei Nie ⋅ Fei Ma ⋅ Xuemiao Xu ⋅ Chengjiang Long
+   arXiv: https://arxiv.org/abs/2508.07683
+
+86. Tempo-SAM3D: Monocular Video to 4D via Temporal Memory-Guided Generation
+   Baicheng Li ⋅ Dong Wu ⋅ Yingdian Cao ⋅ Haoxiang Yang ⋅ Yiwen Lu ⋅ Zike Yan ⋅ Hongbin Zha
+
+87. Thinking in Streaming Video
+   Zikang Liu ⋅ Longteng Guo ⋅ Handong Li ⋅ Ru Zhen ⋅ Xingjian He ⋅ Ruyi Ji ⋅ Xiaoming Ren ⋅ Yanhao Zhang ⋅ Haonan Lu ⋅ Jing Liu
+   arXiv: https://arxiv.org/abs/2603.12938
+   code:  https://github.com/johncaged/ThinkStream
+
+88. Towards Effective Long Video Understanding: Dynamic MAS Construction via Meta-Agent
+   Jing Huang ⋅ Lidong Zhang ⋅ Yadong Li ⋅ Xingzhong Xu ⋅ Siye Chen ⋅ Jie Liu ⋅ Ming Kong ⋅ Qiang Zhu
+
+89. Towards Long-Form Spatio-Temporal Video Grounding
+   Xin Gu ⋅ Bing Fan ⋅ Jiali Yao ⋅ Zhipeng Zhang ⋅ Yan Huang ⋅ Cheng Han ⋅ Heng Fan ⋅ Libo Zhang
+   arXiv: https://arxiv.org/abs/2602.23294
+   code:  https://github.com/HengLan/ART-STVG
+
+90. Towards Temporal Compositional Reasoning in Long-Form Sports Videos
+   Siyu Cao ⋅ Lu Zhang ⋅ Ruizhe Zeng ⋅ Zhi-yong Liu
+   arXiv: https://arxiv.org/abs/2604.22226
+
+91. TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection
+   Qianqian Chen ⋅ Hyun Bin Kim ⋅ Denzel Wijaya ⋅ Yang Yi ⋅ Bo LIU ⋅ Yangkai Ding
+
+92. Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously
+   Yiran Guan ⋅ Liang Yin ⋅ Dingkang Liang ⋅ Jianzhong Ju ⋅ Zhenbo Luo ⋅ Jian Luan ⋅ Yuliang Liu ⋅ Xiang Bai
+   arXiv: https://arxiv.org/abs/2603.12262
+   code:  https://github.com/1ranGuan/VST
+   page:  https://1ranguan.github.io/VST/
+
+93. Video-Oasis: Rethinking Evaluation of Video Understanding
+   Geuntaek Lim ⋅ Minho Shim ⋅ Sungjune Park ⋅ Jaeyun Lee ⋅ Inwoong Lee ⋅ Taeoh Kim ⋅ Dongyoon Wee ⋅ Yukyung Choi
+   arXiv: https://arxiv.org/abs/2603.29616
+   code:  https://github.com/sejong-rcv/Video-Oasis
+   page:  https://limgeuntaekk.github.io/Video-Oasis/
+
+94. VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement
+   Seohyun Lee ⋅ Seoung Choi ⋅ Dohwan Ko ⋅ Jongha Kim ⋅ Hyunwoo Kim
+   arXiv: https://arxiv.org/abs/2607.00446
+
+95. Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos
+   Sitong Gong ⋅ Tianyu Yan ⋅ Caixin Kang ⋅ Bo Zheng ⋅ Xiang Ruan ⋅ Huchuan Lu ⋅ Kaipeng Zhang ⋅ Yoichi Sato ⋅ Yifei Huang
+   arXiv: https://arxiv.org/abs/2607.11523
+   page:  https://sitonggong.github.io/EgoServe-page/
+
+96. VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting
+   Daeun Lee ⋅ Shoubin Yu ⋅ Yue Zhang ⋅ Mohit Bansal
+   arXiv: https://arxiv.org/abs/2603.14659
+   page:  https://visioncoach.github.io/
+
+97. ViTAL‑X: Video-Text Alignment with Cross‑Modal Temporal Edits
+   Sethuraman T V ⋅ Savya Khosla ⋅ Onkar Susladkar ⋅ Aditi Tiwari ⋅ Seoung Wug Oh ⋅ Kushal Kafle ⋅ Joon-Young Lee ⋅ Derek Hoiem ⋅ Simon Jenni
+
+98. Wan-R1: Verifiable-Reinforcement Learning for Generalizable Video Reasoning
+   Ming Liu ⋅ Yunbei Zhang ⋅ Shilong Liu ⋅ Liwen Wang ⋅ Wensheng Zhang
+
+99. Wavelet-based Intra-video Counterfactual Reasoning for Video Question Grounding
+   Jiasheng Yuan ⋅ Wei Wei
+
+100. What You Ask is What You Ground: Bridging Question Intent to Temporal Evidence for Grounded VideoQA
+   Jinhwan Seo ⋅ Kyu Han ⋅ Jumin Lee ⋅ Junhyug Noh ⋅ Sung-eui Yoon
+   arXiv: https://arxiv.org/abs/2608.15708
+   code:  https://github.com/jinhseo/GroundFormer
+   page:  https://jinhseo.github.io/groundformer/groundformer.html
+
+101. When Thinking Hurts: Mitigating Visual Forgetting in Video Reasoning via Frame Repetition
+   Xiaokun Sun ⋅ Yubo Wang ⋅ Haoyu Cao ⋅ Linli Xu
+   arXiv: https://arxiv.org/abs/2603.16256
+
+102. Where and What: Long-Term Object Tracking in Egocentric Videos
+   Jacob Chalk ⋅ Saptarshi Sinha ⋅ Dima Damen ⋅ Yannis Kalantidis ⋅ Larlus Diane
+
+103. Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
+   Geo Ahn ⋅ Inwoong Lee ⋅ Taeoh Kim ⋅ Minho Shim ⋅ Dongyoon Wee ⋅ Jinwoo Choi
+
+104. WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation
+   Quanjian Song ⋅ Yiren Song ⋅ Kelly Peng ⋅ Yuan Gao ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2511.22098
+   code:  https://github.com/showlab/WorldWander
+

@@ -1,0 +1,539 @@
+Video Generation & World Models  (131 papers, 89 with arXiv links)  [Generation & Editing]
+============================================================================
+
+1. A Benchmark and Multi-Agent System for Instruction-driven Cinematic Video Compilation
+   Peixuan Zhang ⋅ Chang Zhou ⋅ Ziyuan Zhang ⋅ Hualuo Liu ⋅ Chunjie Zhang ⋅ Jingqi Liu ⋅ Xiaohui Zhou ⋅ Xi Chen ⋅ Shuchen Weng ⋅ Si Li ⋅ Boxin Shi
+   arXiv: https://arxiv.org/abs/2604.10456
+
+2. A Physics-Grounded Benchmark for Multi-Agent Dynamics in World Models
+   Nuo Chen ⋅ Lulin Liu ⋅ Zihao Li ⋅ Ziyao Zeng ⋅ Zihao Zhu ⋅ Wenyan Cong ⋅ Junyuan Hong ⋅ Yunhao Yang ⋅ Zhengzhong Tu ⋅ Yan Wang ⋅ Boris Ivanovic ⋅ Marco Pavone ⋅ Zhangyang Wang ⋅ Yang Zhou ⋅ Zhiwen Fan
+   arXiv: https://arxiv.org/abs/2606.28757
+
+3. Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation
+   Mengshun Hu ⋅ Zhihang Zhong ⋅ Yansheng Qiu ⋅ Zheng Wang ⋅ Xiao Sun
+
+4. Aligning Human Sense: Calibrated Distributional Reward Learning for Video Generation
+   Naixin Zhai ⋅ Weihua Cheng ⋅ Dexu Yu ⋅ Yikai Gu ⋅ Hanwen Du ⋅ Junchen Fu ⋅ Chenxi Huang ⋅ Yingwei Song ⋅ Liyuan Ma ⋅ Yang Ran ⋅ Youhua Li ⋅ Yongxin Ni
+
+5. Anchored Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models
+   Mariam Hassan ⋅ Bastien van Delft ⋅ Wuyang Li ⋅ Alexandre ALahi
+   arXiv: https://arxiv.org/abs/2512.16371
+
+6. AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories
+   Zun Wang ⋅ Han Lin ⋅ Jaehong Yoon ⋅ Jaemin Cho ⋅ Yue Zhang ⋅ Mohit Bansal
+   arXiv: https://arxiv.org/abs/2602.14941
+   page:  https://zunwang1.github.io/AnchorWeave
+
+7. Anti-Prompt: Image Protection against Text-Guided Image-to-Video Generation
+   Yeonghwan Song ⋅ Chanhui Lee ⋅ Jinsoo Park ⋅ Jeany Son
+   arXiv: https://arxiv.org/abs/2607.01499
+
+8. AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation
+   Yuchao Gu ⋅ Guian Fang ⋅ Yuxin Jiang ⋅ Weijia Mao ⋅ Song Han ⋅ Han Cai ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2605.13724
+   page:  https://nvlabs.github.io/AnyFlow/
+
+9. AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization
+   Dailan He ⋅ Guanlin Feng ⋅ Xingtong Ge ⋅ Yi ZHANG ⋅ Bingqi Ma ⋅ Guanglu Song ⋅ Yu Liu ⋅ Hongsheng LI
+   arXiv: https://arxiv.org/abs/2603.17461
+
+10. Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench
+   Lanxiang Hu ⋅ Abhilash Shankarampeta ⋅ Yixin Huang ⋅ Zilin Dai ⋅ Haoyang Yu ⋅ Yujie Zhao ⋅ Haoqiang Kang ⋅ Daniel Zhao ⋅ Tajana Rosing ⋅ Hao Zhang
+   arXiv: https://arxiv.org/abs/2512.02942
+   code:  https://github.com/hao-ai-lab/VideoScience
+
+11. Better Call CineCrew: Consistent Ultra-Long Narrative-to-Film Generation
+   Jiaben Chen ⋅ Sixun Dong ⋅ Qinhong Zhou ⋅ Raine Ma ⋅ Zhiyang Dou ⋅ Wojciech Matusik ⋅ Chuang Gan
+
+12. Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation
+   Minghao Jin ⋅ Mozheng Liao ⋅ Mingfei Han ⋅ Zhihui Li ⋅ Xiaojun Chang
+   arXiv: https://arxiv.org/abs/2603.12553
+
+13. Counterfactual World Models via Digital Twin-conditioned Video Diffusion
+   Yiqing Shen ⋅ Aiza Maksutova ⋅ Chenjia Li ⋅ Mathias Unberath
+   arXiv: https://arxiv.org/abs/2511.17481
+
+14. CustomX: Unified Character, Action, and Scene Customization in Video World Models
+   Yitong Wang ⋅ Fangyun Wei ⋅ Hongyang Zhang ⋅ Bo Dai ⋅ Yan Lu
+   arXiv: https://arxiv.org/abs/2512.17796
+   page:  https://snowflakewang.github.io/CustomX_Page/
+
+15. Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency
+   Zihan Su ⋅ Teng Hu ⋅ Jiangning Zhang ⋅ Ruiyan Wang ⋅ Ran Yi ⋅ Lizhuang Ma ⋅ Dacheng Tao
+   arXiv: https://arxiv.org/abs/2607.11836
+
+16. DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation
+   Junyi Ouyang ⋅ Wenbin Teng ⋅ Gonglin Chen ⋅ Yajie Zhao ⋅ Haiwei Chen
+   arXiv: https://arxiv.org/abs/2603.24835
+   page:  https://junyiouy.github.io/projects/dcarl
+
+17. DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking
+   Yunyi Li ⋅ Yu Qiao ⋅ Yaohui Wang ⋅ Xinyuan Chen
+
+18. Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models
+   Massimiliano Pappa ⋅ Luca Romani ⋅ Valentino Sacco ⋅ Alessio Palma ⋅ Stéphane Lathuilière ⋅ Fabio Galasso ⋅ Xavier Alameda-Pineda ⋅ Indro Spinelli
+   arXiv: https://arxiv.org/abs/2603.23149
+
+19. DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models
+   Zhengming Yu ⋅ Li Ma ⋅ Mingming He ⋅ Leo Isikdogan ⋅ Yuancheng Xu ⋅ Dmitriy Smirnov ⋅ Pablo Salamanca ⋅ Dao Mi ⋅ Pablo Delgado ⋅ Ning Yu ⋅ Julien Philip ⋅ Xin Li ⋅ Wenping Wang ⋅ Paul Debevec
+   arXiv: https://arxiv.org/abs/2604.06161
+
+20. DIVER: Disentangling Camera–Object and Active–Passive Motion for Video Generation
+   Shaowei Liu ⋅ Xuanchi Ren ⋅ Tianchang Shen ⋅ Huan Ling ⋅ Saurabh Gupta ⋅ Shenlong Wang ⋅ Sanja Fidler ⋅ Jun Gao
+
+21. Divide and Conquer: Decoupled Representation Alignment for Multimodal World Models
+   Junyuan Xiao ⋅ Dingkang Liang ⋅ Xin Zhou ⋅ Yixuan Ye ⋅ Tongtong Su ⋅ Guangmo Yi ⋅ Bin Xia ⋅ Qiang Lyu ⋅ Shurui Shi ⋅ Jun Huang ⋅ Jianlou Si ⋅ Wenming Yang
+
+22. DreamWorld: Geometry-Grounded Video Diffusion for 3D-Consistent World Modeling
+   Haibo Yang ⋅ Yang Chen ⋅ Yingwei Pan ⋅ Zhineng Chen ⋅ Ting Yao ⋅ Tao Mei
+
+23. DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation
+   Ziyu Shan ⋅ Zhenyu Wu ⋅ Xiaofeng Wang ⋅ Zheng Zhu ⋅ Ziwei Wang
+   arXiv: https://arxiv.org/abs/2606.32028
+
+24. EcoVideo: Entropy-Orchestrated Video Generation Paradigm in Cloud-Edge Dynamics
+   Jiayu Chen ⋅ Hengyi Zhang ⋅ Maoliang Li ⋅ Minyu Li ⋅ Zihao Zheng ⋅ Xuanzhe Liu ⋅ Guojie Luo ⋅ Xiang Chen
+   arXiv: https://arxiv.org/abs/2606.30557
+   code:  https://github.com/IF-LAB-PKU/EcoVideo
+
+25. End-to-End Training for Autoregressive Video Diffusion via Self-Resampling
+   Yuwei Guo ⋅ Ceyuan Yang ⋅ Hao He ⋅ Yang Zhao ⋅ Meng Wei ⋅ Zhenheng Yang ⋅ Weilin Huang ⋅ Dahua Lin
+   arXiv: https://arxiv.org/abs/2512.15702
+   page:  https://guoyww.github.io/projects/resampling-forcing/
+
+26. Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints
+   Yu Qi ⋅ Xinyi Xu ⋅ Ziyu Guo ⋅ Siyuan Ma ⋅ Renrui Zhang ⋅ Xinyan Chen ⋅ Ruichuan An ⋅ Ruofan Xing ⋅ Jiayi Zhang ⋅ Haojie Huang ⋅ Pheng-Ann Heng ⋅ Jonathan Tremblay ⋅ Lawson Wong
+   arXiv: https://arxiv.org/abs/2603.20194
+   page:  https://video-reasoning-coherence.github.io/
+
+27. Event-Driven Video Generation
+   Chika Maduabuchi ⋅ Jindong Wang
+   arXiv: https://arxiv.org/abs/2603.13402
+   page:  https://evd-project-website.pages.dev
+
+28. FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control
+   Mingzhi Sheng ⋅ Zekai Gu ⋅ Peng Li ⋅ Cheng Lin ⋅ Hao-Xiang Guo ⋅ Yingcong Chen ⋅ Yuan Liu
+   arXiv: https://arxiv.org/abs/2602.13185
+   code:  https://github.com/IGL-HKUST/FlexAM
+
+29. Following Motion for Sequential Modeling in Video Frame Interpolation
+   JaeHyun Park ⋅ Nam Ik Cho
+
+30. FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation
+   Yunfeng Wu ⋅ Jiayi Song ⋅ Zhenxiong Tan ⋅ Zihao He ⋅ Songhua Liu
+   arXiv: https://arxiv.org/abs/2511.14712
+   code:  https://github.com/WillWu111/FreeSwim
+
+31. GeCo: Evaluating Geometric Consistency for Video Generation via Motion and Structure
+   Leslie Gu ⋅ Junhwa Hur ⋅ Charles Herrmann ⋅ Fangneng Zhan ⋅ Todd Zickler ⋅ Deqing Sun ⋅ Hanspeter Pfister
+   arXiv: https://arxiv.org/abs/2512.22274
+
+32. Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing
+   Sen Liang ⋅ Cong Wang ⋅ Zhentao Yu ⋅ Fengbin Guan ⋅ zhengguang zhou ⋅ Teng Hu ⋅ youliang zhang ⋅ Yuan Zhou ⋅ Xin Li ⋅ Qinglin Lu ⋅ Zhibo Chen
+   arXiv: https://arxiv.org/abs/2606.30599
+   page:  https://flying-sky999.github.io/Goku.github.io/
+
+33. GraphVid: Interactive Graph-Controllable Video Generation
+   Vedant Shah ⋅ Onkar Susladkar ⋅ Tushar Prakash ⋅ Kiet Nguyen ⋅ Tianjiao (Joey) Yu ⋅ Adheesh Juvekar ⋅ Muntasir Wahed ⋅ Ismini Lourentzou
+   arXiv: https://arxiv.org/abs/2607.21580
+
+34. HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising
+   Kai Zou ⋅ Dian Zheng ⋅ Hongbo Liu ⋅ Tiankai Hang ⋅ Bin Liu ⋅ Nenghai Yu
+   arXiv: https://arxiv.org/abs/2603.08703
+   code:  https://github.com/Jacky-hate/HiAR
+   page:  https://jacky-hate.github.io/HiAR/
+
+35. IC-World: In-Context Generation for Shared World Modeling
+   FAN WU ⋅ Jiacheng Wei ⋅ Ruibo Li ⋅ Yi Xu ⋅ junyou li ⋅ Deheng Ye ⋅ Guosheng Lin
+   arXiv: https://arxiv.org/abs/2512.02793
+   code:  https://github.com/wufan-cse/IC-World
+
+36. Inference-time Motion Calibration for Video Generation
+   Zile Huang ⋅ Ser-Nam Lim
+
+37. Joint Alignment and Distillation for Video Generation via Sample-Guided Distribution Matching
+   Jiuzhou Lin ⋅ Fei Zuo ⋅ Huan Ouyang ⋅ Junlong Wu ⋅ Dewen Fan ⋅ Boheng Zhang ⋅ Huaiqing Wang ⋅ Jia Sun ⋅ Fan Yang ⋅ Houde Liu ⋅ Kehai Chen ⋅ Min Zhang ⋅ Tingting Gao ⋅ Han Li
+
+38. KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding
+   Zeyu Liu ⋅ Zhangzhe Zhu ⋅ Yang Zhang ⋅ Chenyou Fan ⋅ Chenjia Bai ⋅ Xuelong Li
+   arXiv: https://arxiv.org/abs/2607.19876
+
+39. LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion
+   Zengqun Zhao ⋅ Ziquan Liu ⋅ Yu Cao ⋅ Shaogang Gong ⋅ Zhensong Zhang ⋅ Song Jifei ⋅ Jiankang Deng ⋅ ioannis Patras
+   arXiv: https://arxiv.org/abs/2603.14526
+   page:  https://zengqunzhao.github.io/LatSearch
+
+40. Learning to Generate Rigid Body Interactions with Video Diffusion Models
+   David Orlando Romero Mogrovejo ⋅ Ariana Bermudez ⋅ Viacheslav Iablochnikov ⋅ Hao Li ⋅ Fabio Pizzati ⋅ Ivan Laptev
+   arXiv: https://arxiv.org/abs/2510.02284
+   page:  https://daromog.github.io/KineMask/
+
+41. Learning Transferable Dynamics Priors from Action to World Modeling
+   Ze Huang ⋅ Zhang Jiahui ⋅ Hairuo Liu ⋅ Chenxi Zhang ⋅ Ran Cheng ⋅ Li Zhang
+   arXiv: https://arxiv.org/abs/2606.29501
+
+42. Learning Zero-Shot Subject-Driven Video Generation Using 1% Compute
+   Daneul Kim ⋅ Jingxu Zhang ⋅ Wonjoon Jin ⋅ Sunghyun Cho ⋅ Qi Dai ⋅ Jaesik Park ⋅ Chong Luo
+   arXiv: https://arxiv.org/abs/2504.17816
+   page:  https://carpedkm.github.io/projects/disentangled_sub/index.html
+
+43. LibraGen: Playing a Balance Game in Subject-Driven Video Generation
+   Jiahao Zhu ⋅ Shanshan Lao ⋅ Lijie Liu ⋅ Gen Li ⋅ Tianhao Qi ⋅ hanwei hanwei ⋅ Bingchuan Li ⋅ FangfangLiu FangfangLiu ⋅ Zhuowei Chen ⋅ Tianxiang Ma ⋅ Qian HE ⋅ Yi Zhou ⋅ Xiaohua Xie
+   arXiv: https://arxiv.org/abs/2603.13506
+
+44. LooseControlVideo: Directorial Video Control using Spatial Blocking
+   Shariq Farooq Bhat ⋅ Kalyan Sunkavalli ⋅ Niloy Mitra
+   arXiv: https://arxiv.org/abs/2606.19495
+   page:  https://shariqfarooq123.github.io/LooseControlVideo/
+
+45. LoT-Pass: Long-term-robust Image Watermarking for Image to Video Generation
+   Guanjie Wang ⋅ Zehua Ma ⋅ Han Fang ⋅ Weiming Zhang
+   arXiv: https://arxiv.org/abs/2509.17773
+   code:  https://github.com/MrCrims/I2VWM-Robust-Watermarking-for-Image-to-Video-Generation
+
+46. MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation
+   Yinhan Zhang ⋅ DINGWEI TAN ⋅ Xianghao Kong ⋅ Yue Ma ⋅ Yeying Jin ⋅ Anyi Rao
+   arXiv: https://arxiv.org/abs/2607.14595
+
+47. Measuring 3D Spatial Geometric Consistency in Dynamic Video Generation
+   Weijia Dou ⋅ Wenzhao Zheng ⋅ Weiliang Chen ⋅ Yu Zheng ⋅ Jie Zhou ⋅ Jiwen Lu
+   arXiv: https://arxiv.org/abs/2603.19048
+   code:  https://github.com/tj12323/SGC
+
+48. MemLearner: Learning to Query Context Memory for Video World Models
+   Jiwen Yu ⋅ Jianxiong Gao ⋅ Jianhong Bai ⋅ Yiran Qin ⋅ Kaiyi Huang ⋅ Quande Liu ⋅ Xintao Wang ⋅ Pengfei Wan ⋅ Kun Gai ⋅ Xihui Liu
+   arXiv: https://arxiv.org/abs/2606.31734
+   page:  https://yujiwen.github.io/memlearner/
+
+49. MemoBench: Benchmarking World Modeling in Dynamically Changing Environments
+   Haoyu Chen ⋅ Kaichen Zhou ⋅ Hang Hua ⋅ Kaile Zhang ⋅ Jingwen Qian ⋅ Wufei Ma ⋅ Haonan Chen ⋅ Chunjiang Liu ⋅ Yizhou Zhao ⋅ Xiaoyuan Wang ⋅ Weiyue Li ⋅ Alan Yuille ⋅ Paul Pu Liang ⋅ Yilun Du
+   arXiv: https://arxiv.org/abs/2606.27537
+
+50. Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing
+   Dohun Lee ⋅ Chun-Hao Huang ⋅ Xuelin Chen ⋅ Jong Chul Ye ⋅ Duygu Ceylan ⋅ Hyeonho Jeong
+   arXiv: https://arxiv.org/abs/2601.16296
+   page:  https://dohunlee1.github.io/MemoryV2V
+
+51. MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens
+   Youngrae Kim ⋅ Qixin Hu ⋅ C.-C. Jay Kuo ⋅ Peter Beerel
+   arXiv: https://arxiv.org/abs/2603.12513
+   page:  https://memrope.github.io
+
+52. MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training
+   Haotian Xue ⋅ Qi Chen ⋅ Zhonghao Wang ⋅ Xun Huang ⋅ Eli Shechtman ⋅ Jinrong Xie ⋅ Yongxin Chen
+   arXiv: https://arxiv.org/abs/2511.21592
+   page:  https://xavihart.github.io/mogan
+
+53. Moiré Video Authentication: A Physical Signature Against AI Video Generation
+   Yuan Qing ⋅ Kunyu Zheng ⋅ Lingxiao Li ⋅ Boqing Gong ⋅ Chang Xiao
+
+54. MoVA: Learning Asymmetric Dual Projections for Modular Long Video-Text Alignment
+   Peiyuan Zhu ⋅ Shaoan Xie ⋅ Zijian Li ⋅ Yifan Shen ⋅ Namrata Deka ⋅ Harsh Shrivastava ⋅ Guangyi Chen ⋅ Kun Zhang
+   arXiv: https://arxiv.org/abs/2607.00858
+
+55. MSEditor: Toward Consistent Multi-Shot Video Editing
+   Kunyu Feng ⋅ Yue Ma ⋅ Bingyuan Wang ⋅ Yuefeng Wang ⋅ Zhiyuan Qin ⋅ Hao Cheng ⋅ Hao Li ⋅ Qifeng Chen ⋅ Zeyu Wang
+
+56. Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments
+   Jinwoo Jang ⋅ Daniel Rho ⋅ Sihyung Yoon ⋅ Hyunsuk Cho ⋅ Honguk Woo
+   arXiv: https://arxiv.org/abs/2607.00457
+
+57. NarrativeTrack: Evaluating Entity-Centric Reasoning for Narrative Understanding
+   Hyeonjeong Ha ⋅ Jinjin Ge ⋅ Bo Feng ⋅ Kaixin Ma ⋅ Gargi Chakraborty
+   arXiv: https://arxiv.org/abs/2601.01095
+   code:  https://github.com/apple/ml-NarrativeTrack
+
+58. NoisEasier: Test-Time Noise Optimization for Text-to-Video Generation
+   Yujiang Pu ⋅ Yu Kong
+
+59. OctWorld: Long-Range World-Consistent Video Generation with Octree-based 3D Mapping
+   Zelong Lv ⋅ Sicheng Xu ⋅ Jianfeng Xiang ⋅ Yue Dong ⋅ Ruicheng Wang ⋅ Yu Deng ⋅ Guangzhong Sun ⋅ Jiaolong Yang
+
+60. OmniHuman: A Large-scale Dataset and Benchmark for Human-Centric Video Generation
+   Lei Zhu ⋅ xing cai ⋅ Yingjie Chen ⋅ Li YiHeng ⋅ Binxin Yang ⋅ Hao Liu ⋅ Jie Chen ⋅ Chen Li ⋅ Jing LYU
+   arXiv: https://arxiv.org/abs/2604.18326
+
+61. One Video, One World: Turning Monocular Video into Physical 4D Scenes
+   Junhao Chen ⋅ Boran Zhang ⋅ Mingjin Chen ⋅ Henghaofan Zhang ⋅ Saining Zhang ⋅ Congcong Zhu ⋅ HAO ZHAO ⋅ Ruqi Huang ⋅ Zhihao Li ⋅ Yufei Wang
+   arXiv: https://arxiv.org/abs/2606.31388
+   page:  https://OneVideoOneWorld.github.io/
+
+62. OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Based Video Editing
+   Haoyang He ⋅ Jie Wang ⋅ Jiangning Zhang ⋅ Zhucun Xue ⋅ Xingyuan Bu ⋅ Qiangpeng Yang ⋅ Min Zheng ⋅ Lei Xie
+   arXiv: https://arxiv.org/abs/2512.07826
+   page:  https://lewandofskee.github.io/projects/OpenVE
+
+63. Optimizing Mesh Animation from Video via Shape Flow Guidance
+   Jingqiao Xiu ⋅ Yicong Li ⋅ Angela Yao
+
+64. OSVE: One Step Video Editing with One Step Diffusion Models
+   Habin Lim ⋅ Gyeong-Moon Park
+   arXiv: https://arxiv.org/abs/2607.19895
+   code:  https://github.com/KU-VGI/OSVE
+
+65. Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models
+   Ziqi Ma ⋅ Mengzhan Liufu ⋅ Georgia Gkioxari
+   arXiv: https://arxiv.org/abs/2603.13215
+   page:  https://glab-caltech.github.io/STEVOBench/
+   page:  https://ziqi-ma.github.io/blog/2026/outofsight/
+
+66. PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
+   Xiaofeng Mao ⋅ Shaohao Rui ⋅ Bo Zheng ⋅ Kaining Ying ⋅ Chuanhao Li ⋅ Mingmin Chi ⋅ Kaipeng Zhang
+   arXiv: https://arxiv.org/abs/2603.25730
+   code:  https://github.com/ShandaAI/PackForcing
+
+67. PAI-Studio: Cinematic Video Background Replacement with Camera-Aware Motion
+   Heyuan Gao ⋅ Bangxun Tang ⋅ Yiren Song ⋅ Guian Fang ⋅ Zijian He ⋅ Jie Yang ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2606.01399
+
+68. Pathwise Test-Time Correction for Autoregressive Long Video Generation
+   Xunzhi Xiang ⋅ Zixuan Duan ⋅ Guiyu Zhang ⋅ Haiyu Zhang ⋅ Zhe Gao ⋅ Junta Wu ⋅ Shaofeng Zhang ⋅ Tengfei Wang ⋅ Qi Fan ⋅ Chunchao Guo
+   arXiv: https://arxiv.org/abs/2602.05871
+
+69. PeCA: Palette Context Assisted Inference for Test-Time Paint-Bucket Colourisation on Animation Videos
+   Dongheng Lin ⋅ Jianbo Jiao
+   arXiv: https://arxiv.org/abs/2608.00903
+   page:  https://rathgrith.github.io/PeCA/
+
+70. PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models
+   Zeqing Wang ⋅ Keze Wang ⋅ Yabin Zhang
+   arXiv: https://arxiv.org/abs/2512.01843
+   code:  https://github.com/Zeqing-Wang/PhyDetEx
+
+71. PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation
+   Yuanhao Cai ⋅ Kunpeng Li ⋅ Menglin Jia ⋅ Jialiang Wang ⋅ Junzhe Sun ⋅ Feng Liang ⋅ Weifeng Chen ⋅ Felix Juefei-Xu ⋅ Chu Wang ⋅ Ali Thabet ⋅ Xiaoliang Dai ⋅ Xuan JU ⋅ Alan Yuille ⋅ Ji Hou
+   arXiv: https://arxiv.org/abs/2512.24551
+   code:  https://github.com/caiyuanhao1998/Open-PhyGDPO
+   page:  https://caiyuanhao1998.github.io/project/PhyGDPO
+
+72. PhysAlign: Learning Physical Priors for Dynamical Event-Driven Video Generation via Representation Alignment
+   Mengxian Li ⋅ Zhan Wang ⋅ Fan Qi ⋅ Changsheng Xu
+
+73. PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding
+   Haoze Zhang ⋅ Tianyu Huang ⋅ Zichen Wan ⋅ Xiaowei Jin ⋅ Hongzhi Zhang ⋅ Hui Li ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2511.20562
+
+74. Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation
+   Atin Pothiraj ⋅ Jaemin Cho ⋅ Yue Zhang ⋅ Elias Stengel-Eskin ⋅ Mohit Bansal
+   arXiv: https://arxiv.org/abs/2606.25306
+   code:  https://github.com/atinpothiraj/pqsg
+
+75. PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation
+   Peng Yun ⋅ Shouwang Huang ⋅ Hao Li ⋅ Jinxi Li ⋅ Jianan Wang ⋅ Bo Yang
+   arXiv: https://arxiv.org/abs/2607.01938
+   code:  https://github.com/vLAR-group/PhysMani
+
+76. PhysPO: Physics-Aware Local Preference Optimization for Physically Consistent Video Diffusion
+   Zhuoran Yang ⋅ Yanyong Zhang
+
+77. PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation
+   Kexu Cheng ⋅ Zicheng Liu ⋅ Mingju Gao ⋅ Chunhe Song ⋅ Hao Tang
+   arXiv: https://arxiv.org/abs/2606.26916
+   code:  https://github.com/sediment1024/PhysRAG
+
+78. PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models
+   Qiyuan Zhang ⋅ Biao Gong ⋅ Shuai Tan ⋅ Zheng Zhang ⋅ Xing Zhu ⋅ Yujun Shen ⋅ Yuyuan Li ⋅ kelu Yao ⋅ Chunhua Shen ⋅ Changqing Zou
+   arXiv: https://arxiv.org/abs/2601.11087
+
+79. Predicting Consequences and Reinforcing Navigation Policies with Latent World Models
+   Zengmao Wang ⋅ Wei Gao ⋅ Shuhan Shen
+
+80. Predictive Structure Improves Video Diffusion Dynamics
+   Mi Luo ⋅ Yujia Chen ⋅ Alex Dimakis ⋅ Kristen Grauman ⋅ Wen-Sheng Chu ⋅ Du Tran
+
+81. Prompt2Effect: Training-Free LoRA Synthesis for Controllable Video Effects
+   Xiaomeng Yang ⋅ Yanyu Li ⋅ Gordon Qian ⋅ Ivan Skorokhodov ⋅ Viacheslav Ivanov ⋅ Avalon Vinella ⋅ Xuan Zhang ⋅ Yanzhi Wang ⋅ Sergey Tulyakov ⋅ Anil Kag
+
+82. QWERTY: Training-Free Motion Control via Query-Warped Video Diffusion Transformers
+   Kyobin Choo ⋅ Youngmin Kim ⋅ Hyunkyung Han ⋅ Geunrip Park ⋅ Chanyoung Kim ⋅ Sunyoung Jung ⋅ Seong Jae Hwang
+   arXiv: https://arxiv.org/abs/2607.01869
+
+83. RAE-NWM: Navigation World Model in Dense Visual Representation Space
+   Mingkun Zhang ⋅ wangtian shen ⋅ Fan Zhang ⋅ Haijian Qin ⋅ Zihao Pei ⋅ Ziyang Meng
+   arXiv: https://arxiv.org/abs/2603.09241
+   code:  https://github.com/20robo/raenwm
+
+84. RefAlign: Representation Alignment for Reference-to-Video Generation
+   Lei Wang ⋅ YuXin Song ⋅ Ge Wu ⋅ Haocheng Feng ⋅ Hang Zhou ⋅ Jingdong Wang ⋅ Yaxing Wang ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2603.25743
+   code:  https://github.com/gudaochangsheng/RefAlign
+   page:  https://gudaochangsheng.github.io/RefAlign-Page/
+
+85. Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
+   Efstathios Karypidis ⋅ Spyros Gidaris ⋅ Nikos Komodakis
+   arXiv: https://arxiv.org/abs/2604.11707
+   code:  https://github.com/Sta8is/Re2Pix
+
+86. Reward Lightning: Fast Video Generation via Homologous Preference Distillation
+   Jiaxiang Cheng ⋅ bing ma ⋅ Xuhua Ren ⋅ Kai Yu ⋅ Peng Zhang ⋅ Tianxiang Zheng ⋅ Qinglin Lu
+   arXiv: https://arxiv.org/abs/2607.03960
+   page:  https://reward-lightning.github.io
+
+87. Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion
+   Bowen Xue ⋅ Brandon Feng ⋅ Chenguo Lin ⋅ Yuchen Lin ⋅ Yujia Zeng ⋅ lvmin zhang ⋅ Maneesh Agrawala ⋅ Honglei Yan ⋅ Panwang Pan
+
+88. ROSE: Real-Time Open-World Scene Understanding from Monocular Video via Compact Multimodal 4D Scene Graphs
+   Ziyue Qiu ⋅ Yong Wang ⋅ Jin Pan
+
+89. Rotate Your Character: Revisiting Video Diffusion Models for High-Quality 3D Character Generation
+   Jin Wang ⋅ Jianxiang Lu ⋅ Comi Chen ⋅ Guangzheng Xu ⋅ Haoyu Yang ⋅ Peng Chen ⋅ Na Zhang ⋅ Yifan Xu ⋅ Longhuang Wu ⋅ Shuai Shao ⋅ Qinglin Lu ⋅ Ping Luo
+   arXiv: https://arxiv.org/abs/2601.05722
+
+90. SA-V2V: Training-Free Subject-Aware Video-to-Video Personalization
+   Soobin Park ⋅ Seohyeon Yoo ⋅ Jiwon Kim ⋅ SeonHwa Kim ⋅ Kyong Hwan Jin ⋅ Eunju Cha
+
+91. SALT: Self-Consistent Distribution Matching with Cache-Aware Training for Few-Step Video Generation
+   Xingtong Ge ⋅ Yi ZHANG ⋅ Yushi Huang ⋅ Dailan He ⋅ Xiahong Wang ⋅ Bingqi Ma ⋅ Guanglu Song ⋅ Yu Liu ⋅ Jun Zhang
+
+92. ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors
+   Haodong Yu ⋅ Yabo Zhang ⋅ Donglin Di ⋅ Ruyi Zhang ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2603.24270
+
+93. Semantic Line Diffusion: Character-Consistent Line Art from text-annotated Storyboards
+   Seo-Yeon Choi ⋅ Kyungsu Lee
+
+94. SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning
+   Xi Ye ⋅ Wenjia Yang ⋅ Yangyang Xu ⋅ Xiaoyang Liu ⋅ Duo Su ⋅ Mengfei Xia ⋅ Jun Zhu
+
+95. ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling
+   Yawen Luo ⋅ Xiaoyu Shi ⋅ Jun-hao Zhuang ⋅ Yutian Chen ⋅ Quande Liu ⋅ Xintao Wang ⋅ Pengfei Wan ⋅ Tianfan Xue
+   arXiv: https://arxiv.org/abs/2603.25746
+   code:  https://github.com/KlingAIResearch/ShotStream
+   page:  https://luo0207.github.io/ShotStream/
+
+96. SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models
+   Ruoyu Wang ⋅ Jialun Liu ⋅ Huayang Huang ⋅ Haibin Huang ⋅ Jiepeng Wang ⋅ Chi Zhang ⋅ Xuelong Li ⋅ Yu Wu
+
+97. SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation
+   Kyuwon Kim ⋅ Sunjae Yoon ⋅ Chang Yoo
+   arXiv: https://arxiv.org/abs/2607.00525
+
+98. Spotlight: Identifying and Localizing Video Generation Errors Using VLMs
+   Aditya Aravind Chinchure ⋅ Sahithya Ravi ⋅ Pushkar Shukla ⋅ Vered Shwartz ⋅ Leonid Sigal
+   arXiv: https://arxiv.org/abs/2511.18102
+
+99. SSBP: Stage-Specialized Block Pruning for Video Diffusion Models
+   Mengmeng Ge ⋅ Takashi Isobe ⋅ Dong Zhou ⋅ Dong Li ⋅ Emad Barsoum
+
+100. STANCE: Controllable Video Generation for Structured Dynamics via Sparse-To-dense ANChored Encoding
+   ZhiFei Chen ⋅ Tianshuo Xu ⋅ Leyi Wu ⋅ Luozhou Wang ⋅ Dongyu Yan ⋅ Zihan You ⋅ Wenting Luo ⋅ Yingcong Chen
+
+101. StoryBlender: Inter-Shot Consistent and Editable 3D Storyboard with Spatial-temporal Dynamics
+   Bingliang Li ⋅ Zhenhong Sun ⋅ Jiaming Bian ⋅ Yuehao Wu ⋅ Yifu Wang ⋅ HONGDONG LI ⋅ Yatao Bian ⋅ Huadong Mo ⋅ Daoyi Dong
+   arXiv: https://arxiv.org/abs/2604.03315
+   page:  https://engineeringai-lab.github.io/StoryBlender/
+
+102. StoryTeller: Training-Free Narrative Grounding for Long-Form Audio Description
+   Seung Hahm ⋅ Minh Dinh ⋅ SouYoung Jin
+   arXiv: https://arxiv.org/abs/2607.11798
+
+103. StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation
+   Guanlong Jiao ⋅ Chenyangguang Zhang ⋅ Jia Xian ⋅ Zewei Zhang ⋅ Renjie Liao
+
+104. Stylized Video Generation via Decoupled Data Synthesis and Gated Style Token Injection
+   Xin Wei ⋅ Yijie Fang ⋅ Yanjia Li ⋅ Liangyi Wu ⋅ Qin Yang ⋅ Mingrui Zhu ⋅ Nannan Wang ⋅ Xinbo Gao
+
+105. Surprise Forcing: What to Remember, When to Skip in Long Video Generation
+   SHUWEI SHI ⋅ Zhen Li ⋅ Muyao Niu ⋅ Chuanhao Li ⋅ Bo Zheng ⋅ Kaipeng Zhang ⋅ zheng yinqiang
+   arXiv: https://arxiv.org/abs/2607.18436
+
+106. SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing
+   Xuanyi Zhou ⋅ Qiuyang Mang ⋅ Shuo Yang ⋅ Haocheng Xi ⋅ Jintao Zhang ⋅ Huanzhi Mao ⋅ Joseph E Gonzalez ⋅ Kurt Keutzer ⋅ Ion Stoica ⋅ Alvin Cheung
+   arXiv: https://arxiv.org/abs/2603.08982
+
+107. Taming Camera-Controlled Video Generation with Verifiable Geometry Reward
+   Zhaoqing Wang ⋅ Xiaobo Xia ⋅ Zhuolin Bie ⋅ Jinlin Liu ⋅ Dongdong Yu ⋅ Jiawang Bian ⋅ Changhu Wang
+   arXiv: https://arxiv.org/abs/2512.02870
+
+108. Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction
+   Kaisi Guan ⋅ Xihua Wang ⋅ Zhengfeng Lai ⋅ Xin Cheng ⋅ Peng Zhang ⋅ Xiaojiang Liu ⋅ Ruihua Song ⋅ Meng Cao
+   arXiv: https://arxiv.org/abs/2510.03117
+
+109. Test Time Training for Long Videos via Frame Forgetting Network
+   Rajat modi ⋅ Xin Liang ⋅ Sebastian Noel ⋅ Yogesh Rawat
+
+110. Test-Time Noise Guided Adaptation for Realistic Autoregressive Video Generation
+   Dimitrios Karageorgiou ⋅ Symeon Papadopoulos ⋅ Ioannis Kompatsiaris ⋅ Efstratios Gavves
+   arXiv: https://arxiv.org/abs/2607.15849
+   page:  https://mever-team.github.io/tango
+
+111. Thermo-JEPA: Learning a Geometry-Grounded Thermal World Model via Cross-Modal Privileged Masking
+   Biwen Yang ⋅ Jin Zhang ⋅ Zhe Cao ⋅ Ruiheng Zhang
+
+112. TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception
+   Quinlan Sykora ⋅ Sourav Biswas ⋅ Christopher Diehl ⋅ Andrew Cunningham ⋅ Thomas Gilles ⋅ Raquel Urtasun
+
+113. UniTemp: Unlocking Video Generation in Any Temporal Order via Autoregressive Distillation
+   Lin Zhang ⋅ Sicheng Mo ⋅ Zefan Cai ⋅ Jinhong Lin ⋅ Zihao Lin ⋅ Jiuxiang Gu ⋅ Krishna Kumar Singh ⋅ Yuheng Li ⋅ Yin Li
+
+114. VCBench: A Streaming Counting Benchmark for Spatial-Temporal State Maintenance in Long Videos
+   Pengyiang Liu ⋅ Zhongyue Shi ⋅ Hongye Hao ⋅ Qi Fu ⋅ Xueting BI ⋅ Siwei Zhang ⋅ Xiaoyang Hu ⋅ Zitian Wang ⋅ Linjiang Huang ⋅ Si Liu
+
+115. VERTIGO: Visual Preference Optimization for Cinematic Camera Generation
+   Mengtian Li ⋅ Yuwei Lu ⋅ Feifei Li ⋅ Chenqi Gan ⋅ Zhifeng Xie ⋅ Xi WANG
+   arXiv: https://arxiv.org/abs/2604.02467
+
+116. VGEdit: Unlocking Video Generation Priors for Reasoning-Informed Image Editing
+   Haiquan Lu ⋅ Gongfan Fang ⋅ Xinyin Ma ⋅ Xinchao Wang
+
+117. VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward
+   Zhaochong An ⋅ Orest Kupyn ⋅ Théo Uscidda ⋅ Andrea Colaco ⋅ Karan Ahuja ⋅ Serge Belongie ⋅ Mar Gonzalez Franco ⋅ Marta Gazulla
+   arXiv: https://arxiv.org/abs/2603.26599
+   page:  https://zhaochongan.github.io/projects/VGGRPO
+
+118. VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model
+   Xiangyu Sun ⋅ Shijie Wang ⋅ Fengyi Zhang ⋅ Lin Liu ⋅ Caiyan Jia ⋅ Ziying Song ⋅ Zi Helen Huang ⋅ Yadan Luo
+   arXiv: https://arxiv.org/abs/2603.12655
+
+119. ViBe: Ultra-High-Resolution Video Synthesis Born from Pure Images
+   Yunfeng Wu ⋅ Hongying Cheng ⋅ Zihao He ⋅ Songhua Liu
+   arXiv: https://arxiv.org/abs/2603.23326
+   code:  https://github.com/WillWu111/ViBe
+
+120. Video Generation Models are General-Purpose Vision Learners
+   Letian Wang ⋅ Chuhan Zhang ⋅ Rishabh Kabra ⋅ Jasper Uijlings ⋅ Steven Waslander ⋅ Andrew ZISSERMAN ⋅ Joao Carreira ⋅ Cristian Sminchisescu ⋅ Kaiming He ⋅ Mykhaylo Andriluka ⋅ Eduard Gabriel Bazavan ⋅ Andrei Zanfir
+   arXiv: https://arxiv.org/abs/2607.09024
+   page:  https://genception.github.io
+
+121. Video Generation Models Are Inherent Lighting Estimators
+   Ziqi Cai ⋅ Shuchen Weng ⋅ Kaiqi Liu ⋅ Zifeng Wang ⋅ Zhiquan Zhang ⋅ Minggui Teng ⋅ Han Jiang ⋅ Boxin Shi
+   arXiv: https://arxiv.org/abs/2607.04674
+   page:  https://caiziqi.com/research/vlite/
+
+122. Video Generative Models as Geometry Learner
+   Haosen Yang ⋅ Song Jifei ⋅ Zhensong Zhang ⋅ Xiatian Zhu ⋅ Jiankang Deng
+
+123. VideoTIR: Accurate Understanding for Long Videos with Efficient Tool-Integrated Reasoning
+   Zhe Gao ⋅ Shiyu Shen ⋅ Taifeng Chai ⋅ Weinong Wang ⋅ Haotian Xu ⋅ Xing W ⋅ Wenbin Li ⋅ Qi Fan ⋅ Yang Gao ⋅ Dacheng Tao
+   arXiv: https://arxiv.org/abs/2603.25021
+
+124. VPA-WM: Vision-Priors-Aligned World Models for Robust Visual Reinforcement Learning
+   Xu Zhang ⋅ Sicong Liu ⋅ Liwei Guo ⋅ Chenjuan Guo ⋅ Bin Yang ⋅ Yang Shu
+
+125. Walk through Paintings : Ego-centric World models from Internet Priors
+   Anurag Bagchi ⋅ Zhipeng Bao ⋅ Homanga Bharadhwaj ⋅ Yu-Xiong Wang ⋅ Pavel Tokmakov ⋅ Martial Hebert
+   arXiv: https://arxiv.org/abs/2601.15284
+
+126. WildWorld: A Large-Scale Dataset for Action-Conditioned World Modeling with Explicit State Annotations
+   Zhen Li ⋅ Zian Meng ⋅ Chuanhao Li ⋅ SHUWEI SHI ⋅ Wenshuo Peng ⋅ Yuwei Wu ⋅ Bo Zheng ⋅ Yunde Jia ⋅ Kaipeng Zhang
+
+127. World Knowledge in the Weights: Reading Concept Circuits of Vision Transformers
+   Yanlin Chen ⋅ Tang Li ⋅ Xi Peng
+
+128. World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies
+   Shaoqing Xu ⋅ Fang Li ⋅ Zhi-Xin Yang ⋅ Qimao Chen ⋅ Yuechen Luo ⋅ Zhixiang Duan ⋅ Yifan Yang ⋅ Long Chen
+
+129. WorldAgents: Can Foundation Image Models be Agents for 3D World Models?
+   Ziya Erkoç ⋅ Angela Dai ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2603.19708
+   page:  https://ziyaerkoc.com/worldagents/
+
+130. WorldCache: Content-Aware Caching for Accelerated Video World Models
+   Umair Nawaz ⋅ Ahmed Heakl ⋅ Ufaq Khan ⋅ ABDELRAHMAN YOUSSIEF ⋅ Salman Khan ⋅ Fahad Shahbaz Khan
+   arXiv: https://arxiv.org/abs/2603.22286
+   page:  https://umair1221.github.io/World-Cache/
+
+131. Your Data Manifold is Secretly a Reward Model: Shell-LCC for Text-to-Video Generation
+   Shihao Zhang ⋅ Yunzhi Li ⋅ Yuguang Yan ⋅ Junzhe Zhang ⋅ WEI ZHAO ⋅ Bohan Wang ⋅ Hanwang Zhang
+   arXiv: https://arxiv.org/abs/2606.30248
+

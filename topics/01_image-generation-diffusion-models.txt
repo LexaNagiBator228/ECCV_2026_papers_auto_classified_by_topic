@@ -1,0 +1,701 @@
+Image Generation & Diffusion Models  (178 papers, 114 with arXiv links)  [Generation & Editing]
+============================================================================
+
+1. AC3S: Adaptive Conditioning for 3D-Aware Synthetic Data Generation
+   Eric Ji ⋅ Qiran Hu ⋅ Wufei Ma ⋅ Sarthak Jain ⋅ Yingying Li ⋅ Minh Do ⋅ Yaoyao Liu
+   arXiv: https://arxiv.org/abs/2606.31204
+   page:  https://ac3s.cvmlgroup.web.illinois.edu/
+
+2. AccelAes: Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation
+   Xuanhua Yin ⋅ CHUANZHI XU ⋅ Haoxian Zhou ⋅ Boyu Wei ⋅ Weidong Cai
+   arXiv: https://arxiv.org/abs/2603.12575
+   code:  https://github.com/xuanhuayin/AccelAes
+
+3. Accelerated Likelihood Maximization for Diffusion-based Versatile Content Generation
+   Hyunsoo Lee ⋅ Inwoo Hwang ⋅ Young Min Kim
+   arXiv: https://arxiv.org/abs/2606.31323
+   page:  http://hleephilip.github.io/ALM
+
+4. Accelerating Diffusion Models via Equal-Risk Caching
+   Can Zhang ⋅ Liangshun Zou
+
+5. Accelerating Diffusion Transformers with Gaussian Process Rectified Feature Cache
+   Zhirong Shen ⋅ Rui Huang ⋅ Chang Zou ⋅ Shikang Zheng ⋅ Jiacheng Liu ⋅ Peiliang Cai ⋅ zhengyi shi ⋅ Yaosong Du ⋅ Liang Feng ⋅ Xiaobing Tu ⋅ Jinkui Ren ⋅ Xiantao Zhang ⋅ Linfeng Zhang
+
+6. Achieving Subcategorical Erasure in Text-to-Image Models
+   Pranav Singh Chib ⋅ Pravendra Singh
+
+7. Adaptive Noise Covariance Scheduling under Riemannian Metrics for Diffusion Models
+   Bolin Deng ⋅ Die Hu ⋅ Bin Tan ⋅ Jun Wu
+
+8. AlignMorph: Tuning-Free Diffusion Image Morphing via Explicit Semantic Transport
+   Wuyi Liu ⋅ Xu Han ⋅ Yuren Chen ⋅ Yige Mao ⋅ Zishuo Peng ⋅ Xianzhi Li
+
+9. Analyzing and Improving Training-Free Fast Sampling of Text-to-Image Diffusion Models
+   Zhenyu Zhou ⋅ Defang Chen ⋅ Siwei Lyu ⋅ Chun Chen ⋅ Can Wang
+
+10. AnaPFL: When Closed-Form Solutions Meet Generalizationand Personalization in Personalized Federated Learning
+   Kejia Fan ⋅ Jianheng Tang ⋅ Zhirui Yang ⋅ Feijiang Han ⋅ Yajiang Huang ⋅ Run He ⋅ Jiaxu Li ⋅ Songning Lai ⋅ Anfeng Liu ⋅ Houbing Herbert Song ⋅ Yunhuai Liu ⋅ HUIPING ZHUANG
+
+11. Anchoring and Steering Diffusion: Enhancing the Faithfulness of Text-to-Image Generation at Inference Time
+   Xinyi Wang ⋅ Yuyang Huang ⋅ Yalin Su ⋅ Pengcheng Luan ⋅ Tao Zhang ⋅ FEIMING WEI ⋅ Wenxian Yu
+   arXiv: https://arxiv.org/abs/2607.26647
+
+12. ARVAR: Accelerating Visual Autoregressive Model via Attention Retrospect
+   Jiedong Zhuang ⋅ Lu Lu ⋅ Ming Dai ⋅ Jian Chen ⋅ Qiang Liu ⋅ Haoji Hu
+
+13. Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning
+   Changbo Yan ⋅ Zhongbo Zhang ⋅ Zaibin Zhang ⋅ Yifan Wang ⋅ Lijun Wang ⋅ Huchuan Lu
+
+14. Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens
+   Ziran Qin ⋅ Youru Lv ⋅ Mingbao Lin ⋅ Zeren Zhang ⋅ chaofan gan ⋅ Tieyuan Chen ⋅ Liquan Shen ⋅ Junhui Hou ⋅ Chern Hong Lim ⋅ Fei Wen ⋅ Weiyao Lin
+   arXiv: https://arxiv.org/abs/2512.04857
+
+15. Be Tangential to Manifold: Discovering Riemannian Metric for Diffusion Models
+   Shinnosuke Saito ⋅ Takashi Matsubara
+   arXiv: https://arxiv.org/abs/2510.05509
+
+16. Beyond Aesthetics: Quantifying Information Loss in Turbid Scenes
+   Vasiliki Ismiroglou ⋅ Tasos Benos ⋅ Malte Pedersen ⋅ Stefan Bengtson ⋅ Thomas B. Moeslund
+   arXiv: https://arxiv.org/abs/2606.26295
+   page:  https://vap.aau.dk/pcd
+
+17. Beyond Pixel Mimicry: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation
+   Qian Wang ⋅ Zhenyu Li ⋅ Abdelrahman Eldesokey ⋅ Peter Wonka
+
+18. Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality
+   Lingjing Kong ⋅ Shaoan Xie ⋅ Guangyi Chen ⋅ Yuewen Sun ⋅ Xiangchen Song ⋅ Kun Zhang
+   arXiv: https://arxiv.org/abs/2512.10720
+
+19. CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting
+   Linfeng Ye ⋅ Zhixiang Chi ⋅ Shayan Mohajer Hamidi ⋅ En-Hui Yang ⋅ Konstantinos Plataniotis
+
+20. CAST3D: Customizing Arbitrary 2D Assets into 3D World
+   Yukai Sun ⋅ Hao Qin ⋅ Ming Kong ⋅ Luyuan Chen ⋅ Zhijie Xu ⋅ Jinjian Zhang ⋅ Jie Liu ⋅ Feng Zhang ⋅ Qiang Zhu
+
+21. CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization
+   Chuyan Chen ⋅ Peng Sun ⋅ Kun Yuan
+   arXiv: https://arxiv.org/abs/2608.02502
+
+22. Co-evolving Representations in Joint Image-Feature Diffusion
+   Theodoros Kouzelis ⋅ Spyros Gidaris ⋅ Nikos Komodakis
+
+23. CollectionLoRA: Collecting 50 Effects in 1 LoRA for Deployment
+   Fangtai Wu ⋅ Hailong Guo ⋅ Shijie Huang ⋅ Jiayi Song ⋅ Yubo Huang ⋅ Mushui Liu ⋅ Zhao Wang ⋅ Yunlong Yu ⋅ Jiaming Liu ⋅ Ruihua Huang
+
+24. ColorFM: An Optimization-to-Learning Framework for Color Transfer via Flow Matching
+   Yuhang He ⋅ Kai Zhang ⋅ Xiaoming Li ⋅ Du Chen ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2607.07119
+
+25. ConceptWeaver: Weaving Disentangled Concepts with Flow
+   Jintao Chen ⋅ Aiming Hao ⋅ Xiaoqing Chen ⋅ Chengyu Bai ⋅ Chubin Chen ⋅ Yanxun Li ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Shanghang Zhang
+   arXiv: https://arxiv.org/abs/2603.28493
+
+26. Cross-Resolution Distribution Matching for Diffusion Distillation
+   Chen Feiyang ⋅ Hongpeng Pan ⋅ Haonan Xu ⋅ Xinyu Duan ⋅ Zhefeng Wang ⋅ Yang Yang
+   arXiv: https://arxiv.org/abs/2603.06136
+
+27. Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers
+   Anh Nguyen ⋅ Ngan Nguyen ⋅ Hong Duc Vu ⋅ Trung Dao ⋅ Viet Nguyen ⋅ Minh Quan Dao ⋅ Kien Nguyen ⋅ Tran Bao Chi Tran ⋅ Phong Nguyen ⋅ Khoi Nguyen ⋅ Cuong Pham ⋅ Dimitris N. Metaxas ⋅ Vishal Patel ⋅ Anh Tran
+   arXiv: https://arxiv.org/abs/2606.32020
+
+28. Ctrl-Z Sampling: Scaling Diffusion Sampling with Controlled Random Zigzag Explorations
+   Shunqi Mao ⋅ Wei Guo ⋅ Chaoyi Zhang ⋅ Jieting Long ⋅ Ke Xie ⋅ Weidong Cai
+   arXiv: https://arxiv.org/abs/2506.20294
+   code:  https://github.com/ShunqiM/Ctrl-Z-Sampling
+
+29. Curvature-Adaptive Consistency Flow Matching: Autonomous Trajectory Optimization via Reinforcement Learning
+   Songtao Tian ⋅ Guhan Chen ⋅ Bohan Li ⋅ Jingyi Ma ⋅ Zixiong Yu
+   arXiv: https://arxiv.org/abs/2606.22394
+
+30. D2PO: Optimizing Diffusion Samplers via Dynamic Preference
+   Jinkyu Kim ⋅ Jinyoung Choi ⋅ Bohyung Han
+   arXiv: https://arxiv.org/abs/2607.06609
+
+31. DAPS++: Rethinking Diffusion Inverse Problems with Decoupled Posterior Annealing
+   Hao Chen ⋅ Renzheng Zhang ⋅ Scott Howard
+   arXiv: https://arxiv.org/abs/2511.17038
+
+32. DARL: Efficient Document-to-Markup Generation via Look-Ahead Diffusion Trajectory Sampling
+   Wentao Yang ⋅ Yongxin Shi ⋅ Rui Tang ⋅ Peirong Zhang ⋅ Shihang Wu ⋅ Huiguo He ⋅ Zheng Huang ⋅ Dezhi Peng ⋅ Minghui Liao ⋅ Lianwen Jin
+
+33. Data Circuit Breaker: Identifying Training, Test, and Generated Data in Image Generative Models
+   Bihe Zhao ⋅ Michel Meintz ⋅ Juangui Xu ⋅ Franziska Boenisch ⋅ Adam Dziedzic
+
+34. Decoupling Complexity from Scale in Latent Diffusion Model
+   Tianxiong Zhong ⋅ Xingye Tian ⋅ Xuebo Wang ⋅ Boyuan Jiang ⋅ Xin Tao ⋅ Pengfei Wan
+   arXiv: https://arxiv.org/abs/2511.16117
+
+35. Delving into Latent Spectral Biasing of Video VAEs for Superior Diffusability
+   Shizhan Liu ⋅ Xinran Deng ⋅ Zhuoyi Yang ⋅ Jiayan Teng ⋅ Xiaotao Gu ⋅ Jie Tang
+   arXiv: https://arxiv.org/abs/2512.05394
+   code:  https://github.com/zai-org/SSVAE
+
+36. DiffPro: Joint Timestep and Layer-Wise Precision Optimization for Efficient Diffusion Inference
+   Farhana Amin ⋅ Sabiha Afroz ⋅ Kanchon Gharami ⋅ Mona Moghadampanah ⋅ Dimitrios Nikolopoulos
+   arXiv: https://arxiv.org/abs/2511.11446
+
+37. DiffRGD: An Inference-Time Diffusion Guidance Through Riemannian Gradient Descent
+   Jia-Wei Liao ⋅ Li-Xuan Peng ⋅ Mei-Heng Yueh ⋅ Min Sun ⋅ Cheng-Fu Chou ⋅ Jun-Cheng Chen
+   arXiv: https://arxiv.org/abs/2606.28417
+   page:  https://diffrgd.github.io/
+
+38. Diffusion Image Generation with Explicitly Modeling of Data Manifold Geometry
+   Duoduo Xue ⋅ Zhiyu Zhu ⋅ Junhui Hou
+
+39. Diffusion Integrated Gradients: Controllable Path Generation for Flexible Feature Attribution
+   Soyeon Kim ⋅ Kyowoon Lee ⋅ Jaesik Choi
+   arXiv: https://arxiv.org/abs/2606.22314
+
+40. Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models
+   Minghao Fu ⋅ Guo-Hua Wang ⋅ Tianyu Cui ⋅ Qing-Guo Chen ⋅ Zhao Xu ⋅ Weihua Luo ⋅ Kaifu Zhang
+   arXiv: https://arxiv.org/abs/2511.03317
+   code:  https://github.com/AIDC-AI/Diffusion-SDPO
+
+41. DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models
+   Lunbin Zeng ⋅ Jingfeng Yao ⋅ Bencheng Liao ⋅ Hongyuan Tao ⋅ Wenyu Liu ⋅ Xinggang Wang
+   arXiv: https://arxiv.org/abs/2512.15713
+   code:  https://github.com/hustvl/DiffusionVL
+
+42. DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models
+   Francesco Taioli ⋅ Daniel Coelho ⋅ Iaroslav Melekhov ⋅ Roberto Alcover-Couso ⋅ Jose Saiz ⋅ Virginia Arguedas ⋅ Artur Bekasov
+   arXiv: https://arxiv.org/abs/2607.12539
+   page:  https://francescotaioli.github.io/DiTailed/
+
+43. DiverseVAR: Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models
+   Mingue Park ⋅ Prin Phunyaphibarn ⋅ Phillip (Yuseung) Lee ⋅ Minhyuk Sung
+   arXiv: https://arxiv.org/abs/2511.21415
+
+44. Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting
+   zhen zou ⋅ Xiaoxiao Ma ⋅ Mingde Yao ⋅ Jie Huang ⋅ Linjiang Huang ⋅ Feng Zhao
+   arXiv: https://arxiv.org/abs/2603.28049
+   code:  https://github.com/aSleepyTree/Drift-AR
+
+45. DriftScope: Measuring The Hidden Effects of Diffusion Model Fine-Tuning
+   Héctor Laria ⋅ Yiping Han ⋅ Julian Santamaria ⋅ Kai WANG ⋅ Bogdan Raducanu ⋅ Joost Van de Weijer ⋅ Alex Gomez-Villa
+
+46. DRPO: Disentangling Demographic Bias from Rewards for Fair Diffusion Alignment
+   YeonGyu Han ⋅ Junah Jung ⋅ Dongheon Lee
+
+47. DSH-Bench: A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation
+   Zhenyu Hu ⋅ Qing Wang ⋅ Cao Te ⋅ Kuo Liao ⋅ Longfei Lu ⋅ Liqun Liu ⋅ Shuang Li ⋅ Hang Chen ⋅ Mengge Xue ⋅ Yuan Chen ⋅ Chao Deng ⋅ Peng Shu ⋅ Huan Yu ⋅ Jie Jiang
+   arXiv: https://arxiv.org/abs/2603.08090
+
+48. Dual Masked Generative Adversarial Transformer for Unsupervised Domain Adaptation
+   Lei Zhu ⋅ Xinxing Xu ⋅ Jun Zhou ⋅ Qiegen Liu ⋅ Rick Siow Mong Goh ⋅ Yong Liu
+
+49. Dual-End Consistency Model
+   linwei dong ⋅ Ruoyu Guo ⋅ Ge Bai ⋅ Zehuan Yuan ⋅ Yawei Luo ⋅ Changqing Zou
+   arXiv: https://arxiv.org/abs/2602.10764
+
+50. DuoFlow: JVP-Free Finite-Difference Mean Flows for One-Step Image Generation
+   Zeming Li ⋅ Xiangyu Zhang ⋅ Ping Tan ⋅ Heung-Yeung Shum
+
+51. Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation
+   Zhizhong Wang ⋅ Tianyi Chu ⋅ Richard Wang ⋅ Nanyang Wang ⋅ Kehan Li
+   arXiv: https://arxiv.org/abs/2512.09814
+
+52. DynEval: Holistic Evaluations of T2I Generative Models in the Wild
+   Shyam Marjit ⋅ Dheeraj Baiju ⋅ Anuj Shikarkhane ⋅ Akhil Sakthieswaran ⋅ Sayak Paul ⋅ Anirban Chakraborty
+   arXiv: https://arxiv.org/abs/2607.11199
+   page:  https://vcl-iisc.github.io/dyneval/
+
+53. Early Estimation of Language to Latent Alignment in Diffusion Models
+   VASCO RAMOS ⋅ Regev Cohen ⋅ Idan Szpektor ⋅ Joao Magalhaes
+   arXiv: https://arxiv.org/abs/2512.08505
+
+54. EFlow: Fast Few-Step Video Generator Training from Scratch via Efficient Solution Flow
+   Dogyun Park ⋅ Yanyu Li ⋅ Sergey Tulyakov ⋅ Anil Kag
+   arXiv: https://arxiv.org/abs/2603.27086
+
+55. ELDiff: When Evidential Learning Meets Text-to-Image Diffusion
+   Qingtao Pan ⋅ Kai Ye ⋅ Zhihao Dou ⋅ Bing Ji ⋅ Shuo Li
+   arXiv: https://arxiv.org/abs/2606.20924
+   code:  https://github.com/QingtaoPan/ELDiff
+
+56. ELT: Elastic Looped Transformers for Visual Generation
+   Sahil Goyal ⋅ Swayam Agrawal ⋅ Gautham Anil ⋅ Sujoy Paul ⋅ Aditya Kusupati ⋅ Prateek Jain
+   arXiv: https://arxiv.org/abs/2604.09168
+
+57. EMAG: Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance
+   ANKIT YADAV ⋅ Huy Ta ⋅ Lingqiao Liu
+   arXiv: https://arxiv.org/abs/2512.17303
+
+58. Entropy-Controlled Flow Matching
+   Chika Maduabuchi
+   arXiv: https://arxiv.org/abs/2602.22265
+
+59. EruDiff: Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis
+   Xiefan Guo ⋅ Xinzhu Ma ⋅ Haoxiang Ma ⋅ Zihao Zhou ⋅ Di Huang
+   arXiv: https://arxiv.org/abs/2603.20828
+   code:  https://github.com/xiefan-guo/erudiff
+
+60. EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation
+   Yan Li ⋅ Ning Liao ⋅ Xiangyu Zhao ⋅ Shaofeng Zhang ⋅ Xiaoxing Wang ⋅ Yifan Yang ⋅ Junchi Yan ⋅ Xue Yang
+
+61. FairSteer: Cross-Attention Steering Towards a Fairer Text-Guided Image Generation
+   Tatiana Gaintseva ⋅ Akshit Achara ⋅ Greg Slabaugh ⋅ Jiankang Deng ⋅ Ismail Elezi
+
+62. Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models
+   David McAllister ⋅ Miika Aittala ⋅ Tero Karras ⋅ Janne Hellsten ⋅ Angjoo Kanazawa ⋅ Timo Aila ⋅ Samuli Laine
+   arXiv: https://arxiv.org/abs/2603.12893
+   code:  https://github.com/NVlabs/finite-difference-flow-optimization
+
+63. Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models
+   Ruchit Rawal ⋅ Reza Shirkavand ⋅ Sayak Paul ⋅ Yuxin Wen ⋅ Heng Huang ⋅ Yizheng Chen ⋅ Tom Goldstein ⋅ Gowthami Somepalli
+   arXiv: https://arxiv.org/abs/2607.04461
+
+64. FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching
+   Junchao Yi ⋅ Rui Zhao ⋅ Jiahao Tang ⋅ Weixian Lei ⋅ Linjie Li ⋅ Qisheng Su ⋅ Zhengyuan Yang ⋅ Lijuan Wang ⋅ Xiaofeng Zhu ⋅ Alex Jinpeng Wang
+
+65. FlowLess: Controlling Abstract Image Generation
+   Amir Hertz ⋅ Noah Snavely
+
+66. From Open Loop to Closed Loop: A Test-Time Iterative Optimization Framework for Reference-Consistent Image Generation
+   Baixuan Zhao ⋅ Xinyu Zhang ⋅ 华渝 郑 ⋅ Shuaicheng Liu ⋅ Xiongkuo Min ⋅ Guangtao Zhai ⋅ Xiaohong Liu
+   arXiv: https://arxiv.org/abs/2607.04691
+   code:  https://github.com/zzdrill/From-Open-Loop-to-Closed-Loop
+
+67. From smooth to sharp: Frequency-Decoupled Latent Optimization for Realistic Image Generation
+   Tejaswini Medi ⋅ Hsien-Yi Wang ⋅ Arianna Rampini ⋅ Margret Keuper
+
+68. From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space
+   Jiazi Bu ⋅ Pengyang Ling ⋅ Yujie Zhou ⋅ Yibin Wang ⋅ Yuhang Zang ⋅ Tianyi Wei ⋅ Xiaohang Zhan ⋅ Jiaqi Wang ⋅ Tong Wu ⋅ Xingang Pan ⋅ Dahua Lin
+   arXiv: https://arxiv.org/abs/2603.12648
+
+69. G3AFT: Glance Guided Gradient Aligned Fine-Tuning for Visual Autoregressive Models
+   Jiayi Zhang ⋅ Xiefan Guo ⋅ Xinzhu Ma ⋅ Di Huang
+
+70. Generalization and Memorization in Rectified Flow
+   Mingxing Rao ⋅ Daniel Moyer
+   arXiv: https://arxiv.org/abs/2603.13421
+
+71. Generative Refinement Network for Visual Synthesis
+   Jian Han ⋅ Jinlai Liu ⋅ Jiahuan Wang ⋅ BINGYUE PENG ⋅ Zehuan Yuan
+   arXiv: https://arxiv.org/abs/2604.13030
+   code:  https://github.com/bytedance/GRN
+
+72. GenSP: Consistent Spherical Parameterization via Learning Shape Generative Models
+   Sai Karthikey Pentapati ⋅ Shashank Gupta ⋅ Rajesh Sureddi ⋅ Yuezhi Yang ⋅ Alan Bovik ⋅ Qixing Huang
+   arXiv: https://arxiv.org/abs/2607.00492
+
+73. GeoCFM: Positive-Only Conditional Flow Matching for Mineral Occurrence Sampling
+   Moshe Eliasof ⋅ Eldad Haber
+
+74. Glance: Accelerating Diffusion Models with 1 Sample
+   Zhuobai Dong ⋅ Rui Zhao ⋅ songjie wu ⋅ Suyang Hou ⋅ Junchao Yi ⋅ Zhengyuan Yang ⋅ Lijuan Wang ⋅ Alex Jinpeng Wang
+   arXiv: https://arxiv.org/abs/2512.02899
+
+75. GR-GRPO: Graph-Diffused Credit for Autoregressive Image RL Alignment
+   Zheyu Zhang ⋅ Peng-Tao Jiang ⋅ Tianyi Zheng ⋅ Jian Zhang ⋅ Jinwei Chen ⋅ Bo Li
+
+76. GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models
+   Bozhou Li ⋅ Sihan Yang ⋅ Yushuo Guan ⋅ Ruichuan An ⋅ Xinlong Chen ⋅ Yang Shi ⋅ Pengfei Wan ⋅ Wentao Zhang ⋅ Yuanxing Zhang
+   arXiv: https://arxiv.org/abs/2512.15560
+   page:  https://anonymous.4open.science/r/GRAN-TED-4FCC/
+
+77. GRE-Diff: Gaussian Room Embeddings for Structured Layout Diffusion
+   Jing Wang ⋅ Haoran Xiong ⋅ Zihao Yan ⋅ Minglun Gong ⋅ Hui Huang
+   arXiv: https://arxiv.org/abs/2607.08086
+
+78. Hi-DiT: Hybrid Latent-Pixel Diffusion Transformer for Image Generation
+   Yedong Shen ⋅ Yehao Li ⋅ Yingwei Pan ⋅ Yanyong Zhang ⋅ Ting Yao
+
+79. Histogram-constrained Image Generation
+   Haoming Liu ⋅ Yuanhe Guo ⋅ Yijia Cao ⋅ Shenji Wan ⋅ Hongyi Wen
+   arXiv: https://arxiv.org/abs/2606.31683
+   page:  https://maps-research.github.io/hig/
+
+80. HO-Flow: Generalizable Hand-Object Interaction Generation with Latent Flow Matching
+   Zerui Chen ⋅ Rolandos Alexandros Potamias ⋅ Shizhe Chen ⋅ Jiankang Deng ⋅ Cordelia Schmid ⋅ Stefanos Zafeiriou
+   arXiv: https://arxiv.org/abs/2604.10836
+   page:  https://zerchen.github.io/projects/hoflow.html
+
+81. HRDiT: Training-Free High-Resolution Image Generation with Off-the-Shelf Diffusion Transformer Models
+   Yu Xue ⋅ Haoxuan Qu ⋅ ZHUOLING Li ⋅ Hongbin Xu ⋅ Jianxiong Yin ⋅ Simon See ⋅ Hossein Rahmani ⋅ Jun Liu
+   arXiv: https://arxiv.org/abs/2608.07003
+   code:  https://github.com/zylwithxy/HRDiT
+
+82. Importance-Aware Low-Rank Distillation of Diffusion Transformers
+   Denis Zavadski ⋅ Sebastian Heid ⋅ Damjan Kalšan ⋅ Stefan Roth ⋅ Carsten Rother
+
+83. Improved Immiscible Diffusion: Accelerating Diffusion Training by Reducing Miscibility
+   Yiheng Li ⋅ Feng Liang ⋅ Dan Kondratyuk ⋅ Masayoshi TOMIZUKA ⋅ Kurt Keutzer ⋅ Chenfeng Xu
+   arXiv: https://arxiv.org/abs/2505.18521
+   code:  https://github.com/yhli123/Immiscible-Diffusion
+
+84. InstanceControl: Controllable Complex Image Generation without Instance Labeling
+   XIAOYU LIU ⋅ Huan Wang ⋅ FAN LI ⋅ Zhixing Wang ⋅ Jiaqi Xu ⋅ Ming LIU ⋅ Wangmeng Zuo
+
+85. InstantRetouch: Personalized Image Retouching without Test-time Fine-tuning
+   Temesgen Muruts Weldengus ⋅ Binnan Liu ⋅ Fei Kou ⋅ Youwei Lyu ⋅ Jinwei Chen ⋅ Changqing Zou ⋅ Qingnan Fan
+
+86. InterCMDM: Block-Causal Diffusion for Autoregressive Human Interaction Generation
+   Qing Yu ⋅ Kent Fujiwara
+   arXiv: https://arxiv.org/abs/2607.01743
+   page:  https://yu1ut.com/InterCMDM-HP/
+
+87. Intermediate Text Representation Guided Text-to-Image Generation for Enhancing One-and-Only Alignment
+   Soyoun Won ⋅ Aryan Yazdan Parast ⋅ Basim Azam ⋅ Jean Honorio ⋅ NAVEED AKHTAR
+   arXiv: https://arxiv.org/abs/2606.30262
+   page:  https://soyoun-won.github.io/one-and-only-ir-guidance/
+
+88. Introspective Attention Modulation for Safe Text-to-Image Generation
+   Basim Azam ⋅ Hossein Rahmani ⋅ NAVEED AKHTAR
+   arXiv: https://arxiv.org/abs/2607.14945
+   page:  https://basim-azam.github.io/iam/
+
+89. ISAC: Training-Free Instance-to-Semantic Attention Control for Multi-Instance Generation
+   Sanghyun Jo ⋅ Wooyeol Lee ⋅ Ziseok Lee ⋅ Jonghyun Choi ⋅ Jaesik Park ⋅ Kyungsu Kim
+
+90. JSON: Jigsaw Self-play Optimization for Normalizing Flows
+   Fengxiang Yang ⋅ Tianyi Zheng ⋅ Jinwei Chen ⋅ Bo Li
+
+91. Jumping the Landing Phase: Noise Variance Matching Enables Accurate Few-Step Inversion
+   Yang Luo ⋅ Zhineng Chen ⋅ Ya Gao ⋅ Xieping Gao ⋅ Yu-Gang Jiang
+
+92. Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+   Yeonkyeong Lee ⋅ Hyunsung Go ⋅ Jongmin Kim ⋅ Lim Sewoong ⋅ Donghoon Lee
+
+93. LACON: Training Text-to-Image Model from Uncurated Data
+   Zhiyang Liang ⋅ Ziyu Wan ⋅ Hongyu Liu ⋅ DONG CHEN ⋅ Qiu Shen ⋅ Hao Zhu ⋅ Dongdong Chen
+   arXiv: https://arxiv.org/abs/2603.26866
+
+94. Latent Visual Diffusion Reasoning with Monte Carlo Tree Search
+   Xirui Teng ⋅ Nan Xi ⋅ Junsong Yuan
+   arXiv: https://arxiv.org/abs/2606.27988
+   code:  https://github.com/XiruiTeng/LVDR_Official.git
+
+95. Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking
+   Zirui Zheng ⋅ Takashi Isobe ⋅ Tong Shen ⋅ XU JIA ⋅ Xiaomin Li ⋅ Jianbin Zhao ⋅ Mengmeng Ge ⋅ Baolu Li ⋅ Qinghe Wang ⋅ Haiwen Diao ⋅ Dong Li ⋅ Yunzhi Zhuge ⋅ Dong Zhou ⋅ Huchuan Lu ⋅ Emad Barsoum
+   arXiv: https://arxiv.org/abs/2509.12046
+
+96. Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders
+   Amandeep Kumar ⋅ Vishal Patel
+   arXiv: https://arxiv.org/abs/2602.10099
+   code:  https://github.com/amandpkr/RJF
+
+97. Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization
+   chenyang zhu ⋅ Hongxiang Li ⋅ Xiu Li ⋅ Long Chen
+   arXiv: https://arxiv.org/abs/2603.12743
+   page:  https://chenyangzhu1.github.io/MoKus/
+
+98. LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching
+   Jinshan Liu ⋅ Haoran Qin ⋅ Xiaobing Tu ⋅ Jiacheng Liu ⋅ Jiahui Hu ⋅ zhengan yan ⋅ Yukun Xie ⋅ Kerui Shen ⋅ Jinkui Ren ⋅ Yuqi Lin ⋅ Xiantao Zhang ⋅ Linfeng Zhang
+
+99. Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling
+   Meimingwei Li ⋅ Stefan Andreas Baumann ⋅ Felix Krause ⋅ Bjorn Ommer
+
+100. LUA: Latent Upscaling Adapter for Diffusion-Based Image Synthesis
+   Aleksandr Razin ⋅ Kazantsev Danil ⋅ Ilya Makarov
+
+101. Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models
+   Diego Royo ⋅ Brandon Zhao ⋅ Adolfo Muñoz ⋅ Diego Gutierrez ⋅ Katherine Bouman
+   arXiv: https://arxiv.org/abs/2603.14503
+   page:  https://graphics.unizar.es/projects/DarkMatterMapping
+
+102. MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention
+   Chaoyi Jiang ⋅ Sungwoo Kim ⋅ Lei Gao ⋅ Hossein Zarch ⋅ Won Woo Ro ⋅ Murali Annavaram
+
+103. MetaPoint: Unlocking Precise Spatial Control in Visual Generation
+   Dewei Zhou ⋅ Xinyu Huang ⋅ Xun Wang ⋅ Ji Xie ⋅ Yabo Zhang ⋅ Liang Li ⋅ Kunchang Li ⋅ Zongxin Yang ⋅ Yi Yang
+   arXiv: https://arxiv.org/abs/2606.05031
+
+104. MMDiff: Extending Diffusion Transformers for Multi-Modal Generation
+   Yagmur Akarken ⋅ Orest Kupyn ⋅ Christian Rupprecht
+   arXiv: https://arxiv.org/abs/2606.16673
+
+105. Momentum Guidance: Plug-and-Play Guidance for Flow Models
+   Runlong Liao ⋅ Jian Yu ⋅ Baiyu Su ⋅ Chi Zhang ⋅ Lizhang Chen ⋅ Qiang Liu
+   arXiv: https://arxiv.org/abs/2602.20360
+
+106. MPO: Single-Stream Policy Optimization for Efficient Text-to-Image Alignment
+   Lishuai Gao ⋅ Jie Hu ⋅ Cong Wei ⋅ Yujie Zhong ⋅ Yibo Zhao ⋅ Zan Gao ⋅ Xiaoming Wei
+
+107. NaP-Control: Navigating Diffusion Prior for Versatile and Fast Character Control
+   Chia-Wen Chen ⋅ Yan Wu ⋅ Korrawe Karunratanakul ⋅ Siyu Tang
+   arXiv: https://arxiv.org/abs/2605.20209
+   page:  https://chiawenchen.github.io/nap-control-project/
+
+108. Nexus-Vid: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models
+   Jiazheng Xing ⋅ Hangjie Yuan ⋅ Lingling Cai ⋅ Xinyu Liu ⋅ Yujie Wei ⋅ Fei Du ⋅ Tao Feng ⋅ Hai Ci ⋅ Jiasheng Tang ⋅ Weihua Chen ⋅ Fan Wang ⋅ Yong Liu
+
+109. NoiseTilt: Noise-Tilted Reverse Kernels for Diffusion Reward Alignment
+   Jisung Hwang ⋅ Yunhong Min ⋅ Jaihoon Kim ⋅ I-Chao Shen ⋅ Minhyuk Sung
+   arXiv: https://arxiv.org/abs/2606.18066
+
+110. Not All Prediction Targets Keep Training-Free Diffusion Guidance on the Manifold
+   Yunsung Lee ⋅ Hyeongmin Lee
+   arXiv: https://arxiv.org/abs/2607.00647
+   code:  https://github.com/ManLuML/on-manifold-tfg
+   page:  https://manluml.github.io/on-manifold-tfg
+
+111. NumColor: Precise Numeric Color Control in Text-to-Image Generation
+   Muhammad Atif Butt ⋅ Diego Hernández ⋅ Alex Gomez-Villa ⋅ Kai WANG ⋅ Javier Vazquez-Corral ⋅ Joost Van de Weijer
+   arXiv: https://arxiv.org/abs/2603.13547
+
+112. On the Diffusibility of High-Dimensional Latents
+   Chao Feng ⋅ Zhiyang Xu ⋅ Bowei Chen ⋅ Yuanjun Xiong ⋅ Xiyao Wang ⋅ Jui-Hsien Wang ⋅ Richard Zhang ⋅ Zhe Lin ⋅ Andrew Owens ⋅ Yijun Li
+
+113. On-Policy Diffusion Reinforcement Learning Meets Off-Policy Quality Anchoring
+   Zunxu Liu ⋅ Zhaofan Qiu ⋅ Yazhen Xie ⋅ Yingwei Pan ⋅ Ting Yao ⋅ Tao Mei
+
+114. OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better
+   Yupeng Zhou ⋅ Zhen Li ⋅ Yuming Chen ⋅ Ziheng Ouyang ⋅ Ruoyi Du ⋅ Daquan Zhou ⋅ Bin Fu ⋅ Yihao Liu ⋅ Peng Gao ⋅ Ming-Ming Cheng ⋅ Qibin Hou
+   arXiv: https://arxiv.org/abs/2508.09857
+
+115. OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation
+   Yexin Liu ⋅ Manyuan Zhang ⋅ Yueze Wang ⋅ Hongyu Li ⋅ Dian Zheng ⋅ WEIMING ZHANG ⋅ Changsheng Lu ⋅ Harry Yang
+   arXiv: https://arxiv.org/abs/2512.08294
+
+116. ParaFlow: Parallel Sampling for Flow Matching Models
+   jianrong Lu ⋅ Bangwei Li ⋅ Haomin Zhang ⋅ Zhuoya Gu ⋅ Yongqing Lu ⋅ Jianhai Chen ⋅ Qinming He
+
+117. Parsimonious Flow Matching for Efficient Image Generation
+   Tianjiao Ding ⋅ Ziqing Xu ⋅ Benjamin Haeffele ⋅ Hongkang Li ⋅ Rene Vidal
+
+118. Personalized Reward Modeling for Text-to-Image Generation
+   Jeongeun Lee ⋅ Ryang Heo ⋅ Dongha Lee
+   arXiv: https://arxiv.org/abs/2511.19458
+
+119. Phase-Aligned RoPE for Mixed-Resolution Diffusion Transformer
+   Haoyu Wu ⋅ Jingyi Xu ⋅ Qiaomu Miao ⋅ Dimitris Samaras ⋅ Hieu Le
+   arXiv: https://arxiv.org/abs/2511.19778
+   page:  https://hao-yu-wu.github.io/mixed_res/
+
+120. PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation
+   Yuhang Wu ⋅ Shuxiang Zhang ⋅ WEE CHING ⋅ Chi Zhang ⋅ Miao Liu
+   arXiv: https://arxiv.org/abs/2607.06440
+   page:  https://wuyuhang05.github.io/PIPBench/
+
+121. PixelU: A U-Shaped Transformer for Efficient End-to-End Pixel Diffusion
+   Zipeng Guo ⋅ Lichen Ma ⋅ Yu He ⋅ Xiaolong Fu ⋅ Jingling Fu ⋅ Junshi Huang ⋅ Yan Li
+   arXiv: https://arxiv.org/abs/2606.27760
+
+122. POET: Preference Optimization for Enhanced Text-to-Image Generation
+   Ruibo Chen ⋅ Jiacheng Pan ⋅ Heng Huang ⋅ Zhenheng Yang
+
+123. Policy-Based Tuning of Autoregressive Image Models with Instance- and Distribution-Level Rewards
+   Orhun Baran ⋅ Melih Kandemir ⋅ Ramazan Gokberk Cinbis
+   arXiv: https://arxiv.org/abs/2603.23086
+
+124. Posterior Augmented Flow Matching
+   George Stoica ⋅ Sayak Paul ⋅ Matthew Wallingford ⋅ Abhay Nori ⋅ Vivek Ramanujan ⋅ Winson Han ⋅ Ali Farhadi ⋅ Ranjay Krishna ⋅ Judy Hoffman
+   arXiv: https://arxiv.org/abs/2605.00825
+   code:  https://github.com/gstoica27/PAFM.git
+
+125. Racing in Volume with Flow Ensembles
+   Saswat Subhajyoti Mallick ⋅ Riu Cherdchusakulchai ⋅ Marc Olle ⋅ Albert Mosella-Montoro ⋅ Jose Ribeiro-Gomes ⋅ Francisco Vicente Carrasco ⋅ Fernando de la Torre
+
+126. RankT2I: A Submodular Framework for Discovering Interpretable and Diverse Semantics in Text-to-Image Models
+   Ritika Allada ⋅ Pinar Yanardag
+   arXiv: https://arxiv.org/abs/2608.14226
+
+127. Rdm: Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation
+   Linqian Fan ⋅ Peiqin Sun ⋅ Tiancheng Wen ⋅ Shun Lu ⋅ Chengru Song
+
+128. RealGen: Photorealistic Text-to-Image Generation via Detector-Guided Rewards
+   ye junyan ⋅ Leqi Zhu ⋅ Yuncheng Guo ⋅ Dongzhi Jiang ⋅ Zilong Huang ⋅ Yifan Zhang ⋅ Zhiyuan Yan ⋅ Haohuan Fu ⋅ Conghui He ⋅ Weijia Li
+   arXiv: https://arxiv.org/abs/2512.00473
+   code:  https://github.com/yejy53/RealGen
+
+129. Recurrent Autoregressive Diffusion: Global Memory Meets Local Attention
+   Taiye Chen ⋅ Zihan Ding ⋅ Anjian Li ⋅ Christina Zhang ⋅ Zeqi Xiao ⋅ Yisen Wang ⋅ Chi Jin
+   arXiv: https://arxiv.org/abs/2511.12940
+   page:  https://yeyutaihan.github.io/recurrent-autoregressive-diffusion/
+
+130. RefDiT: Local Attribute Guidance in Reference-Based Image Generation
+   Rameshwar Mishra ⋅ Srikrishna Karanam ⋅ Subramanyam Venkata
+
+131. REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion
+   Giorgos Petsangourakis ⋅ Christos Sgouropoulos ⋅ Bill Psomas ⋅ Theodoros Giannakopoulos ⋅ Giorgos Sfikas ⋅ Ioannis Kakogeorgiou
+   arXiv: https://arxiv.org/abs/2512.16636
+   code:  https://github.com/giorgospets/reglue
+
+132. Reinforcement Learning for Multimodal Diffusion Language Models via Bidimensional Trajectory and Thought Optimization
+   Bowen Li ⋅ Yinjie Wang ⋅ Yunzhi Zhang ⋅ Junhong Liu ⋅ Yingqing Guo ⋅ Jiajun Wu ⋅ Mengdi Wang ⋅ Ling Yang
+
+133. ReSWD: ReSTIR‘d, not shaken. Combining Reservoir Sampling and Sliced Wasserstein Distance for Variance Reduction.
+   Mark Boss ⋅ Andreas Engelhardt ⋅ Simon Donné ⋅ Varun Jampani
+   arXiv: https://arxiv.org/abs/2510.01061
+   page:  https://reservoirswd.github.io/
+
+134. Rethinking Cross-Spectral Image Generation via Shared-Specific Representation
+   Haining Wang ⋅ Na Li ⋅ Huijie Zhao ⋅ Yifan Da ⋅ Yan Wen ⋅ Yi Su ⋅ Yuqiang Fang
+
+135. RubricRL: Simple Generalizable Rewards for Text-to-Image Generation
+   Xuelu Feng ⋅ Yunsheng Li ⋅ Ziyu Wan ⋅ Zixuan Gao ⋅ Junsong Yuan ⋅ Dongdong Chen ⋅ Chunming Qiao
+   arXiv: https://arxiv.org/abs/2511.20651
+
+136. Scaling Multi-Reference Image Generation with Dynamic Reward Optimization
+   Wenwang Huang ⋅ Yusen Fu ⋅ Mengfei Huang ⋅ Junjie Wang ⋅ Yulin Li ⋅ Gan Liu ⋅ Jing Cai ⋅ Yancheng He ⋅ Zhuotao Tian
+   arXiv: https://arxiv.org/abs/2606.26947
+
+137. Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility
+   honglin lin ⋅ Chonghan Qin ⋅ Zheng Liu ⋅ Qizhi Pei ⋅ Yu Li ⋅ Zhanping Zhong ⋅ Xin Gao ⋅ Wei Li ⋅ Wentao Zhang ⋅ Yanfeng Wang ⋅ Conghui He ⋅ Lijun Wu
+   arXiv: https://arxiv.org/abs/2601.17027
+
+138. Score-Based Matching with Target Guidance for Cryo-EM Denoising
+   Xiaoqi Wu ⋅ Xueying Zhan ⋅ Wen Li ⋅ Junhao Wu ⋅ Xin Huang ⋅ Ke Ni ⋅ Min Xu
+   arXiv: https://arxiv.org/abs/2604.17734
+
+139. Self-transcendence: Is External Feature Guidance Indispensable for Accelerating Diffusion Transformer Training?
+   Lingchen Sun ⋅ Rongyuan Wu ⋅ zhengqiang ZHANG ⋅ Ruibin LI ⋅ Yujing Sun ⋅ Shuaizheng LIU ⋅ Yabin Zhang
+   arXiv: https://arxiv.org/abs/2601.07773
+   code:  https://github.com/csslc/Self-Transcendence
+
+140. Semantic Browsing: Controllable Diversity for Image Generation
+   Sara Dorfman ⋅ Maya Vishnevsky ⋅ Omer Dahary ⋅ Or Patashnik ⋅ Danny Cohen-Or
+   arXiv: https://arxiv.org/abs/2606.23679
+   page:  https://saradorfman1.github.io/SemanticBrowsing-webpage/
+
+141. Setting the Stage: Text-Driven Scene-Consistent Image Generation
+   Cong Xie ⋅ Che Wang ⋅ Yan Zhang ⋅ Ruiqi Yu ⋅ Han Zou ⋅ Zheng Pan ⋅ Zhenpeng Zhan
+   arXiv: https://arxiv.org/abs/2512.12598
+
+142. Shared LoRA Subspaces for almost Strict Continual Learning
+   Prakhar Kaushik ⋅ Ankit Vaidya ⋅ Shravan Sunil Chaudhari ⋅ Rama Chellappa ⋅ Alan Yuille
+   arXiv: https://arxiv.org/abs/2602.06043
+
+143. Short-to-Long Functional Connectivity Transfer via Structure-Aware Latent Diffusion
+   Ishmael Benjamin Torres Aguilar ⋅ Yufeng Liu ⋅ Zhengwu Zhang
+
+144. SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows
+   Qinyu Zhao ⋅ Guangting Zheng ⋅ Tao Yang ⋅ Rui Zhu ⋅ Xingjian Leng ⋅ Stephen Gould ⋅ Liang Zheng
+   arXiv: https://arxiv.org/abs/2512.04084
+   page:  https://qinyu-allen-zhao.github.io/SimFlow/
+
+145. Solving Diffusion Inverse Problems with Restart Posterior Sampling
+   Bilal Ahmed ⋅ Joseph Makin
+   arXiv: https://arxiv.org/abs/2511.20705
+
+146. Source-Agnostic Image Translation Based on Latent Aware Adaptive Masking
+   Tomislav Dobrički ⋅ Byung-Woo Hong
+   arXiv: https://arxiv.org/abs/2608.14046
+   code:  https://github.com/dtoma95/PM-Edit
+
+147. Spanning Tree Autoregressive Visual Generation
+   Sangkyu Lee ⋅ Changho Lee ⋅ Janghoon Han ⋅ Hosung Song ⋅ Tackgeun You ⋅ Hwasup Lim ⋅ Stanley Jungkyu Choi ⋅ Honglak Lee ⋅ Youngjae Yu
+   arXiv: https://arxiv.org/abs/2511.17089
+
+148. SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization
+   Théophane Vallaeys ⋅ Jakob Verbeek ⋅ MATTHIEU CORD
+   arXiv: https://arxiv.org/abs/2510.04961
+
+149. Stochastic Optimal Control Sampling for Diffusion Inverse Problems
+   zhang jie ⋅ Youmei Qiu ⋅ Hanling Tian ⋅ Jingyuan Zhang ⋅ Xiang Yin ⋅ Xiaolin Huang
+   arXiv: https://arxiv.org/abs/2606.28785
+
+150. Straight-Path Flow Matching for Incomplete Multi-View Clustering
+   Yiteng Yuan ⋅ Junyan Wang ⋅ Zheyuan Liu ⋅ Hong Jia ⋅ Lei Fan ⋅ Zhulin Tao ⋅ Lianbo Guo
+   arXiv: https://arxiv.org/abs/2607.06281
+
+151. Structural Assessment for Understanding and Guiding Dataset Distillation in Discrete Token Space
+   Yue Cao ⋅ Jianyang Gu ⋅ Vyacheslav Kungurtsev ⋅ Yu Hu ⋅ Jozsef Hamari ⋅ Zheng Liu ⋅ Mohsen Zardadi
+   arXiv: https://arxiv.org/abs/2606.21705
+
+152. SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion
+   Paul Engstler ⋅ Iro Laina ⋅ Christian Rupprecht ⋅ Andrea Vedaldi
+   arXiv: https://arxiv.org/abs/2607.05392
+   page:  https://research.paulengstler.com/syncity-3k/
+
+153. SynVAR: Synergizing Spatial and Semantic Alignment in Visual Autoregressive Model
+   Zhennan Chen ⋅ Tianxing Shi ⋅ Pengcheng Xu ⋅ Kepan Nan ⋅ Qian Wang ⋅ Zili Yi ⋅ Jian Yang ⋅ Ying Tai
+   arXiv: https://arxiv.org/abs/2608.07948
+
+154. Test-Time Registers as Global Priors for Tokenized Image Generation
+   Cheng-Yao Hong ⋅ Yifan Wang ⋅ Yuewei Lin ⋅ Chenyu You
+   arXiv: https://arxiv.org/abs/2607.16824
+
+155. TexTailor: Inference-Time Textual Guidance Tailoring for Multimodal Diffusion Transformers
+   Binglei Li ⋅ Mengping Yang ⋅ Zhiyu Tan ⋅ Junping Zhang ⋅ Hao Li
+   arXiv: https://arxiv.org/abs/2601.02211
+
+156. The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models
+   Adeel Yousaf ⋅ Soumik Ghosh ⋅ James Beetham ⋅ Amrit Singh Bedi ⋅ Shah Mubarak
+   arXiv: https://arxiv.org/abs/2607.00402
+   page:  https://adeelyousaf.github.io/SAGE_ECCV26_Project_Page/
+
+157. The Map Is Not the Territory: Embedding-Coverage Blacklists for Safe Diffusion Steering
+   Juyang Bai ⋅ Tong Zhou ⋅ Shaolei Ren ⋅ Xiaolin Xu
+
+158. Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning
+   Lei Zhang ⋅ Junjiao Tian ⋅ Zhipeng Fan ⋅ Kunpeng Li ⋅ Jialiang Wang ⋅ Weifeng Chen ⋅ Markos Georgopoulos ⋅ Felix Juefei-Xu ⋅ Julian McAuley ⋅ Manling Li ⋅ Zecheng He
+   arXiv: https://arxiv.org/abs/2604.04746
+
+159. TIIF-Bench: How Does Your T2I Model Follow Your Instructions?
+   Xinyu Wei ⋅ Jinrui Zhang ⋅ Zeqing Wang ⋅ Hongyang Wei ⋅ Zhen Guo ⋅ Bairui Li ⋅ Yabin Zhang
+   arXiv: https://arxiv.org/abs/2506.02161
+   page:  https://a113n-w3i.github.io/TIIF_Bench/
+
+160. TiltDiff: Tilted Weight-Space Diffusion for Neural Network Generation
+   En-Ni Chuang ⋅ Hanjuan Huang ⋅ Hao-Jia Song ⋅ Hsing-Kuo Kenneth Pao ⋅ Tyng-Luh Liu
+
+161. TOPA: Mitigating Concept Dominance in Diffusion Personalization via Target-Oriented Perturbation Augmentation
+   Jiayou Lu ⋅ Mingzhi Lyu ⋅ Junfeng Huang ⋅ Wai-Kin Adams Kong
+
+162. Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection
+   Xinhao Zhong ⋅ Shuoyang Sun ⋅ Zhaoyang Xu ⋅ Xulin Gu ⋅ Bin Chen ⋅ Min Zhang ⋅ Yaowei Wang
+   arXiv: https://arxiv.org/abs/2412.09959
+
+163. Training-Free Refinement of Flow Matching with Divergence-based Sampling
+   Yeonwoo Cha ⋅ Jaehoon Yoo ⋅ Semin Kim ⋅ Yunseo Park ⋅ Jinhyeon Kwon ⋅ Seunghoon Hong
+   arXiv: https://arxiv.org/abs/2604.04646
+   page:  https://yeonwoo378.github.io/official_fds
+
+164. TreeSRNF: Square-Root Normal Fields for Generative Modelling of the Geometric and Structural Variability in Tree-like 3D Objects
+   Tahmina Khanam ⋅ Hamid Laga ⋅ Mohammed Bennamoun ⋅ Guanjin Wang ⋅ Ferdous Sohel ⋅ Farid Boussaid ⋅ Anuj Srivastava
+   arXiv: https://arxiv.org/abs/2607.13456
+
+165. Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models
+   Niklas Schweiger ⋅ Karnik Ram ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2603.14504
+
+166. UltraGen: Efficient Ultra-High-Resolution Image Generation with Hierarchical Local Attention
+   Yuyao Zhang ⋅ Yu-Wing Tai
+
+167. UniCSG: Unified High-Fidelity content-constrained style-driven generation via Staged Semantic and Frequency Disentanglement
+   Jingwei Yang ⋅ Ruoxi Wu ⋅ Wei Shen ⋅ Meng Li ⋅ Yulong Liu ⋅ Huimin She ⋅ Lunxi Yuan
+   arXiv: https://arxiv.org/abs/2604.17850
+
+168. UniGP: Taming Diffusion Transformer for Prior-Preserved Unified Generation and Perception
+   Qin Guo ⋅ Hao Luo ⋅ Dongxu Yue ⋅ Weixuan Jin ⋅ Xiao Fu ⋅ Fan Wang ⋅ Dan Xu
+   arXiv: https://arxiv.org/abs/2606.30332
+
+169. UNITY: Attention Flow Networks for Adaptive Conditioning in Diffusion
+   Aryan Das ⋅ Koushik Biswas ⋅ Moloud Abdar ⋅ Vinay Kumar Verma
+
+170. VC-VAE: Leveraging Video Codecs for Training-Efficient and High-Fidelity Video VAE
+   Xinxu Ge ⋅ Shang Chai ⋅ Litong Gong ⋅ Zitong Yu ⋅ Xin Liu ⋅ Tiezheng Ge
+
+171. VD-LoRA: Adaptive Reuse of Low-Rank Directions for Continual Learning
+   Luqiong Ding ⋅ Jiayao Tan ⋅ Chenggong Ni ⋅ Fuyuan Hu ⋅ Fan Lyu
+
+172. Vector Scaffolding: Inter-Scale Orchestration for Differentiable Image Vectorization
+   Jaerin Lee ⋅ KANGGEON LEE ⋅ Kyoung Mu Lee
+   arXiv: https://arxiv.org/abs/2605.11913
+
+173. Vitality-Aware Compression for Efficient Image-to-Shape Diffusion Transformers
+   Jaeah Lee ⋅ Hyunjin Kim ⋅ Jaewoong Cho ⋅ Gihyun Kwon
+   arXiv: https://arxiv.org/abs/2607.00382
+
+174. When Higher Order Hurts: Pre-Asymptotic Order Collapse in Generative ODE Sampling — A Theory of Discretization–Learning Interaction
+   Farzad Salajegheh ⋅ Sudhir Mudur
+
+175. WinTok: A Win-Win Hybrid Tokenizer via Decomposing Visual Understanding and Generation with Transferable Tokens
+   Yiwei Guo ⋅ Shaobin Zhuang ⋅ Zhipeng Huang ⋅ Canmiao Fu ⋅ Chen Li ⋅ Jing LYU ⋅ Yali Wang
+   arXiv: https://arxiv.org/abs/2605.18115
+   code:  https://github.com/markywg/WinTok
+
+176. WorldMesh: Generating Navigable Multi-Room 3D Scenes via Mesh-Conditioned Image Diffusion
+   Manuel-Andreas Schneider ⋅ Angela Dai
+   arXiv: https://arxiv.org/abs/2603.22972
+   code:  https://github.com/mschneider456/worldmesh
+   page:  https://mschneider456.github.io/world-mesh/
+
+177. Y-diff: Structure-Texture Decoupled Diffusion Distillation for H&amp;E-to-pCLE Translation
+   Haodong Wang ⋅ Yan Wen ⋅ Hongen Liao ⋅ Fang Chen ⋅ Tianqi Huang
+
+178. Zero-Shot Image Personalization from Personas
+   Harini S I ⋅ Somesh Singh ⋅ Yaman Singla ⋅ David Doermann ⋅ Rajiv Shah
+

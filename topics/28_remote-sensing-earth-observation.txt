@@ -1,0 +1,288 @@
+Remote Sensing & Earth Observation  (74 papers, 40 with arXiv links)  [Application Domains]
+============================================================================
+
+1. 3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification
+   William Grolleau ⋅ Astrid Sabourin ⋅ Guillaume Lapouge ⋅ Catherine Achard
+
+2. AerialMetric: Benchmarking and Adapting UAV Monocular Metric Depth Estimation in the Real World
+   Zhongqiang Song ⋅ Guanying Chen ⋅ Yuqi Zhang ⋅ Yin Zou ⋅ Chuanyu Fu ⋅ Zhiyuan Yuan ⋅ Chuan Huang ⋅ Shuguang Cui ⋅ Xiaochun Cao
+   arXiv: https://arxiv.org/abs/2606.29716
+   page:  https://kuieless.github.io/AerialMetric-ECCV2026-page/
+
+3. AeroVLA: A Vision-Language-Action Model for UAV Navigation via Minimalist End-to-End Control
+   Peng Xu ⋅ Zhengnan Deng ⋅ Jiayan Deng ⋅ Zonghua Gu ⋅ Peng Xu
+
+4. AirZoo: A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision
+   Xiaoya Cheng ⋅ Rouwan Wu ⋅ Xinyi Liu ⋅ Zeyu Cui ⋅ Yan Liu ⋅ Na Zhao ⋅ Yu Liu ⋅ Maojun Zhang ⋅ Shen Yan
+   arXiv: https://arxiv.org/abs/2604.26567
+   page:  https://nudt-sawlab.github.io/AirZoo/
+
+5. AutoWeather4D: Autonomous Driving Video Weather Conversion via G-Buffer Dual-Pass Editing
+   Tianyu Liu ⋅ Weitao Xiong ⋅ Kunming Luo ⋅ Manyuan Zhang ⋅ Peng Li ⋅ Yuan Liu ⋅ Ping Tan
+   arXiv: https://arxiv.org/abs/2603.26546
+   code:  https://github.com/lty2226262/AutoWeather4D
+   page:  https://lty2226262.github.io/autoweather4d/
+
+6. AV2T-Gen: Aerial Visible to Thermal Generation with Environment and Vehicle State Guidance
+   Kun Yang ⋅ Yuxiang Liu ⋅ Yihan Wang ⋅ Shen Yan ⋅ Maojun Zhang ⋅ Yu Liu ⋅ Xue Wang ⋅ Qing Wang
+
+7. Beyond Attention: Convolutional Global Context for Remote Sensing Change Detection
+   Zhenyu Yang ⋅ Gensheng Pei ⋅ Junzhu Mao ⋅ Xinhao Cai ⋅ Tao Chen ⋅ Yazhou Yao
+
+8. Capturing Spectral and Spatial Patterns for Federated Remote Sensing Segmentation
+   Yixin Xue ⋅ Wenke Huang ⋅ Haonan Guo ⋅ Bo Du
+
+9. Compact Low-Cost Hyperspectral Imaging via Angular-to-Spectral Diversity Conversion
+   Kazuma Fujiwara ⋅ Takuya Funatomi ⋅ Kazuya Kitano ⋅ Yuki Fujimura ⋅ Yasuhiro Mukaigawa
+
+10. Constrained Rotation Optimization: Revisiting Crop-Based Gaze Estimation
+   Riccardo Santambrogio ⋅ Jiawei Qin ⋅ Matteo Matteucci ⋅ Yusuke Sugano
+
+11. Context-Aware Joint Alignment for Cross-Scene Hyperspectral Image Classification
+   Boshan Shi ⋅ JiaXin Chen ⋅ Yanbo Liu ⋅ Youqiang Zhang ⋅ Guo Cao
+
+12. Counting Trees from Satellite Imagery with Noisy Supervision
+   Dimitri Gominski ⋅ Maurice Mugabowindekwe ⋅ Qiue XU ⋅ Xiaowei Tong ⋅ Martin Brandt ⋅ Hieu Le ⋅ Rasmus Fensholt ⋅ Dimitris Samaras ⋅ Loic Landrieu
+   arXiv: https://arxiv.org/abs/2606.24786
+   code:  https://github.com/dgominski/treematch
+
+13. CRD-Net: Frequency-Adaptive Feature Injection and Change Decoupling for Building Damage Assessment
+   Yao Zheng ⋅ Yuanxin Ye ⋅ Tan Shu ⋅ Liwei Cai
+
+14. CRISP: Calibration-Aware Visual State Space Duality for Remote Sensing Image Segmentation
+   kangning wang ⋅ Haopeng Zhang ⋅ Zhiguo Jiang
+
+15. CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation
+   Tingzhang Luo ⋅ Ruizhong Liu ⋅ Yichao Liu ⋅ Cheng Fan ⋅ Yu Liu ⋅ Jianyuan Guo
+
+16. DETR is Secretly a Multispectral Detector: Zero-Parameter Adaptation via Semantic Alignment
+   Xiangyang Li ⋅ Zhiwei Jiang ⋅ Wushuai Jin ⋅ Pengyang Niu ⋅ Chunna Tian ⋅ Lingqiao Liu
+
+17. Environmental Change Detection for Real-World Change Analysis
+   Kyusik Cho ⋅ Suhan Woo ⋅ Hongje Seong ⋅ Euntai Kim
+
+18. Estimating Individual Tree Height and Species from UAV Imagery
+   Jannik Endres ⋅ Etienne Laliberté ⋅ David Rolnick ⋅ Arthur Ouaknine
+   arXiv: https://arxiv.org/abs/2603.23669
+   page:  https://RolnickLab.github.io/DINOvTree
+
+19. Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs
+   Haochen Han ⋅ Jue Wang ⋅ Alex Jinpeng Wang ⋅ Fangming Liu
+   arXiv: https://arxiv.org/abs/2606.20177
+
+20. Filterless Snapshot Hyperspectral Imaging using Guided Patch Diffusion
+   Dean Hazineh ⋅ Luca Sacchi ⋅ Davide Cassara ⋅ Federico Capasso ⋅ Todd Zickler
+   arXiv: https://arxiv.org/abs/2412.02798
+
+21. Foundation Model Selection for Remote Sensing via a Constraint-Aware Agent
+   Binger Chen ⋅ Tacettin Bök ⋅ Behnood Rasti ⋅ Volker Markl ⋅ Begüm Demir
+   arXiv: https://arxiv.org/abs/2511.17442
+   code:  https://github.com/be-chen/REMSA
+
+22. GeoSolver: Scaling Test-Time Reasoning in Remote Sensing with Fine-Grained Process Supervision
+   Sun Lang ⋅ Ronghao Fu ⋅ Zhuoran Duan ⋅ Haoran Liu ⋅ Xueyan Liu ⋅ Bo Yang
+   arXiv: https://arxiv.org/abs/2603.09551
+   code:  https://github.com/yourname/GeoSolver
+
+23. GroundSet: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data
+   Roger Ferrod ⋅ Maël Lecene ⋅ Krishna Sapkota ⋅ George Leifman ⋅ Vered Silverman ⋅ Genady Beryozkin ⋅ Sylvain Lobry
+   arXiv: https://arxiv.org/abs/2603.14609
+
+24. GrowFields: Compositional 4D Neural Fields for Topology-Changing Plant Growth
+   Joaquin Gajardo ⋅ Michele Volpi ⋅ Marko Mihajlovic ⋅ Siyu Tang ⋅ Lukas Roth ⋅ Sergey Prokudin
+   arXiv: https://arxiv.org/abs/2607.03330
+   page:  https://joaquin-gajardo.github.io/growfields/
+
+25. Hierarchical Hyperbolic Representation Learning for Aerial-Ground Person Re-Identification
+   QiWei Yang
+
+26. HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks
+   Jingyu Guo ⋅ Ziye Chen ⋅ Ziwen Li ⋅ Zhengqing Gao ⋅ Jiaxin Huang ⋅ Hanlue Zhang ⋅ Fengming Huang ⋅ Yu Yao ⋅ Tongliang Liu ⋅ Mingming Gong
+   arXiv: https://arxiv.org/abs/2603.19822
+
+27. Ice Cloud Geometry Retrieval with Calibrated Uncertainty from Passive Satellite Imagery
+   Ayush Prasad
+
+28. Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
+   Ziyao Wang ⋅ Maonan Wang ⋅ Yucheng He ⋅ Xianping Ma ⋅ Ziyi Wang ⋅ Hongyang Zhang ⋅ Yirong Chen ⋅ Man On Pun
+   arXiv: https://arxiv.org/abs/2607.02471
+   code:  https://github.com/wzy6055/GACR
+
+29. Keep Your Friends Close, and the Right Neighbours Closer: Disaster-Conditioned Kernel-Regularized Graph Attention for Building Damage Classification
+   Fuad Hasan ⋅ Chul Min Yeum
+
+30. Learning Semantic-Robust Change Detection via Semantic-Invariant Self-Distillation
+   Jiuhe Qu ⋅ Yingping Liang ⋅ Ying Fu
+   arXiv: https://arxiv.org/abs/2607.19000
+   code:  https://github.com/elecreak/SCDistill
+
+31. Learning to Balance: Decoupled Siamese Diffusion Transformer for Reference-Based Remote Sensing Image Super-Resolution
+   Bin Luo ⋅ Runmin Dong ⋅ Zhaoyang Luo ⋅ Jinxiao Zhang ⋅ Jiyao Zhao ⋅ Fan Wei ⋅ Haohuan Fu
+   arXiv: https://arxiv.org/abs/2605.17980
+
+32. Leaving the City: A Large-Scale Aerial Dataset for Cross-Season Localization in Unstructured Environments
+   Michael Schleiss ⋅ Henry Hölzemann ⋅ Fahmi Rouatbi ⋅ Torsten Fiolka ⋅ Thomas Pany ⋅ Roger Förstner ⋅ Daniel Cremers
+
+33. Less Tokens, Better Forecasts: Sparse Residual Routing for Efficient Weather Prediction
+   Janet Wang ⋅ Yunbei Zhang ⋅ Lin Zhao ⋅ Xi Xiao ⋅ Jihun Hamm ⋅ Xiao Wang
+   arXiv: https://arxiv.org/abs/2607.02829
+
+34. MapDreamer: Aerial Imagery Conditioned Latent Diffusion For Lane Level Map Generation
+   Julian Brandes ⋅ Philipp Crocoll ⋅ Wolfram Burgard
+   arXiv: https://arxiv.org/abs/2607.01370
+
+35. MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification
+   Wajahat Khalid ⋅ Bin Liu ⋅ Xulin Li ⋅ Yubo Wang ⋅ MUHAMMAD SHER AFGAN
+
+36. Moonstone: A Multimodal Foundation Model and Benchmark for Lunar Remote Sensing
+   Ayush Prasad ⋅ Swarnalee Mazumder
+   arXiv: https://arxiv.org/abs/2607.03644
+   code:  https://huggingface.co/datasets/ayushprd/Moonstone
+
+37. Multi-label Instance-level Generalised Visual Grounding in Agriculture
+   Mohammadreza Haghighat ⋅ Alzayat Saleh ⋅ Mostafa Azghadi
+   arXiv: https://arxiv.org/abs/2603.06699
+
+38. On-Orbit Real-Time Wildfire Detection Under On-Board Constraints
+   Matthias Rötzer ⋅ Veronika Pörtge ⋅ Martin Ickerott ⋅ Jayendra Chorapalli ⋅ Dimitri Scheftelowitsch ⋅ Max Bereczky ⋅ Dmitry Rashkovetsky ⋅ Sai Appalla ⋅ Julia Gottfriedsen
+   arXiv: https://arxiv.org/abs/2605.06273
+
+39. OneHSI: A Unified Hyperspectral Foundation Model with Physical Consistency
+   Yufei WEN ⋅ Jingdan KANG ⋅ SHUXIN ZHONG ⋅ Yuting Zhang ⋅ Yutong Feng ⋅ Jintai Chen ⋅ Kaishun Wu
+
+40. Online Segment 3D Gaussians via Launching Virtual Drones
+   Liwei Liao ⋅ Rongjie Wang ⋅ Ronggang Wang
+   arXiv: https://arxiv.org/abs/2607.01628
+
+41. Open-Weather Robust 3D Detection via Dual-Critic Diffusion Alignment
+   Shuyao Li ⋅ Chuanxing Geng ⋅ heyang sun ⋅ Qiang Zhou ⋅ Jingjing Gu
+   arXiv: https://arxiv.org/abs/2607.01983
+
+42. OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents
+   Akashah Shabbir ⋅ Muhammad Umer Sheikh ⋅ Muhammad Akhtar Munir ⋅ Hiyam Debary ⋅ Mustansar Fiaz ⋅ Muhammad Zaigham Zaheer ⋅ Paolo Fraccaro ⋅ Fahad Shahbaz Khan ⋅ Muhammad Haris Khan ⋅ Xiao Xiang Zhu ⋅ Salman Khan
+   arXiv: https://arxiv.org/abs/2602.17665
+   code:  https://github.com/mbzuai-oryx/OpenEarthAgent
+
+43. OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos
+   Oussema Dhaouadi ⋅ Zuria Bauer ⋅ Johannes Meier ⋅ Olaf Wysocki ⋅ Marc Pollefeys ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2606.25245
+   page:  http://orthotrack.ethz.ch
+
+44. Pixel Ignores, Superpixel Sees: Adverse Weather Image Restoration via Semantic-Center SSM
+   Dayu Li ⋅ shihao zhou ⋅ SHU LEIZHI ⋅ Jin Wu ⋅ Chi Man VONG ⋅ Jufeng Yang
+   arXiv: https://arxiv.org/abs/2608.01760
+
+45. Pixel-wise Geo-registration of Drone and Satellite Images
+   Qingyang Liu ⋅ David G Shatwell ⋅ Parth Parag Kulkarni ⋅ Shah Mubarak
+
+46. PMGC-SimVP: Parametric Multi-scale Gated Convolution for Global Ionospheric TEC Prediction
+   Yu Xia ⋅ Yingkui Gong ⋅ Hao Zhang
+
+47. PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving
+   Kyuhwan Yeon ⋅ Benjamin Ramtoula ⋅ Daniele De Martini
+   arXiv: https://arxiv.org/abs/2606.31830
+   page:  https://ori-mrg.github.io/PriorEye
+
+48. ProSR: Semantic-Prototype-Guided Discrete Modeling for Physically Consistent SAR Super-Resolution
+   Byoungwoo Kim ⋅ Munchurl Kim
+
+49. Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling
+   Yang Zhao ⋅ Peisong Niu ⋅ Tian Zhou ⋅ Ziqing Ma ⋅ Guanlong Ma ⋅ Rong Jin ⋅ Huiling Yuan ⋅ Liang Sun
+   arXiv: https://arxiv.org/abs/2608.14652
+
+50. QVAM: Query-guided View-aware Adaptive Modulation for Aerial-Ground Person Re-Identification
+   Mengfei Zhou ⋅ Lin Wan
+
+51. RainODE: Continuous-Time Precipitation Forecasting with Latent Neural ODEs
+   Yeeun Seong ⋅ Doyi Kim ⋅ Minseok Seo ⋅ Changick Kim
+   arXiv: https://arxiv.org/abs/2606.29855
+   code:  https://github.com/SeongYE/RainODE
+
+52. Rectified Embedding Flow Learning for Aerial Multi-view&#xa0;&#xa0;Geo-localization
+   Hao Ruan ⋅ Jinliang Lin ⋅ Yingxin Lai ⋅ Zhiming Luo ⋅ Shaozi Li ⋅ Yu Zang ⋅ Cheng Wang
+
+53. SARA: Structure-Aware Riemannian-Guided Alignment for Drone Image-Text Retrieval
+   Keyu Lu ⋅ Qing Ma ⋅ Zhenyu Lu ⋅ Cong Bai
+
+54. SceneDiff: A Benchmark and Method for Multiview Object Change Detection
+   Yuqun Wu ⋅ Chih-Hao Lin ⋅ Henry Che ⋅ Aditi Tiwari ⋅ Chuhang Zou ⋅ Shenlong Wang ⋅ Derek Hoiem
+   arXiv: https://arxiv.org/abs/2512.16908
+   page:  https://yuqunw.github.io/SceneDiff
+
+55. SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale
+   Markus Gross ⋅ Sai Matha ⋅ Rui Song ⋅ Viswanathan Muthuveerappan ⋅ Conrad Christoph ⋅ Julius Huber ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2603.17920
+   code:  https://github.com/markus-42/SegFly
+
+56. Semantic-Aware, Physics-Informed, Geometry-Grounded Weather Synthesis
+   Chenghao Qian ⋅ Nedko Savov ⋅ Lingdong Kong ⋅ Yeying Jin ⋅ Rui Song ⋅ Wenjing Li ⋅ Zhun Zhong ⋅ Jiaqi Ma ⋅ Gustav Markkula ⋅ Luc Van Gool
+
+57. Semantic-Geometric Dual Compression: Training-Free Visual Token Reduction for Ultra-High-Resolution Remote Sensing Understanding
+   yueying li ⋅ Fengxiang Wang ⋅ Yan Li ⋅ Mingshuo Chen ⋅ Mengying Zhao ⋅ Long Lan
+   arXiv: https://arxiv.org/abs/2604.11122
+
+58. SemCityLoc: Aerial 6DoF Localization Using Semantic 3D City Models
+   Jingfeng Mao ⋅ Xuyang Chen ⋅ Qilin Zhang ⋅ Oussema Dhaouadi ⋅ Guangming Wang ⋅ Brian Sheil ⋅ Daniel Cremers ⋅ Yan Xia ⋅ Olaf Wysocki
+   arXiv: https://arxiv.org/abs/2606.27444
+   page:  https://albertchen98.github.io/SemCityLoc
+
+59. SFDATrack: Generalized Source-Free Domain Adaptive Tracking Under Adverse Weather Conditions
+   Siyuan Yao ⋅ Ziqi Wang ⋅ Junqi Huang ⋅ Ruiqi Yu ⋅ Wenqi Ren ⋅ Xiaochun Cao
+   arXiv: https://arxiv.org/abs/2607.00369
+   code:  https://github.com/watcherBR0/sfdatrack
+
+60. SGP2: Coarse-to-Fine Controllable Multimodal Remote Sensing Image Generation
+   Pengyu Chen ⋅ Xi Yang ⋅ Nannan Wang
+
+61. Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+   Jie-Ying Lee ⋅ Yi-Ruei Liu ⋅ Shr-Ruei Tsai ⋅ Wei-Cheng Chang ⋅ Chung-Ho Wu ⋅ Jiewen Chan ⋅ Zhenjun Zhao ⋅ Chieh Hubert Lin ⋅ Yu-Lun Liu
+   arXiv: https://arxiv.org/abs/2510.15869
+   page:  https://skyfall-gs.jayinnn.dev/
+
+62. SkySplat-OV: Generalizable Language Gaussian Splatting for Open-Vocabulary Scene Understanding from Sparse Satellite Views
+   Xuejun Huang ⋅ Yi Wan ⋅ Lei Yu ⋅ Xinyi Liu ⋅ Zhi Zheng ⋅ Bin Zhang ⋅ Yingying Pei ⋅ Yi Liu ⋅ Changjun Zhu ⋅ Yi Liu ⋅ Xiangyuan Cai ⋅ Hongwei Hu ⋅ Xin Zhang ⋅ Yongjun Zhang
+
+63. STARLINC: Satellite Trail Artifact Removal using Inter-Frame Correlation
+   Shingeon Kim ⋅ Hyeyoon Lee ⋅ Dain Kwon ⋅ Kanghyun Choi ⋅ SunJong Park ⋅ Mi-Ryang Kim ⋅ Jeong-Eun Lee ⋅ Jinho Lee
+
+64. StratoSplat: Taming Layered Regularities for Sparse Aerial 3D Gaussian Splatting
+   Zihan Gao ⋅ Lingling Li ⋅ Licheng Jiao ⋅ Fang Liu ⋅ Wenping Ma ⋅ Yuwei Guo ⋅ Shuyuan Yang
+
+65. TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
+   Brian Wei ⋅ Srikumar Sastry ⋅ Daniel Cher ⋅ Eric Xing ⋅ Nathan Jacobs
+   arXiv: https://arxiv.org/abs/2606.31029
+   code:  https://github.com/mvrl/TerraDiT
+
+66. TerrainGraphNet: Terrain-Constrained Graph Reasoning for Landslide Segmentation
+   SHAHID SHAFI DAR ⋅ Pranjal Pandey ⋅ Nagendra Kumar
+
+67. Tesselating The Earth
+   Daniel Cher ⋅ Hamza Iqbal ⋅ Eric Xing ⋅ Brian Wei ⋅ Nathan Jacobs
+   arXiv: https://arxiv.org/abs/2606.27514
+   code:  https://github.com/mvrl/TTE
+
+68. UnderOneFacade: Worldwide Facade Semantic Segmentation Benchmark Dataset
+   Yi Wang ⋅ Fan Wang ⋅ Prabin Gyawali ⋅ Ziyang Xu ⋅ Anna Klimkowska ⋅ Yixiong Jing ⋅ Wanru Yang ⋅ Filip Biljecki ⋅ Christoph Holst ⋅ Benjamin Busam ⋅ Brian Sheil ⋅ Olaf Wysocki
+   arXiv: https://arxiv.org/abs/2607.02018
+
+69. VIGA: View-Conditioned and Identity-Guided Adaptation for Aerial-Ground Person Re-Identification
+   XU ZHANG ⋅ Feng Yining ⋅ ZUYU ZHANG
+
+70. VVSim: A Large-Scale Aerial-Ground Dataset and Benchmark for Cooperative Perception
+   Zengle Zhu ⋅ Zhen LI ⋅ Tianyi Huai ⋅ Tianshun Li ⋅ Zihang Xu ⋅ Liuqing Yang ⋅ Rongqing Zhang ⋅ Xinhu Zheng
+
+71. Weather-Conditioned Depth Anything
+   Zhaoming Xu ⋅ Chan-Wei Hu ⋅ Kuan-Ru Huang ⋅ Zihao Zhu ⋅ Renjie Li ⋅ Yang Zhou ⋅ Zhengzhong Tu
+
+72. WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models
+   Wanjun Du ⋅ Zifeng Yuan ⋅ Tingting Chen ⋅ Fucai Ke ⋅ Beibei Lin ⋅ Shunli Zhang
+   arXiv: https://arxiv.org/abs/2603.17680
+
+73. WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation
+   Muhammad Aamir ⋅ Naoya Muramatsu ⋅ Sangyun Shin ⋅ Matthew Wijers ⋅ Jia-Xing Zhong ⋅ Xinyu Hou ⋅ Amir Patel ⋅ Andrew Loveridge ⋅ Andrew Markham
+   arXiv: https://arxiv.org/abs/2603.16816
+
+74. WildProp: Visual Estimation of Wildlife Body Proportions at Scale
+   Mustafa Chasmai ⋅ Aaron Sun ⋅ Subhransu Maji
+   arXiv: https://arxiv.org/abs/2606.31125
+

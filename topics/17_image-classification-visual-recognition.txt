@@ -1,0 +1,58 @@
+Image Classification & Visual Recognition  (15 papers, 8 with arXiv links)  [Recognition & Perception]
+============================================================================
+
+1. BIP: Bi-level Information Transfer and Completion Prompting for Visual Recognition with Missing Modalities
+   Haoran Fan ⋅ Xu Han ⋅ Xianglong Bao ⋅ Zheng Gao ⋅ Qi Fan ⋅ Yang Song ⋅ Jiaojiao Jiang
+
+2. CGCE: Classifier-Guided Concept Erasure in Generative Models
+   Viet Nguyen ⋅ Vishal Patel
+   arXiv: https://arxiv.org/abs/2511.05865
+
+3. Combining Discrepancy-Confusion Uncertainty and Calibration Diversity for Active Fine-Grained Image Classification
+   Yinghao Jin ⋅ Xi Yang
+   arXiv: https://arxiv.org/abs/2509.24181
+
+4. HEM: a margin-based loss for visual categorisation tasks
+   Michael Spratling ⋅ Heiko Schütt
+   arXiv: https://arxiv.org/abs/2501.12191
+   page:  https://codeberg.org/mwspratling/HEMLoss
+
+5. LaVPR: Benchmarking Language and Vision for Place Recognition
+   Ofer Idan ⋅ Dan Badur ⋅ yosi keller ⋅ Yoli Shavit
+   arXiv: https://arxiv.org/abs/2602.03253
+   code:  https://github.com/oferidan1/LaVPR
+
+6. Lessons and Open Questions from a Unified Study of Camera-Trap Species Recognition Over Time
+   Sooyoung Jeon ⋅ Hongjie Tian ⋅ Lemeng Wang ⋅ Zheda Mai ⋅ Vidhi Bakshi ⋅ Jiacheng Hou ⋅ Ping Zhang ⋅ Arpita Chowdhury ⋅ Jianyang Gu ⋅ Wei-Lun Chao
+   arXiv: https://arxiv.org/abs/2603.20509
+
+7. Multi-Anchor Distillation with Text-Guided Analytic Classifier for Continual Learning
+   Qier Meng ⋅ De Cheng ⋅ Jiahao Li ⋅ Cheng Deng
+
+8. Neural Collapse-Inspired Multi-Label Federated Learning under Label-Distribution Skew
+   Can Peng ⋅ Yuyuan Liu ⋅ YINGYU YANG ⋅ Pramit Saha ⋅ Qianye Yang ⋅ J. Noble
+   arXiv: https://arxiv.org/abs/2509.12544
+
+9. OPAL: Orthonormal Prototype Alignment Learning for Interpretable Image Classification
+   Ilán Carretero ⋅ Gustavo ANGULO ⋅ Rocío Amor ⋅ Valery Naranjo
+
+10. Revisiting Autoregressive Models for Generative Image Classification
+   Ilia Sudakov ⋅ Artem Babenko ⋅ Dmitry Baranchuk
+   arXiv: https://arxiv.org/abs/2603.19122
+
+11. Self-Improving Diffusion Classifiers with Minority Preference Optimization
+   Hyunsoo Kim ⋅ Jungmyung Wi ⋅ Soobin Um ⋅ Donghyun Kim ⋅ Suhyun Kim
+   arXiv: https://arxiv.org/abs/2607.03770
+
+12. TiCRL: Textual Image Classification with Reinforcement Learning-Based Curriculum Learning
+   Gayoung KIM ⋅ Yuncheol Kang
+
+13. Towards Reliable Multi-Label Classification via Conditional Dependency Modeling
+   Arkapal Panda ⋅ Aditya Shankar Pal ⋅ Utpal Garain
+
+14. Variational Patch Gating for Training-Free Few-Shot Classification
+   Ahmed Radwan ⋅ Ahmad Abdel-Qader ⋅ Islam Osman ⋅ Mohamed Shehata
+
+15. VICAL: Vicinal Consistency Alignment for Long-Tailed Visual Recognition
+   Jianggang Zhu ⋅ Zheng Wang ⋅ Bin Zhu ⋅ Yi-Ping Phoebe Chen ⋅ Jingjing Chen
+

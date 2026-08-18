@@ -1,0 +1,344 @@
+Image & Video Editing  (88 papers, 51 with arXiv links)  [Generation & Editing]
+============================================================================
+
+1. 3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing
+   Haoyu Zhen ⋅ Xiaolong Li ⋅ Yilin Zhao ⋅ Han Zhang ⋅ Sifei Liu ⋅ Kaichun Mo ⋅ Chuang Gan ⋅ Subhashree Radhakrishnan
+   arXiv: https://arxiv.org/abs/2603.22279
+
+2. AGE: Agentic Gaussian Editing in 3D Scenarios
+   Hao Qin ⋅ Tesi Lin ⋅ Mingwei Wei ⋅ Yukai Sun ⋅ Mengxu Lu ⋅ Ming Kong ⋅ Qiang Zhu
+
+3. AnyStyle: A Single LoRA is Sufficient for Image-Guided Style Transfer
+   Yongwen Lai ⋅ Chaoqun Wang
+   arXiv: https://arxiv.org/abs/2607.04677
+   code:  https://github.com/Yvan1001/AnyStyle
+
+4. Attention-Logit Steering to Compositional Generalization for Continual VQA
+   Suyoung Yang
+
+5. Attribute Token Arithmetic: Disentangled and Continuous Semantic Control for Visual Autoregressive Models
+   Xindi Yang ⋅ Yicheng Wu ⋅ Cheng Zhang ⋅ Jianfei Cai ⋅ Tien-Tsin Wong
+
+6. A²-Edit: Precise Reference-Guided Image Editing of Arbitrary Objects and Ambiguous Masks
+   华渝 郑 ⋅ Guangzhao Li ⋅ Baixuan Zhao ⋅ Siqi Luo ⋅ Hantao Jiang ⋅ Guangtao Zhai ⋅ Xiaohong Liu
+
+7. Beyond Absolute Scores: Relative Edit-induced Difference for Generalizable Image Aesthetic Assessment
+   Qifei Jia ⋅ Xintong Yao ⋅ Minghao Li ⋅ Yajie Chai ⋅ Qiming Lu ⋅ Baoyue Shen ⋅ Yasen Zhang ⋅ Runyu Shi ⋅ Ying Huang ⋅ Yue Zhang
+   arXiv: https://arxiv.org/abs/2606.05778
+
+8. Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models
+   Yiyang Huang ⋅ Zhaowen Wang ⋅ Simon Jenni ⋅ Jing Shi ⋅ Yitian Zhang ⋅ Yizhou Wang ⋅ Yun Fu
+
+9. Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization
+   Swarnim Maheshwari ⋅ Syed Imam Ali ⋅ Vineeth N Balasubramanian
+   arXiv: https://arxiv.org/abs/2608.10798
+
+10. BeyondMasks: Evaluating Causal and Physical Consistency in Video Object Removal
+   Yiğit Ekin ⋅ Enes Şanlı ⋅ Aykut Erdem ⋅ Erkut Erdem ⋅ Aysegul Dundar
+
+11. BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing
+   Jiacheng Chen ⋅ Ramin Mehran ⋅ Xuhui Jia ⋅ Saining Xie ⋅ Sanghyun Woo
+   arXiv: https://arxiv.org/abs/2506.17450
+   page:  https://blenderfusion.github.io
+
+12. BrainFIBRE: A Foundation Model via Information Decomposition for Brain Microstructure
+   Zijian Dong ⋅ Yi Lin ⋅ Fang Ji ⋅ Jianxiong Zhou ⋅ Eric Kwun Kei NG ⋅ Juan Zhou
+   arXiv: https://arxiv.org/abs/2607.00573
+
+13. CHARTSTYLE-100K: A Large-Scale Dataset for Structured Visualization Style Transfer
+   Yuwei Yang ⋅ Tianchi Xie ⋅ Jinhong Ni ⋅ Yukai Guo ⋅ Jing Zhang ⋅ Liang Zheng ⋅ Yalong Bai ⋅ YUHUI YUAN
+
+14. Correlation-Weighted Multi-Reward Optimization for Compositional Generation
+   Jungmyung Wi ⋅ Hyunsoo Kim ⋅ Donghyun Kim
+   arXiv: https://arxiv.org/abs/2603.18528
+   code:  https://github.com/TheDarkKnight-21th/CMO
+
+15. COSY: Compositional 3DGS Synthesis for Disentangled Human Head Editing
+   Florian Barthel ⋅ Shalini De Mello ⋅ Koki Nagano ⋅ Wieland Morgenstern ⋅ Anna Hilsmann ⋅ Peter Eisert
+   arXiv: https://arxiv.org/abs/2605.24114
+
+16. DARE to Mitigate Hallucination: Dual-path Auto-Regressive-aware Editing
+   Jaeho Lee ⋅ Jeongeun Lee ⋅ Gyeong-Moon Park
+
+17. Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing
+   Minh Quan Dao ⋅ Xiaoxiao He ⋅ Ligong Han ⋅ Ngan Nguyen ⋅ Amin Nobari ⋅ Han Zhang ⋅ Faez Ahmed ⋅ Viet Anh Nguyen ⋅ Dimitris N. Metaxas
+   arXiv: https://arxiv.org/abs/2509.01984
+
+18. DreamEdit3D: Personalization of Multi-View Diffusion Models for 3D Editing
+   Jinxin Ai ⋅ Matthias Niessner ⋅ Ziya Erkoç
+   arXiv: https://arxiv.org/abs/2605.16990
+
+19. Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off
+   Fulvio Sanguigni ⋅ Davide Lobba ⋅ Bin Ren ⋅ Marcella Cornia ⋅ Nicu Sebe ⋅ Rita Cucchiara
+   arXiv: https://arxiv.org/abs/2603.22607
+   code:  https://github.com/aimagelab/Dress-ED
+   page:  https://aimagelab.github.io/Dress-ED/
+
+20. EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis
+   Huaqiu Li ⋅ Jiahao Wang ⋅ Sijia Cai ⋅ Hualian Sheng ⋅ Bing Deng ⋅ Jieping Ye ⋅ Wenhan Luo
+   arXiv: https://arxiv.org/abs/2606.25465
+
+21. Edit in 2D, Verify in 3D: Reinforcement Learning for Multi-view Consistent Scene Editing
+   Jiyuan Wang ⋅ Chunyu Lin ⋅ Lei Sun ⋅ Zhi Cao ⋅ Yuyang Yin ⋅ Lang Nie ⋅ Zhenlong Yuan ⋅ Xiangxiang Chu ⋅ Yunchao Wei ⋅ Kang Liao ⋅ Guosheng Lin
+   arXiv: https://arxiv.org/abs/2603.03143
+
+22. Edit3r: Instant 3D Scene Editing from Sparse Unposed Images
+   Jiageng Liu ⋅ Weijie Lyu ⋅ Xueting Li ⋅ Yejie Guo ⋅ Ming-Hsuan Yang
+   arXiv: https://arxiv.org/abs/2512.25071
+   page:  https://edit3r.github.io/edit3r/
+
+23. EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing
+   Zitong Xu ⋅ Huiyu Duan ⋅ Zhongpeng Ji ⋅ Xinyun Zhang ⋅ Yutao Liu ⋅ Xiongkuo Min ⋅ Ke Gu ⋅ Jian Zhang ⋅ Shusong Xu ⋅ Jinwei Chen ⋅ Bo Li ⋅ Guangtao Zhai
+   arXiv: https://arxiv.org/abs/2603.14916
+   code:  https://github.com/IntMeGroup/EditHF
+
+24. Editing Everything Everywhere All at Once
+   Fabio Quattrini ⋅ Carmine Zaccagnino ⋅ Enis Simsar ⋅ Marta Gazulla ⋅ Rita Cucchiara ⋅ Alessio Tonioni ⋅ Silvia Cascianelli
+   arXiv: https://arxiv.org/abs/2606.31278
+
+25. EditVerse3D: High-Quality 3D Object Editing with Region-Aware Learning
+   Youtan Yin ⋅ Yanning Zhou ⋅ Jiacheng Wei ⋅ Xiaofeng Yang ⋅ Jun Zhang ⋅ Jiayang Bai ⋅ Jingwen Ye ⋅ Weidong Zhang ⋅ Guosheng Lin
+   arXiv: https://arxiv.org/abs/2607.07187
+   page:  https://editverse3d.github.io
+
+26. Enlightening Photographic Style Transfer with a Self-Supervised Photographic Embedding
+   Chengxuan Zhu ⋅ Jiacong Fang ⋅ Shuchen Weng ⋅ Youwei Lyu ⋅ Jiajun Tang ⋅ Qingnan Fan ⋅ Chao Xu ⋅ Boxin Shi
+
+27. EraseLoRA: MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal
+   Sanghyun Jo ⋅ DONGHWAN LEE ⋅ Eunji Jung ⋅ Seong Oh ⋅ Kyungsu Kim
+   arXiv: https://arxiv.org/abs/2512.21545
+   page:  https://shjo-april.github.io/EraseLoRA
+
+28. ExpertEdit: Learning Skill-Aware Motion Editing from Expert Videos
+   Arjun Somayazulu ⋅ Kristen Grauman
+   arXiv: https://arxiv.org/abs/2604.10466
+   page:  https://vision.cs.utexas.edu/projects/expert_edit/
+
+29. Fill2SR: Repurposing Inpainting Diffusion Transformers for Real-World Super-Resolution
+   Xingfu Yi ⋅ Xiaoxue Yu
+
+30. FineEdit: Fine-Grained Image Edit with Bounding Box Guidance
+   Haohang Xu ⋅ Lin Liu ⋅ Zhibo Zhang ⋅ Rong Cong ⋅ Xiaopeng Zhang ⋅ Qi Tian
+   arXiv: https://arxiv.org/abs/2604.10954
+
+31. FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control
+   Songchun Zhang ⋅ Sitong Guo ⋅ Xianghao Kong ⋅ Pengwei Liu ⋅ Yuwei Guo ⋅ lvmin zhang ⋅ Anyi Rao
+   arXiv: https://arxiv.org/abs/2607.29627
+
+32. Follow-Your-Mind: Towards Inversion-Free Brain-Driven Visual Context Synthesis and Editing
+   Haodong Jing ⋅ Panqi Yang ⋅ Rongchao Zhang ⋅ Zhipeng Liu ⋅ Yajun Liu ⋅ Xuehai Bai ⋅ Yongqiang Ma ⋅ Nanning Zheng
+
+33. From Draft to Draft-Free: One-Step Video Object Removal via Privileged Distillation and Fast Planting
+   Zizhao Chen ⋅ Ping Wei ⋅ Guang Dai ⋅ Jingdong Wang ⋅ Mengmeng Wang
+   arXiv: https://arxiv.org/abs/2607.14976
+
+34. GIDE: Unlocking Diffusion LLMs for Precise Training-Free Image Editing
+   Zifeng Zhu ⋅ Jiaming Han ⋅ Jiaxiang Zhao ⋅ Minnan Luo ⋅ Xiangyu Yue
+
+35. GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing
+   Mingxin Liu ⋅ Ziqian Fan ⋅ Zhaokai Wang ⋅ Leyao Gu ⋅ Zirun Zhu ⋅ YiguoHe YiguoHe ⋅ Yuchen Yang ⋅ Changyao Tian ⋅ Xiangyu Zhao ⋅ Ning Liao ⋅ Shaofeng Zhang ⋅ Qibing Ren ⋅ Zhihang Zhong ⋅ Xuanhe Zhou ⋅ Junchi Yan ⋅ Xue Yang
+
+36. h-Flow: Flexible Flow-based Image Editing via Doob's h-Transform
+   ZeHui Guo ⋅ Zhen Wang ⋅ Junwei Shu ⋅ Changbo Wang ⋅ Long Chen ⋅ Yang Li
+   arXiv: https://arxiv.org/abs/2607.10800
+
+37. High-Resolution Artwork Outpainting with Global Blueprint Guidance and Layout Control
+   Junha Kim ⋅ Hyunjoon Park ⋅ Donghyeon Cho
+   arXiv: https://arxiv.org/abs/2607.06162
+
+38. Improving Image-to-Image Translation via a Rectified Flow Reformulation
+   Satoshi Iizuka ⋅ Shun Okamoto ⋅ Kazuhiro Fukui
+   arXiv: https://arxiv.org/abs/2603.20186
+
+39. In-context Region-based Drag: Drag Any Region to Any Shape
+   Jiacheng Sui ⋅ Tianyu Hao ⋅ Bingjie Gao ⋅ Li Niu ⋅ Guangtao Zhai
+   arXiv: https://arxiv.org/abs/2606.25907
+   code:  https://github.com/bcmi/ICRDrag-Region-Drag-Editing
+
+40. InnoText: A Unified Model for Visual Text Generation and Editing
+   Haowei Liu ⋅ Runze He ⋅ Jian Lu ⋅ Ao Ma ⋅ Run Ling ⋅ Ke Cao ⋅ Jiasong Feng ⋅ Wei Feng ⋅ Shuo Lu ⋅ Yexing Xu ⋅ WANG Yun ⋅ Jing Wang ⋅ Zhanjie Zhang
+   arXiv: https://arxiv.org/abs/2607.22101
+
+41. InsertAnywhere: Geometrically Grounded and Optics-Aware Video Object Insertion
+   Hoiyeong Jin ⋅ Hyojin Jang ⋅ Junha Hyung ⋅ Jeongho Kim ⋅ Kinam Kim ⋅ Dongjin Kim ⋅ Huijin choi ⋅ Hyeonji Kim ⋅ Choo Jaegul
+   arXiv: https://arxiv.org/abs/2512.17504
+   page:  https://myyzzzoooo.github.io/InsertAnywhere/
+
+42. InstaEdit: Instant Image Editing via Optimized Noise Prediction
+   Ning Ma ⋅ Yangrui Shao
+
+43. InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing
+   Yebin Yang ⋅ Di Wen ⋅ Lei Qi ⋅ Weitong Kong ⋅ Junwei Zheng ⋅ Ruiping Liu ⋅ Yufan Chen ⋅ Chengzhi Wu ⋅ Kailun Yang ⋅ Yuqian Fu ⋅ Danda Paudel ⋅ Luc Van Gool ⋅ Kunyu Peng
+
+44. InverseCrafter: Efficient Video ReCapture as a Latent Domain Inverse Problem
+   Yeobin Hong ⋅ Suhyeon Lee ⋅ Hyungjin Chung ⋅ Jong Chul Ye
+   arXiv: https://arxiv.org/abs/2512.05672
+
+45. LayerVerse: Finding the Sweet Spot for KV-Injection in Training-Free Image Editing
+   Mikhail Zhirnov ⋅ Arsen Kuzhamuratov ⋅ Andrey Kuznetsov ⋅ Ivan Oseledets ⋅ Konstantin Sobolev
+
+46. Learn Once, Edit Anywhere: Visual Direction Transfer for Diffusion Models
+   Yusuf Dalva ⋅ Hidir Yesiltepe ⋅ Pinar Yanardag
+   arXiv: https://arxiv.org/abs/2403.19645
+   page:  http://vidit-edit.github.io
+
+47. Learning to Stylize by Learning to Destylize: A Scalable Paradigm for Supervised Style Transfer
+   Ye Wang ⋅ Zili Yi ⋅ Yibo Zhang ⋅ Peng Zheng ⋅ Xuping Xie ⋅ Jiang Lin ⋅ Yijun Li ⋅ Yilin Wang ⋅ Rui Ma
+
+48. MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization
+   Zaibin Zhang ⋅ Junlan Xiao ⋅ Zhongbo Zhang ⋅ Yifan Wang ⋅ Li Kang ⋅ Yiran Qin ⋅ Changxing Xia ⋅ Heng Zhou ⋅ Talas Fu ⋅ Enshen Zhou ⋅ Ruimao Zhang ⋅ Zhenfei Yin ⋅ Huchuan Lu ⋅ Lijun Wang
+
+49. Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance
+   Kangsheng Duan ⋅ Ziyang Xu ⋅ Wenyu Liu ⋅ Xiaohu Ruan ⋅ Xiaoxin Chen ⋅ Xinggang Wang
+
+50. Multi-History-Step SDE Inversion for Image Editing with Superior Regional Awareness
+   Haiyan Wei ⋅ Yunlong Wang ⋅ Huaibo Huang ⋅ Zhenan Sun ⋅ Kunbo Zhang
+
+51. OCTOPUS: Multi‑Agentic Universal Compositional Visual Retrieval
+   Zhangtao Cheng ⋅ Bozhu Zheng ⋅ Ting Zhong ⋅ Fan Zhou
+
+52. OmniColor: A Unified Framework for Multi-modal Lineart Colorization
+   Xulu Zhang ⋅ Haoqian DU ⋅ Xiao-Yong Wei ⋅ Li Qing
+   arXiv: https://arxiv.org/abs/2603.27531
+   code:  https://github.com/zhangxulu1996/OmniColor
+
+53. OSOR: One-Step Diffusion Inpainting for Effect-Aware Object Removal
+   Qinming Zhou ⋅ Chenxi Sun ⋅ Deyang Kong ⋅ Junhao He ⋅ Xiangheng Tang ⋅ Peike Yu ⋅ Haotian Wu ⋅ Leilei Cao ⋅ Linfeng Zhang
+   arXiv: https://arxiv.org/abs/2606.28094
+   code:  https://github.com/Zhouqm-Git/osor
+
+54. P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing
+   Yanshu Zhang ⋅ Shichong Peng ⋅ Mehran Aghabozorgi ⋅ Alireza Moazeni ⋅ Ke Li
+
+55. PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing
+   Shengbin Guo ⋅ Shaokang He ⋅ Chaoyue Meng ⋅ Shengpeng Xiao ⋅ Xunzhi Xiang ⋅ Shaofeng Zhang ⋅ Qi Fan
+   arXiv: https://arxiv.org/abs/2606.26551
+   code:  https://github.com/Previsior/PhyEditBench
+
+56. PhysEdit: Physically Consistent Image Editing via Causal Enforcement
+   Siqi Wan ⋅ Jingwen Chen ⋅ Yehao Li ⋅ Yingwei Pan ⋅ Ting Yao ⋅ Tao Mei
+
+57. PointGT: Simultaneous Geometric and Textural Editing for Point-Based Representations
+   Yanshu Zhang ⋅ George Shramko ⋅ Pratul Srinivasan ⋅ Ke Li
+
+58. PPTArena: A Benchmark for PowerPoint Editing
+   Michael Ofengenden ⋅ Yunze Man ⋅ Ziqi Pang ⋅ Liang-Yan Gui ⋅ Yu-Xiong Wang
+   arXiv: https://arxiv.org/abs/2512.03042
+   code:  https://github.com/michaelofengend/PPTArena
+
+59. PRISM: Latent Composition Consistency for Single-Image Reflection Removal
+   Junseong Shin ⋅ Tae Hyun Kim
+
+60. Prototype-Conditioned Imagination for Compositional Zero-Shot Learning
+   Yifan Zhu ⋅ Haofeng Zhang
+
+61. Query-Kontext: An Unified Multimodal Model for Image Generation and Editing
+   YuXin Song ⋅ Wenkai Dong ⋅ Shizun Wang ⋅ Qi Zhang ⋅ Song Xue ⋅ Tao Yuan ⋅ Hu Yang ⋅ Haocheng Feng ⋅ Hang Zhou ⋅ Xinyan Xiao ⋅ Jingdong Wang
+   arXiv: https://arxiv.org/abs/2509.26641
+
+62. RCEdit-500K: Reference Completion for Image-Conditioned Image Editing
+   Jingxu Zhang ⋅ Daneul Kim ⋅ Yueming Pan ⋅ DONG CHEN ⋅ Kai Qiu ⋅ Yang Liu ⋅ Yifan Yang ⋅ Qi Dai ⋅ Xiaoyan Sun ⋅ Chong Luo
+
+63. Recolour What Matters: Region-Aware Colour Editing via Token-Level Diffusion
+   Yuqi Yang ⋅ Dongliang Chang ⋅ Yijia Ling ⋅ Ruoyi Du ⋅ Zhanyu Ma
+   arXiv: https://arxiv.org/abs/2603.18466
+   page:  https://yangyuqi317.github.io/ColourCrafter.github.io/
+
+64. ReDesign: Recovering Editable Design Structures from Raster Images via Agentic Decomposition
+   Jooyeol Yun ⋅ Jintae Park ⋅ Hyesu Lim ⋅ Junha Hyung ⋅ Hyungjin Chung ⋅ Choo Jaegul
+   arXiv: https://arxiv.org/abs/2607.25565
+
+65. Region-Aware Test-Time Scaling for Compositional Image Generation
+   Mingzhu Shen ⋅ Peng Ye ⋅ Xinyin Ma ⋅ Gongfan Fang ⋅ Christos-Savvas Bouganis ⋅ Yiren Zhao ⋅ Xinchao Wang
+
+66. SAEdit: Token-Level Control for Continuous Image Editing via Sparse Autoencoder
+   Ronen Kamenetsky ⋅ Sara Dorfman ⋅ Daniel Garibi ⋅ Roni Paiss ⋅ Or Patashnik ⋅ Danny Cohen-Or
+   arXiv: https://arxiv.org/abs/2510.05081
+   page:  https://ronen94.github.io/SAEdit/
+
+67. SAND: Stage-Aware Noise Decomposition for Training-Free Diffusion Guidance
+   DaeHyun Kim ⋅ Hyo-Jun Lee ⋅ Hanul Kim ⋅ Yeong Jun Koh
+
+68. Semantically Aligned Gradient-Driven Context-Preserving Image Editing
+   Chiranjeev Chiranjeev ⋅ Muskan Dosi ⋅ MAYANK VATSA ⋅ RICHA SINGH
+
+69. SONIC: Spectral Optimization of Noise for Inpainting with Consistency
+   Seungyeon Baek ⋅ Erqun Dong ⋅ Shadan Namazifard ⋅ Mark J Matthews ⋅ Kwang Moo Yi
+   arXiv: https://arxiv.org/abs/2511.19985
+   page:  https://ubc-vision.github.io/sonic/
+
+70. SR-Edit: Region-Aware Image Editing via Self-Refinement
+   Andong Wang ⋅ Zehua Chen ⋅ Yuxuan Jiang ⋅ Jun Zhu
+
+71. TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization
+   Siwoo Lim ⋅ Sunjae Yoon ⋅ Gwanhyeong Koo ⋅ Hyeonseo Yun ⋅ Chang Yoo
+   arXiv: https://arxiv.org/abs/2607.14927
+   code:  https://github.com/siw00-lim/TanGO
+
+72. Target-aware Image Editing via Cycle-consistent Constraints
+   Yanghao Wang ⋅ Zhen Wang ⋅ Long Chen
+   arXiv: https://arxiv.org/abs/2510.20212
+
+73. TASE: Truncation-Aware Semantic Embeddings for 3D Scene Understanding and Editing
+   Tim-Felix Faasch ⋅ Jochen Kall ⋅ Jens Behley ⋅ Lucas Nunes ⋅ Cyrill Stachniss
+
+74. The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding
+   Weichen Fan ⋅ Haiwen Diao ⋅ Quan Wang ⋅ Dahua Lin ⋅ Ziwei Liu
+   arXiv: https://arxiv.org/abs/2512.19693
+   code:  https://github.com/WeichenFan/UAE
+
+75. Through Van Gogh’s Eyes: Global Style Transfer with Diffusion Model
+   Jeongha Lee ⋅ Yujin Kim ⋅ Ghazanfar Ali ⋅ Suhyun Kim ⋅ Jae-In Hwang
+
+76. Towards In-Context Tone Style Transfer with A Large-Scale Triplet Dataset
+   Yuhai Deng ⋅ Huimin She ⋅ Wei Shen ⋅ Meng Li ⋅ Ruoxi Wu ⋅ Lunxi Yuan ⋅ Xiang Li
+   arXiv: https://arxiv.org/abs/2604.16114
+   page:  https://dengyuhai.github.io/ICTone_Project/
+
+77. Training-Free Multi-Concept Image Editing
+   Niki Maria Foteinopoulou ⋅ Ignas Budvytis ⋅ Stephan Liwicki
+   arXiv: https://arxiv.org/abs/2602.20839
+   page:  https://nickyfot.github.io/cds/
+
+78. Two Birds, One Projection: Harmonizing Safety and Utility in LVLMs via Inference-time Feature Projection
+   Yewon Han ⋅ Yumin Seol ⋅ Minsoo Jo ⋅ EunGyung Kong ⋅ Taesup Kim
+   arXiv: https://arxiv.org/abs/2603.14825
+
+79. UNet-Twice: A Simple Structured Reference-based Inpainting Framework
+   Junda Lu ⋅ zhiqiao xu ⋅ Houkun Wu ⋅ Wei Cui ⋅ Bo Huang ⋅ Mingyang Chen ⋅ Bing Li
+
+80. UniGeo: Unifying Geometric Constraints for Camera-Controllable Image Editing via Video Priors
+   Hong Jiang ⋅ Wensong Song ⋅ Zongxin Yang ⋅ Ruijie Quan ⋅ Yi Yang
+
+81. UniREditBench: A Unified Reasoning-based Image Editing Benchmark
+   Feng Han ⋅ Yibin Wang ⋅ Chenglin Li ⋅ Zheming Liang ⋅ Dianyi Wang ⋅ Yang Jiao ⋅ Zhipeng Wei ⋅ Chao Gong ⋅ Cheng Jin ⋅ Jiaqi Wang
+   arXiv: https://arxiv.org/abs/2511.01295
+   page:  https://maplebb.github.io/UniREditBench
+
+82. Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection
+   Chanhui Lee ⋅ Donggyu Choi ⋅ Seunghyun Shin ⋅ Hae-Gon Jeon ⋅ Jeany Son
+   arXiv: https://arxiv.org/abs/2602.14679
+
+83. V-HOLD: Stabilizing Flow Trajectories to Rethink the Edit–Preservation Trade-off
+   Gahyeon Kim ⋅ Dong-oh Kang
+
+84. Versatile Editing of Video Content, Actions, and Dynamics without Training
+   Vladimir Kulikov ⋅ Roni Paiss ⋅ Andrey Voynov ⋅ Inbar Mosseri ⋅ Tali Dekel ⋅ Tomer Michaeli
+   arXiv: https://arxiv.org/abs/2603.17989
+   page:  https://dynaedit.github.io/
+
+85. VLTR: Vision-Language Tool Reasoning for Instruction-Guided Image Editing
+   Yike Wang ⋅ Yitao Yu ⋅ Shaohua Sun ⋅ Ping Luo
+
+86. VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On
+   XIAOYE LIANG ⋅ Zhiyuan Qu ⋅ Mingye Zou ⋅ Jiaxin Liu ⋅ Lai Jiang ⋅ Mai Xu ⋅ Yiheng Zhu
+   arXiv: https://arxiv.org/abs/2603.11734
+
+87. Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing
+   Anqi Tang ⋅ Wenhao Sun ⋅ Zhaoqiang Liu
+   arXiv: https://arxiv.org/abs/2607.02421
+
+88. WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing
+   Hui Zhang ⋅ Juntao Liu ⋅ Zongkai Liu ⋅ liqiang niu ⋅ Fandong Meng ⋅ Zuxuan Wu ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2603.11593
+

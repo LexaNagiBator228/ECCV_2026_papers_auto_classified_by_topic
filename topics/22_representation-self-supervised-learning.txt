@@ -1,0 +1,324 @@
+Representation & Self-Supervised Learning  (82 papers, 53 with arXiv links)  [Learning, Efficiency & Trust]
+============================================================================
+
+1. A Dual-Transformer Architecture with Cross-Attention for Multi-Camera View Recommendation
+   Josep Cabacas Maso ⋅ Carles Ventura ⋅ Ismael Benito-Altamirano
+
+2. A scalar per patch from pre-trained ViTs enables fast moving navigation in the real world
+   Steeven Janny ⋅ Leonid Antsfeld ⋅ Christian Wolf
+   arXiv: https://arxiv.org/abs/2606.21216
+
+3. Ada-VNNs: Adaptive Equivariance for Vector Neural Networks
+   Bing Han ⋅ Ruitao Pan ⋅ Yumin Chen ⋅ Peixin Hong ⋅ Weiyuan Liu ⋅ Zhibin Zhao ⋅ Chenxi Wang ⋅ Zhi Zhai
+
+4. Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations
+   Ludovica Schaerf ⋅ Antonio Purificato ⋅ Piera Riccio ⋅ Fabrizio Silvestri ⋅ Noa Garcia
+   arXiv: https://arxiv.org/abs/2607.16321
+
+5. Beyond Linear Shortcuts: Rectifying Diffusion Preference Optimization with Intrinsic Generative Geometry
+   Pin Wang ⋅ Huaibo Huang ⋅ Jiayang Sun ⋅ Hongbo Wang ⋅ Wentao Jiang ⋅ Tiezheng Ge ⋅ Jie Cao ⋅ Ran He
+
+6. Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding
+   Lin Chen ⋅ Bolin Ni ⋅ Qi Yang ⋅ Zili Wang ⋅ Kun Ding ⋅ Ying Wang ⋅ Houwen Peng ⋅ SHIMING XIANG
+   arXiv: https://arxiv.org/abs/2603.10863
+   code:  https://github.com/lchen1019/DIPE
+
+7. Boosting 3D Foundation Models with Featureless Pose Optimization
+   Mattia D'Urso ⋅ Christian Sormann ⋅ Mattia Rossi ⋅ Friedrich Fraundorfer
+
+8. CFM: Language-aligned Concept Foundation Model for Vision
+   Kai Wittenmayer ⋅ Sukrut Rao ⋅ Amin Parchami-Araghi ⋅ Bernt Schiele ⋅ Jonas Fischer
+   arXiv: https://arxiv.org/abs/2601.13798
+   code:  https://github.com/kawi19/CFM
+
+9. Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation
+   Yichen Zhang ⋅ Da Peng ⋅ Zonghao Guo ⋅ zijian zhang ⋅ Xuesong Yang ⋅ Tong Sun ⋅ Shichu Sun ⋅ Yidan Zhang ⋅ Yanghao Li ⋅ Haiyan Zhao ⋅ Wang Xu ⋅ Qi Shi ⋅ Yangang Sun ⋅ Chi Chen ⋅ Shuo Wang ⋅ Yukun Yan ⋅ Xu Han ⋅ Qiang Ma ⋅ Wei Ke ⋅ Liang Wang ⋅ Zhiyuan Liu ⋅ Maosong Sun
+   arXiv: https://arxiv.org/abs/2603.12793
+
+10. CL4D: Contrastive Language–4D Pretraining for Vision-Language Reasoning in Dynamic Scenes
+   Kumal Hewagamage ⋅ Isuranga Senavirathne ⋅ Yattowita Withanage Sasika Pamith Amarasinghe ⋅ Hasitha Gallella ⋅ Dulanga Weerakoon ⋅ Vigneshwaran Subbaraju ⋅ Ranga Rodrigo
+
+11. CLIMP: Contrastive Language-Image Mamba Pretraining
+   Nimrod Shabtay ⋅ Itamar Zimerman ⋅ Eli Schwartz ⋅ RAJA GIRYES
+   arXiv: https://arxiv.org/abs/2601.06891
+   code:  https://github.com/NimrodShabtay/CLIMP
+
+12. Contrastive Conditional–Unconditional Alignment for Long-tailed Diffusion Model
+   Fang Chen ⋅ Alex Villa ⋅ Gongbo Liang ⋅ Li Fuxin ⋅ Xiaoyi Lu ⋅ Meng Tang
+   arXiv: https://arxiv.org/abs/2507.09052
+
+13. Control-DINO: Feature Space Conditioning for Controllable Video Diffusion
+   Edoardo Dominici ⋅ Thomas Deixelberger ⋅ Konstantinos Vardis ⋅ Markus Steinberger
+   arXiv: https://arxiv.org/abs/2604.01761
+   page:  https://dedoardo.github.io/projects/control-dino/
+
+14. DICT: Data Injection and Contrastive Trajectory Refinement for Conditional Image Generation with Diffusion Models
+   Chunnan Shang ⋅ Zhizhong Wang ⋅ Xin Zhang ⋅ Hongwei Wang
+   arXiv: https://arxiv.org/abs/2607.03899
+
+15. DiffuPrompt: Adapting Video Foundation Models to 3D Medical Volumes via Latent Trajectory Priors
+   Guowei Dai ⋅ Duwei Dai ⋅ yulong ji ⋅ Chen Hu ⋅ Yi Zhang
+
+16. Direct Autoregressive Diffusion Distillation via Error-aware Causal Pretraining
+   Jiaxing Li ⋅ Kaichen Huang ⋅ Baixin Xu ⋅ Zexiang Liu ⋅ Xianglong He ⋅ Zile Wang ⋅ Junyao Gao ⋅ Yang Liu ⋅ Ying He ⋅ Bo An ⋅ Yangguang Li
+
+17. Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision
+   Dohyun Kim ⋅ Seungwoo Lyu ⋅ Seung Kim ⋅ Paul Hongsuck Seo
+   arXiv: https://arxiv.org/abs/2512.23426
+   page:  https://dohyun-as.github.io/DDSPO
+
+18. Disentangling Rotation and Translation from SE(3)-Equivariant Features for Shape Assembly
+   Hee-Jun Jung ⋅ Uigeun Ahn ⋅ JINHWI PARK ⋅ Kangil Kim
+
+19. Don’t Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance
+   Pradhaan Bhat ⋅ Rishubh Parihar ⋅ Abhijnya Bhat ⋅ Venkatesh Babu Radhakrishnan
+
+20. DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture
+   Xiangteng He ⋅ Shunsuke SAKAI ⋅ Shivam Chandhok ⋅ Sara Beery ⋅ Kun yuan ⋅ Nicolas Padoy ⋅ Tatsuhito Hasegawa ⋅ Leonid Sigal
+   arXiv: https://arxiv.org/abs/2511.17354
+   page:  https://dseqjepa-project.com
+
+21. Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training
+   Mingliang Liang ⋅ Zhuoran Liu ⋅ Arjen Vries ⋅ Martha Larson
+   arXiv: https://arxiv.org/abs/2604.27932
+   code:  https://github.com/MingliangLiang3/DynamiCS
+
+22. E-M3RF: An Equivariant Multimodal 3D Re-assembly Framework
+   Adeela Islam ⋅ Stefano Fiorini ⋅ MANUEL LECHA SANCHEZ ⋅ Theodore Tsesmelis ⋅ Stuart James ⋅ Pietro Morerio ⋅ Alessio Del Bue
+   arXiv: https://arxiv.org/abs/2511.21422
+
+23. Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection
+   Ruilin Li ⋅ Heming Zou ⋅ Xiufeng Yan ⋅ Zheming Liang ⋅ Jie Yang ⋅ Chenliang Li ⋅ Xue Yang
+   arXiv: https://arxiv.org/abs/2603.19145
+
+24. EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?
+   Pierre Adorni ⋅ Minh-Tan Pham ⋅ Stephane May ⋅ Sébastien Lefèvre
+   arXiv: https://arxiv.org/abs/2511.21523
+   code:  https://github.com/pierreadorni/EoS-FM
+
+25. ExPLoRe: Expert Patch-Level Loss Routing for Multi-Objective Masked Image Modeling
+   Konstantinos Georgiou ⋅ Maofeng Tang ⋅ Hairong Qi
+
+26. Fourier Self-Supervision for Fine-Grained Generalized Category Discovery
+   Sarah Rastegar ⋅ Mina Ghadimi Atigh ⋅ Pascal Mettes ⋅ Yuki Asano ⋅ Cees Snoek
+   arXiv: https://arxiv.org/abs/2608.08963
+   code:  https://github.com/SarahRastegar/FourEx
+
+27. From Phase to Phenomenon: Self-Supervised Learning of Subsurface Scattering with Minimal Phase-shift Inputs
+   Arjun Majumdar ⋅ Raphael Braun ⋅ Andreas Engelhardt ⋅ Hendrik Lensch
+   arXiv: https://arxiv.org/abs/2606.29461
+
+28. GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks
+   Wei Zhang ⋅ Chaoqun Wang ⋅ Zixuan Guan ⋅ Ping Kao ⋅ Pengfei Zhao ⋅ Peng Wu ⋅ Sifeng He
+   arXiv: https://arxiv.org/abs/2512.24592
+
+29. GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure
+   Bin Yang ⋅ Mohamed Abdelsamad ⋅ Miao Zhang ⋅ Michael Ulrich ⋅ Yakov Miron ⋅ Abhinav Valada ⋅ Alexandru Condurache
+   arXiv: https://arxiv.org/abs/2608.14428
+
+30. HilDA: Hierarchical Distillation with Diffusion for Advancing Self-Supervised LiDAR Pre-training
+   Maciej Wozniak ⋅ Jesper Ericsson ⋅ Hariprasath Govindarajan ⋅ Truls Nyberg ⋅ Thomas Gustafsson ⋅ Patric Jensfelt ⋅ Olov Andersson
+   arXiv: https://arxiv.org/abs/2606.20189
+   page:  https://maxiuw.github.io/hilda
+
+31. Human-like Object Grouping in Self-supervised Vision Transformers
+   Hossein Adeli ⋅ Seoyoung Ahn ⋅ Andrew Luo ⋅ Mengmi Zhang ⋅ Nikolaus Kriegeskorte ⋅ Gregory Zelinsky
+   arXiv: https://arxiv.org/abs/2603.13994
+
+32. Hyperbolic Hierarchical Clustering for Visual Representation Learning
+   Jianan Wei ⋅ Guikun Chen ⋅ Zhiyuan Weng ⋅ Chunchao Guo ⋅ Yujia Wang ⋅ Wenguan Wang
+
+33. IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning
+   Konstantinos Almpanakis ⋅ Anna Kreshuk
+   arXiv: https://arxiv.org/abs/2603.15263
+
+34. Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization
+   Ruichen Ma ⋅ Xiaoyang Zhang ⋅ Jian Bai ⋅ Guanchao Qiao ⋅ Liwei Meng ⋅ Ning Ning ⋅ Yang Liu ⋅ Shaogang Hu
+   arXiv: https://arxiv.org/abs/2606.31695
+
+35. Invisible Shortcuts: Why Vision Encoders Know Your Camera
+   Vladan Stojnic ⋅ Ryan Ramos ⋅ Giorgos Kordopatis-Zilos ⋅ Noa Garcia ⋅ Giorgos Tolias
+   arXiv: https://arxiv.org/abs/2608.05424
+   code:  https://github.com/ryan-caesar-ramos/visual-encoder-traces
+
+36. Kinematics-Agnostic 3D Human Motion Prediction via Equivariant Latent Diffusion
+   Cecilia Curreli ⋅ Florian Hofherr ⋅ Dominik Muhle ⋅ Abhishek Saroha ⋅ Riccardo Marin ⋅ Daniel Cremers
+
+37. Let ViT Speak: Generative Language-Image Pre-training
+   Yan Fang ⋅ Mengcheng Lan ⋅ Zilong Huang ⋅ Weixian Lei ⋅ Yunqing Zhao ⋅ Yujie Zhong ⋅ Yingchen Yu ⋅ Qi She ⋅ Yao Zhao ⋅ Yunchao Wei
+   arXiv: https://arxiv.org/abs/2605.00809
+   code:  https://github.com/YanFangCS/GenLIP
+
+38. Let's Reward Step-by-Step: Step-Aware Contrastive Alignment for Vision-Language Navigation in Continuous Environments
+   Haoyuan Li ⋅ Rui Liu ⋅ Hehe Fan ⋅ Yi Yang
+
+39. LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models
+   Sojung An ⋅ Junha Lee ⋅ Sujeong You ⋅ Nam Ik Cho ⋅ Donghyun Kim
+   arXiv: https://arxiv.org/abs/2607.06918
+
+40. MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation
+   Yang Chen ⋅ Xiaowei Xu ⋅ Shuai Wang ⋅ Xinwen Zhang ⋅ Qiushi Guo ⋅ Tiezheng Ge ⋅ Limin Wang
+   arXiv: https://arxiv.org/abs/2606.26016
+   code:  https://github.com/MCG-NJU/MIMFlow
+
+41. Mitigating Positional Leakage in 3D Masked Autoencoders for Robust Representation Learning
+   Xu Yan ⋅ Huiqun Wang ⋅ Chen Wang ⋅ Lei Ren ⋅ Di Huang
+   arXiv: https://arxiv.org/abs/2606.31570
+   code:  https://github.com/yanx57/MPL-MAE
+
+42. MJEPA: A Simple and Scalable Joint-Embedding Predictive Architecture for Audio-Visual Learning
+   Revant Teotia ⋅ Adrien Bardes ⋅ Michael Rabbat ⋅ Sumit Chopra ⋅ Matthew Muckley ⋅ Nicolas Ballas
+   arXiv: https://arxiv.org/abs/2606.25225
+
+43. MorphJEPA: Morphology-Aware Latent Prediction for Hyperspectral Images
+   Amartya Ray ⋅ Tanmay Mandaliya ⋅ Muhammad Haris Khan ⋅ Biplab Banerjee
+
+44. Multi-Head Normalization for Wide Vision Transformers
+   Guoyizhe Wei ⋅ Feng Wang ⋅ Alan Yuille ⋅ Rama Chellappa
+
+45. Multi-View Foundation Models
+   Leo Segre ⋅ Or Hirschorn ⋅ Shai Avidan
+   arXiv: https://arxiv.org/abs/2512.15708
+
+46. MultiMem: Measuring and Mitigating Memorization in Multi-Modal Contrastive Learning
+   Wenhao Wang ⋅ Franziska Boenisch ⋅ Michael Backes ⋅ Adam Dziedzic
+   arXiv: https://arxiv.org/abs/2606.22220
+
+47. NAPA: Natively Multimodal Autoregressive Perception Architecture
+   Phuc Le Khac Hong ⋅ Yasser Dahou ⋅ Sanath Narayan ⋅ Ankit Singh ⋅ Wamiq Para ⋅ Ngoc Dung Huynh ⋅ Sofian Chaybouti ⋅ Hakim Hacid
+
+48. Natural Image Pretraining Improves Abstract Reasoning
+   Xiaoman Ding ⋅ Keya Hu ⋅ Katelyn Gan ⋅ Victor Yin ⋅ Kaiming He
+
+49. NearID: Identity Representation Learning via Near-identity Distractors
+   Aleksandar Cvejic ⋅ Rameen Abdal ⋅ Abdelrahman Eldesokey ⋅ Bernard Ghanem ⋅ Peter Wonka
+   arXiv: https://arxiv.org/abs/2604.01973
+   code:  https://github.com/Gorluxor/NearID
+   page:  https://gorluxor.github.io/NearID/
+
+50. One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models
+   Xiaohao Xu ⋅ Feng Xue ⋅ Xiang Li ⋅ Haowei Li ⋅ Shusheng Yang ⋅ Tianyi Zhang ⋅ Matthew Johnson-Roberson ⋅ Xiaonan Huang
+   arXiv: https://arxiv.org/abs/2606.29600
+
+51. Pay Attention to Attention Distribution: A New Local Lipschitz Bound for Transformers
+   Mikalai Yudzin ⋅ Sergei Kudriashov ⋅ Alexander Gaponov ⋅ Maxim Rakhuba
+   arXiv: https://arxiv.org/abs/2507.07814
+
+52. Plug-and-Play Attention Linearization for Pretrained Transformers
+   Kenan Kassab ⋅ Alexey Kashevnik ⋅ Ammar Ali ⋅ Stamatios Lefkimmiatis
+
+53. Pretrained Video Models as Differentiable Physics Simulators for Urban Wind Flows
+   Janne Perini ⋅ Rafael Bischof ⋅ Moab Arar ⋅ Ayça Duran ⋅ Michael Kraus ⋅ Siddhartha Mishra ⋅ Bernd Bickel
+   arXiv: https://arxiv.org/abs/2603.21210
+
+54. Probing the 3D Object-Level Understanding of Pre-Trained Detection Transformers
+   Robin Kim ⋅ Colin Samplawski ⋅ Benjamin Marlin
+   arXiv: https://arxiv.org/abs/2608.01495
+
+55. Progressive Representation Learning for Multimodal Sentiment Analysis with Incomplete Modalities
+   Jindi Bao ⋅ Jianjun Qian ⋅ Mengkai Yan ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2603.09111
+
+56. ProtoFair: Fair Self-Supervised Contrastive Learning via Pseudo-Counterfactual Pairs
+   Marah Halawa ⋅ Olaf Hellwich
+   arXiv: https://arxiv.org/abs/2605.01971
+
+57. Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks
+   Yucheng Xing ⋅ Xin Wang
+   arXiv: https://arxiv.org/abs/2411.12876
+
+58. Quick ViTs: Speeding up Vision Transformers through Equivariance
+   David Nordström ⋅ Johan Edstedt ⋅ Fredrik Kahl ⋅ Georg Bökman
+   arXiv: https://arxiv.org/abs/2505.15441
+
+59. RayRoPE: Projective Ray Positional Encoding for Multi-view Attention
+   Yu Wu ⋅ Minsik Jeon ⋅ Rick Chang ⋅ Oncel Tuzel ⋅ Shubham Tulsiani
+   arXiv: https://arxiv.org/abs/2601.15275
+   page:  https://rayrope.github.io/
+
+60. ReGen3D: Generalizable Unified Representation Learning for 3D Understanding
+   Haotian Zhang ⋅ Jincen Jiang ⋅ Yuhang Li ⋅ Jian Jun Zhang ⋅ Meili Wang ⋅ Jian Chang
+
+61. RGB-Pointmap Pretraining for Unified 3D Scene Understanding
+   Ye Mao ⋅ Weixun Luo ⋅ Ranran Huang ⋅ Junpeng Jing ⋅ Krystian Mikolajczyk
+   arXiv: https://arxiv.org/abs/2604.02546
+   page:  https://yebulabula.github.io/UniScene3D/
+
+62. S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight
+   Haodong Yan ⋅ Zhide Zhong ⋅ Jiaguan Zhu ⋅ Junjie He ⋅ Weilin Yuan ⋅ Wenxuan Song ⋅ Xin Gong ⋅ Yingjie CAI ⋅ Guanyi Zhao ⋅ Xu Yan ⋅ Liu Bingbing ⋅ Yingcong Chen ⋅ Haoang Li
+   arXiv: https://arxiv.org/abs/2603.16195
+   page:  https://haodong-yan.github.io/S-VAM/
+
+63. Scaling Laws for Black-box Adversarial Attacks
+   Chuan Liu ⋅ Huanran Chen ⋅ Yichi Zhang ⋅ Jun Zhu ⋅ Yinpeng Dong
+   arXiv: https://arxiv.org/abs/2411.16782
+
+64. Silhouette-based Gait Foundation Model
+   Dingqiang Ye ⋅ Chao Fan ⋅ Kartik Narayan ⋅ Bingzhe Wu ⋅ Chengwen Luo ⋅ Jianqiang Li ⋅ Vishal Patel
+   arXiv: https://arxiv.org/abs/2512.00691
+   code:  https://github.com/ShiqiYu/OpenGait
+
+65. Simple Filtering Improves Masked Autoencoders
+   Takumi Kobayashi
+
+66. SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning
+   Byungwoo Jeon ⋅ Dongyoung Kim ⋅ Huiwon Jang ⋅ Insoo Kim ⋅ Jinwoo Shin
+   arXiv: https://arxiv.org/abs/2603.22057
+
+67. SPICE: Simple Polysemantic feature Interpretation via Clustering-based Explanations
+   Sehyun Lee ⋅ Dahee Kwon ⋅ Damin Lee ⋅ Jaesik Choi
+
+68. Steerable Vision Transformers
+   Jona Ruthardt ⋅ Manu Gaur ⋅ Deva Ramanan ⋅ Makarand Tapaswi ⋅ Yuki Asano
+
+69. Steering Diffusion Models via Class-Contrastive Influence for Few-Shot Classification
+   Jeeyung Kim ⋅ Erfan Esmaeili ⋅ Qiang Qiu
+
+70. Topology-Weighted Effective Rank: A Zero-Cost Proxy for Training Dynamics Stability in Neural Architecture Search
+   Haojie Zhang ⋅ Yeming Yang ⋅ Songbai Liu ⋅ Lijia Ma ⋅ Ka-Chun Wong ⋅ Qiuzhen Lin
+
+71. Understanding Geometric Representations in Self-Supervised Vision Transformers via Subspace Intervention
+   Weichen Zhou ⋅ Yawen Zou ⋅ Chunzhi Gu ⋅ Ran Dong ⋅ Haoran Xie ⋅ Chao Zhang
+   arXiv: https://arxiv.org/abs/2607.01987
+   code:  https://github.com/Zhou-Weichen/Geosubprobe
+
+72. Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis
+   HAKSU LIM ⋅ Myeongjin Lee ⋅ Wonjoon Chang ⋅ Jaesik Choi
+   arXiv: https://arxiv.org/abs/2607.09753
+
+73. UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation
+   Ziyi Wang ⋅ Xinshun Wang ⋅ Shuang Chen ⋅ Yang Cong ⋅ Mengyuan Liu
+   arXiv: https://arxiv.org/abs/2603.22282
+
+74. URoPE: Universal Relative Position Embedding across Geometric Spaces
+   Yichen Xie ⋅ Depu Meng ⋅ Yihan Hu ⋅ Chensheng Peng ⋅ Quentin HERAU ⋅ Masayoshi TOMIZUKA ⋅ Wei Zhan
+
+75. V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising
+   Han Lin ⋅ Xichen Pan ⋅ Zun Wang ⋅ Yue Zhang ⋅ Chu Wang ⋅ Jaemin Cho ⋅ Mohit Bansal
+   arXiv: https://arxiv.org/abs/2603.16792
+   code:  https://github.com/HL-hanlin/V-Co
+
+76. V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning
+   Lorenzo Mur Labadia ⋅ Matthew Muckley ⋅ Amir Bar ⋅ Mido Assran ⋅ Koustuv Sinha ⋅ Michael Rabbat ⋅ Yann LeCun ⋅ Nicolas Ballas ⋅ Adrien Bardes
+
+77. Vision Bridge Transformer at Scale
+   Zhenxiong Tan ⋅ Zeqing Wang ⋅ Xingyi Yang ⋅ Songhua Liu ⋅ Xinchao Wang
+   arXiv: https://arxiv.org/abs/2511.23199
+
+78. Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training
+   Quan Kong ⋅ Yanru Xiao ⋅ Yuhao Shen ⋅ Cong Wang
+   arXiv: https://arxiv.org/abs/2603.00518
+
+79. VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
+   Jingwen Sun ⋅ Wenyao Zhang ⋅ Zekun Qi ⋅ Shaojie Ren ⋅ Zezhi Liu ⋅ Hanxin Zhu ⋅ Guangzhong Sun ⋅ Xin Jin ⋅ Zhibo Chen
+   arXiv: https://arxiv.org/abs/2602.10098
+
+80. VNC: A Scale-Space Foundation for Learnable 3D Surface Evolution
+   Baoxing Li ⋅ Yong Deng ⋅ Xu Zhao
+
+81. Weight Feedback Computes the Exact Jacobian Transpose in Modern Deep Networks
+   Junlong Shen ⋅ Xingyu Li
+
+82. Why Linear Probing Works: Non-Vacuous Generalization Bounds via Effective Dimension
+   Dongxin Guo ⋅ Jikun Wu ⋅ SM Yiu
+

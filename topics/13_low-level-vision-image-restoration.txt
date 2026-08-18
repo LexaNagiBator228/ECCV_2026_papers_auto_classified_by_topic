@@ -1,0 +1,399 @@
+Low-Level Vision & Image Restoration  (100 papers, 63 with arXiv links)  [3D, Geometry & Imaging]
+============================================================================
+
+1. AdaBridge-SR: Adaptive Bridge Matching for Real-World Image Super-Resolution
+   Jiangang Wang ⋅ Shangquan Sun ⋅ Aiping Zhang ⋅ Yuning Cui ⋅ Wenqi Ren
+
+2. Adversarial Score Distillation for Stable One-Step Diffusion in Real-World Image Super-Resolution
+   Wei Zhu ⋅ Kai Zhang ⋅ Yu Zheng ⋅ Lei Luo ⋅ Jian Yang
+
+3. Allo{SR}2: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows
+   Zihan Wang ⋅ XUDONG HUANG ⋅ Junbo Qiao ⋅ WEI LI ⋅ jie hu ⋅ Xinghao Chen ⋅ Shaohui Lin
+   arXiv: https://arxiv.org/abs/2604.19238
+
+4. ART-VSR: Adaptive Rectified Trajectories for One-Step Video Super-Resolution
+   JianHui Zhang ⋅ Chen Fang ⋅ Wanghao Wanghao ⋅ chaoyu feng ⋅ LEI LEI ⋅ Jue Wang ⋅ Shuaicheng Liu
+
+5. Auto-Prompting: Layer-Specific Prompt Fusion Discovery via Differentiable Search
+   Xi Xiao ⋅ Xingjian Li ⋅ Yunbei Zhang ⋅ Cheng Han ⋅ Tianming Liu ⋅ Tianyang Wang ⋅ Runmin Jiang ⋅ Jihun Hamm ⋅ Xiao Wang ⋅ Min Xu
+
+6. AVSR-Diff: Scale-Agnostic Diffusion Priors for Temporally Consistent Arbitrary-Scale Video Super-Resolution
+   Geunhyuk Youk ⋅ Jeonghyeok Do ⋅ Dayeon Kim ⋅ Jihyong Oh ⋅ Munchurl Kim
+   arXiv: https://arxiv.org/abs/2607.00987
+   page:  https://kaist-viclab.github.io/AVSR-Diff/
+
+7. Bayesian Self-Attention with Local Pixel Correlations for Lightweight Denoising Transformers
+   Runyang He ⋅ Zuowei Shen ⋅ Hui JI
+
+8. BWAFDA: Block-wise Weighted Attention Fusion with Detail-aware for No-Reference Image Quality Assessment
+   Shilv Cai ⋅ Jian Jin ⋅ Tianang Chen ⋅ Zhuangzi Li ⋅ Weisi Lin
+
+9. ClearText-Video: A Large-Scale Text-Centric Video Dataset Bridging Video Restoration and Scene-Text Enhancement
+   JINLONG LI ⋅ Jiaming Ding ⋅ Dingfu Lu ⋅ Malcolm Hsiu ⋅ Chuang Ke ⋅ Kangning Yang ⋅ Bochen Guan ⋅ Lan Fu ⋅ Jie Cai ⋅ Huiming Sun ⋅ Zibo Meng
+
+10. CogSENet: Blind Image Deblurring with Blur-Conditioned Semantic Routing and Explicit Frequency Fusion
+   Pan Wang ⋅ Yihao Hu ⋅ Xiujin Liu
+   arXiv: https://arxiv.org/abs/2606.30030
+
+11. CUST : Clustered Unit-level Similarity Transformer for Lightweight Image Super-Resolution
+   Jeongsoo Kim
+   arXiv: https://arxiv.org/abs/2607.11088
+   code:  https://github.com/jwgdmkj/CUST
+
+12. Degradation-Agnostic Clarity Learning for Unpaired Image Dehazing
+   Zhiyuan Song ⋅ Hannan Lu ⋅ Haiqian Han ⋅ Bo Li ⋅ Chang Liu ⋅ Pengxu Wei ⋅ Xiangyang Ji ⋅ Liang Lin
+
+13. DeLux: Cross-Modal Local Artifact Restoration in Video Using Neuromorphic Data
+   Bartosz Stachowiak ⋅ Dariusz Brzezinski
+   arXiv: https://arxiv.org/abs/2606.27576
+
+14. Denoised Variance-Based Pruning with Optimal Brain Bias Compensation
+   Geon Tack Lee ⋅ Choo Jaegul ⋅ Kang Eun Jeon
+
+15. Denoising-GS: Gaussian Splatting with Spatial-aware Denoising
+   Qingyuan Zhou ⋅ Xinyi Liu ⋅ WEIDONG YANG ⋅ Ning Wang ⋅ Shuquan Ye ⋅ Ben Fei ⋅ Ying He ⋅ Wanli Ouyang
+   arXiv: https://arxiv.org/abs/2605.14880
+
+16. Depth-guided Multi-view Exposure Bracketing for HDR Robot Vision
+   Jinnyeong Kim ⋅ Juhyung Choi ⋅ Woohyeok Kim ⋅ Sunghyun Cho ⋅ Seung-Hwan Baek
+   arXiv: https://arxiv.org/abs/2608.16014
+
+17. Difficulty-Conditioned Attribute-Specific Restoration for Low-Light Image Enhancement
+   Mingzhu Zhang ⋅ Shuang Li ⋅ Jiaxu Leng ⋅ Long Sun ⋅ Can Zhang ⋅ Miaoqing Wang ⋅ Xinbo Gao
+
+18. Diffusion-based dual-view reflection removal
+   Tianyi Xu ⋅ Zifeng Wang ⋅ Boyang Lyu ⋅ Shuchen Weng ⋅ Boxin Shi
+
+19. DnA: Denoising Attention for Visual Tasks
+   Ron Campos ⋅ Subhajit Maity ⋅ Xin Li ⋅ Srijan Das ⋅ Aritra Dutta
+   arXiv: https://arxiv.org/abs/2606.27372
+
+20. Dotting the Eye: An Intent-Driven Image Retouching Agent for Visual Focus Enhancement
+   ChujieQin ChujieQin ⋅ Zilong Zhang ⋅ Zewei Chang ⋅ Chun-Le Guo ⋅ Ruixing Wang ⋅ Tao Hu ⋅ Ming-Ming Cheng ⋅ Chongyi Li
+
+21. Dual-Output Multi-Exposure HDR Reconstruction via SDR Fusion and Gain Map Inverse Tone Mapping
+   Jinho Kim ⋅ Jinwoo Kim ⋅ Seon Joo Kim
+   arXiv: https://arxiv.org/abs/2608.05626
+
+22. Expert Weaving: Marrying Masked AutoRegressive and Diffusion Models for Unified Image Restoration
+   Xin Lu ⋅ Jie Huang ⋅ Jie Xiao ⋅ Dong Li ⋅ Xueyang Fu
+
+23. Experts-Guided Unbalanced Optimal Transport for ISP Learning from Unpaired and/or Paired Data
+   Georgy Perevozchikov ⋅ Nancy Mehta ⋅ Egor Ershov ⋅ Radu Timofte
+   arXiv: https://arxiv.org/abs/2512.05635
+   code:  https://github.com/gosha20777/EGUOT-ISP.git
+
+24. ExpoMotion: A Large-Scale Benchmark and A Householder Projection Network for Multi-Exposure Fusion
+   Yao Liu ⋅ Lishen Qu ⋅ Jie Liang ⋅ shihao zhou ⋅ Hui Zeng ⋅ Yabin Peng ⋅ Huipeng Lin ⋅ Yabin Zhang ⋅ Jufeng Yang
+   arXiv: https://arxiv.org/abs/2607.03110
+   code:  https://github.com/Leo-LiuYao/ExpoMotion
+
+25. Exposure Bias Can Alleviate Itself via Directional and Frequency Rectification in Flow Matching
+   Guanbo Huang ⋅ Jingjia Mao ⋅ Fanding Huang ⋅ fengkai liu ⋅ Xiangyang Luo ⋅ Yaoyuan Liang ⋅ Jiasheng Lu ⋅ xiaoe Wang ⋅ Pei Liu ⋅ Ruiliu Fu ⋅ Ruqi Huang ⋅ Shao-Lun Huang
+   arXiv: https://arxiv.org/abs/2606.28226
+
+26. Fabric Image Demoiréing Benchmark from Synthesis to Restoration
+   Pengchao Wei ⋅ Xiaojie Guo
+
+27. Fidelity- and Perception-Aware Local Implicit Attention for Arbitrary-Scale Image Super-Resolution
+   Yu-Syuan Xu ⋅ Hao-Lun Sun ⋅ Hao-Wei Chen ⋅ Hsien-Kai Kuo ⋅ Chun-Yi Lee
+   arXiv: https://arxiv.org/abs/2606.21910
+   code:  https://github.com/XUSean0118/FPLIA
+
+28. Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration
+   Sangwoo (Jason) Jo ⋅ Donggeun Ko ⋅ Jayeon Kang ⋅ Youngsang Kwak ⋅ Jaehwa Kwak ⋅ Sungjoon Choi
+   arXiv: https://arxiv.org/abs/2608.10544
+   code:  https://github.com/aiimaginglab/PCFlow
+
+29. FMA-Net++: Motion- and Exposure-Aware Joint Video Super-Resolution and Deblurring
+   Geunhyuk Youk ⋅ Jihyong Oh ⋅ Munchurl Kim
+   arXiv: https://arxiv.org/abs/2512.04390
+   page:  https://kaist-viclab.github.io/fmanetpp_site/
+
+30. Freqformer: Image-Demoiréing Transformer via Effective Frequency Decomposition
+   Xiaoyang Liu ⋅ Bolin Qiu ⋅ Zheng Chen ⋅ Libo Zhu ⋅ Zihan Zhou ⋅ Kai Liu ⋅ Jiezhang Cao ⋅ Yulun Zhang
+   arXiv: https://arxiv.org/abs/2505.19120
+   code:  https://github.com/xyLiu339/Freqformer
+
+31. FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution
+   Minh Hoang ⋅ Dinh Tran ⋅ Quyen Nguyen Duc ⋅ Phuong Dam ⋅ Daeyoung Kim
+   arXiv: https://arxiv.org/abs/2606.28745
+   code:  https://github.com/sonhm3029/FreqOrtho-SR
+
+32. From Local Windows to Adaptive Candidates via Individualized Exploratory: Rethinking Attention for Image Super-Resolution
+   Chunyu Meng ⋅ Wei Long ⋅ Shuhang Gu
+   arXiv: https://arxiv.org/abs/2601.08341
+
+33. FUMO: Prior-Modulated Diffusion for Single Image Reflection Removal
+   Telang Xu ⋅ Chaoyang Zhang ⋅ Guangtao Zhai ⋅ Xiaohong Liu
+   arXiv: https://arxiv.org/abs/2603.19036
+   code:  https://github.com/Lucious-Desmon/FUMO
+
+34. Generative Manifold Distillation: Aligning Restoration Trajectories with the Natural Image Prior
+   Yuyang Hu ⋅ Mojtaba Sahraee-Ardakan ⋅ Kangfu Mei ⋅ Arpit Bansal ⋅ Chenyang Qi ⋅ Peyman Milanfar ⋅ Mauricio Delbracio
+   arXiv: https://arxiv.org/abs/2512.11121
+
+35. Geodesic Flow Matching on a Riemannian Degradation Manifold for Blind Image Restoration
+   Akshay Bankar ⋅ Ankita Chatterjee ⋅ Sayan Banerjee ⋅ Shreyas Pandith ⋅ Kalakonda Shashank ⋅ Amit Unde
+   arXiv: https://arxiv.org/abs/2606.06278
+
+36. HNDiff: Haze-Noise Diffusion for Image Dehazing
+   Jin-Ting He ⋅ Fu-Jen Tsai ⋅ Yan-Tsung Peng ⋅ Min-Hung Chen ⋅ Chia-Wen Lin ⋅ Yen-Yu Lin
+   arXiv: https://arxiv.org/abs/2608.10995
+   page:  https://jin-ting-he.github.io/HNDiff
+
+37. Hybrid-LUT: Channel-Aware Hybrid Lookup Table and Filtering for Efficient Image Restoration
+   Zhilin Ai ⋅ Boyu Li ⋅ Sidi Yang ⋅ Wenqing Shi ⋅ Wenyong Zhou ⋅ Binxiao Huang ⋅ Chenchen Ding ⋅ Ngai Wong
+   arXiv: https://arxiv.org/abs/2608.11646
+   code:  https://github.com/Ai-ZL/Hybrid-LUT
+
+38. IQA-T1: Tool-based Visual Evidence Reasoning for Image Quality Assessment
+   Jinjian Wu ⋅ Jiaqi Tang ⋅ Wei Wei ⋅ Yingying Yan ⋅ Jianmin Chen ⋅ Botong Geng ⋅ Lei Zhang ⋅ Qifeng Chen
+   arXiv: https://arxiv.org/abs/2607.12375
+   code:  https://github.com/zibuyu-02/IQA-T1
+
+39. JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising
+   Siang Zhang ⋅ Huai-Hsun Cheng ⋅ Tsung-Ju Yang ⋅ Yu-Lun Liu
+   arXiv: https://arxiv.org/abs/2606.20563
+   page:  https://siang1105.github.io/JanusMesh.github.io/
+
+40. Learn to See the Unseen in Low-light Spike Streams
+   Liwen Hu ⋅ Yang Li ⋅ Mianzhi Liu ⋅ Guo Yijia ⋅ Shenghao Xie ⋅ Wenqiang Zu ⋅ gang ding ⋅ Tiejun Huang ⋅ Lei Ma
+
+41. Leveraging Phase Information to Boost Unrolled Network Learning for Image Deblurring
+   Samira Malek ⋅ Haichuan Zhang ⋅ Chul Lee ⋅ Vishal Monga
+   arXiv: https://arxiv.org/abs/2607.00251
+
+42. LGD-Net: Leader-Guided Cross-Modal Dynamics for Hyperspectral and Panchromatic Image Fusion
+   Raj kumar ⋅ Balasubramanian Raman ⋅ Pravendra Singh
+
+43. LogicIR: Logic Gate Networks for Image Restoration
+   Hongjae Lee ⋅ Myungjun Son ⋅ Jaeseong Yu ⋅ Seung-Won Jung
+   arXiv: https://arxiv.org/abs/2606.26609
+   code:  https://github.com/jimmy9704/LogicIR
+
+44. LUCE: Constrained Curve-Domain Guidance for Training-Free Low-Light Enhancement with Hue-Preserving Decoupling
+   Yijie Wei ⋅ Vran Lee ⋅ Yeqiang Liu ⋅ Mina Han ⋅ Xue Liu ⋅ Zhenbo Li
+
+45. MArFE: Multi-Contrast MRI Arbitrary Scale Super-Resolution with Fourier Enhancement
+   ZHIWEN SHI
+
+46. MixCompress: Mixture of Experts for Variable Rate Learned Image Compression
+   Calvin-Khang Ta ⋅ Praneet Singh ⋅ Tong Shao ⋅ Peng Yin
+   arXiv: https://arxiv.org/abs/2607.14334
+
+47. MLVC: A Multi-platform Learned Video Codec for Real-World Deployment
+   Tanel Pärnamaa ⋅ Martin Lumiste ⋅ Ardi Loot ⋅ Evgenii Indenbom ⋅ Andrei Znobishchev ⋅ Ando Saabas
+   arXiv: https://arxiv.org/abs/2606.28027
+   code:  https://github.com/microsoft/mlvc
+
+48. Multi-Block-Attention-based Color Constancy
+   Oguzhan Ulucan ⋅ Diclehan Ulucan ⋅ Marc Ebner
+
+49. Multi-modality Image Fusion under Adverse Weather: Mask-Guided Feature Restoration and Interaction
+   Xilai Li ⋅ Xiaosong Li ⋅ Haishu Tan ⋅ Tao Ye ⋅ Huafeng Li ⋅ Hongbin Wang
+   arXiv: https://arxiv.org/abs/2606.26812
+   code:  https://github.com/ixilai/AMG-Fuse
+
+50. Next-Frame Decoding for Ultra-Low-Bitrate Image Compression with Video Diffusion Priors
+   Yunuo Chen ⋅ Chuqin Zhou ⋅ Jiangchuan Li ⋅ Xiaoyue Ling ⋅ Bing He ⋅ Jincheng Dai ⋅ Li Song ⋅ Guo Lu
+   arXiv: https://arxiv.org/abs/2603.15129
+   code:  https://github.com/UnoC-727/NeFIC
+
+51. NGPS: Structure-Preserving Self-Supervised Denoising via Neighbor-Guided Patch Sampling
+   Jaehyun Cho ⋅ YOUNGJOON YOO
+   arXiv: https://arxiv.org/abs/2606.23200
+   code:  https://github.com/cv-cho/NGPS
+
+52. OARS: Process-Aware Online Alignment for Generative Real-World Image Super-Resolution
+   Shijie Zhao ⋅ Xuanyu Zhang ⋅ Bin Chen ⋅ Weiqi Li ⋅ Qunliang Xing ⋅ Kexin Zhang ⋅ Yan Wang ⋅ Junlin Li ⋅ Li Zhang ⋅ Jian Zhang ⋅ Tianfan Xue
+   arXiv: https://arxiv.org/abs/2603.12811
+
+53. Off the Planckian Locus: Using 2D Chromaticity to Improve In-Camera Color
+   SaiKiran Tedla ⋅ Joshua Little ⋅ Hakki Karaimer ⋅ Michael S Brown
+   arXiv: https://arxiv.org/abs/2511.17133
+   page:  https://cst-mlp.github.io
+
+54. ORFC: Orthogonal Reparameterization for Low-Bitrate ViT Feature Coding
+   Letian Zhang ⋅ Wenhan Yang ⋅ Lingyu Duan
+
+55. PASDiff: Physics-Aware Semantic Guidance for Joint Real-world Low-Light Face Enhancement and Restoration
+   Yilin Ni ⋅ Wenjie Li ⋅ Zhengxue Wang ⋅ Juncheng Li ⋅ Guangwei Gao ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2603.24969
+   code:  https://github.com/IVIPLab/PASDiff
+
+56. Perceiving Better Moments: Cover Frame Reselection and Enhancement for Live Photos with the Live2K Dataset
+   Junyu Lou ⋅ Kai Chen ⋅ Weiyi You ⋅ Hui Zeng ⋅ Yabin Zhang ⋅ Shuhang Gu
+   arXiv: https://arxiv.org/abs/2607.04151
+
+57. Physics Meets Perception: A Reinforcement Learning Framework for Unpaired Real-World Image Dehazing
+   Yunwei Lan ⋅ Zhigao Cui ⋅ Chang Liu ⋅ Menglin Zhang ⋅ Nian Wang ⋅ Cong Zhang ⋅ Dong Liu
+
+58. PolarAPP: Beyond Polarization Demosaicking for Polarimetric Applications
+   Yidong Luo ⋅ Chenggong Li ⋅ Yunfeng Song ⋅ Ping Wang ⋅ Boxin Shi ⋅ Junchao Zhang ⋅ Xin Yuan
+   arXiv: https://arxiv.org/abs/2603.23071
+
+59. ProGVC: Progressive-based Generative Video Compression via Auto-Regressive Context Modeling
+   Daowen Li ⋅ Ruixiao Dong ⋅ Ying Chen ⋅ Kai Li ⋅ Ding Ding ⋅ Li Li
+   arXiv: https://arxiv.org/abs/2603.17546
+
+60. P²Fusion: Prompt-based Progressive Infrared-Visible Image Fusion via Dual-Prior Distillation
+   Yi Shi ⋅ Huichao Xie ⋅ Yuqing Wang ⋅ Mingyu Wang ⋅ Kaihui Yang ⋅ Yu Liu ⋅ Lu Ruitao ⋅ Lizhe Li ⋅ Junwei Han ⋅ Dingwen Zhang
+
+61. QualiTeacher: Quality-Conditioned Pseudo-Labeling for Real-World Image Restoration
+   Fengyang Xiao ⋅ Jingjia Feng ⋅ Peng Hu ⋅ Yuhan Chen ⋅ Dingming Zhang ⋅ Lei Xu ⋅ Guanyi Qin ⋅ Lu Li ⋅ Chunming He ⋅ Sina Farsiu
+   arXiv: https://arxiv.org/abs/2603.08030
+
+62. RADIANCE: Relative Adaptive Denoising with IP-Adapter for Novel Concept Enhancement
+   Zi-Xiang Ni ⋅ Bo-Lun Huang ⋅ Teng-Fang Hsiao ⋅ Bo-Kai Ruan ⋅ Hong-Han Shuai
+
+63. Raw-JPEG Adapter: Efficient Raw Image Compression with JPEG
+   Mahmoud Afifi ⋅ Ran Zhang ⋅ Michael S Brown
+   arXiv: https://arxiv.org/abs/2509.19624
+
+64. RawGen: Learning Camera Raw Image Generation
+   Dongyoung Kim ⋅ Junyong Lee ⋅ Abhijith Punnappurath ⋅ Mahmoud Afifi ⋅ Sangmin Han ⋅ Alex Levinshtein ⋅ Michael S Brown
+   arXiv: https://arxiv.org/abs/2604.00093
+
+65. ReAL: Reference-to-Image (R2I) Aware Latent Diffusion for Image Super-Resolution
+   Byeonghun Lee ⋅ Hyunmin Cho ⋅ Sunghoon Im ⋅ Kyong Hwan Jin
+
+66. RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution
+   Yushuai Song ⋅ Weize Quan ⋅ Weining Wang ⋅ Jiahui Sun ⋅ Jing Liu ⋅ Meng Li ⋅ Pengbin Yu ⋅ Zhentao Chen ⋅ Wei Shen ⋅ Lunxi Yuan ⋅ Dong-ming Yan
+   arXiv: https://arxiv.org/abs/2603.24198
+
+67. RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
+   Yuan-Kang Lee ⋅ Kuan-Lin Chen ⋅ Chia-Che Chang ⋅ Yu-Lun Liu
+   arXiv: https://arxiv.org/abs/2601.05249
+   page:  https://ntuneillee.github.io/research/rl-awb/
+
+68. Robust Self-Supervised Cross-Modal Super-Resolution against Real-World Misaligned Observations
+   Xiaoyu Dong ⋅ Jiahuan Li ⋅ Ziteng Cui ⋅ Naoto Yokoya
+   arXiv: https://arxiv.org/abs/2602.18822
+   page:  https://drive.google.com/file/d/1fqTYuSY7Qp7PFHiHViZs7y6lz6Bws7ws/view?usp=sharing
+
+69. RTE-FM-Dehazer: Radiative Transfer Equation Inspired Flow Matching for Real-World Image Dehazing
+   Chenfeng Wei ⋅ Chun Wang ⋅ Boyang Zhao ⋅ Si Zuo ⋅ Shenhong WANG ⋅ Chenguang Yang
+   arXiv: https://arxiv.org/abs/2607.01748
+
+70. SCALE: Semantic-Calibrated Guidance Enhancement for Prompt-Faithful Diffusion
+   Tianhang Lu ⋅ Sudong Cai ⋅ Bingzhi Chen ⋅ Shao-Dong Shen ⋅ Chunting Liu ⋅ Longguang Wang ⋅ Bing Wang
+
+71. SLAIR: Structured Latent Flow Matching for All-in-One Image Restoration
+   Shuyi Liang ⋅ Yixin Yang ⋅ Hanyue Lou ⋅ Yuning Cui ⋅ Boxin Shi
+
+72. SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration
+   Shurui Peng ⋅ Xin Lin ⋅ Shi Luo ⋅ Jincen Ou ⋅ Dizhe Zhang ⋅ Lu Qi ⋅ Truong Nguyen ⋅ Chao Ren
+   arXiv: https://arxiv.org/abs/2603.05940
+
+73. SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
+   Jiongze Yu ⋅ Xiangbo Gao ⋅ Pooja Verlani ⋅ Akshay Gadde ⋅ Yilin Wang ⋅ Balu Adsumilli ⋅ Zhengzhong Tu
+   arXiv: https://arxiv.org/abs/2603.16864
+   page:  https://sparkvsr.github.io/
+
+74. Spectral and Trajectory Regularization for Diffusion Transformer Super-Resolution
+   Jingkai Wang ⋅ Yixin Tang ⋅ Jue Gong ⋅ Jiatong Li ⋅ Shu Li ⋅ Libo Liu ⋅ Jianliang Lan ⋅ Yutong Liu ⋅ Yulun Zhang
+   arXiv: https://arxiv.org/abs/2603.06275
+   code:  https://github.com/jkwang28/StrSR
+
+75. Spectral Prior for Reducing Exposure Bias in Diffusion Models
+   Yuya Kobayashi ⋅ Masato Ishii ⋅ Yuhta Takida ⋅ Takashi Shibuya ⋅ Yuki Mitsufuji
+   arXiv: https://arxiv.org/abs/2607.22091
+   code:  https://github.com/SonyResearch/SPA
+
+76. SplitHDR: Saturation-Aware HDR Recovery and Denoising for Real-Time Detection
+   Jaewon Kim ⋅ Sol Namkung ⋅ Dongsuk Jeon
+
+77. Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
+   Hau-Shiang Shiu ⋅ Chin-Yang Lin ⋅ Zhixiang Wang ⋅ Chi-Wei Hsiao ⋅ Po-Fan Yu ⋅ Yu-Chih Chen ⋅ Yu-Lun Liu
+   arXiv: https://arxiv.org/abs/2512.23709
+   page:  https://jamichss.github.io/stream-diffvsr-project-page/
+
+78. Synthetic Sub-Aperture Phase Augmentation for Demosaicing 2×2 Shared Microlens Sensors
+   Jeisung Lee ⋅ Wonil Song
+
+79. TAQ: Static-Deployable Temporal-Aware Quantization for Real-World Video Super-Resolution
+   Jinwoo Chung ⋅ Sangho An ⋅ Sungyeop Jung ⋅ Jangho Kim
+
+80. TaskTok: Delving into Task Tokens for Task-driven Image Restoration
+   Hongjae Lee ⋅ Sojung Kang ⋅ Jaeseong Yu ⋅ Seung-Won Jung
+   arXiv: https://arxiv.org/abs/2606.26615
+   code:  https://github.com/jimmy9704/TaskTok
+
+81. TDSR-VLA: Transition-aware Denoising Sequence Representations for Vision-Language-Action
+   Dong-Woo Kim ⋅ KEUNHO SONG ⋅ Seungmin Lee ⋅ Hwanhee Ju ⋅ Eun Cha ⋅ Daekyum Kim
+
+82. TEASR: Training-Efficient Any-Step Diffusion Transformer for Real-World Image Super-Resolution
+   Xiang Gao ⋅ Chenxin Zhu ⋅ Yushun Fang ⋅ Qiang Hu ⋅ Xiaoyun Zhang
+   arXiv: https://arxiv.org/abs/2606.16188
+
+83. The Devil Is in the Dark Pixels: Toward Brightness Bias-Robust Denoising
+   Sungjun Cho ⋅ Zhuangzhuang Chen ⋅ Xiaomeng Li
+   arXiv: https://arxiv.org/abs/2607.16320
+   code:  https://github.com/xmed-lab/BBRD
+
+84. There and Back Again: A Flexible-Frame Transformer for Multi-Exposure Fusion
+   Lishen Qu ⋅ Yao Liu ⋅ shihao zhou ⋅ Jie Liang ⋅ Hui Zeng ⋅ Yabin Zhang ⋅ Jufeng Yang
+   arXiv: https://arxiv.org/abs/2606.27905
+
+85. Tiled Prompts: Overcoming Prompt Misguidance in Image and Video Super-Resolution
+   Bryan Kim ⋅ Jonghyun Park ⋅ Jong Chul Ye
+   arXiv: https://arxiv.org/abs/2602.03342
+   page:  https://bryanswkim.github.io/tiled-prompts/
+
+86. TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration
+   Yisheng Zhang ⋅ Guoli Jia ⋅ Haote Hu ⋅ Shanxu Zhao ⋅ Kaikai Zhao ⋅ Long Sun ⋅ Xinwei Long ⋅ Kai Tian ⋅ Che Jiang ⋅ Zhaoxiang Liu ⋅ Kai Wang ⋅ Shiguo Lian ⋅ Kaiyan Zhang ⋅ Bowen Zhou
+   arXiv: https://arxiv.org/abs/2603.27742
+
+87. Towards Reconfigurable Visual Feature Compression
+   Jiahang Zhang ⋅ Wenhan Yang ⋅ Minghao Liu ⋅ Jiaying Liu
+
+88. TPCNet: A Low-Light Image Enhancement Network Inspired by Triple Physical Constraints
+   Jing-Yi Shi ⋅ Ming-Fei Li ⋅ Ling-An Wu
+
+89. TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution
+   Sicheng Gao ⋅ Yixuan Liu ⋅ Tong Shen ⋅ Zhuyun Zhou ⋅ Zongwei Wu ⋅ Radu Timofte
+   arXiv: https://arxiv.org/abs/2607.22231
+   code:  https://github.com/Ree1s/TRaM-VSR
+
+90. Tuning Real-World Image Restoration at Inference: A Test-Time Scaling Paradigm for Flow Matching Models
+   Purui Bai ⋅ Junxian Duan ⋅ Pin Wang ⋅ Jinhua Hao ⋅ Ming Sun ⋅ Chao Zhou ⋅ Huaibo Huang
+   arXiv: https://arxiv.org/abs/2603.22027
+
+91. TurboMPLE: Joint Infrared Turbulence Mitigation and Physical Fields Estimation via Mutual Progressive Layered Extraction
+   Yitong An ⋅ Yubo Jiang ⋅ Xiangzhi Bai
+
+92. UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables
+   Yibing Zhang ⋅ Xunpeng Yi ⋅ Qinglong Yan ⋅ Yeda Wang ⋅ Han Xu ⋅ Jiayi Ma
+   arXiv: https://arxiv.org/abs/2606.31242
+   code:  https://github.com/zyb5/UHD-MFF
+
+93. VOCA: Visual Odometry with Codec Awareness
+   Nouri Alexander Hilscher ⋅ Mateo Mayo ⋅ Dominik Muhle ⋅ Christoph Hermes ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2607.00189
+
+94. WARP: Wide Attention with Rich Projections for Image Super-Resolution
+   Jiwon Kim ⋅ Kyoung Mu Lee
+
+95. Wat3R: Underwater 3D Geometry Learning without Underwater Annotations
+   Jiangwei Ren ⋅ Xingyu Jiang ⋅ Zijie Song ⋅ Wei Xu ⋅ Hongkai Lin ⋅ Dingkang Liang ⋅ Xiang Bai
+
+96. WaterGen: Decoupling Scene and Medium in Underwater Image Generation
+   Jiayi Wu ⋅ Tianfu Wang ⋅ Tianyi Xiong ⋅ Dehao Yuan ⋅ Xiaomin Lin ⋅ Md Jahidul Islam ⋅ Cornelia Fermuller ⋅ Christopher Metzler ⋅ Yiannis Aloimonos
+   arXiv: https://arxiv.org/abs/2606.31147
+
+97. When the Teacher Has More Bits: Self-Teacher Latent Distillation for Learned Image Compression
+   Abdellah Mennaoui ⋅ Joseph Meehan ⋅ Jean-Luc Dugelay ⋅ Ghalia Hemrit
+
+98. YeTI: You Only Need Two Noisy Images for Real-World sRGB Noise Generation
+   Jaekyun Ko ⋅ Byung Wan Lim ⋅ Dongjin Kim ⋅ Soomin Lee ⋅ Tae Hyun Kim
+   arXiv: https://arxiv.org/abs/2607.09193
+
+99. Zero-Shot Inference-Time Rectification for Real-World Arbitrary-Scale Super-Resolution
+   Yifan Zuo ⋅ tianlin zhu ⋅ zhenlong xia ⋅ Jiebin Yan ⋅ Xiaoshui Huang ⋅ Sanqian Li ⋅ Yuming Fang ⋅ Qiang Wu
+
+100. Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning
+   Guoqiang Liang ⋅ Jianyi Wang ⋅ Zhonghua Wu ⋅ Shangchen Zhou ⋅ Chen Change Loy
+   arXiv: https://arxiv.org/abs/2601.02918
+   page:  https://ethanliang99.github.io/ZOOMIQA-Projectpage
+

@@ -1,0 +1,329 @@
+Trustworthy AI: Safety, Adversarial & Privacy  (89 papers, 44 with arXiv links)  [Learning, Efficiency & Trust]
+============================================================================
+
+1. AracNet: Revealing Debiasing Signals across Layers with Shallow Monitors
+   Vito Paolo Pastore ⋅ Massimiliano Ciranni ⋅ Enzo Tartaglione ⋅ Vittorio Murino
+
+2. Attention Misses Visual Risk: Risk-Adaptive Steering for Multimodal Safety Alignment
+   Jonghyun Park ⋅ Minhyuk Seo ⋅ Chaewon YEO ⋅ Jonghyun Choi
+   arXiv: https://arxiv.org/abs/2510.13698
+
+3. Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection
+   Ruiqi Liu ⋅ Yi Han ⋅ Zhengbo Zhang ⋅ Liwei Yao ⋅ Zhiyuan Yan ⋅ Jialiang Shen ⋅ ZhiJin Chen ⋅ Manni Cui ⋅ Boyi Sun ⋅ Lubin Weng ⋅ Jing Dong ⋅ Yan Wang ⋅ Shu Wu
+
+4. BiSLW: Bi-Spectral Latent Watermarking for Generative Diffusion Models
+   Aryan Pandit
+   arXiv: https://arxiv.org/abs/2607.02643
+
+5. Breaking Rigidity in Adversarial Patch Attacks
+   Vishesh Kumar ⋅ Guha Balakrishnan ⋅ Akshay Agarwal
+
+6. Can Vision Models Truly Forget? Mirage: Representation-Level Certification of Visual Unlearning
+   Zhenyu Yu ⋅ yangchen zeng ⋅ Chunlei Meng ⋅ Guangzhen Yao ⋅ Shuigeng Zhou
+
+7. Causal Intervention in Concept Bottleneck Models
+   Zhiyu Zhu ⋅ Jiayu Zhang ⋅ Zhibo Jin ⋅ Xinyi Wang ⋅ Fang Chen ⋅ Przemyslaw Biecek ⋅ Jianlong Zhou
+
+8. CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics
+   Ziyi Ding ⋅ xianxin lai ⋅ Weiyu Chen ⋅ Xiao-Ping Zhang ⋅ Jiayu Chen
+   arXiv: https://arxiv.org/abs/2604.07712
+
+9. Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection
+   Fanrui Zhang ⋅ Qiang Zhang ⋅ Sizhuo Zhou ⋅ Jianwen Sun ⋅ Chuanhao Li ⋅ Jiaxin Ai ⋅ Yukang Feng ⋅ Yujie Zhang ⋅ Wenjie Li ⋅ Zizhen Li ⋅ Yifan Chang ⋅ Jiawei Liu ⋅ Kaipeng Zhang
+   arXiv: https://arxiv.org/abs/2512.16300
+
+10. CogniCred: A Dataset and Benchmark for Cognitive Credential Forgery Detection
+   Junchi Li ⋅ Jiasheng Sun ⋅ Weizhi Chen ⋅ Ziwei Wang ⋅ Sheng Zhou ⋅ Jiajun Bu ⋅ Chenfan Qu ⋅ Bohan Yu ⋅ Jian liu ⋅ Weiqiang Wang
+
+11. Contextual Image Attack: How Visual Context Exposes Multimodal Safety Vulnerabilities
+   Yuan Xiong ⋅ Miao Ziqi ⋅ Lijun Li ⋅ Chen Qian ⋅ Jie Li ⋅ Jing Shao
+   arXiv: https://arxiv.org/abs/2512.02973
+
+12. Continuous Adversarial Flow Models
+   Shanchuan Lin ⋅ Ceyuan Yang ⋅ Zhijie Lin ⋅ Hao Chen ⋅ Haoqi Fan
+   arXiv: https://arxiv.org/abs/2604.11521
+
+13. COVERT: Privacy-Preserving Covariant Obfuscation for VLMaaS via Exact Reparameterization and Tailored Tuning
+   Wenqiang Ruan ⋅ ZiRui Huang ⋅ Yu Lin ⋅ Qizhi Zhang ⋅ Yunlong Mao ⋅ Quanwei Cai ⋅ Jue Hong ⋅ Sheng Zhong ⋅ Ye Wu
+
+14. Cross-View Yaw Estimation in Location Uncertainty with Line-Aligning Yaw Scoring
+   Taeho Kang ⋅ Nairan Zhang ⋅ Yelin Kim ⋅ Yujiao Shi ⋅ Youngki Lee
+   arXiv: https://arxiv.org/abs/2606.22094
+
+15. Data-Free Client Contribution Estimation via Logit Maximization for Federated Learning
+   Asim Ukaye ⋅ Nurbek Tastan ⋅ Mubarak Abdu-Aguye ⋅ Karthik Nandakumar
+   arXiv: https://arxiv.org/abs/2605.18892
+
+16. DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders
+   Syed Irfan Ali Meerza ⋅ Oktay Ozturk ⋅ Amir Sadovnik ⋅ Jian Liu
+   arXiv: https://arxiv.org/abs/2607.10580
+
+17. Diffusion to Obfuscation: Time-Adaptive Synthesized Generation Against Gradient Leakage Attacks in Federated Learning
+   Farchan Raswa ⋅ Chun-Shien Lu ⋅ Jia-Ching Wang
+
+18. Disentangling Hallucinations: Orthogonal Semantic Projection for Robust Interpretability
+   Emirhan Bilgiç ⋅ Baptiste Caramiaux ⋅ Zhi Yan ⋅ Gianni Franchi
+   arXiv: https://arxiv.org/abs/2606.14758
+   code:  https://github.com/emirhanbilgic/Orthogonal-Semantic-Projection
+
+19. Don’t Teach Instability, Teach Robustness: Selective Sensitivity Gating for Adversarial Robust Distillation
+   Jingqi Ji ⋅ Quan Kong ⋅ Chaojie Gu ⋅ Yuanchao Shu ⋅ Cong Wang
+
+20. EraseSAE: Surgical Concept Erasure in Text-to-Video Diffusion Models via Sparse Autoencoders
+   Xinghao Wang ⋅ Dong Li ⋅ Wei Yu ⋅ Yingwei Pan ⋅ Tao Gong ⋅ Qi Chu ⋅ Nenghai Yu ⋅ Ting Yao
+
+21. Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations
+   Jonas Klotz ⋅ Cassio F. Dantas ⋅ Pallavi Jain ⋅ Diego Marcos ⋅ Begüm Demir
+   arXiv: https://arxiv.org/abs/2606.24716
+   code:  https://github.com/JonasKlotz/sae-concept-eval
+
+22. Evidence Triangulation for Multimodal Fact-Checking in the Wild
+   Stefanos-Iordanis Papadopoulos ⋅ Zacharias Chrysidis ⋅ Christos Koutlis ⋅ Symeon Papadopoulos ⋅ Panagiotis Petrantonakis
+   arXiv: https://arxiv.org/abs/2606.31367
+   code:  https://github.com/stevejpapad/evidence-triangulation
+
+23. Explainability-aware Frustum Attack: Exposing Structural Vulnerabilities in LiDAR-Based 3D Object Detectors
+   Chengzeng You ⋅ Binbin Xu ⋅ Soteris Demetriou
+   arXiv: https://arxiv.org/abs/2606.29963
+   code:  https://github.com/SecMindLab/Saliency_LiDAR
+
+24. FedDO: Dynamic Client Optimization for Adaptive Federated Learning
+   Peixuan Tang ⋅ Xuehe Wang
+
+25. FedLAS: Feature-Modulated Bidirectional Label Smoothing for Neural Network Calibration
+   Thiru Thillai Nadarasar Bahavan ⋅ Sachith Seneviratne ⋅ Saman Halgamuge
+   arXiv: https://arxiv.org/abs/2606.28654
+
+26. FedMental: Topology-Aware Federated Prototype Learning for Polymorphic Multimodal Psychiatry
+   Haoyu Li ⋅ He Li ⋅ Wenke Huang ⋅ Yujing Rao ⋅ Xiaofen Zong ⋅ Mang Ye
+
+27. FedNASP: Federated Vision-Language Navigation with Adaptive Step-wise Personalization
+   Qingqian Yang ⋅ Hao Wang ⋅ Sai Qian Zhang ⋅ Jian Li ⋅ Yang Hua ⋅ Miao Pan ⋅ Tao Song ⋅ Zhengwei Qi ⋅ Haibing Guan
+
+28. FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs
+   Wenlong Cheng ⋅ Yuan Gan ⋅ Yunqiu Xu ⋅ Jiaxu Miao
+   arXiv: https://arxiv.org/abs/2606.22875
+   page:  https://spyzixuan.github.io/FedOT/
+
+29. ForeSea: AI Forensic Search with Multi-modal Queries for Video Surveillance
+   Hyojin Park ⋅ Yi Li ⋅ Janghoon Cho ⋅ Sungha Choi ⋅ Jungsoo Lee ⋅ TAOTAO JING ⋅ shuai zhang ⋅ Munawar Hayat ⋅ Dashan Gao ⋅ Ning Bi ⋅ Fatih Porikli
+   arXiv: https://arxiv.org/abs/2603.22872
+
+30. General Self-Calibration with Varying Intrinsics
+   Norio Kosaka ⋅ Timothy Duff ⋅ Tomas Pajdla ⋅ Akihiro Sugimoto
+
+31. Gradient sparsity regularization for training unlearning-compatible models
+   Sobhan Hemati ⋅ Soufiane Lamghari ⋅ Masoud Asgharian ⋅ Xu Li ⋅ Hongliang Li
+
+32. H-SFP: Hierarchical Federated Learning with Decoupled Split-Model Prototyping
+   Trung-Dung Tran ⋅ Nguyen Ha ⋅ Minh-Duong Nguyen ⋅ Van-Dinh Nguyen ⋅ Kok-Seng Wong
+
+33. HVGCD:Rethinking Generalized Category Discovery through Hypothesis–Verification
+   zhang baoqiang ⋅ Kunze Huang ⋅ Luyao Tang ⋅ Xiaotong Tu
+
+34. Improving Adversarial Robustness by Mitigating Instability through Relearning
+   Yi Zeng ⋅ Ling Zhou ⋅ Ruilong Yu ⋅ Qihe Liu ⋅ Shijie Zhou
+
+35. Improving Adversarial Robustness via Activation Amplification and Attenuation
+   Taïga Gonçalves ⋅ Yongsong Huang ⋅ Tomo Miyazaki ⋅ Shinichiro Omachi
+   arXiv: https://arxiv.org/abs/2606.27784
+   code:  https://github.com/tgoncalv/A3
+
+36. Indelible Backdoors: On the Limits of Post-Training Defenses
+   Jingyi Guo ⋅ Thuy Dung Nguyen ⋅ Taylor T Johnson ⋅ Kevin Leach
+
+37. IoUCert: Robustness Verification for Anchor-based Object Detectors
+   Benedikt Brückner ⋅ Alejandro J. Mercado ⋅ Yanghao Zhang ⋅ Panagiotis Kouvaros ⋅ Alessio Lomuscio
+   arXiv: https://arxiv.org/abs/2603.03043
+
+38. Learn to Rank: Visual Attribution by Learning Importance Ranking
+   David Schinagl ⋅ Christian Fruhwirth-Reisinger ⋅ Alexander Prutsch ⋅ Samuel Schulter ⋅ Horst Possegger
+   arXiv: https://arxiv.org/abs/2604.05819
+
+39. Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation
+   Beom Young Kim ⋅ Sung Hwang
+   arXiv: https://arxiv.org/abs/2607.29059
+   page:  https://phoenix-eccv26.github.io
+
+40. Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks
+   Yaohua Liu ⋅ Yifan Guo ⋅ Jiaxin Gao
+   arXiv: https://arxiv.org/abs/2608.11815
+   code:  https://github.com/callous-youth/BMAT
+
+41. LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models
+   Rongxu Cui ⋅ Zongzheng Zhang ⋅ Jingrui Pang ⋅ Haohan Chi ⋅ Jinbang Guo ⋅ Saining Zhang ⋅ shaoxuan Xie ⋅ Xin Jin ⋅ Yao Mu ⋅ Jiaolong Yang ⋅ Guocai Yao ⋅ Xianyuan Zhan ⋅ Ya-Qin Zhang ⋅ HAO ZHAO
+   arXiv: https://arxiv.org/abs/2606.23686
+   page:  https://libero-safety.github.io/
+
+42. LINA: Learning INterventions Adaptively for Physical Alignment and Counterfactual Generation in Diffusion Models
+   Shu Yu ⋅ Chaochao Lu
+
+43. Locality-Aware Continual Unlearning for Diffusion Models
+   Naveen George ⋅ Naoki Murata ⋅ Yuhta Takida ⋅ Konda Reddy Mopuri ⋅ Yuki Mitsufuji
+   arXiv: https://arxiv.org/abs/2512.02657
+
+44. Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models
+   Enrico Cassano ⋅ Riccardo Renzulli ⋅ Rayyan Ahmed ⋅ Stephan Alaniz ⋅ Marco Grangetto
+
+45. Looking Back and Forth: Cross-Image Attention Calibration and Attentive Preference Learning for Multi-Image Hallucination Mitigation
+   Xiaochen Yang ⋅ Hao Fang ⋅ Jiawei Kong ⋅ Yaoxin Mao ⋅ Bin Chen ⋅ Shu-Tao Xia
+   arXiv: https://arxiv.org/abs/2603.07048
+
+46. Mitigating Radar-Inertial Calibration Ambiguities via SO(3) Manifold Steering
+   Chunshen Li ⋅ Shengpeng Wang ⋅ Zitao Ye ⋅ Wei Wang
+
+47. NeuralDMD: Interpretable Untrained Neural Network for Imaging from Sparse and Noisy Observations
+   Ali SaraerToosi ⋅ Renbo Tu ⋅ Esther Lin ⋅ Kamyar Azizzadenesheli ⋅ Aviad Levis
+
+48. No Place to Hide: Benchmarking Video Hallucination with Background-Controlled Pairs
+   Haojian Huang ⋅ Harold Haodong Chen ⋅ Meng Luo ⋅ Junjia Du ⋅ Shanqing Xu ⋅ Ziheng Chen ⋅ Yanxiang Huang ⋅ Yinchuan Li ⋅ Yingcong Chen
+   arXiv: https://arxiv.org/abs/2606.31933
+   page:  https://jethrojames.github.io/VidPair-Halluc/
+
+49. Obliviate: Erasing Concepts from Autoregressive Image Generation Models
+   Hossein Shakibania ⋅ Jonas Henry Grebe ⋅ Tobias Braun ⋅ Ege Aktemur ⋅ Saleh Aslani ⋅ Mehmet Yiğit ⋅ Marcus Rohrbach
+   arXiv: https://arxiv.org/abs/2606.28643
+
+50. On the Faithfulness of Post-Hoc Concept Bottleneck Models
+   Laines Schmalwasser ⋅ Jan Blunk ⋅ Niklas Penzel ⋅ Julia Niebling ⋅ Joachim Denzler
+   arXiv: https://arxiv.org/abs/2606.30498
+
+51. On the Plasticity Collapse in Continual Machine Unlearning
+   Yingdan Shi ⋅ Xiang Xu ⋅ Kaize Ding ⋅ Alfred Hero ⋅ Ren Wang
+
+52. On the Reliability of Cue Conflict and Beyond
+   Pum Jun Kim ⋅ Seung-Ah Lee ⋅ Seongho Park ⋅ Dongyoon Han ⋅ Jaejun Yoo
+   arXiv: https://arxiv.org/abs/2603.10834
+
+53. One Trap to Block Them All: Defending Encoder Stealing via Isotropic Uniformity
+   YITONG SHI ⋅ Kang Wei ⋅ Fushuo Huo ⋅ Shuchi Wu ⋅ Chuan Ma
+
+54. ORBIT: Overcoming Hallucination Risks via Bi-manifold Interaction and Traction
+   Zhehan Kan ⋅ Yanlin Liu ⋅ Xiaochen Yang ⋅ Hongyang Yu ⋅ Qingmin Liao ⋅ Wenming Yang
+
+55. OrthoEraser: Coupled-Neuron Orthogonal Projection for Concept Erasure
+   Chuancheng Shi ⋅ Wenhua Wu ⋅ Fei Shen ⋅ Xiaogang Zhu ⋅ Kun Hu ⋅ Zhiyong Wang
+   arXiv: https://arxiv.org/abs/2603.11493
+
+56. Preserving Knowledge across Space and Time for Continual Video Deepfake Detection
+   Taehoon Kim ⋅ Jongwook Choi ⋅ Heejae Jo ⋅ Byungmin Park ⋅ Jongwon Choi
+
+57. Prevention over Correction: Learning Aligned Representations in One-shot Federated Learning
+   YongHoon Kang ⋅ Jee-Hyong LEE
+
+58. Proteus: Model Leakage-Induced Adversarial Attack in Federated Learning
+   Junjie Shan ⋅ Yue Zhang ⋅ Ziqi Zhao ⋅ Ka Ho Chow
+
+59. ProtoMappingNet: Interpretable Hierarchical Prototypes through Relational Prototype Mappings
+   Jaehun Park ⋅ Jongmin Lim ⋅ Soobin Cha ⋅ Kwangsu Kim
+
+60. Prototype Normalization: Optimizing Prototype Separation for Heterogeneous Federated Learning
+   Daeyoung Choi ⋅ Jihwan Shin ⋅ Gyuejeong Lee
+
+61. Push–Pull Attentional Anchoring for Diffusion Concept Erasure
+   Nattanat Chatthee ⋅ Tagon Sompong ⋅ Ekapol Chuangsuwanich ⋅ Supasorn Suwajanakorn
+
+62. Quantile‑Adaptive Temperature Scaling for Confidence Calibration
+   Omprakash Chakraborty ⋅ Leo Fillioux ⋅ Ismail Ayed ⋅ Jose Dolz
+   arXiv: https://arxiv.org/abs/2606.21749
+
+63. R-ESC: Robustly Erasing Space Concepts via Stochastic Feature Remapping
+   Kang Eun Jeon ⋅ Yunsung Kang ⋅ Do Kang ⋅ Tae-Young Lee ⋅ Gyeong-Moon Park ⋅ Jong Hwan Ko
+
+64. ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models
+   Zhihao Dou ⋅ Qinjian Zhao ⋅ Zhiqiang Gao ⋅ Sumon Biswas
+   arXiv: https://arxiv.org/abs/2607.00361
+
+65. Rethink Backdoor Robustness in Vision Transformers
+   Yichuan Mo ⋅ Dongxian Wu ⋅ Yifei Wang ⋅ Yisen Wang
+
+66. Rethinking Detection Calibration: A Coordinate Perspective
+   Juyong Lee ⋅ Seungjin Jung ⋅ Jungmin Lee ⋅ Sunju Lee ⋅ Jongwon Choi
+
+67. Rethinking Robust Adversarial Concept Erasure in Diffusion Models
+   Qinghong Yin ⋅ Yu Tian ⋅ Heming Yang ⋅ Xiang Chen ⋅ Xianlin Zhang ⋅ Yue Ming ⋅ Xueming Li ⋅ Yue Zhang
+   arXiv: https://arxiv.org/abs/2510.27285
+   code:  https://github.com/Qhong-522/S-GRACE
+
+68. REVEAL: Reasoning-Enhanced Forensic Evidence Analysis for Explainable AI-Generated Image Detection
+   Huangsen Cao ⋅ Qin Mei ⋅ Zhiheng Li ⋅ Yuxi Li ⋅ Zhan Meng ⋅ Ying Zhang ⋅ Chen Li ⋅ Zhimeng Zhang ⋅ Xin Ding ⋅ Yongwei Wang ⋅ Jing LYU ⋅ Fei Wu
+
+69. Revisiting Deepfake Detection: BCNet for Robust Generalization Beyond Semantic Dependence
+   Jian Yang ⋅ Shibo Yao ⋅ Renshuai Tao ⋅ Chuangchuang Tan ⋅ Yao Zhao
+
+70. Robustness Meets Uncertainty: Evidential Adversarial Training for Robust Selective Classification
+   Nicolas Sournac ⋅ Ahmed Jmaa ⋅ Bertrand Braeckeveldt
+   arXiv: https://arxiv.org/abs/2607.03075
+   code:  https://github.com/NicolasSournac/Robustness_Meets_Uncertainty.EV-AT
+
+71. RoME: Robust Mixture of Low-Rank Experts against Multiple Adversarial Perturbations
+   Woo Jae Kim ⋅ Kyle Min ⋅ Suhyeon Ha ⋅ Joonsung Jeon ⋅ Sung-eui Yoon
+   arXiv: https://arxiv.org/abs/2607.06109
+   code:  https://github.com/wkim97/RoME
+
+72. Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers
+   Nina Żukowska ⋅ Wolfgang Stammer ⋅ Bernt Schiele ⋅ Jonas Fischer
+   arXiv: https://arxiv.org/abs/2604.14477
+
+73. Seeing Through the Weights: Privacy Leakage in Scene Coordinate Regression
+   Oleksii Nasypanyi ⋅ Jaemin Cho ⋅ Utku Ozbulak ⋅ Byungkon Kang ⋅ Francois Rameau
+   arXiv: https://arxiv.org/abs/2606.31164
+   page:  https://jaeminch0.github.io/seeing-through-the-weights-privacy-leakage-in-scene-coordinate-regression
+
+74. Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs
+   Vishal Narnaware ⋅ Animesh Gupta ⋅ Kevin Zhai ⋅ Zhenyi Wang ⋅ Shah Mubarak
+   arXiv: https://arxiv.org/abs/2603.25711
+
+75. Self-Evolving Just-In-Time Memory for Proactive Embodied Safety
+   Bingrui Sima ⋅ Lizhong Wang ⋅ Xiaoya Lu ⋅ Kun He ⋅ Xiao Yang
+   arXiv: https://arxiv.org/abs/2607.16247
+   code:  https://github.com/DyMessi/JIT-Memory
+
+76. SPARC: Scalable Path-Specific Counterfactual Fairness via Causal Conditional Independence
+   Bowei Tian ⋅ Yexiao He ⋅ Ziyao Wang ⋅ Meng Liu ⋅ Yongkai Wu ⋅ Ang Li
+   arXiv: https://arxiv.org/abs/2412.04739
+
+77. Spectral Gradient Orthogonalization Improves Differentially Private Training at Scale
+   Sabari Shanmugam ⋅ Nick Barnes ⋅ Kerry Taylor
+
+78. SpecV: Specification Verification for Robust Unified Multimodal Evaluation
+   Weihao Yu ⋅ Rongyao Fang ⋅ Yuxuan Cai ⋅ Linjiang Huang ⋅ Yuhuan Yang ⋅ Xianwei Zhuang ⋅ Junyang Lin ⋅ Yixuan Yuan ⋅ Shuai Bai
+
+79. SPQR: A Multi-Dimensional Benchmark for Safety Alignment under Benign Model Adaptation
+   Mohammed Talha Alam ⋅ Nada Saadi ⋅ Fahad Shamshad ⋅ Nils Lukas ⋅ Karthik Nandakumar ⋅ Fakhri Karray ⋅ Samuele Poppi
+
+80. SRRA: Stable-Rank-Based Residual Adaptation for Generalizable Deepfake Detection
+   Huakun Liu ⋅ Wenjie Li ⋅ Changsheng Xu
+
+81. Stealthy Multi-task Adversarial Attacks
+   Jiacheng Guo ⋅ Tianyun Zhang ⋅ Lei Li ⋅ Haochen Yang ⋅ Hongkai Yu ⋅ Minghai Qin
+   arXiv: https://arxiv.org/abs/2411.17936
+
+82. Test-time Counterfactual Calibration for Hallucination-Resistant Temporal Grounding
+   Chufan YI ⋅ Hongyu Qu ⋅ Shiyu Xuan ⋅ Rui Yan ⋅ Xiangbo Shu ⋅ Fang Zhao ⋅ Guosen Xie
+
+83. The 3D Mirage: Probing and Taming 3D Hallucinations
+   Hoang Nguyen ⋅ Xiaohao Xu ⋅ Xiaonan Huang
+   arXiv: https://arxiv.org/abs/2512.15423
+
+84. The Path to Reconciling Quality and Safety Alignment in Text-to-Image Generation
+   Shouwei Ruan ⋅ Zhenyu Wu ⋅ Yao Huang ⋅ Ruochen Zhang ⋅ Yitong Sun ⋅ Caixin Kang ⋅ Shiji Zhao ⋅ Weijun Qin ⋅ Jingzhi Li ⋅ Xingxing Wei
+
+85. TooBad: Backdoor Diffusion Models with Ultra-Low Poison Rate and Imperceptible Trigger
+   Vu Truong ⋅ Long Bao Le
+   arXiv: https://arxiv.org/abs/2606.23362
+
+86. Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization
+   Xiaoguang Zhu ⋅ NaipengWang NaipengWang ⋅ Kartik Patwari ⋅ Lianlong Sun ⋅ Chen-Nee Chuah ⋅ ChengxinPang ChengxinPang
+
+87. Trustworthy Image Authentication using Forensic Knowledge Graphs
+   Tai Nguyen ⋅ Matthew Stamm
+   arXiv: https://arxiv.org/abs/2606.23917
+
+88. Uncertainty-aware tree height change regression
+   Max Gaber ⋅ Dimitri Gominski ⋅ Jaime Revenga ⋅ Stefan Oehmcke ⋅ Rasmus Fensholt ⋅ Martin Brandt
+   arXiv: https://arxiv.org/abs/2607.00638
+
+89. Unmasking-Time Visual Calibration for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models
+   Tian Qin ⋅ Junzhe Chen ⋅ Tianshu Zhang ⋅ Lijie Wen
+

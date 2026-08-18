@@ -1,0 +1,329 @@
+Autonomous Driving  (81 papers, 57 with arXiv links)  [Humans, Agents & Autonomy]
+============================================================================
+
+1. AiSCREAM: Absolute Target Localization with Language-Conditioned Cross-View Alignment for Autonomous Vehicles
+   Kei Katsumata ⋅ Jun Piao ⋅ Naoki Hosomi ⋅ Kentaro Yamada ⋅ Komei Sugiura
+
+2. ASTAD: Asymmetric Style Transfer for Synthetic-to-Real Adaptation in Autonomous Driving
+   Dingyi Yao ⋅ Xinqi Zhang ⋅ Lihui Peng ⋅ Jianming HU ⋅ Danya Yao ⋅ Yi ZHANG
+   arXiv: https://arxiv.org/abs/2606.29286
+   code:  https://github.com/Dingyi-Yao/ASTAD
+
+3. BEV-GS: Feed-forward Gaussian Splatting in Bird’s-Eye-View for Road Reconstruction
+   Wenhua Wu ⋅ Tong Zhao ⋅ Chensheng Peng ⋅ Lei Yang ⋅ Zhe Liu ⋅ Hesheng Wang
+   arXiv: https://arxiv.org/abs/2504.13207
+   code:  https://github.com/cat-wwh/BEV-GS
+
+4. BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations
+   Thomas Monninger ⋅ Shaoyuan Xie ⋅ Qi Chen ⋅ Sihao Ding
+   arXiv: https://arxiv.org/abs/2603.06576
+
+5. Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives
+   Junli Wang ⋅ HuaZhihua HuaZhihua ⋅ Xueyi Liu ⋅ Zebin Xing ⋅ Wei Zhang ⋅ Kun Ma ⋅ Guang Chen ⋅ Hangjun Ye ⋅ Long Chen ⋅ Pengxuan Yang
+   arXiv: https://arxiv.org/abs/2605.19771
+
+6. BeyondSight: Object Permanence for End-to-End Autonomous Driving
+   Sandro Papais ⋅ Letian Wang ⋅ Mudit jain ⋅ Behnaz Rezaei ⋅ Steven Waslander
+   arXiv: https://arxiv.org/abs/2607.09138
+
+7. CausalDrive: Real-time Causal World Models for Autonomous Driving
+   Tianyi Yan ⋅ Huan Zheng ⋅ Dubing Chen ⋅ Meizhi Qu ⋅ Yingying Shen ⋅ Lijun Zhou ⋅ Mingfei Tu ⋅ Bing Wang ⋅ Guang Chen ⋅ Hangjun Ye ⋅ Haiyang Sun ⋅ Cheng-zhong Xu ⋅ Shen Jianbing
+   arXiv: https://arxiv.org/abs/2606.15341
+
+8. CCFM: Collision-Constrained Flow Matching for Safety-Critical Scenario Generation
+   Ke Li ⋅ Kaidi Liang ⋅ Yuxin Ding ⋅ Debojyoti Biswas ⋅ Xianbiao Hu ⋅ Ruwen Qin
+   arXiv: https://arxiv.org/abs/2607.04451
+   code:  https://github.com/KELISBU/CCFM
+
+9. Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation
+   Yifan Zhan ⋅ Zhengqing Chen ⋅ Qingjie Wang ⋅ Zhuo He ⋅ Muyao Niu ⋅ Xiaoyang Guo ⋅ Wei Yin ⋅ Weiqiang Ren ⋅ Qian Zhang ⋅ zheng yinqiang
+   arXiv: https://arxiv.org/abs/2603.12864
+
+10. CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization
+   Bo Wu ⋅ Ruoshen Mo ⋅ Justin Yue ⋅ Yanyu Zhang ⋅ Janice Nguyen ⋅ Guoyuan Wu ⋅ Amit Roy-Chowdhury ⋅ Matthew Barth ⋅ Hang Qiu
+   arXiv: https://arxiv.org/abs/2606.31219
+   page:  https://cisl.ucr.edu/CooperScene
+
+11. CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving
+   Zhaohong Liu ⋅ Hao Ye ⋅ Xianlin Zhang ⋅ Mengshi Qi
+   arXiv: https://arxiv.org/abs/2607.04179
+   code:  https://github.com/MICLAB-BUPT/CritiqueDriveVLM
+
+12. Deconfounded Lifelong Learning for Autonomous Driving via Dynamic Knowledge Spaces
+   Jiayuan Du ⋅ Yuebing Song ⋅ Yiming Zhao ⋅ Xianghui Pan ⋅ Jiawei Lian ⋅ Yuchu Lu ⋅ Liuyi Wang ⋅ Chengju Liu ⋅ Qijun Chen
+   arXiv: https://arxiv.org/abs/2603.14354
+   code:  https://github.com/Mooncakebro/DeLL
+
+13. DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing
+   Siying Li ⋅ Ying Ni ⋅ Haotian Shi ⋅ Jie Sun ⋅ Jian Sun
+   arXiv: https://arxiv.org/abs/2608.01761
+
+14. Defending from GeoLocalization through Adversarial Road Trips
+   Niccolò Niccoli ⋅ Federico Becattini ⋅ Lorenzo Seidenari
+   arXiv: https://arxiv.org/abs/2607.03277
+
+15. DiverseAD: A Large-Scale Driving Dataset with Diverse Atmospheric Conditions
+   Haoyu Wang ⋅ Baorui Ma ⋅ Donglin Di ⋅ Suhang Xuan ⋅ Hao Li ⋅ Shiliang Zhang
+
+16. Doe-2: 3D Representation World Model for Unified Driving Scene Forecasting
+   Dong Zhuo ⋅ Wenzhao Zheng ⋅ Sicheng Zuo ⋅ Yuanhui Huang ⋅ Siming Yan ⋅ Lu Hou ⋅ Jie Zhou ⋅ Jiwen Lu
+
+17. DOGE: Differentiable Bézier Graph Optimization for Road Network Extraction
+   Jiahui Sun ⋅ Junran Lu ⋅ Jinhui Yin ⋅ Yishuo Xu ⋅ Yuanqi Li ⋅ Yanwen Guo
+   arXiv: https://arxiv.org/abs/2511.19850
+
+18. DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving
+   Pengxuan Yang ⋅ Yupeng Zheng ⋅ Zebin Xing ⋅ Deheng Qian ⋅ Pengxuan Yang ⋅ Linbo Wang ⋅ Yichen Zhang ⋅ shaoyu guo ⋅ Zhongpu Xia ⋅ Qiang Chen ⋅ Junyu han ⋅ Lingyun Xu ⋅ Yifeng Pan ⋅ Dongbin Zhao
+   arXiv: https://arxiv.org/abs/2603.24587
+
+19. Drive2Danger: Deceive End-to-End Autonomous Driving with Risky Instance Recognition
+   Shuaikang Shang ⋅ Taiqi Zhang ⋅ Feng Lin ⋅ Hao Yan ⋅ Zhengxiong Li
+
+20. DriveFine: Refining-Augmented Masked Diffusion VLA for Accurate and Robust Driving
+   Chenxu Dang ⋅ Sining Ang ⋅ Yongkang Li ⋅ Haochen Tian ⋅ Jie Wang ⋅ Guang Li ⋅ Hangjun Ye ⋅ Jie Ma ⋅ Long Chen ⋅ Yan Wang
+   arXiv: https://arxiv.org/abs/2602.14577
+   code:  https://github.com/MSunDYY/DriveFine
+
+21. Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout
+   Haozhuang Chi ⋅ Daosheng Qiu ⋅ Hao Su ⋅ Haochen Liu ⋅ Zirui Li ⋅ Haoruo Zhang ⋅ Chen Lv
+   arXiv: https://arxiv.org/abs/2605.05092
+
+22. DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation
+   Junzhe Jiang ⋅ Zipei Ma ⋅ Zijie Pan ⋅ Li Zhang
+   arXiv: https://arxiv.org/abs/2606.31918
+   code:  https://github.com/LogosRoboticsGroup/DriveWeaver
+
+23. Driving like yourself: A Benchmark for Closed-Loop Personalized End-to-End Autonomous Driving
+   Xiaoru Dong ⋅ Ruiqin Li ⋅ Xiao Han ⋅ Zhenxuan Wu ⋅ Jiamin Wang ⋅ Jian Chen ⋅ Qi Jiang ⋅ SM Yiu ⋅ Xinge Zhu ⋅ Yuexin Ma
+   arXiv: https://arxiv.org/abs/2602.18757
+
+24. EAGS: Error-Aware Gaussian Splatting with Dual-Confidence-Guided Modeling for Uncalibrated Driving Scenes
+   Cen Zhigabng ⋅ Ningyan Guo ⋅ Yulan Guo ⋅ Yifan Ge ⋅ Zhiyong Feng
+
+25. ECoSim: Data Efficient Fine-Tuning for Controllable Traffic Simulation
+   Yu-Hsiang Chen ⋅ WEI-JER Chang ⋅ Yi-Ting Chen ⋅ Masayoshi TOMIZUKA
+   arXiv: https://arxiv.org/abs/2607.00545
+   page:  https://ecosim-web.github.io/
+
+26. ECTraj: Enhanced Consistency Training for Multi-Agent Trajectory Prediction
+   Alen Mrdovic ⋅ Qingze Liu ⋅ Danrui Li ⋅ Mathew Schwartz ⋅ Kaidong Hu ⋅ Sejong Yoon ⋅ Mubbasir Kapadia ⋅ Vladimir Pavlovic
+   arXiv: https://arxiv.org/abs/2605.08572
+
+27. EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving
+   Finn Rasmus Schäfer ⋅ Yuan Gao ⋅ Dingrui Wang ⋅ Thomas Stauner ⋅ Stephan Günnemann ⋅ Mattia Piccinini ⋅ Sebastian Schmidt ⋅ Johannes Betz
+   arXiv: https://arxiv.org/abs/2604.22851
+   code:  https://github.com/TUM-AVS/EgoDyn-Bench
+   page:  https://tum-avs.github.io/EgoDyn-Bench-Website/
+
+28. EgoMAN: Interaction-Structured Reasoning for Egocentric 3D Hand Trajectory Prediction
+   Mingfei Chen ⋅ Yifan Wang ⋅ Zhengqin Li ⋅ Homanga Bharadhwaj ⋅ Yujin Chen ⋅ Chuan Qin ⋅ Ziyi Kou ⋅ Yuan Tian ⋅ Eric Whitmire ⋅ Rajinder Sodhi ⋅ Hrvoje Benko ⋅ Eli Shlizerman ⋅ Yue Liu
+
+29. ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving
+   Zihao Sheng ⋅ Xin Ye ⋅ Jingru Luo ⋅ Sikai Chen ⋅ Liu Ren
+   arXiv: https://arxiv.org/abs/2604.02714
+   page:  https://zihaosheng.github.io/ExploreVLA/
+
+30. Fast and Scalable LiDAR Data Generation for Autonomous Driving Simulation without Raycasting
+   Irfan Nafiz Shahan ⋅ Al-Mubin Nabil ⋅ Arpan Kusari
+
+31. FDR-Occ: Factorized Dense Routing for Full-Spectrum 3D Occupancy Prediction
+   Dubing Chen ⋅ Huan Zheng ⋅ Tianyi Yan ⋅ Yucheng Zhou ⋅ Runzhou Tao ⋅ Zhongying Qiu ⋅ Jianfei Yang ⋅ Shen Jianbing
+   arXiv: https://arxiv.org/abs/2607.03822
+
+32. FLM-Occ: Feed-forward Likelihood Maximization for Efficient Indoor Occupancy Prediction
+   Guangcheng Chen ⋅ Lihuang Fang ⋅ Huaqi Tao ⋅ Yicheng He ⋅ Li He ⋅ Zhang Hong
+   arXiv: https://arxiv.org/abs/2606.21373
+
+33. FreeGen: Feed-Forward Reconstruction–Generation Co-Training for Free-Viewpoint Driving Scene Synthesis
+   Shijie Chen ⋅ Peixi Peng
+   arXiv: https://arxiv.org/abs/2512.04830
+
+34. FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model
+   Yuhwan Jeong ⋅ HYEONSEONG KIM ⋅ Daehyun We ⋅ Seonkyu Song ⋅ Jinnyeong Yang ⋅ Hyun-Kurl Jang ⋅ Youngho Yoon ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2606.20110
+
+35. Generative Lane Topology Reasoning via Autoregressive Model with Geometry Prior
+   Jiahui Fu ⋅ Zehao Huang ⋅ Han Li ⋅ Naiyan Wang ⋅ Si Liu
+   arXiv: https://arxiv.org/abs/2606.31814
+
+36. GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors
+   Jiazheng Liu ⋅ Hang Li ⋅ jiawei zhang ⋅ Jiahe Li ⋅ Xiaohan Yu ⋅ Shengyin Fan ⋅ Jin Zheng ⋅ Xiao Bai
+   arXiv: https://arxiv.org/abs/2608.12203
+
+37. Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting
+   Mingkui Tan ⋅ Zhuangwei Zhuang ⋅ Hui Luo ⋅ Qingyao Wu ⋅ Mingkui Tan
+   arXiv: https://arxiv.org/abs/2608.15279
+
+38. GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation
+   Yuchen Xi ⋅ tippy guo ⋅ Chenwei Hou ⋅ Zixu Liu ⋅ Jin Fang ⋅ Jason Liu ⋅ Ruigang Yang
+
+39. HAD: Combining Hierarchical Diffusion with Metric-Decoupled RL for End-to-End Driving
+   Wenhao Yao ⋅ Xinglong Sun ⋅ Zhenxin Li ⋅ Shiyi Lan ⋅ Zi Wang ⋅ Jose M Alvarez ⋅ Zuxuan Wu
+   arXiv: https://arxiv.org/abs/2604.03581
+
+40. HERO: Heterogeneous Evidential Robust Object-Level Collaborative Perception
+   Hao SI ⋅ Ehsan Javanmardi ⋅ Hanlin Wu ⋅ Manabu Tsukada
+
+41. Horizon3D: Sparse Radar-Camera Fusion for Long-Range 3D Perception in Autonomous Driving
+   Geonho Bang ⋅ Geunju Baek ⋅ DongYoung Lee ⋅ Wonjun Jeong ⋅ Jun Won Choi
+   arXiv: https://arxiv.org/abs/2606.31096
+   code:  https://github.com/geonhobang/ECCV2026_Horizon3D
+   page:  https://geonhobang.github.io/horizon3d-project-page
+
+42. HSDF-Lane: Height-Aligned Signed Distance Field with Semantic Lane Prior for 3D Lane Detection
+   Jiyong Boo ⋅ ByeongIn Joung ⋅ Hyemin Yang ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2606.31172
+   page:  https://jiyongboo.github.io/HSDF-Lane-project-page
+
+43. IRIS: Intersection-aware Ray-based Implicit Editable Scenes
+   Grzegorz Wilczyński ⋅ Mikołaj Zieliński ⋅ Krzysztof Byrski ⋅ Joanna Waczynska ⋅ Dominik Belter ⋅ Przemysław Spurek
+
+44. LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents
+   Yun He ⋅ Francesco Pittaluga ⋅ Ziyu Jiang ⋅ Matthias Zwicker ⋅ Manmohan Chandraker ⋅ Zaid Tasneem
+
+45. Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction
+   Daniel Lengerer ⋅ Mathias Pechinger ⋅ Klaus Bogenberger ⋅ Carsten Markgraf
+   arXiv: https://arxiv.org/abs/2605.12218
+
+46. Less is More: A Simple yet Effective Object-Centric Prompting Strategy for Vision-Language Reasoning in Autonomous Driving
+   Saiqian Peng ⋅ Duanfeng Chu ⋅ Liping Lu ⋅ Bing Shi
+
+47. LineGraph2Road: Structural Graph Reasoning on Line Graphs for Road Network Extraction
+   Zhengyang Wei ⋅ Renzhi Jing ⋅ Yiyi He ⋅ Jenny Suckale
+   arXiv: https://arxiv.org/abs/2602.23290
+   code:  https://github.com/wzzzzzzy/LineGraph2Road
+
+48. LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving
+   Pei Liu ⋅ Songtao Wang ⋅ Lang Zhang ⋅ Xinyue Peng ⋅ Yuandong Lyu ⋅ Jiaxin Deng ⋅ Songxin lu ⋅ Weiliang Ma ⋅ Xueyang Zhang ⋅ Yifei Zhan ⋅ Kun Zhan ⋅ Jun Ma
+   arXiv: https://arxiv.org/abs/2511.16049
+   page:  https://ocean-luna.github.io/LiSTAR.gitub.io
+
+49. LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving
+   Hao Shao ⋅ Letian Wang ⋅ Yang Zhou ⋅ Yuxuan Hu ⋅ Zhuofan Zong ⋅ Steven Waslander ⋅ Wei Zhan ⋅ Hongsheng LI
+   arXiv: https://arxiv.org/abs/2604.08719
+
+50. Long-term Traffic Simulation via Structured Autoregressive Modeling
+   Lingyu Xiao ⋅ Zexin Feng ⋅ Xintao Yan
+   arXiv: https://arxiv.org/abs/2606.31209
+
+51. MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving
+   Zhijing Cheng ⋅ Xuancheng Zhang ⋅ Donglin Di ⋅ Lei Fan ⋅ Baorui Ma ⋅ Hao Li ⋅ Xun Yang
+   arXiv: https://arxiv.org/abs/2607.23511
+   code:  https://github.com/mumucc01/MOJITO
+
+52. Multi-view Multi-vehicle Driving Dataset for Novel View Synthesis
+   Sanjay Dharavath ⋅ Hanvitha Mukkamala ⋅ Faizan Khan ⋅ Ioannis Kakogeorgiou ⋅ Aditya Arun ⋅ Zakaria Laskar ⋅ C. V. Jawahar
+   arXiv: https://arxiv.org/abs/2608.12442
+   page:  https://mv2-dataset.github.io/
+
+53. Noise is a Good Teacher: A Noise-Driven Framework for Robust Collaborative Perception
+   Chengyan Huang ⋅ Zhongxiang Zhao ⋅ Ziyao Zhang ⋅ Zihao Yang ⋅ Lin Wang
+
+54. OccDirector: Language-Guided Behavior and Interaction Generation in 4D Occupancy Space
+   Zhuding Liang ⋅ Tianyi Yan ⋅ Dubing Chen ⋅ Jiasen Zheng ⋅ Huan Zheng ⋅ Cheng-zhong Xu ⋅ Yida Wang ⋅ Kun Zhan ⋅ Shen Jianbing
+   arXiv: https://arxiv.org/abs/2604.22240
+
+55. OmniNWM: Unifying the State-Action-Reward Triad for Closed-Loop Panoramic Driving Navigation World Models
+   Bohan Li ⋅ Zhuang Ma ⋅ Dalong Du ⋅ Baorui Peng ⋅ Zhujin Liang ⋅ Zhenqiang Liu ⋅ Xianda Guo ⋅ Chao Ma ⋅ Yueming Jin ⋅ Zheng Zhu ⋅ HAO ZHAO ⋅ Wenjun Zeng ⋅ Xin Jin
+
+56. PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas
+   Chan Lee ⋅ Kimin Yun ⋅ Yuseok Bae ⋅ Seong Tae Kim ⋅ Jung Uk Kim
+   arXiv: https://arxiv.org/abs/2608.15230
+   code:  https://github.com/VisualAIKHU/PersonaDrive
+
+57. PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving
+   Pin Tang ⋅ Guoqing Wang ⋅ Xiangxuan Ren ⋅ Zhongdao Wang ⋅ Guodongfang Zhao ⋅ Bailan Feng ⋅ Chao Ma
+   arXiv: https://arxiv.org/abs/2607.04637
+
+58. Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving
+   Zongzheng Zhang ⋅ Jijun Wang ⋅ Saining Zhang ⋅ Wang Shuo ⋅ Yiru Wang ⋅ Hai Yang ⋅ Yang Chen ⋅ Yuwen Heng ⋅ HAO SUN ⋅ Jiang anqing ⋅ HAO ZHAO
+
+59. PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors
+   Haoming Xu ⋅ Wei Li ⋅ Yu Hu
+
+60. Rethinking Training and Inference for Trajectory Forecasting: Linking Winner-Take-All back to GMMs
+   Qiyuan Wu ⋅ Katie Luo ⋅ Bharath Hariharan ⋅ Wei-Lun Chao ⋅ Mark Campbell
+
+61. ScenarioControl: Vision-language Controllable Vectorized Latent Scenario Generation
+   Lili Gao ⋅ Yanbo Xu ⋅ William Koch ⋅ Samuele Ruffino ⋅ Luke Rowe ⋅ Behdad Chalaki ⋅ Dmitriy Rivkin ⋅ Julian Ost ⋅ Roger Girgis ⋅ Mario Bijelic ⋅ Felix Heide
+   arXiv: https://arxiv.org/abs/2604.17147
+   page:  https://light.princeton.edu/ScenarioControl
+
+62. SEM-ROVER: Semantic Voxel-Guided Diffusion for Large-Scale Driving Scene Generation
+   Hiba Dahmani ⋅ Nathan Piasco ⋅ Moussab Bennehar ⋅ Luis G Roldao Jimenez ⋅ Dzmitry Tsishkou ⋅ Laurent Caraffa ⋅ Jean-Philippe Tarel ⋅ Roland Brémond
+   arXiv: https://arxiv.org/abs/2604.06113
+
+63. SGC-Lane: Monocular 3D Lane Detection with Standard-Definition Map Guidance and Lane Completion
+   Fuqiang Jiang ⋅ Wei Li ⋅ Tianyao Zhao ⋅ Yu Hu
+
+64. SIGMA-Lane: Scale-pyramId Gated MAmba for Temporally Consistent Video Lane Detection
+   Zhang Tiancheng ⋅ Mengmeng Wang ⋅ Yan Gao ⋅ Xiangjie Kong ⋅ Guojiang Shen ⋅ Jiaxin Du
+   arXiv: https://arxiv.org/abs/2608.16338
+
+65. SIMSplat: Language-Aligned 4D Gaussian Splatting for Driving Scenario Generation
+   Sung-Yeon Park ⋅ Adam Lee ⋅ Juanwu Lu ⋅ Can Cui ⋅ Luyang Jiang ⋅ Rohit Gupta ⋅ Kyungtae Han ⋅ Ahmadreza Moradipari ⋅ Ziran Wang
+   arXiv: https://arxiv.org/abs/2510.02469
+
+66. Social-Mamba: Socially-Aware Trajectory Forecasting with State-Space Models
+   Po-Chien Luan ⋅ Wuyang Li ⋅ Yang Gao ⋅ Alexandre ALahi
+   arXiv: https://arxiv.org/abs/2605.15424
+   code:  https://github.com/vita-epfl/Social-Mamba
+
+67. SPARC: Single-Pass Scaling for Motion Forecasting with Conformal Bayesian Last Layers
+   Sakif Hossain ⋅ Julian Teusch ⋅ Jörg Müller
+
+68. SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving
+   Wenchao Sun ⋅ Xuewu Lin ⋅ Keyu Chen ⋅ Zixiang Pei ⋅ Xiang LI ⋅ Yining Shi ⋅ Sifa ZHENG
+   arXiv: https://arxiv.org/abs/2603.29163
+   code:  https://github.com/swc-17/SparseDriveV2
+
+69. Streaming Dense Voxel Representations for 3D Occupancy Prediction
+   Seokha Moon ⋅ Janghyun Baek ⋅ Yujin Jeong ⋅ Daewon Chae ⋅ Giseop Kim ⋅ Jungbeom Lee ⋅ Jinkyu Kim ⋅ Sunwook Choi
+   arXiv: https://arxiv.org/abs/2503.22087
+   page:  https://moonseokha.github.io/StreamOcc/
+
+70. StreetForward: Perceiving Dynamic Street with Feedforward Causal Dynamics
+   Zhongrui Yu ⋅ Zhao Wang ⋅ Yida Wang ⋅ Xueyang Zhang ⋅ Yifei Zhan ⋅ Kun Zhan
+
+71. Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving
+   Guoqing Wang ⋅ Pin Tang ⋅ Xiangxuan Ren ⋅ Liping Hou ⋅ Chao Ma
+   arXiv: https://arxiv.org/abs/2607.04661
+
+72. TEX-Drive: Temporal Perception Meets Experience-Guided Mixture-of-Experts for End-to-End Autonomous Driving
+   Yitong Li ⋅ Xuchong Zhang ⋅ Fanjie Kong ⋅ Weihuang Chen ⋅ Haonan Hou ⋅ Hongbin Sun
+
+73. Towards Metric-Agnostic Trajectory Forecasting
+   Markus Knoche ⋅ Daan de Geus ⋅ Bastain Leibe
+   arXiv: https://arxiv.org/abs/2607.01133
+   page:  https://vision.rwth-aachen.de/TraDiE-policies
+
+74. Towards Robust Driving Perception: A Flexible Scale-Driven Family for Self-Supervised Monocular Depth Estimation
+   zhaowen zhu ⋅ Li Zhang ⋅ Chen Yujie ⋅ Zhang Tian ⋅ Yingjie Wang ⋅ Mingxia Zhan
+   arXiv: https://arxiv.org/abs/2607.00736
+   code:  https://github.com/startnew/flexdepth
+
+75. UECP: Uncertainty-Enhanced Collaborative Perception
+   Kang Yang ⋅ Tianci Bu ⋅ Peng Wang ⋅ Deying Li ⋅ Jie Wen ⋅ Yongcai Wang
+   arXiv: https://arxiv.org/abs/2606.23046
+
+76. UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving
+   Guosheng Zhao ⋅ Yaozeng Wang ⋅ Xiaofeng Wang ⋅ Zheng Zhu ⋅ Tingdong Yu ⋅ Guan Huang ⋅ Yongchen Zai ⋅ Ji Jiao ⋅ Changliang Xue ⋅ Xiaole Wang ⋅ Zhen Yang ⋅ Futang Zhu ⋅ Xingang Wang
+   arXiv: https://arxiv.org/abs/2602.02002
+
+77. UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Driving
+   Siyi Li ⋅ Qingwen Zhang ⋅ Ishan Khatri ⋅ Kyle Vedder ⋅ Eric Eaton ⋅ Deva Ramanan ⋅ Neehar Peri
+
+78. Unpaired Geometry-Guided Sim2Real Translation for Autonomous Driving
+   Xinzhuo Chen ⋅ Shijie Wang ⋅ Chao Gao ⋅ Jinguang Gu ⋅ Gongjin Lan
+
+79. Unveiling Transferability in Trajectory Prediction via Latent Scene Embeddings
+   Theodor Westny ⋅ David Axelsson ⋅ Björn Olofsson ⋅ Erik Frisk
+   arXiv: https://arxiv.org/abs/2606.30777
+
+80. YouTube-Occ: Learning Indoor 3D Semantic Occupancy Prediction from YouTube Videos
+   Haoming Chen ⋅ Lichen Yuan ⋅ TianFang Sun ⋅ Jingyu Gong ⋅ Zhizhong Zhang ⋅ Xin Tan ⋅ Yanyun Qu ⋅ Yuan Xie
+   arXiv: https://arxiv.org/abs/2506.18266
+
+81. ZTRS: Zero-Human Demonstration End-to-end Autonomous Driving with Trajectory Scorer
+   Zhenxin Li ⋅ Nadine Chang ⋅ Wenhao Yao ⋅ Xinglong Sun ⋅ Zi Wang ⋅ Maying Shen ⋅ Jingde Chen ⋅ Jingyu Song ⋅ Kailin Li ⋅ Zuxuan Wu ⋅ Shiyi Lan ⋅ Jose M Alvarez
+

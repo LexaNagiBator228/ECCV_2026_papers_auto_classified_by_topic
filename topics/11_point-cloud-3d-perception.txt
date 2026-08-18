@@ -1,0 +1,219 @@
+Point Cloud & 3D Perception  (57 papers, 31 with arXiv links)  [3D, Geometry & Imaging]
+============================================================================
+
+1. Adaptive Neural Dynamics for Robust Geometric LiDAR-Inertial State Estimation on UAVs
+   Sitian Peng ⋅ Rui Wang
+
+2. Analytic Bayesian Uncertainty for LiDAR Segmentation: A Single-pass Generative Approach
+   Hanieh Shojaei Miandashti ⋅ Qianqian Zou ⋅ Claus Brenner
+
+3. BitRIC: Efficient Neural Compression of LiDAR Range Images via Hierarchical Bitplanes
+   Kang You ⋅ Tong Chen ⋅ Dandan Ding ⋅ M. Salman Asif ⋅ Zhan Ma
+
+4. CascadeProto: Cascaded Cross-Modal Prototype Purification via Entropy-Aware Learning for Few-Shot 3D Point Cloud Segmentation
+   Changshuo Wang ⋅ Weijun Li ⋅ Fan Mo ⋅ Zhonghang Liu ⋅ Shuting He ⋅ Prayag Tiwari ⋅ Dimitrios Kanoulas
+
+5. DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection
+   haifa zhang ⋅ Yijing Wang ⋅ Peixi Peng ⋅ Zhiqiang Zuo
+   arXiv: https://arxiv.org/abs/2607.12419
+
+6. Delaunay Canopy: Building Wireframe Reconstruction from Airborne LiDAR Point Clouds via Delaunay Graph
+   Donghyun Kim ⋅ Chanyoung Kim ⋅ YoungJoong Kwon ⋅ Seong Jae Hwang
+   arXiv: https://arxiv.org/abs/2604.02497
+
+7. DepWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors
+   Seok-Young Kim ⋅ Abdelrahman Elskhawy ⋅ TAEWOOK HA ⋅ Dooyoung Kim ⋅ Eunjae Shin ⋅ Benjamin Busam ⋅ Woontack Woo
+
+8. Don’t Starve the Boundaries: Boundary-Constrained Label Propagation for Weakly Supervised 3D Segmentation
+   Shuwei Wu ⋅ shuo jin ⋅ Zhijin He ⋅ Siyue Yu ⋅ ENG LIM ⋅ Qiufeng Wang ⋅ Jimin Xiao
+
+9. DRS-VPT: Directly Re-localizing in Scenes using a Vision and Point Transformer
+   Lanke Fu ⋅ Maurice Fallon
+
+10. ESNE: Efficient Surface Normal Estimation for LiDAR Point Clouds with Sequential Modeling and Variability Guidance
+   Kohei Matsuzaki ⋅ Keisuke Nonaka
+
+11. Event-LiDAR: 3D Eventification for Efficient Point Cloud Processing
+   Masatoshi Murakami ⋅ Eisho Tsuji ⋅ Ken Sakurada
+
+12. Ex-Sim(3)-Reg: 2D-3D Correspondence Pruning via Extended Sim(3) Registration
+   Pei An ⋅ Muyao Peng ⋅ Junfeng Ding ⋅ Jiaqi Yang ⋅ Liangliang Nan
+
+13. G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Segmentation
+   Hojun Song ⋅ Chae-yeong Song ⋅ Jeong-hun Hong ⋅ chaewon moon ⋅ Soo Ye Kim ⋅ Yiyi Liao ⋅ Jaehyup Lee ⋅ Sang-hyo Park
+   arXiv: https://arxiv.org/abs/2601.03510
+
+14. Graph-GSReg: Leveraging 3D Scene Graphs for Gaussian Splatting Registration
+   Jaewon Lee ⋅ Mangyu Kong ⋅ Euntai Kim
+   arXiv: https://arxiv.org/abs/2606.29782
+
+15. GraphCPD: Coherent Point Drift for Point Cloud Registration via Graph Signal Processing
+   Yingcheng Lai ⋅ Xingjian Wang ⋅ Li Chai
+
+16. GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation
+   Xinyu Wang ⋅ Muhammad Ibrahim ⋅ Atif Mansoor ⋅ Ajmal Mian
+
+17. HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks
+   Keke Tang ⋅ Yu Liao ⋅ Weilong Peng ⋅ Xiaofei Wang ⋅ Daizong Liu ⋅ Zhongyun Hua ⋅ Peican Zhu ⋅ Zhihong Tian
+
+18. InSeg: Interactive Refinement via Intent Propagation for Point Cloud Semantic Segmentation
+   Yudong Liu ⋅ Yunfei Li ⋅ Ge Gao ⋅ Han Huang ⋅ Ming Gu
+
+19. LeAD-M3D: Leveraging Asymmetric Distillation for Real-Time Monocular 3D Detection
+   Johannes Meier ⋅ Jonathan Michel ⋅ Oussema Dhaouadi ⋅ Yung-Hsu Yang ⋅ Christoph Reich ⋅ Zuria Bauer ⋅ Stefan Roth ⋅ Marc Pollefeys ⋅ Jacques Kaiser ⋅ Daniel Cremers
+   arXiv: https://arxiv.org/abs/2512.05663
+   page:  https://deepscenario.github.io/LeAD-M3D/
+
+20. Learning 1-Bit LiDAR-based Localization with Auxiliary Objective
+   Kaijie Yin ⋅ Zhiyuan Zhang ⋅ Tian Gao ⋅ Wentao Zhu ⋅ Cheng-zhong Xu ⋅ Hui Kong
+   arXiv: https://arxiv.org/abs/2606.27729
+
+21. Learning Manifolds in High-D Point Embedding for Anisotropic Surface Approximation from Unstructured Point Clouds
+   Hongbo Li ⋅ Haikuan Zhu ⋅ Xiaohu Guo ⋅ Wenping Wang ⋅ Jing Hua ⋅ Zichun Zhong
+   arXiv: https://arxiv.org/abs/2607.28855
+
+22. Learning to Suppress SPAD-based LiDAR Flare
+   Xuanya Zhu ⋅ Linghao Shen
+   arXiv: https://arxiv.org/abs/2607.03247
+
+23. Learning to Tessellate: Point Cloud Generation via Recursive Spectral Partitioning
+   Monan Sun ⋅ Bangzhen Liu ⋅ Huaidong Zhang ⋅ Shengfeng He
+   arXiv: https://arxiv.org/abs/2608.02432
+   code:  https://huggingface.co/Mo-nan/PointRSP
+
+24. LESV:Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding
+   Fusang WANG ⋅ Nathan Piasco ⋅ Moussab Bennehar ⋅ Luis G Roldao Jimenez ⋅ Dzmitry Tsishkou ⋅ Fabien Moutarde
+   arXiv: https://arxiv.org/abs/2604.01388
+
+25. Markov-Renewal Single-Photon LiDAR Simulator
+   Weijian Zhang ⋅ PRATEEK CHENNURI ⋅ Hashan Weerasooriya ⋅ Bole Ma ⋅ Stanley Chan
+   arXiv: https://arxiv.org/abs/2512.04924
+
+26. MASS: Motion-Aligned Selective Scan for Flow-Based Video Frame Interpolation
+   Jun-Sang YOO ⋅ Seung-Won Jung
+
+27. Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering
+   Hsiang-Wei Huang ⋅ Fu-Chen Chen ⋅ Li-Wu Tsao ⋅ Cheng-Han Lee ⋅ Che-Chun Su ⋅ Lu Xia ⋅ Ronghui Peng ⋅ Jenq-Neng Hwang ⋅ Min Sun ⋅ Cheng-Hao Kuo
+
+28. NegROI: Click-Centric Uncertainty-Guided Refinement with Scene-Conditioned Negative Prompts for Robust Interactive 3D Segmentation
+   shuheng zhang ⋅ Feng Wu
+   arXiv: https://arxiv.org/abs/2607.05955
+
+29. NoPA: Non-Parametric Online 3D Scene Graph Generation
+   Qi Xun Yeo ⋅ Seungjun Lee ⋅ Yan Li ⋅ Gim Hee Lee
+   arXiv: https://arxiv.org/abs/2607.00529
+
+30. OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration
+   Pei An ⋅ Jiaqi Yang ⋅ Yulong Wang ⋅ Quan Siwen ⋅ Liangliang Nan
+
+31. PGCR: Pose–Geometry Coupled Reasoning for Image-to-Point Cloud Registration
+   Xinjun Li ⋅ Wenfei Yang ⋅ Yihan Chen ⋅ Zhixin Cheng ⋅ Shifeng Zhang ⋅ Xu Zhou ⋅ Tianzhu Zhang
+
+32. PrintAnything: Learning Geometric Plan Map for 3D Printing G-code Generation from Unoriented Point Clouds
+   Sangmin Hong ⋅ Daniel Sungho Jung ⋅ Heewon Kim ⋅ Kyoung Mu Lee
+
+33. Progressive and Localized Super-Resolution of 3D Objects via Localized Latent Voxel Diffusion
+   Yuxin Liu ⋅ Minshan Xie ⋅ Jiawen Liang ⋅ Runsong Zhu ⋅ Chi-Wing Fu ⋅ Tien-Tsin Wong
+
+34. PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation
+   Yi Yang ⋅ Myrna Castillo Silva ⋅ Bodo Rosenhahn ⋅ Michael Yang
+   arXiv: https://arxiv.org/abs/2607.07170
+   code:  https://github.com/yyyyangyi/PUF
+
+35. RadarGen: Automotive Radar Point Cloud Generation from Cameras
+   Tomer Borreda ⋅ Fangqiang Ding ⋅ Sanja Fidler ⋅ Shengyu Huang ⋅ Or Litany
+   arXiv: https://arxiv.org/abs/2512.17897
+   page:  https://radargen.github.io/
+
+36. RAG-3DSG: Enhancing 3D Scene Graphs with Re-Shot Guided Retrieval-Augmented Generation
+   Yue Chang ⋅ Rufeng Chen ⋅ Zhaofan ZHANG ⋅ Yi Chen ⋅ Yifan Tian ⋅ Sihong Xie
+   arXiv: https://arxiv.org/abs/2601.10168
+
+37. RBE-Flow:Recurrent Bayesian Estimation on Feature Manifolds for Cross-Modal Registration
+   Mengzhu Ding ⋅ Xin Song ⋅ Xiaoke Ding ⋅ Hongwei Ding ⋅ Xuecong Liu
+   arXiv: https://arxiv.org/abs/2606.30492
+   code:  https://github.com/NEU-Liuxuecong/RBE-Flow
+
+38. ReCamDriving: LiDAR-Free Camera-Controlled Video Synthesis for Novel Trajectories
+   Yaokun li ⋅ Shuaixian Wang ⋅ Mantang GUO ⋅ Jiehui Huang ⋅ Taojun Ding ⋅ Mu Hu ⋅ Kaixuan Wang ⋅ Shaojie Shen ⋅ Guang Tan
+   arXiv: https://arxiv.org/abs/2512.03621
+   page:  https://recamdriving.github.io/
+
+39. RECO: Region-Aware Compensation for Extrinsic Perturbations in Roadside 3D Detection
+   Junsheng Du ⋅ Yuhuan Lu ⋅ Zhaocheng He
+   arXiv: https://arxiv.org/abs/2607.20947
+
+40. RegHead: Non-Humanoid Head Blendshapes via Feed-Forward Registration
+   Jiahao Luo ⋅ Hao Zhang ⋅ Jianqi Chen ⋅ Yijie He ⋅ Jiaxu Zou ⋅ Michael Vasilkovsky ⋅ Sergei Korolev ⋅ Sergey Tulyakov ⋅ Chaoyang Wang ⋅ Peter Wonka ⋅ James Davis ⋅ Jian Wang
+   arXiv: https://arxiv.org/abs/2607.12206
+   page:  https://snap-research.github.io/RegHead/
+
+41. Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching
+   Yue Pan ⋅ Tao Sun ⋅ Liyuan Zhu ⋅ Lucas Nunes ⋅ Iro Armeni ⋅ Jens Behley ⋅ Cyrill Stachniss
+   arXiv: https://arxiv.org/abs/2512.01850
+   code:  https://github.com/PRBonn/RAP
+
+42. RePL: Pseudo-label Refinement for Semi-supervised LiDAR Semantic Segmentation
+   Donghyeon Kwon ⋅ Taegyu Park ⋅ Suha Kwak
+   arXiv: https://arxiv.org/abs/2604.06825
+
+43. SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics
+   Chongjian Wang ⋅ Junjie Gao
+   arXiv: https://arxiv.org/abs/2607.23096
+
+44. Structured SIR: Efficient and Expressive Importance-Weighted Inference for High-Dimensional Image Registration
+   Ivor Simpson ⋅ Neill Campbell
+   arXiv: https://arxiv.org/abs/2603.17415
+
+45. SuperFlex: Deformable Superquadrics for Point Cloud Decomposition
+   Gabriel Tavernini ⋅ Elisabetta Fedele ⋅ Tiago Novello ⋅ Leonidas Guibas ⋅ Marc Pollefeys ⋅ Francis Engelmann
+   arXiv: https://arxiv.org/abs/2607.01015
+   page:  https://superflex3d.github.io
+
+46. SV-TAD: Native Sparse Convolutions for Efficient Temporal Action Detection
+   Ricardo Ignacio Pizarro Carreño ⋅ Roberto Valle ⋅ José Buenaposada ⋅ Luis M. Bergasa ⋅ Luis Baumela
+
+47. SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data
+   Qingwen Zhang ⋅ Xiaomeng Zhu ⋅ ChenHan Jiang ⋅ Patric Jensfelt
+   arXiv: https://arxiv.org/abs/2604.09411
+   page:  https://kin-zhang.github.io/SynFlow
+
+48. Think While You Map: Asynchronous Vision-Language Agents for Incremental 3D Scene Graphs
+   Deniz Bickici ⋅ Michael Pabst ⋅ Shohei Mori ⋅ Dieter Schmalstieg
+   arXiv: https://arxiv.org/abs/2606.31471
+   page:  https://denizbickici.github.io/thinkgraphs/
+
+49. Towards Practical Lossless Neural Compression for LiDAR Point Clouds
+   pengpeng yu ⋅ Haoran Li ⋅ Runqing Jiang ⋅ Dingquan Li ⋅ Jing Wang ⋅ Liang Lin ⋅ Yulan Guo
+   arXiv: https://arxiv.org/abs/2603.25260
+   code:  https://github.com/pengpeng-yu/FastPCC
+
+50. Tri-Efficient Transfer Learning for Point Cloud Videos
+   Yiding Sun ⋅ Dongxu Zhang ⋅ Jihua Zhu ⋅ Haozhe Cheng ⋅ Zhengqiao Li ⋅ Pengcheng Li ⋅ Chaowei Fang ⋅ Yonghao Dong ⋅ Lin Chen
+   arXiv: https://arxiv.org/abs/2606.24175
+
+51. Two-Parameter Flow Map Learning for Continuous-Time Diffeomorphic Image Registration
+   Mohammadjavad Matinkia ⋅ Nilanjan Ray
+
+52. Uncertainty-Driven Gaussian Sphere Propagation for 3D Semantic Segmentation
+   Zhicheng Yan ⋅ Qingyong Li ⋅ Yixiao Song ⋅ Wen Wang
+
+53. Unsupervised Point Cloud Registration via Training-Time Semantic Guidance
+   Kezheng Xiong ⋅ Shiyun Xu ⋅ Sheng Ao ⋅ Siqi Shen ⋅ Cheng Wang ⋅ Chenglu Wen
+
+54. VoxAnchor: Explicit Voxel-Semantic Grounding for Spatial Understanding in Videos
+   Xinglin Li ⋅ TingTing Long ⋅ Jingzhi Zhou ⋅ Chuxuan Zeng ⋅ Jiajing Chen ⋅ Jian Yang ⋅ Jin Xie
+
+55. When the City Teaches the Car: Label-Free 3D Perception from Infrastructure
+   ZHEN XU ⋅ Jinsu Yoo ⋅ Cristian Bautista ⋅ Zanming Huang ⋅ Tai-Yu Pan ⋅ Zhenzhen Liu ⋅ Katie Luo ⋅ Mark Campbell ⋅ Bharath Hariharan ⋅ Wei-Lun Chao
+   arXiv: https://arxiv.org/abs/2603.16742
+   page:  https://jinsuyoo.info/civet/
+
+56. White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation
+   Jiyun Im ⋅ SuBeen Lee ⋅ Miso Lee ⋅ Jae-Pil Heo
+   arXiv: https://arxiv.org/abs/2509.13907
+   code:  https://github.com/JiyunIm00/WARM.git
+
+57. XPos3R: Cross-Modal Transformer for Intraoperative 2D/3D Registration
+   Shiyan Su ⋅ Ruyi Zha ⋅ HONGDONG LI ⋅ Xuelian Cheng ⋅ Zongyuan Ge
+

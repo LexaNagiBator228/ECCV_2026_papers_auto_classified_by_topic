@@ -1,0 +1,307 @@
+Transfer, Adaptation & Continual Learning  (80 papers, 44 with arXiv links)  [Learning, Efficiency & Trust]
+============================================================================
+
+1. 3D Field of Junctions: A Noise-Robust, Training-Free Structural Prior for Volumetric Inverse Problems
+   Namhoon Kim ⋅ NARGES MOEINI ⋅ Justin Romberg ⋅ Sara Fridovich-Keil
+   arXiv: https://arxiv.org/abs/2603.02149
+   code:  https://github.com/voilalab/3D-Field-of-Junctions
+
+2. A Mechanism-Driven Theory of Phase Transitions in Active Learning
+   Julia Machnio ⋅ Mads Nielsen ⋅ MOSTAFA MEHDIPOUR GHAZI
+   arXiv: https://arxiv.org/abs/2607.00144
+
+3. Abstract the Layout, Focus the Detail: A Dual-Granularity Representation Framework for Zero-Shot 3D Visual Grounding
+   Zeyuan Lin ⋅ Hanxuan Li ⋅ Chen He ⋅ Ruiping Wang ⋅ Zhaoxiang Liu ⋅ Xilin CHEN
+
+4. Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D
+   Daniel DeTone ⋅ Tianwei Shen ⋅ Fan Zhang ⋅ Lingni Ma ⋅ Julian Straub ⋅ Richard Newcombe ⋅ Jakob Engel
+   arXiv: https://arxiv.org/abs/2604.05212
+   page:  http://facebookresearch.github.io/boxer
+
+5. Bridging Theory and Practice in Source-Free Domain Adaptation via Adversarial Proxy Perturbation
+   Dexuan Zhang ⋅ Qianyu Zhou ⋅ Thomas Westfechtel ⋅ Yusuke Mukuta ⋅ Tatsuya Harada
+
+6. Calibrate Before Adapt: Training-Free Pseudo-Label Calibration for Semi-Supervised Cross-Domain Few-Shot Detection
+   Xin Yang ⋅ Fei Zhou ⋅ Wei Wei ⋅ Lei Zhang
+
+7. CHIMERA: Adaptive Cache Injection and Semantic Anchor Prompting for Zero-shot Image Morphing with Morphing-oriented Metrics
+   Dahyeon Kye ⋅ Jeahun Sung ⋅ Minkyu Jeon ⋅ Jihyong Oh
+
+8. CloSeR: Unified Relational Distillation from Closed-Set Teachers for Category Discovery
+   Yuanpei Liu ⋅ Zhenqi He ⋅ Jialu Tang ⋅ Kai Han
+
+9. COLA: Continual Orthogonal Low-Rank Adaptation for Class-Incremental Learning
+   Monu Nagar ⋅ Debasis Das
+
+10. CoReLIN: Constraint-based Reasoning for Zero-shot Lifelong Interactive Navigation
+   Apoorva Vashisth ⋅ Manav Kulshrestha ⋅ Pranav Bakshi ⋅ Damon Conover ⋅ Guillaume Sartoretti ⋅ Aniket Bera
+   arXiv: https://arxiv.org/abs/2602.20055
+
+11. CS-TTA: Preserving Concept Sensitivity in Test-Time Adaptation
+   Junah Jung ⋅ YeonGyu Han ⋅ Chang Min Park ⋅ Dongheon Lee
+
+12. D-VLAM: Differential Vision and Language Mixing for Rehearsal Free Continual Learning
+   Muhammad Anwar Ma'sum ⋅ Mohsen Guizani ⋅ Waseem Ullah
+
+13. DA-MergeLoRA: Hypernetwork-Based LoRA Merging for Few-Shot Test-Time Domain Adaptation
+   Siobhan Reid ⋅ Zhixiang Chi ⋅ Li Gu ⋅ Omid Heidari ⋅ Ziqiang Wang ⋅ Yang Wang
+   arXiv: https://arxiv.org/abs/2607.17467
+   code:  https://github.com/nahbois4321/DA-MergeLoRA
+
+14. Deep Noise Label Learning via Effective Rank Reduction
+   Changyi Ma ⋅ Zihan Fang ⋅ Lihua Zhou ⋅ Tao Li ⋅ Wenyu Liu ⋅ Runsheng Yu ⋅ Xuan Song
+
+15. Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation
+   Hyun-Kurl Jang ⋅ Jihun Kim ⋅ Hyeokjun Kweon ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2606.20196
+   code:  https://github.com/blue-531/DOALL
+
+16. Domain Adaptation with Adaptive Imagination for Visual Reinforcement Learning under Limited Target Data
+   Hyunwoo Park ⋅ Sanghyun Lee
+   arXiv: https://arxiv.org/abs/2606.30192
+
+17. Domain Generalization via Text-Anchored Information Bottleneck
+   Eunyi Lyou ⋅ YUNJEONG CHOI ⋅ Junho Lee ⋅ Lee Joonseok
+   arXiv: https://arxiv.org/abs/2607.01657
+
+18. DP-BOA: Dirichlet-Process Birth-or-Assign for On-the-Fly Category Discovery
+   Peiyan Gu ⋅ Zixin Teng ⋅ Xuming He
+   arXiv: https://arxiv.org/abs/2607.13504
+
+19. DriveVA: Video Action Models are Zero-Shot Drivers
+   Mengmeng Liu ⋅ Diankun Zhang ⋅ Jiuming Liu ⋅ Jianfeng Cui ⋅ Hongwei Xie ⋅ Guang Chen ⋅ Hangjun Ye ⋅ Michael Yang ⋅ Francesco Nex ⋅ Hao Cheng
+   arXiv: https://arxiv.org/abs/2604.04198
+
+20. Dual-Margin Embedding for Fine-Grained Long-Tailed Plant Taxonomy
+   Cheng-Yaw Low ⋅ Heejoon Koo ⋅ Jaewoo Park ⋅ Meeyoung Cha
+   arXiv: https://arxiv.org/abs/2512.18994
+
+21. DualCount: Structurally Consistent Density and Point Modeling for Zero-Shot Object Counting
+   Xuan Cuong Ngo
+
+22. Dynamic-V2C: Editable and Continual Vision-to-Concept Bottleneck Models via Influence Functions
+   Songning Lai ⋅ Shaofeng Liang ⋅ Jiayu Yang ⋅ Ninghui Feng ⋅ Yuxuan Fan ⋅ Wenshuo Chen
+
+23. Fast Spatial Memory with Scalable Elastic Test-Time Training
+   Ziqiao Ma ⋅ Xueyang Yu ⋅ Haoyu Zhen ⋅ Yuncong Yang ⋅ Joyce Chai ⋅ Chuang Gan
+
+24. FD²: A Dedicated Framework for Fine-Grained Dataset Distillation
+   Hongxu Ma ⋅ Guang Li ⋅ Shijie Wang ⋅ DONGZHAN ZHOU ⋅ Baoli Sun ⋅ Takahiro Ogawa ⋅ Miki Haseyama ⋅ Zhihui Wang
+
+25. Few-Shot Synthetic Image Attribution: Identifying Unseen Generators with Limited Samples
+   Shiyu Wu ⋅ Shuyan Li ⋅ Jing Li ⋅ Jing Liu ⋅ Yequan Wang
+   arXiv: https://arxiv.org/abs/2509.25682
+   code:  https://github.com/teheperinko541/OmniDFA
+
+26. From Local Geometry to Global Pseudo-Labeling for Robust Positive–Unlabeled Learning under Covariate Shift
+   Firas Gabetni ⋅ Alexandre Rocchi--Henry ⋅ Ziyi LIU ⋅ Nacim Belkhir ⋅ Gianni Franchi
+   arXiv: https://arxiv.org/abs/2605.31187
+
+27. G-ZAP: A Generalizable Zero-Shot Framework for Arbitrary-Scale Pansharpening
+   Zhiqi Yang ⋅ Shan Yin ⋅ Jingze Liang ⋅ Liang-Jian Deng
+   arXiv: https://arxiv.org/abs/2603.14412
+
+28. Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning
+   Jiahe Chen ⋅ Qian Shao ⋅ Qiyuan Chen ⋅ Jiaying He ⋅ Jintai Chen ⋅ Hongxia Xu ⋅ Jian Wu
+   arXiv: https://arxiv.org/abs/2606.26973
+   code:  https://github.com/JiaheChen2002/GGR
+
+29. Geometric Regularization for Long-Tailed Semi-Supervised Learning via Gaussian Feature Bridges
+   Hongyang He ⋅ Xinyuan Song ⋅ Yan Zhong ⋅ Daizong Liu ⋅ Yanbin Li ⋅ Yangfan He ⋅ Wenqiao Zhang
+
+30. Geometry-Anchored Transport Framework for Exemplar-Free Class-Incremental Learning
+   Hongye Xu ⋅ Bartosz Krawczyk
+   arXiv: https://arxiv.org/abs/2606.25347
+   code:  https://github.com/HXuSz11/GATF_ECCV2026
+
+31. Graph Coloring for Multi-Task Learning
+   Santosh Patapati ⋅ Ian Noronha
+   arXiv: https://arxiv.org/abs/2509.16959
+
+32. H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks
+   Seulgi Jeong ⋅ Yunseong Cho ⋅ Sanghun Park
+   arXiv: https://arxiv.org/abs/2606.25578
+   page:  https://sanghunpark.github.io/hadapter_page/
+
+33. HER-Count: Learning Hyper-Exemplar Representation for Generalized Zero-Shot Object Counting
+   Jianing Li ⋅ Xiaobin Liu ⋅ Ruihan Xu
+
+34. Holistic Optimal Label Selection for Robust Prompt Learning under Partial Labels
+   Yaqi Zhao ⋅ Haoliang Sun ⋅ Yating Wang ⋅ Yongshun Gong ⋅ Yilong Yin
+   arXiv: https://arxiv.org/abs/2604.06614
+
+35. HSFM: Hard-Set-Guided Feature-Space Meta-Learning for Robust Classification under Spurious Correlations
+   Aryan Yazdan Parast ⋅ Khawar Islam ⋅ Soyoun Won ⋅ Basim Azam ⋅ NAVEED AKHTAR
+   arXiv: https://arxiv.org/abs/2603.29313
+
+36. Interference-Aware Continual Vision–Language Learning via Instance-Level Expert Routing
+   Zhang Changyuan ⋅ Tianxiang Xu ⋅ Canran Xiao ⋅ Fei Shen
+
+37. LDC-MTL: Balancing Multi-Task Learning through Scalable Loss Discrepancy Control
+   Peiyao Xiao ⋅ Chaosheng Dong ⋅ Shaofeng Zou ⋅ Kaiyi Ji
+   arXiv: https://arxiv.org/abs/2502.08585
+
+38. Learning Probabilistic Prompt for Continual Learning
+   Hyekang Park ⋅ Sanghoon Lee ⋅ Geon Lee ⋅ Jongyoun Noh ⋅ BUMSUB HAM
+   arXiv: https://arxiv.org/abs/2607.04711
+
+39. Learning to Recover Task Experts from a Multi-Task Merged Model
+   Jinwook Jung ⋅ Taegyu Kim ⋅ Kumju Jo ⋅ Sungyong Baik
+   arXiv: https://arxiv.org/abs/2606.26902
+   code:  https://github.com/BAIKLAB/ReTeX
+
+40. Low-Rank Ternary Adaptation for Fine-Tuning Transformers
+   Alexandru-Dragos Manolache ⋅ Yunqiang Li ⋅ Jan van Gemert
+
+41. Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning
+   Dong-Dong Wu ⋅ Zhaoyi Li ⋅ Xiang Li ⋅ Zhiqiang Shen
+
+42. Mask-guided Semantic Alignment: Robust Learning with Noisy Labels via Temporal Attention Stability
+   Yubo Nian ⋅ Can Gao
+
+43. Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras
+   Ruijun Zhang ⋅ Hang Su ⋅ Kostas Daniilidis ⋅ Ziyun Wang
+   arXiv: https://arxiv.org/abs/2604.18744
+   code:  https://github.com/spikelab-jhu/Match-Any-Events
+
+44. Maximum Spanning Tree Guided Confidence and Sparse Graph for Robust Noisy Label Learning
+   Gengfeng Chen ⋅ Xu Liu ⋅ Boyi Peng ⋅ Liangqiu Xiao ⋅ Weicheng Xie ⋅ Siyang Song ⋅ Zitong Yu ⋅ Laizhong Cui ⋅ Linlin Shen
+
+45. MixTTA: Low-Rank Cross-Channel Mixing for Reliable Test-Time Adaptation
+   Mansoo Jung ⋅ Youngwook Kim ⋅ Jungwoo Lee
+   arXiv: https://arxiv.org/abs/2606.28142
+   code:  https://github.com/delta6189/MixTTA
+
+46. MMEarth-Bench: Global Model Adaptation via Multimodal Test-Time Training
+   Lucia Gordon ⋅ Serge Belongie ⋅ Christian Igel ⋅ Nico Lang
+   arXiv: https://arxiv.org/abs/2602.06285
+
+47. Multi-Hypothesis Test-Time Adaptation to Mitigate Underspecification
+   Afshar Shamsi ⋅ Xiao-Yu Guo ⋅ Hamid Alinejad-Rokny ⋅ Arash Mohammadi ⋅ Damien Teney ⋅ Ehsan Abbasnejad
+   arXiv: https://arxiv.org/abs/2607.00259
+
+48. Multi-modal Knowledge Preserving Adapter for Embedding Backward Compatibility
+   Jaeseok Byun ⋅ Gukyeong Kwon ⋅ Han-Kai Hsu ⋅ MEHER GITIKA KARUMURI ⋅ Zhikang Zhang ⋅ Hao Yang ⋅ Davide Modolo
+
+49. Neutralizing Token Aggregation via Information Augmentation for Efficient Test-Time Adaptation
+   Yizhe Xiong ⋅ Zihan Zhou ⋅ Yiwen Liang ⋅ Hui Chen ⋅ Zijia Lin ⋅ Xinhao Xu ⋅ Tianxiang Hao ⋅ Fan Zhang ⋅ Jungong Han ⋅ Guiguang Ding
+   arXiv: https://arxiv.org/abs/2508.03388
+
+50. On the Vulnerability of Parameter-Level Defenses to Model Merging
+   Kuangpu Guo ⋅ Jian Liang ⋅ Qingyan Zheng ⋅ Yu Yongcan ⋅ Zilei Wang ⋅ Ran He ⋅ Tieniu Tan
+   arXiv: https://arxiv.org/abs/2606.30360
+   code:  https://github.com/krumpguo/secure-merge-attack
+
+51. Online Versatile Incremental Learning: Towards Class and Domain-Agnostic Adaptation at Any Time
+   Jaeho Lee ⋅ Jun-Yeong Moon ⋅ Min-Yeong Park ⋅ Jung Uk Kim ⋅ Gyeong-Moon Park
+
+52. ORACLE-3D: Open-world Region-aligned Cross-modal Learning for Label-efficient 3D Scene Understanding
+   Yuru Wang ⋅ Pei Liu ⋅ Songtao Wang ⋅ Zehan Zhang ⋅ Xinyan Lu ⋅ Changwei Cai ⋅ Hao Li ⋅ Haipeng LIU ⋅ Qingtian Ning ⋅ Jun Ma
+
+53. Prior-Conditioned Gaussian Discriminants for Generalizable AI-generated Image Detection
+   Shashank Kotyan ⋅ Makoto Shing ⋅ Yuki Imajuku ⋅ Rujikorn Charakorn ⋅ Tarin Clanuwat
+
+54. R2M: Real-Aware Residual Model Merging for Robust and Generalizable Deepfake Detection
+   Jinhee Park ⋅ Guisik Kim ⋅ Choongsang Cho ⋅ Junseok Kwon
+
+55. Rank-Aware Hyperbolic Alignment for Vision–Language Dataset Distillation
+   Jongoh Jeong ⋅ Sun-Kyung Lee ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2606.29464
+   page:  https://andyj1.github.io/raha
+
+56. Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning
+   MINSEOK KANG ⋅ Minhyeok Lee ⋅ Minjung Kim ⋅ Jungho Lee ⋅ Donghyeong Kim ⋅ Sungmin Woo ⋅ Inseok Jeon ⋅ Sangyoun Lee
+   arXiv: https://arxiv.org/abs/2603.21559
+
+57. Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors
+   Guanyu Lu ⋅ Fang Zhou ⋅ Cheqing Jin
+   arXiv: https://arxiv.org/abs/2606.29428
+
+58. Robustness Emerges Early in Training Dynamics, but Is Not Preserved
+   Jiangang Yang ⋅ Wenhui Shi ⋅ Lu Hu ⋅ Jing Xing ⋅ Jian Liu
+   arXiv: https://arxiv.org/abs/2608.04442
+
+59. RobustRDP: Advancing Reaction Diagram Parsing via Synthetic-to-Real Data Scaling and Robustness-Oriented Training
+   Jianting Tang ⋅ zezhong wu ⋅ Linli Xu
+
+60. RUTaL: Residual Upcycling with Task Ladder for Efficient Multi-Task Learning
+   Haiming Yao ⋅ Wei Luo ⋅ Qiyu Chen ⋅ Jianxing Liao ⋅ Wei You
+
+61. ScAle: Attention Head Scaling as a Minimal Adapter for Spatial Reasoning in Vision–Language Models
+   Rahul Chowdhury ⋅ Timothy Rupprecht ⋅ Xuan Shen ⋅ Pu Zhao ⋅ Yanzhi Wang
+
+62. Sim, Yet Same: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+   Yunsong Zhou ⋅ Hangxu Liu ⋅ Xuekun Jiang ⋅ Xing Shen ⋅ Yuanzhen Zhou ⋅ Hui Wang ⋅ Baole Fang ⋅ Yang Tian ⋅ Mulin Yu ⋅ Qiaojun Yu ⋅ Li Ma ⋅ Hengjie Li ⋅ Hanqing Wang ⋅ Jia Zeng ⋅ Jiangmiao Pang
+
+63. Solving Semi-Supervised Few-Shot Learning from an Auto-Annotation Perspective
+   Tian Liu ⋅ Anwesha Basu ⋅ James Caverlee ⋅ Shu Kong
+   arXiv: https://arxiv.org/abs/2512.10244
+   page:  https://tian1327.github.io/SWIFT
+
+64. Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions
+   Quyen Tran ⋅ Ngoc-Hai Nguyen ⋅ Minh Quan Dao ⋅ Zhuowei Li ⋅ Nam Hai ⋅ Trung Le ⋅ Dimitris N. Metaxas
+   arXiv: https://arxiv.org/abs/2607.22931
+
+65. SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch‑Level Incoherence and Temporal Roughness
+   Jongyeop Hyun ⋅ Hyounghun Kim
+
+66. Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging
+   Kuangpu Guo ⋅ Aijing Yu ⋅ Jian Liang ⋅ Yuhe Ding ⋅ Zilei Wang ⋅ Ran He ⋅ Tieniu Tan
+   arXiv: https://arxiv.org/abs/2512.01461
+   code:  https://github.com/krumpguo/DTS
+
+67. StructPolicy: Structure-Guided Imitation Learning Robust to Visual Domain Shifts
+   Zehao Du ⋅ Jiude Wei ⋅ Cewu Lu ⋅ Jianhua Sun
+
+68. SyncVL: Synchronizing Vision ⟷ Language Using Unsupervised Adaptation
+   Maria Marrium ⋅ Muhammad Haris Khan ⋅ Sajid Javed ⋅ Arif Mahmood
+
+69. Task Alignment: A simple and effective proxy for model merging in computer vision
+   Pau de Jorge Aranda ⋅ César DE SOUZA ⋅ Björn Michele ⋅ Mert Bulent SARIYILDIZ ⋅ Philippe Weinzaepfel ⋅ Florent Perronnin ⋅ Larlus Diane ⋅ Yannis Kalantidis
+
+70. To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion
+   Shaswati Saha ⋅ Rajasekhar Anguluri ⋅ Manas Gaur
+   arXiv: https://arxiv.org/abs/2607.23492
+
+71. Towards Robustness against Typographic Attack with Training-free Concept Localization
+   Bohan Liu ⋅ Wenqian Ye ⋅ Guangzhi Xiong ⋅ Zhenghao He ⋅ Sanchit Sinha ⋅ Aidong Zhang
+   arXiv: https://arxiv.org/abs/2607.02494
+   code:  https://github.com/Liu-524/SamplingTAR
+
+72. Training-free Cross-domain Few-shot Segmentation via Robust Semantic Representation and Matching
+   Sujun Sun ⋅ Mingwu Ren ⋅ Haofeng Zhang
+   arXiv: https://arxiv.org/abs/2606.24297
+
+73. Training-free Discriminative Patch Mining for Robust Few-Shot Recognition with CLIP
+   Zhenzhang Ye ⋅ Duolikun Danier ⋅ Bo Zhao ⋅ Hakan Bilen
+
+74. Training-Free Task Classification for Multi-Task Model Merging
+   JUNGYONG SON ⋅ Jinwook Jung ⋅ Sungyong Baik
+   arXiv: https://arxiv.org/abs/2606.22589
+   code:  https://github.com/BAIKLAB/SiM
+
+75. Tuning-free Visual Effect Transfer across Videos
+   Maxwell Jones ⋅ Rameen Abdal ⋅ Or Patashnik ⋅ Ruslan Salakhutdinov ⋅ Sergey Tulyakov ⋅ Jun-Yan Zhu ⋅ Kuan-Chieh Wang
+   arXiv: https://arxiv.org/abs/2601.07833
+   page:  https://snap-research.github.io/RefVFX/
+
+76. Unleashing the Power of Large-Scale ViT in Zero-Shot SBIR: A Strong Baseline with Multi-Layer Feature Aggregation
+   Yang Liu ⋅ Yongjing Guo ⋅ Suisui Jia ⋅ Huaizhou Qi ⋅ Xun Du ⋅ Haonan Chen
+
+77. Unsupervised Source-Free Ranking of Biomedical Segmentation Models Under Distribution Shift
+   Joshua Talks ⋅ Kevin Marchesini ⋅ Luca Lumetti ⋅ Federico Bolelli ⋅ Anna Kreshuk
+   arXiv: https://arxiv.org/abs/2503.00450
+
+78. Virtual Category-Guided Continual Generalized Category Discovery
+   Jiahui Xiong ⋅ Qiuxia Lai ⋅ Hongsong Wang
+   arXiv: https://arxiv.org/abs/2607.04984
+   code:  https://github.com/Mrxjh105/VC-CGCD
+
+79. VLOD-TTA: Test-Time Adaptation of Vision-Language Object Detectors
+   Atif Belal ⋅ Heitor Medeiros ⋅ Marco Pedersoli ⋅ Eric Granger
+   arXiv: https://arxiv.org/abs/2510.00458
+   code:  https://github.com/imatif17/VLOD-TTA
+
+80. XSemanticFlow: Cross Object Semantic Alignment for Zero-shot Manipulation
+   Junyu Nan ⋅ Noam Eshed ⋅ Brian Okorn ⋅ Kris Kitani
+

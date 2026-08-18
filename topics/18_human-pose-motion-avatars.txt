@@ -1,0 +1,707 @@
+Human Pose, Motion & Avatars  (181 papers, 102 with arXiv links)  [Humans, Agents & Autonomy]
+============================================================================
+
+1. 3D FaceShell: Attribute Transfer in 3D Face Avatars as a VLM Defense Mechanism
+   Weston Bondurant ⋅ Srijan Das ⋅ Hieu Le ⋅ Stephanie Schuckers
+   arXiv: https://arxiv.org/abs/2607.16280
+
+2. Affordance-Guided Diffusion Prior for 3D Hand Reconstruction
+   Naru Suzuki ⋅ Takehiko Ohkawa ⋅ Tatsuro Banno ⋅ Jihyun Lee ⋅ Ryosuke Furuta ⋅ Yoichi Sato
+   arXiv: https://arxiv.org/abs/2510.00506
+   page:  https://narusuzuki.github.io/projects/26-affhandgen/
+
+3. ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID
+   Xulin Li ⋅ Yan Lu ⋅ Bin Liu ⋅ Jiaze Li ⋅ Qinhong Yang ⋅ Tao Gong ⋅ Qi Chu ⋅ Nenghai Yu
+   arXiv: https://arxiv.org/abs/2607.25407
+
+4. ARMS: Anchor–Relational Motion Streaming for Seamless Solo-Social Motion Transitions
+   Huakun Liu ⋅ Qing Yu ⋅ Kent Fujiwara ⋅ Hideaki Uchiyama ⋅ Kiyoshi Kiyokawa
+
+5. BackTranslation2.0 - A Linguistically Motivated Metric to Assess Sign Language Production
+   Oliver Cory ⋅ Maksym Ivashechkin ⋅ Oline Ranum ⋅ Jian He Low ⋅ Edward Fish ⋅ Anton Pelykh ⋅ Karahan Sahin ⋅ Ozge Mercanoglu Sincan ⋅ Richard Bowden
+
+6. Beyond Alignment: A Generative Matching Paradigm via Flow Matching for Zero-Shot Skeleton-Based Action Recognition
+   Xuan Liu ⋅ Cong Wu ⋅ Wei Fang ⋅ Zhenhua Feng
+
+7. BiCE-HG: A Bi-Conditional Egocentric Hand Gesture Dataset for Intelligent Reality Systems
+   Awfa Dakheel ⋅ Charith Abhayaratne
+
+8. Category-Level Articulated Object Pose Estimation via Pose–Shape Hypothesis Generation and Verification
+   Kaifeng Tang ⋅ Chi Xu ⋅ Xin Ao ⋅ Yuting Ge ⋅ Tingrui Guo ⋅ Jun Zhou
+
+9. CGCC: Towards Generalizable Clothes-Changing Person Re-Identification
+   Yizhi Wu ⋅ Fangyi Liu ⋅ wei yu ⋅ Mang Ye
+
+10. ClusterStyle: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation
+   Kerui Chen ⋅ Jianrong Zhang ⋅ Ming Li ⋅ Zhonglong Zheng ⋅ Hehe Fan
+   arXiv: https://arxiv.org/abs/2512.02453
+
+11. CMCC-ReID: Cross-Modality Clothing-Change Person Re-Identification
+   Xu Haoxuan ⋅ Hanzi Wang ⋅ Guanglin Niu
+   arXiv: https://arxiv.org/abs/2604.02808
+
+12. CMDer: Controllable Mode Decomposition-Based Single Motion Synthesis with Diffusion
+   Junliang Chen ⋅ Sihang Chen ⋅ Xiaojuan Gu ⋅ Yoonsang Lee ⋅ Kevin Romond ⋅ Fang-Lue Zhang
+
+13. CoDePose: Multi-View 3D Human Pose Estimation via Coupled 2D-3D Denoising Diffusion
+   Yanlu Cai ⋅ Yuxuan Liu ⋅ WEIZHONG ZHANG ⋅ Yuan Wu ⋅ Cheng Jin
+
+14. CoMind: Understanding Collaborative Human Activity from Multiple Minds and Views
+   Alexey Gavryushin ⋅ Dingxi Zhang ⋅ Zhao Huang ⋅ Alexandros Delitzas ⋅ Jiaqi Chen ⋅ Ben Ellis ⋅ Cedric Zöllner ⋅ Manthan Patel ⋅ Manuel Kaufmann ⋅ Marc Pollefeys ⋅ Xi Wang
+   arXiv: https://arxiv.org/abs/2607.06691
+   page:  https://comind.ethz.ch/
+
+15. ComplexMimic: Human–Scene Interaction Imitation in Complex 3D Environments
+   Lu Pan ⋅ Hongwei Zhao
+   arXiv: https://arxiv.org/abs/2607.02034
+
+16. Controlling Motion Transfer in Diffusion Transformers via Attention Heads
+   Sunyoung Jung ⋅ Jiwoo Park ⋅ Yoonseok Choi ⋅ Kyobin Choo ⋅ Ming-Hsuan Yang ⋅ Seong Jae Hwang
+   arXiv: https://arxiv.org/abs/2607.11081
+   page:  https://sunyj-hxppy.github.io/halo/
+
+17. Coordinate Singularities Break Conformal Coverage for Gaze and Head Pose
+   Mohammadreza Jamalifard ⋅ Yaxiong Lei ⋅ Parastoo Azizinezhad ⋅ Javier Andreu-Perez
+   arXiv: https://arxiv.org/abs/2607.02565
+
+18. CtrlCoMo: Controllable Co-Speech Motion Generation with Gesture–Action Disentanglement
+   Xinghan Wang ⋅ Ming Zhou ⋅ Yanbo Zheng ⋅ Youjiang Xu ⋅ Yuan Zhang ⋅ Mingyuan Gao ⋅ Nan Zhuang ⋅ Yadong Mu
+
+19. DART: Deformable Adaptive Reasoning with Temporal Queries for Online Skeleton-Based Action Recognition
+   Chaoyang Zheng ⋅ Yang Xiao ⋅ Tingbing Yan ⋅ Jinfang Gan ⋅ Xintao Zhang ⋅ Ran Wang ⋅ Zhiguo Cao ⋅ Joey Tianyi Zhou
+
+20. DETRAM: End-to-end DEtection, Tracking and Recovery of HumAn Meshes
+   Chunggi Lee ⋅ Seonwook Park ⋅ Wanhua Li ⋅ Umar Iqbal ⋅ Hanspeter Pfister
+   arXiv: https://arxiv.org/abs/2607.09089
+
+21. DETRPose: Real-Time End-to-End Multi-Person Pose Estimation via Modified Transformer Decoder and Novel Denoising Keypoints
+   Sebastian Janampa ⋅ Marios Pattichis
+   arXiv: https://arxiv.org/abs/2506.13027
+   code:  https://github.com/SebastianJanampa/DETRPose
+
+22. DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies
+   renke wang ⋅ zhenyu zhang ⋅ Ying Tai ⋅ Jun Li ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2601.02267
+   code:  https://github.com/wrk226/DiffProxy
+   page:  https://wrk226.github.io/DiffProxy.html
+
+23. DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion
+   jiakun li ⋅ Li Fang ⋅ Hao Zhu ⋅ Fei Hu ⋅ Long Ye ⋅ Yuan Zhang ⋅ Jinyao Yan
+
+24. DisentangledTMR: Privacy-Preserving Skeleton Motion Retargeting via Factorized Transformers
+   Thomas Carr ⋅ Depeng Xu ⋅ Shuhan Yuan ⋅ Aidong Lu
+
+25. Disentangling and Reusing Interaction Cues for Zero-Shot HOI Detection
+   Jie Gu ⋅ He-Yang Xu ⋅ Hongxiang Gao ⋅ Chengyu Liu
+
+26. DSAR: Dual-Stream Autoregressive Modeling of Temporal Cloth Dynamics for Photorealistic Animatable Avatars
+   Xiong Haozhong ⋅ Yao Yu ⋅ Yu Zhou ⋅ Sidan DU
+   arXiv: https://arxiv.org/abs/2608.10500
+
+27. ECHO: Ego-centric Modeling of Human-Object Interactions
+   Ilya A. Petrov ⋅ Vladimir Guzov ⋅ Riccardo Marin ⋅ Emre Aksan ⋅ Xu Chen ⋅ Daniel Cremers ⋅ Thabo Beeler ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2508.21556
+   page:  https://ptrvilya.github.io/echo/
+
+28. Ego-Human Motion Prediction with 3D-Aware LLM
+   Yujin Bae ⋅ Jaewoo Jeong ⋅ HYEONSEONG KIM ⋅ KUK-JIN YOON
+   arXiv: https://arxiv.org/abs/2607.07001
+   page:  https://jaewoo97.github.io/Ego3DLM/
+
+29. Egocentric World Model for Photorealistic Hand Object Interaction Synthesis
+   Dayou Li ⋅ Lulin Liu ⋅ Bangya Liu ⋅ Shijie Zhou ⋅ Jiu Feng ⋅ Ziqi Lu ⋅ Minghui Zheng ⋅ Chenyu You ⋅ Zhiwen Fan
+   arXiv: https://arxiv.org/abs/2603.13615
+
+30. EgoExo-Con: Exploring View-Invariant Video Temporal Understanding
+   Minjoon Jung ⋅ Junbin Xiao ⋅ Junghyun Kim ⋅ Byoung-Tak Zhang ⋅ Angela Yao
+   arXiv: https://arxiv.org/abs/2510.26113
+   page:  https://minjoong507.github.io/projects/EgoExo-Con/
+
+31. EgoExoMoCap: Distributed Human Motion Capture via Ego- and Exocentric Body Tracking from Head-Mounted Devices
+   Jiaxi Jiang ⋅ Bharat Bhatnagar ⋅ Nan Yang ⋅ Lingni Ma ⋅ Sebastian Starke ⋅ Robin Kips ⋅ Nadine Bertsch ⋅ Christian Holz ⋅ Federica Bogo
+
+32. EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder
+   Jaehun Jung ⋅ Wonjun Kim
+   arXiv: https://arxiv.org/abs/2607.27755
+
+33. ELHINN: Unifying Dense Crowd Simulation Across Scales via Eulerian–Lagrangian Hydrodynamics
+   Yanshan Zhou ⋅ Pingrui Lai ⋅ Jiaqi Yu ⋅ Cunyan Li ⋅ Hua Yang ⋅ Xiaoyun Zhang
+
+34. EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents
+   Yu Zhang ⋅ Kaiyuan Shen ⋅ Yang Li
+   arXiv: https://arxiv.org/abs/2604.17211
+
+35. EMOTE: Expressive Motion and Shape Disentanglement for Human Animation
+   DongbinZhang DongbinZhang ⋅ Hao Liu ⋅ Bingquan Dai ⋅ Kangjie Chen ⋅ Chuming Wang ⋅ Chen Li ⋅ Jing LYU ⋅ Haoqian Wang
+
+36. EmoteGPT: 3D Human Facial Expression from Natural Language Descriptions
+   Haoran Wang ⋅ Mohit Mendiratta ⋅ Christian Theobalt ⋅ Adam Kortylewski
+   arXiv: https://arxiv.org/abs/2607.02674
+   page:  https://genintel.github.io/EmoteGPT
+
+37. Escaping the Low-Frequency Bias: Adversarial Frequency Perturbation for Generalisable Gaze Estimation
+   Yang Xu ⋅ Feng Lu
+
+38. ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Synthetic Data
+   Xiaoben Li ⋅ Jingyi Wu ⋅ Zeyu CAI ⋅ YU Siyuan ⋅ Boqian Li ⋅ Yuliang Xiu
+
+39. Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline
+   Shiao Wang ⋅ Xiao Wang ⋅ Duoqing Yang ⋅ Yao N/A ⋅ Fuling Wang ⋅ Jianing Li ⋅ Lin Zhu ⋅ Bo Jiang
+   arXiv: https://arxiv.org/abs/2408.10488
+   code:  https://github.com/Event-AHU/OpenESL
+
+40. Event-based Gaze Control Systems for Real-time Spin Estimation in Professional Ball Games
+   Yunpu Hu ⋅ Fabian Schilling ⋅ Valentina Cavinato ⋅ Asude Aydin ⋅ Agis Politis ⋅ Ricardo Morales ⋅ Kirk Scheper ⋅ Peter Dürr ⋅ Naoya Takahashi
+
+41. Every Dog Has Its Day, Probably: A Balanced Synthetic Benchmark and Probabilistic Modeling for 3D Dog Pose Estimation
+   Joo Young Choi ⋅ Wonkwang Lee ⋅ Juhyeong Seon ⋅ Gunhee Kim
+
+42. Fast Sam 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery
+   Timing Yang ⋅ Sicheng He ⋅ Hongyi Jing ⋅ Jiawei Yang ⋅ Zhijian Liu ⋅ Chuhang Zou ⋅ Yue Wang
+   arXiv: https://arxiv.org/abs/2603.15603
+
+43. FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On
+   Jiaxin Liu ⋅ XIAOYE LIANG ⋅ Lai Jiang ⋅ Jun Liu ⋅ Mai Xu
+   arXiv: https://arxiv.org/abs/2606.29319
+
+44. FFAvatar: Feed-Forward 4D Head Avatar Reconstruction from Arbitrary Images
+   Jianjiang Yao ⋅ Ke Xian ⋅ Renxiang Dai ⋅ Robert Qiu
+
+45. FitControler: Toward Fit-Aware Virtual Try-On
+   Lu Yang ⋅ Yicheng Liu ⋅ Letian Zhou ⋅ Yanan Li ⋅ Xiang Bai ⋅ Hao Lu
+   arXiv: https://arxiv.org/abs/2512.24016
+
+46. FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility
+   Yihalem Yimolal Tiruneh ⋅ Muhammad Salman Ali ⋅ Uyoung Jeong ⋅ Muneeb Khan ⋅ MD Sayem ⋅ ALLANUR BAYRAMGELDIYEV ⋅ Binod Bhattarai ⋅ Seungryul Baek
+   arXiv: https://arxiv.org/abs/2607.19100
+
+47. FlowerDance: MeanFlow for Efficient and Refined 3D Dance Generation
+   Kaixing Yang ⋅ Xulong Tang ⋅ Ziqiao Peng ⋅ Xiangyue Zhang ⋅ Chubin Chen ⋅ xukun zhou ⋅ Puwei Wang ⋅ Hongyan Liu ⋅ Jun He
+   arXiv: https://arxiv.org/abs/2511.21029
+
+48. Forecasting Animal Motion
+   Neerja Thakkar ⋅ Shiry Ginosar ⋅ Jacob Walker ⋅ Jitendra Malik ⋅ Joao Carreira ⋅ Carl Doersch
+
+49. Forge4D: Feed-Forward 4D Human Reconstruction and Interpolation from Uncalibrated Sparse-View Videos
+   Yingdong Hu ⋅ YISHENG HE ⋅ Jinnan Chen ⋅ Weihao Yuan ⋅ Kejie Qiu ⋅ Zehong Lin ⋅ Siyu Zhu ⋅ Zilong Dong ⋅ Steven Hoi ⋅ Jun Zhang
+   arXiv: https://arxiv.org/abs/2509.24209
+   page:  https://zhenliuzju.github.io/huyingdong/Forge4D
+
+50. From Gaze to Meaning: An AI Agent for Unified Zero-Shot Grounding and Explanation
+   Shayan Nasiriboukani ⋅ Sara Atito ⋅ Mohammad Nezamipour ⋅ Muhammad Awais
+
+51. G2FM: A Geodesic Flow Matching Framework with Geometric Prior for Category-Level 9-DoF Pose Estimation
+   Qianyu Chen ⋅ Xiaogang Zhang ⋅ Yangyi Wan ⋅ Zhengzhao Pan ⋅ Kai Wang ⋅ Yuqi Cai ⋅ Wenbin Yan ⋅ feng yang ⋅ Hua Chen
+
+52. Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention
+   Sounak Mondal ⋅ Dimitris Samaras ⋅ Gregory Zelinsky ⋅ Minh Hoai Nguyen
+   arXiv: https://arxiv.org/abs/2607.23917
+
+53. Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos
+   Xavier Thomas ⋅ Youngsun Lim ⋅ Ananya Srinivasan ⋅ Audrey Zheng ⋅ Deepti Ghadiyaram
+   arXiv: https://arxiv.org/abs/2512.01803
+
+54. Generative Relightable Avatars
+   Kunwar Singh ⋅ Christian Theobalt ⋅ Rishabh Dabral
+   arXiv: https://arxiv.org/abs/2606.22718
+   page:  https://vcai.mpi-inf.mpg.de/projects/GRA/
+
+55. GenHOI: Generalized Hand-Object Pose Estimation with Occlusion Awareness
+   HUI YANG ⋅ Wei Sun ⋅ Jian Liu ⋅ Jian Xiao ⋅ Tao Xie ⋅ Hossein Rahmani ⋅ Ajmal Mian ⋅ Nicu Sebe ⋅ Gim Hee Lee
+   arXiv: https://arxiv.org/abs/2603.19013
+
+56. GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos
+   Yiqian Wu ⋅ Rawal Khirodkar ⋅ Egor Zakharov ⋅ Timur Bagautdinov ⋅ Lei Xiao ⋅ Zhaoen Su ⋅ Shunsuke Saito ⋅ Xiaogang Jin ⋅ Junxuan Li
+   arXiv: https://arxiv.org/abs/2604.07273
+   page:  https://onethousandwu.com/GenLCA-Page
+
+57. Geometry-Preserving Image Generation for 6D Object Pose Estimation
+   Jiafeng Zhang ⋅ Rui Song ⋅ Zhengtai Zhang ⋅ Jiaojiao Li ⋅ Kailang Cao ⋅ Lizhang Peng ⋅ David Ferstl ⋅ Yinlin Hu
+
+58. GKDT: General Keypoint Detection Transformer
+   Changsheng Lu ⋅ Yuxin Chen ⋅ Haokun GUI ⋅ Rong Wang ⋅ Jie Yang ⋅ Harry Yang ⋅ Anton van den Hengel ⋅ Jiaya Jia
+   arXiv: https://arxiv.org/abs/2607.00752
+   code:  https://github.com/AlanLuSun/General-Keypoint-Detection
+
+59. GRAFT: Geometric Refinement and Fitting Transformer for Human Scene Reconstruction
+   Pradyumna YM ⋅ Yuxuan Xue ⋅ Yue Chen ⋅ Nikita Kister ⋅ István Sárándi ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2604.19624
+   page:  https://pradyumnaym.github.io/graft
+
+60. Granular Semantic Cognition for Visible-Infrared Person Re-Identification
+   Haifeng Yang ⋅ Jinjia Peng ⋅ Huibing Wang
+
+61. Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features
+   Marcus Valtonen Örnhag ⋅ Alberto Jaenal Gálvez ⋅ Stefan Adalbjörnsson
+
+62. HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion
+   Di Chang ⋅ Ji Hou ⋅ Aljaz Bozic ⋅ Assaf Neuberger ⋅ Felix Juefei-Xu ⋅ Olivier Maury ⋅ Gene Lin ⋅ Tuur Stuyck ⋅ Doug Roble ⋅ Mohammad Soleymani ⋅ Stéphane Grabli
+   arXiv: https://arxiv.org/abs/2602.11117
+   page:  https://boese0601.github.io/hairweaver/
+
+63. Head Avatars with Dynamic Explicit Hair
+   Vanessa Sklyarova ⋅ Haonan Chen ⋅ Berna Kabadayi ⋅ Tobias Kirschstein ⋅ Zicong Fan ⋅ Xi Wang ⋅ Gerard Pons-Moll ⋅ Matthias Niessner ⋅ Marc Pollefeys ⋅ Michael Black ⋅ Justus Thies
+   arXiv: https://arxiv.org/abs/2607.23861
+   page:  https://dynhair.is.tue.mpg.de/
+
+64. HiReFF: High-Resolution Feedforward Human Reconstruction from Uncalibrated Sparse-View Video
+   YIMING JIANG ⋅ Hanzhang Tu ⋅ Wenfeng Song ⋅ Siyou Lin ⋅ Liang An ⋅ Shuai Li ⋅ Aimin Hao ⋅ Yebin Liu
+   arXiv: https://arxiv.org/abs/2606.29333
+   page:  https://iridescentjiang.github.io/HiReFF
+
+65. HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation
+   Yihong Ji ⋅ Jinsong Zhang ⋅ He Hu ⋅ Hongboxu Hongboxu
+   arXiv: https://arxiv.org/abs/2608.15141
+   page:  https://jyhflash.github.io/HOIMask/
+
+66. HuCollisionField: Resolving Self-Collisions via Neural Fields for Human Prediction
+   Zhengyuan Li ⋅ Zeyun Deng ⋅ Yifan Shen ⋅ Liang-Yan Gui ⋅ Miaolan Xie ⋅ Joseph Campbell ⋅ Xifeng Gao ⋅ Kui Wu ⋅ Zherong Pan ⋅ Aniket Bera
+
+67. Human Mesh Modeling for Anny Body
+   Romain Brégier ⋅ Guénolé Fiche ⋅ Matthieu Armando ⋅ Laura Bravo-Sánchez ⋅ Thomas Lucas ⋅ Philippe Weinzaepfel ⋅ Grégory Rogez ⋅ Fabien Baradel
+   arXiv: https://arxiv.org/abs/2511.03589
+   code:  https://github.com/naver/anny
+
+68. Identity-Preserving Human Reconstruction from a Single Image via 3D Token Inference
+   Yanqi Bao ⋅ Jiaxiang Shang ⋅ Yang Gao ⋅ Yingchun Liu ⋅ Jing Huo ⋅ Jing Liao
+
+69. InclusiveHuman-10K: Towards Inclusive Human Parsing Beyond the Intact-Limb Assumption
+   Heming Du ⋅ Jiaying Ying ⋅ Xiaofeng Cao ⋅ Zhu Li ⋅ Yuanyuan Liu ⋅ Kaihao Zhang ⋅ Xin Chen ⋅ Xin Yu
+
+70. Infinite Gaze Generation for Videos with Autoregressive Diffusion
+   JENNA KANG ⋅ Colin Groth ⋅ Tong Wu ⋅ Finley Torrens ⋅ Patsorn Sangkloy ⋅ Gordon Wetzstein ⋅ Qi Sun
+   arXiv: https://arxiv.org/abs/2603.24938
+
+71. InfiniteDance: Scalable 3D Dance Generation Towards in-the-wild Generalization
+   Ronghui Li ⋅ zhongyuan hu ⋅ Li Siyao ⋅ youliang zhang ⋅ Haozhe Xie ⋅ Mingyuan Zhang ⋅ Jie Guo ⋅ Xiu Li ⋅ Ziwei Liu
+   arXiv: https://arxiv.org/abs/2603.13375
+   page:  https://infinitedance.github.io/
+
+72. Instant Expressive Gaussian Head Avatars at Over 100 FPS
+   Kaiwen Jiang ⋅ Xueting Li ⋅ Seonwook Park ⋅ Ravi Ramamoorthi ⋅ Shalini De Mello ⋅ Koki Nagano
+   arXiv: https://arxiv.org/abs/2512.16893
+   page:  https://research.nvidia.com/labs/amri/projects/instant4d
+
+73. InteractiveAvatar: Real-Time Streaming Video Generation for Consistent and Intent-Aware Avatars
+   Quanyue Song ⋅ Yishan He ⋅ Guo Zhi ⋅ yanfei zhang ⋅ Shihao Cheng ⋅ Zhixiang He ⋅ Chi Zhang ⋅ Caigui Jiang ⋅ Xuelong Li
+   arXiv: https://arxiv.org/abs/2606.22905
+
+74. InterPet4D: A Multimodal 4D Human-Pet Interaction Dataset for Pet Motion Generation
+   YICHEN PENG ⋅ Jyun-Ting Song ⋅ Chen-Chieh Liao ⋅ Kris Kitani ⋅ Hideki Koike ⋅ Erwin Wu
+   arXiv: https://arxiv.org/abs/2607.10287
+
+75. IRG-MotionLLM: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation
+   Yuanming Li ⋅ Qize Yang ⋅ Nan Lei ⋅ Shenghao Fu ⋅ Ling-An Zeng ⋅ Jian-Fang Hu ⋅ Xihan Wei ⋅ WEISHI ZHENG
+   arXiv: https://arxiv.org/abs/2512.10730
+   code:  https://github.com/HumanMLLM/IRG-MotionLLM
+
+76. JacobianAvatar: Temporally Consistent Semi-rigid Avatar Reconstruction from a Monocular Video
+   Changyeon Won ⋅ Min-Gyu Park ⋅ Seonghwan Park ⋅ Ju Yoon ⋅ Hae-Gon Jeon
+   arXiv: https://arxiv.org/abs/2606.31115
+
+77. JointHOI: Jointly Generating Contact Maps Enhances Hand Object Interaction Generation
+   Mingyeong Song ⋅ Jungbin Cho ⋅ Jisoo Kim ⋅ Ananya Bal ⋅ Kartik Sharma ⋅ Youngjae Yu ⋅ Laszlo Jeni ⋅ Junhyug Noh
+   arXiv: https://arxiv.org/abs/2607.01768
+
+78. K-Mask: Kinematic-Aware Masked Modeling for Controllable Text-to-Motion Synthesis
+   Faisal Ahmed ⋅ Chenqiu Zhao ⋅ Anup Basu
+
+79. Kirin: Animal Motion Generation from In-the-Wild Video
+   Brian Nlong Zhao ⋅ Zhuoyang Pan ⋅ James Rehg ⋅ Jiajun Wu ⋅ Elliott (Shangzhe) Wu
+
+80. LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior
+   Xinkai Wang ⋅ Chenyi Wang ⋅ Yifu Xu ⋅ Mingzhe Ye ⋅ Fu-Cheng Zhang ⋅ Jialin Tian ⋅ Xinyu Zhan ⋅ Lifeng Zhu ⋅ Cewu Lu ⋅ Lixin Yang
+
+81. Language-Guided Transformer Tokenizer for Human Motion Generation
+   Sheng Yan ⋅ yong wang ⋅ Xin Du ⋅ Junsong Yuan ⋅ Mengyuan Liu
+   arXiv: https://arxiv.org/abs/2602.08337
+   page:  https://eanson023.github.io/LG-Tok/
+
+82. LaxMotion: Rethinking Supervision Granularity for 3D Human Motion Generation
+   Sheng Liu ⋅ Yuanzhi Liang ⋅ Sidan DU
+   arXiv: https://arxiv.org/abs/2511.11368
+
+83. Layering Virtual Try-On
+   Chun Feng ⋅ Bowei Chen ⋅ Shan Mengyi ⋅ Ira Kemelmacher-Shlizerman
+   arXiv: https://arxiv.org/abs/2607.22924
+
+84. Learning Generatable Mutual Distance for Scene-Aware Human Motion Generation
+   Zonglin Yang ⋅ Chaoyue Xing ⋅ Yixuan Yin ⋅ Miaomiao Liu ⋅ Liyuan Pan
+
+85. LEO-Fuse: A Modality- and Task-Agnostic Universal Framework for Multimodal Human Sensing
+   Emrecan Aslan
+
+86. Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length
+   Yubo Huang ⋅ Hailong Guo ⋅ Fangtai Wu ⋅ Weiqiang Wang ⋅ Shijie Huang ⋅ Qijun Gan ⋅ Shifeng Zhang ⋅ Lin Liu ⋅ Sirui Zhao ⋅ Enhong Chen ⋅ Jiaming Liu ⋅ Steven Hoi
+   arXiv: https://arxiv.org/abs/2512.04677
+   page:  https://liveavatar.github.io/
+
+87. Local Spacing-Aware Hungarian Matching for Stable Point-Supervised Crowd Counting
+   Kai Jiang ⋅ Yiming Lin ⋅ Zurui Ao
+
+88. LOOM: Weaving Geometry-Consistent Human-Object Interaction Videos via Progressive Curriculum Learning
+   Bangya Liu ⋅ Zelin Zhao ⋅ Ziyang Song ⋅ Suman Banerjee ⋅ Xinyu Gong
+
+89. LUNA: Learning Universal 3D Human Animation Beyond Skinning
+   Peng Li ⋅ Rawal Khirodkar ⋅ Junxuan Li ⋅ Yuan Dong ⋅ Chen Cao ⋅ Yuan Liu ⋅ Wenhan Luo ⋅ Yike Guo ⋅ Shunsuke Saito
+   arXiv: https://arxiv.org/abs/2606.31981
+   page:  https://penghtyx.github.io/LUNA/
+
+90. LVSPM: Long Sequence View Synthesis and Pose Estimation Model
+   Xi Chen ⋅ Yachi Zhang ⋅ Linghao Chen ⋅ Minghua Liu ⋅ Hao Su ⋅ Zexiang Xu ⋅ Xiaoshuai Zhang
+
+91. Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars
+   youliang zhang ⋅ zhengguang zhou ⋅ Zhentao Yu ⋅ Ziyao Huang ⋅ Teng Hu ⋅ Sen Liang ⋅ Guozhen Zhang ⋅ Ziqiao Peng ⋅ Shunkai Li ⋅ Yi Chen ⋅ Zixiang Zhou ⋅ Yuan Zhou ⋅ Qinglin Lu ⋅ Xiu Li
+   arXiv: https://arxiv.org/abs/2602.01538
+   page:  https://interactavatar.github.io
+
+92. MemPose: Category-level Object Pose Estimation with Memory
+   Xiao Lin ⋅ Minghao Zhu ⋅ Yun Peng ⋅ Liuyi Wang ⋅ Qiyi Wang ⋅ Chengju Liu ⋅ Qijun Chen
+   arXiv: https://arxiv.org/abs/2607.04930
+
+93. MoAKE: Toward Unified All-in-One Action Quality Assessment via Mixture of Action Knowledge Experts
+   Huangbiao Xu ⋅ Huanqi Wu ⋅ Xiao Ke ⋅ Jiaxin Cai ⋅ Junyi Wu ⋅ Jinglin Xu
+   arXiv: https://arxiv.org/abs/2607.19826
+   code:  https://github.com/XuHuangbiao/MoAKE
+
+94. Monocular Avatar Reconstruction via Cascaded Diffusion Priors and UV-Space Differentiable Shading
+   Hong Li ⋅ Minqi Meng ⋅ Yanjun Liang ⋅ Chongjie Ye ⋅ Houyuan Chen ⋅ Weiqing Xiao ⋅ Xianda Guo ⋅ Guojun Lei ⋅ Xuhui Liu ⋅ Chaojie Yang ⋅ Yanlun Peng ⋅ HAO ZHAO ⋅ Baochang Zhang
+   arXiv: https://arxiv.org/abs/2606.28144
+   page:  https://luh1124.github.io/MARCUS-Avatar-Projectpage/
+
+95. Monocular Models are Strong Learners for Multi-View Human Mesh Recovery
+   Haoyu Xie ⋅ Shengkai Xu ⋅ Cheng Guo ⋅ Muhammad Saleem ⋅ Wenhan Wu ⋅ Chen Chen ⋅ Ahmed Helmy ⋅ Pu Wang ⋅ Hongfei Xue
+   arXiv: https://arxiv.org/abs/2603.20391
+
+96. MorphGS: Morphology-Adaptive Articulated Motion Transfer from Videos
+   Taeyeon Kim ⋅ Youngju Na ⋅ Jumin Lee ⋅ Sebin Lee ⋅ Minhyuk Sung ⋅ Sung-eui Yoon
+   arXiv: https://arxiv.org/abs/2601.02716
+   page:  https://xodus777.github.io/MorphGS/
+
+97. MoScale: Autoregressive Next-Scale Prediction for Human Motion Generation and Editing
+   Inwoo Hwang ⋅ Hojun Jang ⋅ Bing Zhou ⋅ Jian Wang ⋅ Young Min Kim ⋅ chuan guo
+
+98. Motion Style Slider: Endpoint-Supervised Continuous Style Control for Human Motion Diffusion
+   Chen-Chieh Liao ⋅ YICHEN PENG ⋅ YIYI CAI ⋅ Yûi Ono ⋅ Hiroki Hanaoka ⋅ Erwin Wu ⋅ Hideki Koike ⋅ Shuichi Kurabayashi
+
+99. MotionChain: Fine-Grained Video Motion Understanding via Structured Decomposition
+   Hao Yang ⋅ Bo Xu ⋅ Jun Dan ⋅ Sijia Chen ⋅ Baigui Sun ⋅ Yang Liu
+
+100. MotionDreamer: Universal Skeletal Motion Generation for 3D Rigged Shapes
+   Ye Tao ⋅ Yuxin Yao ⋅ Kendong Liu ⋅ Dapeng Wu ⋅ Junhui Hou
+
+101. Moving Beyond More Views: Redundancy-Aware Ego–Exo Fusion for Proficiency Estimation
+   Xu Dong ⋅ Wanqing Li ⋅ Anthony Adeyemi-Ejeye ⋅ Andrew Gilbert
+
+102. Multi-Modal Controlled Coherent Motion Generation
+   Yifei Liu ⋅ Qiong Cao ⋅ Hongwei Yi ⋅ Huaiguang Jiang ⋅ Changxing Ding
+
+103. Multi-scale Object-Aware Gaze Estimation via Geometric Reasoning
+   Jiajie Mi ⋅ Xinyu Liu ⋅ Mengke Song ⋅ Chenglizhao Chen
+   arXiv: https://arxiv.org/abs/2606.29334
+
+104. Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots
+   Jeongwan On ⋅ Muhammad Salman Ali ⋅ Muneeb Khan ⋅ Sunwoo Park ⋅ Inwoong Moon ⋅ Hyung Jin Chang ⋅ Jaekwang Kim ⋅ Seong Jong Ha ⋅ Seungryul Baek
+   arXiv: https://arxiv.org/abs/2607.01626
+   page:  https://on-jungwoan.github.io/projects/multi-thumbs/
+
+105. MV2GF: Multi-view Pedestrian Detection with a Visual Geometric Foundation Model
+   Taiga Yamane ⋅ Satoshi Suzuki ⋅ Ryo Masumura ⋅ Shota Orihashi ⋅ Tomohiro Tanaka ⋅ Mana Ihori ⋅ Naoki Makishima
+
+106. MVI2V: Human Centric Image to Video Generation with Multiview Consistent Appearance
+   Pengfei Liu ⋅ Mingyi Xu ⋅ Wentao Jiang ⋅ Tiezheng Ge ⋅ Ming Zeng
+
+107. ObjectForesight: Predicting 3D Object Trajectories from Human Videos
+   Rustin Soraki ⋅ Homanga Bharadhwaj ⋅ Ali Farhadi ⋅ Roozbeh Mottaghi
+   arXiv: https://arxiv.org/abs/2601.05237
+
+108. Occlusion-Resilient Category-Agnostic Pose Estimation with Conditional Flow Matching
+   Jiyong Rao ⋅ Shengjie Zhao ⋅ Yu Wang ⋅ Hao Deng
+
+109. Odoriko: A Shape-Aware Multimodal Diffusion Framework for Human Motion
+   Dongseok Shim ⋅ Julian Tanke ⋅ Kengo Uchida ⋅ christian simon ⋅ Koichi Saito ⋅ Takashi Shibuya ⋅ Shusuke Takahashi ⋅ Yuki Mitsufuji
+   arXiv: https://arxiv.org/abs/2606.21135
+
+110. OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data
+   Kaixing Yang ⋅ Jiashu Zhu ⋅ Xulong Tang ⋅ Ziqiao Peng ⋅ Xiangyue Zhang ⋅ Chubin Chen ⋅ Puwei Wang ⋅ Jiahong Wu ⋅ Xiangxiang Chu ⋅ Hongyan Liu ⋅ Jun He
+   arXiv: https://arxiv.org/abs/2606.30019
+   code:  https://github.com/AMAP-ML/OmniDance
+
+111. OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching
+   Minghao Liu ⋅ Tutian Tang
+
+112. One-Shot Feed-Forward 360° Animatable Avatar via Inpainted UV-Space Gaussian Modeling
+   Shuling Zhao ⋅ Dan Xu
+
+113. OrthoTailor: Geometric Orthogonalization for Conflict-Free Unified Fashion Generation
+   Zhaotong Yang ⋅ Ying Tai ⋅ Jiahui Zhan ⋅ Yu Zheng ⋅ Jianjun Qian ⋅ Jian Yang
+
+114. PartCHOI: Part-Aware Guidance for Clothed Human-Object Interaction Generation
+   Mingwen Shao ⋅ Xinyuan Chen ⋅ Qiao Zhang ⋅ Xiang Lv ⋅ lingzhuang meng ⋅ Qinglin Zhan ⋅ Chang Liu ⋅ Chao Dong
+
+115. Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach
+   Yingjie Dai ⋅ Tianyang Xu ⋅ Yanglin Deng ⋅ Xiao-Jun Wu ⋅ Josef Kittler
+   arXiv: https://arxiv.org/abs/2607.00716
+
+116. Path-JEPA: Path Signature Based Predictive Learning for Skeleton Action Recognition
+   Ashutosh Singh ⋅ Ashish Singh
+
+117. PHOSA: Photorealistic 3D Sign Avatar Modeling and Benchmark
+   Haodong Wang ⋅ Hezhen Hu ⋅ Wengang Zhou ⋅ Houqiang Li
+
+118. PhysDrape: Learning Explicit Forces and Collision Constraints for Physically Realistic Garment Draping
+   Minghai Chen ⋅ Mingyuan Liu ⋅ Ning Ma ⋅ Jianqing LI ⋅ Yuxiang Huan
+   arXiv: https://arxiv.org/abs/2602.08020
+
+119. PIAvatar: Physically Interactive Avatars via Deformation Gradient Decoupling
+   Sang-Hun Han ⋅ Min-Gyu Park ⋅ Jisu Shin ⋅ Seunghyun Shin ⋅ JINHWI PARK ⋅ Hae-Gon Jeon
+   arXiv: https://arxiv.org/abs/2606.21162
+   page:  https://sanghunhan92.github.io/conference/PIAvatar/
+
+120. Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image
+   Simon Giebenhain ⋅ Tobias Kirschstein ⋅ Liam Schoneveld ⋅ Davide Davoli ⋅ Zhe Chen ⋅ Matthias Niessner
+   arXiv: https://arxiv.org/abs/2512.17773
+   page:  https://simongiebenhain.github.io/Pix2NPHM/
+
+121. PoseImageNet: Pose Estimation for Extensive Classes Based on Rich Structure Prototypes
+   Junjie Chen ⋅ Hong Cao ⋅ Weixiang Tao ⋅ Yuming Fang ⋅ Jiebin Yan ⋅ Yifan Zuo
+
+122. PriorPose: Reference-Guided Joint Deformation and Alignment for Category-Level Object Pose Estimation
+   Yihan Chen ⋅ Huan Ren ⋅ Wenfei Yang ⋅ Hang Du ⋅ Tianzhu Zhang ⋅ Feng Wu
+
+123. Progressive Pose-Guided 4D Animal Reconstruction from Monocular Video
+   Siyuan Li ⋅ Weiying Chen ⋅ Yilin Wang ⋅ Xinxin Zuo ⋅ Xingyu Li ⋅ Li Cheng
+   arXiv: https://arxiv.org/abs/2607.00157
+
+124. Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users
+   Yilin Wen ⋅ Kechuan Dong ⋅ Fumiya Suginaka ⋅ Ken Endo ⋅ Yusuke Sugano
+
+125. Q-BridgeNet: A Quantization Network for Cross-Lingual Sign Language Translation
+   Liqian Feng ⋅ Lintao Wang ⋅ Xiaochen Liu ⋅ Anusha Withana ⋅ Ken-Tye Yong ⋅ Dehui Kong ⋅ Zhiyong Wang ⋅ Kun Hu
+   arXiv: https://arxiv.org/abs/2607.11215
+   code:  https://github.com/FengLiQ/Q-BridgeNet
+
+126. RAGA: Real Time Ray Traced Gaussian Shadow Casting for 3DGS Avatar-Scene Interaction
+   Aymen Mir ⋅ Riza Alp Guler ⋅ Jian Wang ⋅ Peter Wonka ⋅ Bing Zhou ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2606.29329
+   page:  https://miraymen.github.io/raga/
+
+127. RASA: Disentangled Spatial-Motional Priors for Cross-Identity Character Animation
+   Zhen Xiao ⋅ Zhen Shen ⋅ Zhaofan Qiu ⋅ Ting Yao ⋅ Xueliang Liu ⋅ Tao Mei
+
+128. RealDyadic: Synthesizing Realistic Dyadic 3D Dialogue with Neural Appearance Priors
+   Lei Zhu ⋅ Lijian Lin ⋅ Ye Zhu ⋅ Xuehan Hou ⋅ Jiahao Wu ⋅ Yu Li ⋅ Yunfei Liu ⋅ Jie Chen
+
+129. Reconstruction-Anchored Diffusion Model for Text-to-Motion Generation
+   Yifei Liu ⋅ Changxing Ding ⋅ Ling Guo ⋅ Huaiguang Jiang ⋅ Qiong Cao
+   arXiv: https://arxiv.org/abs/2601.14788
+
+130. Reference-Free Quality Assessment for Virtual Try-On via Human Feedback
+   Yuki Hirakawa ⋅ Takashi Wada ⋅ Ryotaro Shimizu ⋅ Takuya Furusawa ⋅ Yuki Saito ⋅ Ryosuke Araki ⋅ Tianwei Chen ⋅ Fan Mo ⋅ Yoshimitsu Aoki
+
+131. Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization
+   Byeonggyu Park ⋅ Mingu Jeon ⋅ Seong-Woo Kim
+
+132. Reliability-Aware 3D Geometric Injection for Universal Person Re-identification
+   Bohan Su ⋅ Jiashuo Wang ⋅ Fangyi Liu ⋅ Mang Ye
+   arXiv: https://arxiv.org/abs/2607.18863
+   code:  https://github.com/BohanSu/UniGeo
+
+133. Remembering Across Blocks: Topology-Conditioned Block-Progressive Memory for Skeleton-Based Action Recognition
+   Seonho Lee ⋅ Sang Han ⋅ Hyeok Nam ⋅ Sung In Cho
+
+134. ReMoMask: Retrieval-Augmented Masked Motion Generation
+   Zhengdao Li ⋅ siheng wang ⋅ Zeyu Zhang ⋅ Hao Tang
+   arXiv: https://arxiv.org/abs/2508.02605
+   code:  https://github.com/AIGeeksGroup/ReMoMask
+   page:  https://aigeeksgroup.github.io/ReMoMask
+
+135. Rethinking Garment Conditioning in Diffusion-based Virtual Try-On: Decouple, Don't Denoise
+   Kihyun Na ⋅ Jinyoung Choi ⋅ Injung Kim
+
+136. Retrieving and Refining Winning Noise Tickets for Diffusion-Based Motion Generation
+   Sakuya Ota ⋅ Qing Yu ⋅ Kent Fujiwara ⋅ Satoshi Ikehata ⋅ Ikuro Sato
+   arXiv: https://arxiv.org/abs/2607.06843
+   page:  https://sinc865.github.io/winro/
+
+137. Revisiting Avatar-As-Image: High-Fidelity Registration is All You Need
+   Margaret Kostyrko ⋅ Yuxuan Xue ⋅ Garvita Tiwari ⋅ Gerard Pons-Moll
+
+138. RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction
+   Zifan Wang ⋅ Ziang Ren ⋅ Pengyang Shi ⋅ Zirui Wang ⋅ Chenghuai Lin ⋅ Tianze Wang ⋅ Zekun Qi ⋅ Liangliang Zhao ⋅ HE WANG ⋅ Li Yi
+
+139. Rolling Shutter Relative Pose Estimation Made Practical
+   Daniel Barath
+   arXiv: https://arxiv.org/abs/2606.26863
+   code:  https://github.com/danini/rolling_shutter_made_practical
+
+140. S2Gest: Split-Scan State Space Models for Dynamic Hand Gesture Recognition
+   KeFan Chen ⋅ Yong Gu ⋅ bo li ⋅ Longjie Huang ⋅ Jiajun Zhang
+
+141. Saber: Anchoring Semantics to Scale-Aware Kinetic Salience for Zero-Shot Skeleton Action Recognition
+   Zhu Yongquan ⋅ Biru Ning ⋅ Jingyu Zhang
+
+142. SAGE: A Synchronized Action and Gaze Estimation Framework for Comprehensive Human Behavior Analysis
+   Chenyi Kuang ⋅ Nakul Agarwal
+
+143. SCORE: SubDistribution-aware Collaborative Knowledge Reinforcing for Cloth-Hybrid Lifelong Person Re-Identification
+   Kunlun Xu ⋅ Liangyu Ma ⋅ Jiangmeng Li ⋅ Xin Tong ⋅ Xiaode Liu ⋅ Yufei Guo ⋅ Jiahuan Zhou
+
+144. Self-supervised Garment Dynamics with Persistent Wrinkles
+   Xiaoyuan Yang ⋅ Deshan Gong ⋅ Taku Komura ⋅ He Wang
+   arXiv: https://arxiv.org/abs/2606.25065
+
+145. SemGAN: A Semantic and Hierarchical Adversarial Network for 3D Human Pose Estimation
+   Haodong Feng ⋅ Yu Xin ⋅ Guoqing Li
+
+146. Sen-Cap: Sensor-Flexible and Noise-Resilient Human Motion Capture via LiDAR-Camera Integration
+   Aoru Xue ⋅ Yujing Sun ⋅ yiming ren ⋅ Kwok-Yan Lam ⋅ Mao Ye ⋅ Yuexin Ma
+   arXiv: https://arxiv.org/abs/2608.02285
+
+147. SignBind-LLM: Multi-Stage Modality Fusion for Sign Language Translation
+   Marshall Thomas ⋅ Edward Fish ⋅ Richard Bowden
+   arXiv: https://arxiv.org/abs/2509.00030
+
+148. SIGNER: Temporally Grounded Sign Language Generation via Time-Resolved Conditioning
+   Taeryung Lee ⋅ Hyeongjin Nam ⋅ Gyeongsik Moon ⋅ Kyoung Mu Lee
+   arXiv: https://arxiv.org/abs/2506.07460
+   page:  https://taeryunglee.github.io/projects/signer
+
+149. SIGNET: Motion-Level Knowledge Transfer for Cross-Language Sign Language Translation
+   Sobhan Asasi ⋅ Ozge Mercanoglu Sincan ⋅ Richard Bowden
+   arXiv: https://arxiv.org/abs/2606.28626
+
+150. SignNet-1M: Large-Scale Multilingual Sign Language Video Dataset with Downstream Benchmarks
+   Zhewen He ⋅ Junyi Hu ⋅ Haomian Huang ⋅ Zhenhua Li ⋅ Yushen Liu ⋅ Yi Fang
+   arXiv: https://arxiv.org/abs/2606.24361
+   page:  https://signnet.chatsign.ai/
+
+151. SignRefine: Adapting Foundational Video Models for Sign Language Generation
+   Anton Pelykh ⋅ Edward Fish ⋅ Ozge Mercanoglu Sincan ⋅ Richard Bowden
+
+152. SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning
+   Jian He Low ⋅ Alexandre Symeonidis-Herzig ⋅ Maksym Ivashechkin ⋅ Ozge Mercanoglu Sincan ⋅ Richard Bowden
+   arXiv: https://arxiv.org/abs/2603.10446
+   code:  https://github.com/JianHe0628/SignSparK
+   page:  https://cogvis-cvssp.github.io/papers/signspark/
+
+153. SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation
+   Anbang Wang ⋅ AO Yuzhuo ⋅ Elliott (Shangzhe) Wu ⋅ Chi-Keung Tang
+   arXiv: https://arxiv.org/abs/2603.14152
+   page:  https://sk-adapter.github.io/
+
+154. SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery
+   Da Li ⋅ Ji-Ping Jin ⋅ Xiaodong Cun ⋅ Xuanlong Yu ⋅ Wei LIU ⋅ Rui Fan ⋅ Jiangang Kong ⋅ Kai Chen ⋅ Xi SHEN
+   arXiv: https://arxiv.org/abs/2511.20157
+   page:  https://pokerman8.github.io/SKEL-CF/
+
+155. SkillSpotter: Pose-Aware Multi-View Skilled Action Detection and Grading in Ego-Exo Videos
+   Björn Braun ⋅ Christian Holz
+   arXiv: https://arxiv.org/abs/2606.31127
+   code:  https://github.com/eth-siplab/SkillSpotter
+
+156. SPAR: A Sequential Primacy and Attribution Ranking Framework for Skill Determination
+   Hui Yu ⋅ Xiao Ke ⋅ Zhihong Zeng ⋅ Huangbiao Xu ⋅ Huanqi Wu ⋅ Yaru Su
+
+157. SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation
+   Shenbo Xie ⋅ Mingrui Cai ⋅ Xu Yang ⋅ Yifei Liu ⋅ Changxing Ding
+   arXiv: https://arxiv.org/abs/2607.05994
+   page:  https://mpi-lab.github.io/SparseCtrl-HOI
+
+158. SplatCtrlA: Generalizable Single Image to Fully Controllable 3D Avatar
+   Jun Xiang ⋅ Yudong Guo ⋅ Boyang Guo ⋅ Yancheng Yuan ⋅ Juyong Zhang
+
+159. Stitched Embeddings: A Unified Latent Space for 3D Garments and 2D Patterns
+   Andrea Sanchietti ⋅ Riccardo Marin ⋅ Bharat Bhatnagar ⋅ Yuanlu Xu ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2607.00829
+   page:  https://andreus00.github.io/stitchedembeddings
+
+160. SWSL: Semantic-aware Weakly Supervised Learning for 3D Motion Generation using 2D Motion Data
+   Zhicheng Shi ⋅ Tuo Feng ⋅ Wenguan Wang ⋅ Yi Yang
+
+161. SynHMR: Synergistic Joint-Mesh Modeling for LiDAR-based Human Mesh Reconstruction
+   Rui Shi ⋅ Xiaoqi An ⋅ Lin Zhao ⋅ Di Wang ⋅ Chen Gong ⋅ Le Zhang
+
+162. TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction
+   Ao Li ⋅ Yonggen Ling ⋅ Yiyang Lin ⋅ Yuji Wang ⋅ Yong Deng ⋅ Yansong Tang
+   arXiv: https://arxiv.org/abs/2604.08921
+   code:  https://github.com/Tencent/TAIHRI
+
+163. The Language of Visual Attention: Modeling Scanpaths via Autoregressive Token Prediction
+   Susmit Agrawal ⋅ Matthias Bethge ⋅ Matthias Kuemmerer
+
+164. TimeWalker: Personalized Neural Space for Lifelong Head Avatars
+   Dongwei Pan ⋅ Yang Li ⋅ Hongsheng LI ⋅ Kwan-Yee Lin
+   arXiv: https://arxiv.org/abs/2412.02421
+   page:  https://timewalker2025.github.io/timewalker.github.io/
+
+165. Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation
+   Siddhant Bansal ⋅ Zhifan Zhu ⋅ Shashank Tripathi ⋅ Jiahe Zhao ⋅ Michael Black ⋅ Dima Damen
+   arXiv: https://arxiv.org/abs/2606.30598
+   page:  https://sid2697.github.io/epic-contact
+
+166. Towards Real-World Wearable Motion Reconstruction
+   Andrea Boscolo Camiletto ⋅ Rishabh Dabral ⋅ Eduardo Alvarado ⋅ Thabo Beeler ⋅ Marc Habermann ⋅ Christian Theobalt
+   arXiv: https://arxiv.org/abs/2607.09780
+   page:  https://vcai.mpi-inf.mpg.de/projects/WHIP/
+
+167. Training-free Controllable Motion Generation under Heterogeneous Constraints
+   Xiaofei Hui ⋅ Bo Yan ⋅ Haoxuan Qu ⋅ Hossein Rahmani ⋅ Jun Liu
+
+168. TraversRL: Traversable Pedestrian Pathway Generation With Reinforcement Learning
+   Bin Han ⋅ Robert Wolfe ⋅ Bill Howe
+   arXiv: https://arxiv.org/abs/2607.17479
+
+169. TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On
+   Dingbao Shao ⋅ Song Wu ⋅ Shenyi Wang ⋅ Ye Wang ⋅ Ziheng Tang ⋅ Fei Liu ⋅ Jiang Lin ⋅ Xinyu Chen ⋅ Qian Wang ⋅ Ying Tai ⋅ Jian Yang ⋅ Zili Yi
+   arXiv: https://arxiv.org/abs/2604.27958
+
+170. TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy
+   Hao Sun ⋅ Hao Yan ⋅ Mengting Chen ⋅ Quanjian Song ⋅ Yu Li ⋅ Juan Cao ⋅ Jinsong Lan ⋅ Xiaoyong Zhu ⋅ Bo Zheng ⋅ Sheng Tang
+   arXiv: https://arxiv.org/abs/2606.26092
+   page:  https://sunhao242.github.io/TryOnCrafter_web.github.io/
+
+171. UF0-6D: Unified Flow-based Zero-Shot 6D Object Pose Estimation without Refinement
+   Yingnan Guo ⋅ Chun Lim ⋅ Yu Feng ⋅ Yu Zhang
+
+172. Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild
+   Ting Lei ⋅ Jialin Liu ⋅ Zhu Xu ⋅ Yuxin Peng ⋅ Yang Liu
+   arXiv: https://arxiv.org/abs/2607.13881
+
+173. URHead: A Unified UV-Space Representation for Joint Mesh–3DGS Optimization in Head Avatars
+   Seonghak Lee ⋅ Junhee Cho ⋅ Jisoo Park ⋅ Min-Gyu Park ⋅ Jongmin Lee ⋅ Ju Yoon ⋅ Junseok Kwon
+   arXiv: https://arxiv.org/abs/2607.22673
+   page:  https://lseonghak.github.io/website/project/urhead/
+
+174. VersatileMotion: A Unified Framework for Motion Synthesis and Comprehension
+   Zeyu Ling ⋅ Bo Han ⋅ Shiyang Li ⋅ Jikang Cheng ⋅ Hongdeng Shen ⋅ Changqing Zou
+   arXiv: https://arxiv.org/abs/2411.17335
+
+175. Video-Text Alignment Model for Sign Language Translation
+   Junyi Hu ⋅ Zhewen He ⋅ Haomian Huang ⋅ Yi Fang ⋅ Aoxiang Yang
+   arXiv: https://arxiv.org/abs/2607.09126
+   code:  https://github.com/junyi2005/vtamo
+
+176. WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation
+   Yulin Wang ⋅ Jianghao Zhou ⋅ Hongli Li ⋅ MENGTING HU ⋅ Chen LUO
+
+177. WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment
+   Xujie Zhang ⋅ Runyan Du ⋅ Song Chang ⋅ Jiang Li ⋅ Dongliang Shao ⋅ Liping Wu ⋅ Luo Wei ⋅ Xiaochao Qu ⋅ Luoqi Liu ⋅ Xiaodan Liang
+   arXiv: https://arxiv.org/abs/2607.19923
+
+178. What Moves? Localized Motion Representations for Compositional Scene Control
+   Frank Fundel ⋅ Malek Ben Alaya ⋅ Thomas Ressler-Antal ⋅ Stefan Andreas Baumann ⋅ Bjorn Ommer
+
+179. WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation
+   Doeon Kim ⋅ Jungyoon Lee ⋅ SEONGSIN KIM ⋅ Seong-heum Kim
+   arXiv: https://arxiv.org/abs/2607.11064
+
+180. World Models for Learning Dexterous Hand-Object Interactions from Human Videos
+   Raktim Goswami ⋅ Amir Bar ⋅ David Fan ⋅ Tsung-Yen Yang ⋅ Gaoyue Zhou ⋅ Prashanth Krishnamurthy ⋅ Michael Rabbat ⋅ Farshad Khorrami ⋅ Yann LeCun
+   arXiv: https://arxiv.org/abs/2512.13644
+
+181. XYZ-IBD: Benchmarking Robust 6D Object Pose Estimation under Real-World Industrial Complexity
+   Junwen Huang ⋅ Jiaqi Hu ⋅ Peter Yu ⋅ Slobodan Ilic ⋅ Martin Sundermeyer ⋅ Benjamin Busam
+   arXiv: https://arxiv.org/abs/2506.00599
+   page:  https://xyz-ibd.github.io
+

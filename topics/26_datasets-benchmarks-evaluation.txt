@@ -1,0 +1,154 @@
+Datasets, Benchmarks & Evaluation  (36 papers, 26 with arXiv links)  [Learning, Efficiency & Trust]
+============================================================================
+
+1. Benchmarking Dynamic Affective Reasoning: A Viewer-Centric Video Emotion Dataset
+   Zhiyan Zhang ⋅ Peipei Song ⋅ Jinpeng Hu ⋅ Jingyang Jia ⋅ Xun Yang ⋅ Xiaojun Chang
+   arXiv: https://arxiv.org/abs/2607.10238
+   code:  https://github.com/Zhang-Zhiyan/DAR
+
+2. CanoVerse: 3D Object Scalable Canonicalization and Dataset for Generation and Pose
+   Li Jin ⋅ Yuchen Yang ⋅ Weikai Chen ⋅ Yujie Wang ⋅ Dehao Hao ⋅ Tanghui Jia ⋅ Yingda Yin ⋅ Zeyu HU ⋅ Runze Zhang ⋅ Keyang Luo ⋅ Li Yuan ⋅ Long Quan ⋅ Xin Wang ⋅ Xueying Qin
+   arXiv: https://arxiv.org/abs/2603.07144
+   code:  https://github.com/123321456-gif/Canoverse
+
+3. Condensing Large-Scale Datasets Directly with Minimal Information Loss
+   Xinyi Shang ⋅ Peng Sun ⋅ Bei Shi ⋅ Zixuan Wang ⋅ Tao Lin
+   arXiv: https://arxiv.org/abs/2607.00916
+   code:  https://github.com/LINs-lab/CIM
+
+4. CVSBench: A Comprehensive Benchmark for Cross-view Spatial Reasoning and Dreaming
+   ruixun liu ⋅ Lingyu Zhang ⋅ Lanxuan Xue ⋅ Kaiyu Li ⋅ Bowen Fu ⋅ Xiangyong Cao
+   arXiv: https://arxiv.org/abs/2606.22476
+   code:  https://huggingface.co/datasets/zlyzlyzly/CVSBench
+
+5. Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams
+   Weihao Bo ⋅ Shan Zhang ⋅ Yanpeng Sun ⋅ Jie Liu ⋅ Yongke Yao ⋅ Jinhao Du ⋅ Wei He ⋅ KAI ZOU ⋅ Zechao Li ⋅ Jingdong Wang
+   arXiv: https://arxiv.org/abs/2608.12262
+   page:  https://vi-ocean.github.io/projects/diagram-mmu
+
+6. DiCoBench: Benchmarking Multi-Image Fine-Grained Perception via Differential and Commonality Visual Cues
+   Geng Li ⋅ Yuxin Peng
+   arXiv: https://arxiv.org/abs/2606.26602
+   code:  https://github.com/PKU-ICST-MIPL/DICO_Bench_ECCV2026
+
+7. EatVid-Bench: A Multimodal Fine-Grained Eating Behavior Video Dataset
+   Xiangpeng Zheng ⋅ Zhenbo Xu ⋅ Gong Huang ⋅ Zhu Li ⋅ Qinghong Yang
+
+8. Enhancing prompt-image alignment evaluations via cyclic mutual information maximization
+   Xingran Liao ⋅ Duanyu Feng ⋅ Mingliang Zhou ⋅ Sam Kwong ⋅ Weisi Lin
+
+9. HART: High-Resolution Annotation-Free Reasoning Technique through a Closed-loop Framework
+   Jiacheng Yang ⋅ Anqi Chen ⋅ Yunkai Dang ⋅ Qi Fan ⋅ Cong Wang ⋅ Wenbin Li ⋅ Feng Miao ⋅ Yang Gao
+   arXiv: https://arxiv.org/abs/2602.23615
+
+10. HCSU: A Dataset and Benchmark for Fine-Grained Historical Calligraphy Style Understanding
+   Yinsheng Yao ⋅ Yan Liu ⋅ Chen Ye
+   arXiv: https://arxiv.org/abs/2607.04147
+   code:  https://huggingface.co/datasets/Tongji209/HCSU
+
+11. IRIS: A Real-World Benchmark for Inverse Recovery and Identification of Physical Dynamic Systems from Monocular Video
+   Rasul Khanbayov ⋅ Mohamed Rayan Barhdadi ⋅ Erchin Serpedin ⋅ HASAN KURBAN
+
+12. LARY: A Latent Action Representation Yielding Benchmark
+   Dujun Nie ⋅ Fengjiao Chen ⋅ Jun Kuang ⋅ Qi Lv ⋅ Xiaoyu Li ⋅ Xuezhi Cao
+
+13. OmniFall: From Staged Through Synthetic to Wild, A Unified Multi-Domain Dataset for Robust Fall Detection
+   David Schneider ⋅ Zdravko Marinov ⋅ Moritz Mistol ⋅ Zeyun Zhong ⋅ Alexander Jaus ⋅ Rodi Düger ⋅ Rafael Baur ⋅ M. Saquib Sarfraz ⋅ Rainer Stiefelhagen
+   arXiv: https://arxiv.org/abs/2505.19889
+   page:  https://hf.co/datasets/simplexsigil2/omnifall
+
+14. OmniMapBench: Benchmarking Visual-Centric Reasoning on Diverse Map Documents
+   Yang Chen ⋅ Yufan Shen ⋅ Yunwen Li ⋅ Minghao Liu ⋅ Tuney Tianyu ⋅ Bin Fu ⋅ Qunshu Lin ⋅ Zhi Yu ⋅ Botian Shi
+   arXiv: https://arxiv.org/abs/2607.09068
+   code:  https://github.com/SIGMME/OmniMapBench
+
+15. OmniPoint: Universal Monocular Metric Pointcloud from Any Camera
+   Botao Ye ⋅ Marc Pollefeys ⋅ Ming-Hsuan Yang ⋅ Abhijit Kundu
+
+16. PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning
+   Shaoxuan Li ⋅ Zhixuan Zhao ⋅ Hanze Deng ⋅ Zirun Ma ⋅ Shulin Tian ⋅ ZUYAN LIU ⋅ Yushi Hu ⋅ Haoning Wu ⋅ Yuhao Dong ⋅ Benlin Liu ⋅ Ziwei Liu ⋅ Ranjay Krishna
+   arXiv: https://arxiv.org/abs/2603.26653
+   page:  https://perceptioncomp.github.io
+
+17. Q-REAL: Towards Naturalness and Distortion Evaluation for AI-Generated Content
+   Shushi Wang ⋅ Zicheng Zhang ⋅ Chunyi Li ⋅ Wei Wang ⋅ Liya Ma ⋅ Xiaoyu Li ⋅ Fengjiao Chen ⋅ Xuezhi Cao ⋅ Guangtao Zhai ⋅ Xiaohong Liu
+
+18. RESOLVE: A Multi-Resolution and Multi-Modal Dataset for Roadside Cooperative Perception
+   Shaozu Ding ⋅ Linan Song ⋅ Marco Vincenzi ⋅ Dajiang Suo
+
+19. Rethinking Reward Signals in Video GRPO: When Scores Become Targets
+   Rui Li ⋅ Yuanzhi Liang ⋅ Ziqi Ni ⋅ Haibin Huang ⋅ Chi Zhang ⋅ Xuelong Li
+   arXiv: https://arxiv.org/abs/2511.19356
+
+20. Revisiting Scene Graph Generation from the Perspective of Detector-Conditioned Reachability
+   Runfeng Qu ⋅ Pia Bideau ⋅ Ole Hall ⋅ Julie Ouerfelli-Ethier ⋅ Klaus Obermayer ⋅ Olaf Hellwich
+   arXiv: https://arxiv.org/abs/2607.06176
+
+21. Rosetum3D: A Large-Scale 3D Vision Dataset from Preharvest Roses
+   Songyan Liu ⋅ Xipei Liu ⋅ Yujie Liu ⋅ Jiali Wu ⋅ Xiaofei Liu
+
+22. SciIR: A Large-scale Training Dataset and Benchmark for Scientific Image Reasoning Generation
+   Zhiyuan Ma ⋅ Zhengfeng Shi ⋅ Yuning An ⋅ Peize Li ⋅ Jiabao Wei ⋅ Ruijie Li ⋅ Junhao Xiao ⋅ Jianjun Li ⋅ Bowen Zhou
+   arXiv: https://arxiv.org/abs/2606.30124
+
+23. SelfMOTR: Revisiting MOTR with Self-Generating Detection Priors
+   Fabian Gülhan ⋅ Emil Mededovic ⋅ Yuli Wu ⋅ Johannes Stegmaier
+   arXiv: https://arxiv.org/abs/2511.20279
+   page:  https://medem23.github.io/SM
+
+24. SP-TransientBench: A Real-Captured Single Photon Perception Benchmark
+   Hongzhou Dong ⋅ Zili Zhang ⋅ Ziting Wen ⋅ Yiheng Qiang ⋅ Runrong Deng ⋅ Wenle Dong ⋅ Ziwen Jiang ⋅ Xinyang Li ⋅ Rui Lu ⋅ Shuoyao Sun ⋅ Wenyu Wang ⋅ Ziyi Xia ⋅ Haitao Zheng ⋅ Guodong Shi ⋅ Xiaoqiang Ren
+   arXiv: https://arxiv.org/abs/2606.18952
+
+25. StreamSpatial: A Benchmark and Framework for Streaming 3D Visual-Spatial Reasoning
+   Junlin Xie ⋅ Keyang Zhong ⋅ Quanlong Zheng ⋅ Ruifei Zhang ⋅ Kuo Wang ⋅ Yanhao Zhang ⋅ Haonan Lu ⋅ Xiang Wan ⋅ Guanbin Li
+
+26. SVGEval: A Vision-Grounded Framework for Perceptual-Quality Benchmarking and Evaluation in Text-to-SVG Generation
+   Yiming Wang ⋅ Ye Chen ⋅ Hanqi Chen ⋅ Bingbing Ni
+   arXiv: https://arxiv.org/abs/2608.01977
+
+27. Syn4D: A Multiview Synthetic 4D Dataset
+   Zeren Jiang ⋅ Yushi Lan ⋅ Yihang Luo ⋅ Yufan Deng ⋅ Zihang Lai ⋅ Edgar Sucar ⋅ Christian Rupprecht ⋅ Iro Laina ⋅ Larlus Diane ⋅ Chuanxia Zheng ⋅ Andrea Vedaldi
+   arXiv: https://arxiv.org/abs/2605.05207
+   page:  https://jzr99.github.io/Syn4D/
+
+28. The Telephone Game: Evaluating Semantic Drift in Unified Models
+   Sabbir Mollah ⋅ Rohit Gupta ⋅ Swetha Sirnam ⋅ Qingyang Liu ⋅ Ahnaf Munir ⋅ Shah Mubarak
+   arXiv: https://arxiv.org/abs/2509.04438
+   code:  https://github.com/mollahsabbir/Semantic-Drift-in-Unified-Models
+
+29. TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions
+   Ce Chen ⋅ Yi Ren ⋅ Yuanming Li ⋅ Viktor Goriachko ⋅ Zhenhui Ye ⋅ Zujin Guo ⋅ Zhibin Hong ⋅ Mingming Gong
+   arXiv: https://arxiv.org/abs/2604.27975
+   page:  https://www.heygen.com/research
+   page:  https://www.heygen.com/research/avatar-v-model
+
+30. UEval: A Benchmark for Unified Multimodal Generation
+   Bo Li ⋅ Yida Yin ⋅ Wenhao Chai ⋅ Xingyu Fu ⋅ Zhuang Liu
+   arXiv: https://arxiv.org/abs/2601.22155
+
+31. Understanding Cross-Rig Generalization in Automotive Perception: a Multi-Rig Benchmark and Rig Variation Metrics
+   Tim Alexander Bader ⋅ Tim Eberhardt ⋅ Maximilian Dillitzer ⋅ Wilhelm Stork
+   arXiv: https://arxiv.org/abs/2606.27554
+   page:  https://badertim.github.io/plentiful-carla-camera-rigs
+
+32. Unified Removal of Raindrops and Reflections: A New Benchmark and A Novel Pipeline
+   Xingyu Liu ⋅ Zewei He ⋅ Yu Chen ⋅ Chunyu Zhu ⋅ Zixuan Chen ⋅ Xing Luo ⋅ Zheming Lu
+   arXiv: https://arxiv.org/abs/2603.16446
+
+33. Urban Boundaries, Social Barriers: A Benchmark and Vision-Centric Framework for Mapping Gated Communities and Equity Implications
+   Minwei Zhao ⋅ WEIMING ZHANG ⋅ Jiawang DU ⋅ Qiming LIU ⋅ Weiming Zhuang ⋅ Pei Nie ⋅ Cai Wu
+
+34. Volume Transformer: Revisiting Vanilla Transformers for 3D Scene Understanding
+   Kadir Yilmaz ⋅ Adrian Kruse ⋅ Tristan Höfer ⋅ Daan de Geus ⋅ Bastain Leibe
+   arXiv: https://arxiv.org/abs/2604.19609
+   page:  https://vision.rwth-aachen.de/Volt
+
+35. Why Can Accurate Models Be Learned from Inaccurate Annotations?
+   Chongjie Si ⋅ Yidan Cui ⋅ Fuchao Yang ⋅ Wei Shen
+   arXiv: https://arxiv.org/abs/2505.16159
+
+36. XDen-1K: A Density Field Dataset of Real-World Objects
+   Jingxuan Zhang ⋅ Tianqi Yu ⋅ Yatu Zhang ⋅ Jinze Wu ⋅ Kaixin Yao ⋅ Jingyang Liu ⋅ Yuyao Zhang ⋅ Jiayuan Gu ⋅ Jingyi Yu
+   arXiv: https://arxiv.org/abs/2512.10668
+

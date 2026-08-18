@@ -1,0 +1,401 @@
+Efficiency, Compression & Acceleration  (103 papers, 62 with arXiv links)  [Learning, Efficiency & Trust]
+============================================================================
+
+1. Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction
+   Zengjie Chen ⋅ Yuxiang Cai ⋅ Jingcai Guo ⋅ Taotao Cai ⋅ Jianwei Yin ⋅ Zhi Chen
+   arXiv: https://arxiv.org/abs/2606.24156
+
+2. Accelerating Text-to-Video Generation with Calibrated Sparse Attention
+   Shai Yehezkel ⋅ Shahar Yadin ⋅ Noam Elata ⋅ Yaron Ostrovsky-Berman ⋅ Bahjat Kawar
+   arXiv: https://arxiv.org/abs/2603.05503
+
+3. Accurate Zero-shot Quantization via Hierarchical Teacher-Assistant Distillation
+   Wonjin Cho ⋅ Jeongin Yun ⋅ U Kang
+
+4. Activation Quantization of Vision Encoders Needs Prefixing Registers
+   Seunghyeon Kim ⋅ Taesun Yeom ⋅ Jinho Kim ⋅ Wonpyo Park ⋅ Kyuyeun Kim ⋅ Jaeho Lee
+   arXiv: https://arxiv.org/abs/2510.04547
+   code:  https://github.com/spbob0418/RegCache
+
+5. Aggregating Cross-Domain Knowledge via Learnable Tokens for Multi-Teacher Distillation
+   Wu Ran ⋅ Weijia Zhang ⋅ ShuYang Pang ⋅ JingSheng Liu ⋅ Xiaohui Zhang ⋅ Yichao Yan ⋅ Chao Ma
+
+6. AVQ-Attention: Adaptive Vector-Quantized Attention
+   Winfried van den Dool ⋅ Patrick Forré ⋅ Amirhossein Habibian ⋅ Yuki Asano ⋅ Max Welling
+   arXiv: https://arxiv.org/abs/2607.12789
+
+7. Benchmarking Federated Learning &amp; Knowledge Distillation for Point Cloud Classification
+   Aizierjiang Aiersilan
+
+8. Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks
+   Sarthak Ketanbhai Modi ⋅ Hans Soegeng ⋅ Thomas Peyrin
+
+9. BLOB-Q: Boosting Low Bit ViT Quantization via Global Optimization on Model Distortion
+   Wang Mark ⋅ Kaixin Xu ⋅ Xue Geng ⋅ Fen Fang ⋅ Mohamed Aly ⋅ Xulei Yang ⋅ Min Wu ⋅ Weisi Lin
+
+10. Capacity Overflow: A Blind Spot for Backdoor Attacks in Vision MoE
+   Xiaolin Xu ⋅ Tiancheng Zheng ⋅ Xiaolin Xu ⋅ Ruyi Ding
+
+11. CaRe: Critical Parameter Rectification for Efficient Visual Modeling
+   Mingjia Li ⋅ Hongkun Xiong ⋅ Yuheng Shi ⋅ Hengxing Liu ⋅ Xiaojie Guo
+
+12. Continuous Speculative Decoding for Autoregressive Image Generation
+   Zili Wang ⋅ Zheng Zhang ⋅ Kun Ding ⋅ Qi Yang ⋅ Fei Li ⋅ SHIMING XIANG
+   arXiv: https://arxiv.org/abs/2411.11925
+   code:  https://github.com/MarkXCloud/CSpD
+
+13. DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space
+   Wenkun He ⋅ Yuchao Gu ⋅ Junyu Chen ⋅ Junyi Wu ⋅ Wenhang Ge ⋅ Dongyun Zou ⋅ Yujun Lin ⋅ Zhekai Zhang ⋅ Haocheng Xi ⋅ Muyang Li ⋅ Ligeng Zhu ⋅ Jincheng YU ⋅ Junsong Chen ⋅ Enze Xie ⋅ Song Han ⋅ Han Cai
+   arXiv: https://arxiv.org/abs/2509.25180
+   code:  https://github.com/dc-ai-projects/DC-Gen
+
+14. Denoising-Enhanced Coarse-to-Fine Infrared Small Target Detection with Attention Prior-Guided Knowledge Distillation
+   Houzhang Fang ⋅ Ruixuan Huang ⋅ Qiuhuan Chen ⋅ Xiaolin Wang ⋅ Yi Chang ⋅ Luxin Yan
+   arXiv: https://arxiv.org/abs/2606.21956
+
+15. Dense Video Understanding with Inter-tokenization Acceleration
+   Haichao Zhang ⋅ Wenhao Chai ⋅ Shwai He ⋅ Ang Li ⋅ Yun Fu
+
+16. DIGS: Differentiable, Incremental, Global, Scalable Pruning for Language Models
+   Bingcong Li ⋅ Junlin Xian ⋅ TAO JIANG ⋅ jwlin jwlin ⋅ Cheng ZOU ⋅ Geng-Li Zhang
+
+17. Distill on a Diet: Efficient Knowledge Distillation via Learnable Data Pruning
+   Yifan Wu ⋅ Yiqi Wang ⋅ Xichen Ye ⋅ Wenjing Yan ⋅ Xiaoqiang Li ⋅ Cheng Jin ⋅ WEIZHONG ZHANG ⋅ Xiangyu Yue
+   arXiv: https://arxiv.org/abs/2606.25488
+
+18. DIVA: Instruction-Aware Vision Token Pruning via Dual-Probe Attention Discrepancy
+   Hyunwoo Kim ⋅ Kisu Lee ⋅ Yuna Shin ⋅ Ha Young Kim
+
+19. Diversity-Aware View Partitioning for Scalable VGGT
+   Jinsoo Park ⋅ Donggyu Choi ⋅ Ahyun Seo ⋅ Minsu Cho ⋅ Jeany Son
+   arXiv: https://arxiv.org/abs/2607.01885
+
+20. DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing
+   Kailai Feng ⋅ Yuxiang WEI ⋅ Bo Chen ⋅ yang pan ⋅ Hu Ye ⋅ Songwei Liu ⋅ Chenqian Yan ⋅ Yuan Gao ⋅ Wangmeng Zuo
+   arXiv: https://arxiv.org/abs/2603.28713
+   page:  https://carlofkl.github.io/dreamlite/
+
+21. DroneFINE: Domain-Aware Parameter-Efficient Fine-Tuning of Vision-Language Detectors for Drone Images
+   Wu Ke ⋅ Yanan Zhang ⋅ Yingjie Gao ⋅ Wenhao Li ⋅ Chenyu Zhou ⋅ Xinzhu Ma ⋅ Di Huang ⋅ Di Huang
+   arXiv: https://arxiv.org/abs/2607.00338
+
+22. EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation
+   Min Lin ⋅ Xiwen Liang ⋅ Bingqian Lin ⋅ Jingzhi Liu ⋅ Zijian Jiao ⋅ Kehan Li ⋅ Ziang Yan ⋅ Yu Sun ⋅ Weijia Liufu ⋅ Yuhan Ma ⋅ Jiarui Hu ⋅ Yuecheng Liu ⋅ Shen Zhao ⋅ Yuzheng Zhuang ⋅ Xiaodan Liang
+   arXiv: https://arxiv.org/abs/2511.18112
+
+23. Efficient and High-Quality Depth Estimation via Pixel-Space Diffusion with Linear Attention
+   Bingde Liu ⋅ Wu Ran ⋅ Jinglei Zhang ⋅ Huanhuan Yuan ⋅ Chao Ma
+
+24. Efficient Document Tampering Localization with Multi-Level Discrepancy Features and Unified DCT–Quantization Embedding
+   Mohamed Dhouib ⋅ Ye Zhu ⋅ Sonia Vanier ⋅ Aymen Shabou
+   arXiv: https://arxiv.org/abs/2606.22285
+
+25. Efficient Quantization-Aware Adaptation for Visual Foundation Models
+   Yinglong Li ⋅ Xiaoyu Liu ⋅ Yutong Liu ⋅ Yueyi Zhang ⋅ Zhiwei Xiong
+
+26. EffiDINO: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency
+   Jianjian Yin ⋅ Liulei Li ⋅ Tao Chen ⋅ Yi Chen ⋅ Yazhou Yao ⋅ Wenguan Wang
+
+27. Enhanced Neural Video Representation Compression with High Scalability
+   Ho Man Kwan ⋅ Tianhao Peng ⋅ Fan Zhang ⋅ Mike Nilsson ⋅ Andrew Gower ⋅ David Bull
+
+28. ESCAPE: Episodic Spatial Memory and Adaptive Execution Policy for Long-Horizon Mobile Manipulation
+   Jingjing Qian ⋅ Zeyuan He ⋅ Chen Shi ⋅ Lei Xiao ⋅ Li Jiang
+
+29. EVAR: Edge Visual Autoregressive Models via Principled Pruning
+   Zefang Wang ⋅ Ying Li ⋅ Yanyu Li ⋅ Mingluo Su ⋅ Simin Xu ⋅ Guanzhong Tian ⋅ Huan Wang
+
+30. Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation
+   Boyu Mi ⋅ Mengchen Ma ⋅ Yifei Yao ⋅ Xing Gao ⋅ Hanqing Wang ⋅ Junting Chen ⋅ Yangzi Li ⋅ Zihou Zhu ⋅ Guohao Li ⋅ Zhenfei Yin ⋅ Tai Wang ⋅ Yao Mu ⋅ Jiangmiao Pang
+   arXiv: https://arxiv.org/abs/2607.13653
+   code:  https://github.com/InternRobotics/REAL
+
+31. Fast and Accurate Image Restoration with Rank Enhanced Linear Attention
+   Yuang Ai
+
+32. FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis
+   Sungwoong Yune ⋅ Suheon Jeong ⋅ Joo-Young Kim
+   arXiv: https://arxiv.org/abs/2603.07192
+
+33. Fisher-Routed Mixture of Experts for Federated Class-Incremental Learning
+   Wenhao Yuan ⋅ Chenchen Lin ⋅ Jian Chen ⋅ Jinfeng Xu ⋅ Zewei Liu ⋅ Edith C. H. Ngai
+   arXiv: https://arxiv.org/abs/2606.28835
+
+34. Flash-DD: An Ultra Parameter-Efficient Approach to Dataset Distillation
+   Ruonan Yu ⋅ Songhua Liu ⋅ Xinchao Wang
+
+35. FlashBEV: Fast and Memory-Efficient Exact BEV Transformation with IO-Awareness
+   Shunsuke Yokokawa ⋅ Hironori Kasahara
+   arXiv: https://arxiv.org/abs/2607.10071
+   code:  https://github.com/yokosyun/FlashBEV
+
+36. Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE
+   Haoyou Deng ⋅ Keyu Yan ⋅ Chaojie Mao ⋅ Xiang Wang ⋅ Yu Liu ⋅ Changxin Gao ⋅ Nong Sang
+   arXiv: https://arxiv.org/abs/2606.26938
+
+37. From Predictions to Embeddings: Dual Knowledge Distillation for Instance-Dependent Partial Label Learning
+   Lilong Duan ⋅ Ke Wang ⋅ Yao Zhang ⋅ Jun Tang
+
+38. GCMRD: Global Consistency Multi-teacher Robustness Distillation
+   Yuhang Zhou ⋅ Zhongyun Hua ⋅ Rushi Lan ⋅ Qing Liao ⋅ Wei Jiang
+
+39. HQ-DM: Single Hadamard Transformation-Based Quantization-Aware Training for Low-Bit Diffusion Models
+   Shizhuo Mao ⋅ Hongtao Zou ⋅ Qihu Xie ⋅ Song Chen ⋅ Yi Kang
+   arXiv: https://arxiv.org/abs/2512.05746
+
+40. HSD: Training-Free Acceleration for Document Parsing Vision-Language Models with Hierarchical Speculative Decoding
+   Wenhui Liao ⋅ Hongliang Li ⋅ Pengyu Xie ⋅ Xinyu Cai ⋅ Yufan Shen ⋅ Yi Xin ⋅ Qi Qin ⋅ Shenglong Ye ⋅ Tianbin Li ⋅ Ming Hu ⋅ Junjun He ⋅ Yihao Liu ⋅ Wenhai Wang ⋅ Min Dou ⋅ Bin Fu ⋅ Botian Shi ⋅ Yu Qiao ⋅ Lianwen Jin
+   arXiv: https://arxiv.org/abs/2602.12957
+   code:  https://github.com/whlscut/HSD
+
+41. IDeaL: Data-Free Multi-Teacher Distillation via Improved Dead Leaves
+   Feyza Yavuz ⋅ Mert Bulent SARIYILDIZ ⋅ Larlus Diane
+
+42. Identifiable Gated Residual Personalization for Federated Parameter-Efficient Fine-Tuning
+   Huimin Huang ⋅ Wenhan Hu ⋅ Gang Yan
+
+43. Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation
+   Niclas Popp ⋅ Kevin Laube ⋅ Matthias Hein ⋅ Lukas Schott
+   arXiv: https://arxiv.org/abs/2506.02294
+
+44. Inference-Time Scaling of Diffusion Models via Progressive Pruning Search
+   Rogério Guimarães ⋅ Pietro Perona
+
+45. LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning
+   Marco Apolinario ⋅ Kaushik Roy
+   arXiv: https://arxiv.org/abs/2509.21617
+
+46. LISA: Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation
+   Ying Li ⋅ Siyong Jian ⋅ Zhaode Wang ⋅ Zhiwen Chen ⋅ Chengfei Lyu ⋅ Huan Wang
+
+47. Mapping the Concept Landscape: Structural Perception of Global Distributions for Transparent Data Pruning
+   Dongyue Wu ⋅ Tao Ma
+
+48. MMLoP: Multi-Modal Low-Rank Prompting for Efficient Vision-Language Adaptation
+   Sajjad Ghiasvand ⋅ Haniyeh Oskouie ⋅ Mahnoosh Alizadeh ⋅ Ramtin Pedarsani
+   arXiv: https://arxiv.org/abs/2602.21397
+   code:  https://github.com/sajjad-ucsb/MMLoP
+
+49. MobileManiBench: Simplifying Model Verification for Mobile Manipulation
+   Wenbo Wang ⋅ Fangyun Wei ⋅ Qixiu Li ⋅ Xi Chen ⋅ Yaobo Liang ⋅ Chang Xu ⋅ Jiaolong Yang ⋅ Baining Guo
+   arXiv: https://arxiv.org/abs/2602.05233
+
+50. MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots
+   Junseo Kim ⋅ Guido Dumont ⋅ Xinyu Gao ⋅ Gang Chen ⋅ Holger Caesar ⋅ Javier Alonso-Mora
+   arXiv: https://arxiv.org/abs/2511.16949
+
+51. MobileSAM2: Lightweight Segment Anything in Images and Videos via Hypergraphical Knowledge Distillation
+   Kai Jiang ⋅ Jiaxing Huang ⋅ Jingyi Zhang ⋅ Weiying Xie ⋅ Yunsong Li ⋅ Yufei Wang ⋅ Aoran Xiao ⋅ Dacheng Tao
+
+52. MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots
+   Ting Huang ⋅ Dongjian Li ⋅ Rui Yang ⋅ Zeyu Zhang ⋅ ZIDA YANG ⋅ Hao Tang
+   arXiv: https://arxiv.org/abs/2511.17889
+   code:  https://github.com/AIGeeksGroup/MobileVLA-R1
+   page:  https://aigeeksgroup.github.io/MobileVLA-R1
+
+53. MoE-KD: Your Teacher Model is Worth Mixture-of-Experts for Knowledge Distillation
+   Kuo Shi ⋅ Wenjie Zhu ⋅ Bo Peng
+
+54. MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding
+   Bonan Zhang ⋅ Shiyu Dong ⋅ Quan Tran ⋅ Katharina Gschwind ⋅ Shuqi Yang ⋅ Sijia Chen ⋅ Adel Ahmadyan ⋅ Seungwhan Moon ⋅ Lu Zhang ⋅ Ahmed Kirmani ⋅ Babak Damavandi ⋅ Anuj Kumar
+
+55. Multi-Scale Representation Alignment for Visual Autoregressive Modeling with Mixture of Experts
+   Nuoyan Zhou ⋅ Zhijun Tu ⋅ Lei Yu ⋅ Kun Cheng ⋅ jie hu ⋅ Nannan Wang ⋅ Xinghao Chen
+   arXiv: https://arxiv.org/abs/2607.00371
+
+56. MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving
+   Nan Yang ⋅ Zhanwen Liu ⋅ Linfeng Zhang ⋅ Shangyu Xie ⋅ Yang Wang ⋅ Wenzhuo Zhou ⋅ Xiangmo Zhao
+   arXiv: https://arxiv.org/abs/2606.27660
+
+57. NanoVSR: Towards Real-Time Video Super-Resolution on Edge Devices
+   Filip Pawlicki ⋅ Marcel Kańduła ⋅ Marcin Pucek ⋅ Kamil Dobies
+   arXiv: https://arxiv.org/abs/2607.10495
+   code:  https://github.com/filippawlicki/nanovsr
+
+58. OVGGT: O(1) Constant-Cost Streaming Visual Geometry Transformer
+   Si-yu Lu ⋅ Po-Ting Chen ⋅ Hui-Che Hsu ⋅ Sin-Ye Jhong ⋅ Wen-Huang Cheng ⋅ Yung-Yao Chen
+   arXiv: https://arxiv.org/abs/2603.05959
+   code:  https://github.com/VAISR/OVGGT
+   page:  https://vaisr.github.io/OVGGT/
+
+59. Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings
+   Christian Grashei ⋅ Christian Brechenmacher ⋅ Rao Umer ⋅ Jingsong Liu ⋅ Carsten Marr ⋅ Peter Schüffler ⋅ Ewa Szczurek
+   arXiv: https://arxiv.org/abs/2511.23204
+
+60. Perceptual Projection Pruning: Diversity-Aware Video Token Pruning for Multimodal Large Language Models
+   Zhuangqiu Huang ⋅ Minxin Lai ⋅ Shuo Liu ⋅ Yu Zhang ⋅ Jiaqi Wang
+
+61. Point Ladder Tuning: Parameter-Efficient Hierarchical Adaptation for 3D Point Cloud Understanding
+   Junlin Chang ⋅ Longhao Zou ⋅ Rui Li
+   arXiv: https://arxiv.org/abs/2607.19171
+   code:  https://github.com/JunLinChang/ECCV2026-PLT
+
+62. Preventing Expert Collapse in MoE-dVLMs via Modality-Wise Norm Alignment
+   Zongkai Liu ⋅ Zhen Cao ⋅ Hui Zhang ⋅ Chao Yu ⋅ liqiang niu ⋅ Fandong Meng
+
+63. Prune Once: Retraining-Free Task-Agnostic Pruning for Vision-Language Models
+   Kang MinSeok ⋅ Hyunwoo Kim ⋅ Chanyoung Kim ⋅ Minwoo Kim ⋅ Jaekoo Lee ⋅ Dahuin Jung
+   arXiv: https://arxiv.org/abs/2608.06901
+   code:  https://github.com/cau-hai-lab/PORTA.git
+
+64. QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception
+   Seth Zhao ⋅ Huizhi Zhang ⋅ Zhaowei Li ⋅ Juntong Peng ⋅ Anthony Chui ⋅ Zewei Zhou ⋅ Zonglin Zonglin ⋅ Hao Xiang ⋅ Zhiyu Huang ⋅ Fujia Wang ⋅ Ran Tian ⋅ Chenfeng Xu ⋅ Bolei Zhou ⋅ Jiaqi Ma
+   arXiv: https://arxiv.org/abs/2509.03704
+   code:  https://github.com/ucla-mobility/QuantV2X
+
+65. Rapidly Deploying On-Device Eye Tracking by Distilling Visual Foundation Models
+   Cheng Jiang ⋅ Jogendra Nath Kundu ⋅ David Colmenares ⋅ Fengting Yang ⋅ Joseph Robinson ⋅ Yatong An ⋅ Ali Behrooz
+   arXiv: https://arxiv.org/abs/2604.02509
+
+66. REDistill: Robust Estimator Distillation for Balancing Robustness and Efficiency
+   Ondrej Tybl ⋅ Lukas Neumann
+   arXiv: https://arxiv.org/abs/2602.04677
+
+67. REFINE: Super-efficient Pruning for 3D Gaussian Splatting via Rendering-Free Primitive Importance
+   Zhang Chen ⋅ Shuai Wan ⋅ MengtingYu MengtingYu ⋅ Fuzheng Yang ⋅ Junhui Hou
+
+68. ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration
+   Qicheng Zhao ⋅ Yu Li ⋅ Qi Sun ⋅ Zheyu Yan
+   arXiv: https://arxiv.org/abs/2606.26769
+
+69. Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness
+   Hangyeol Lee ⋅ Hyojeong Lee ⋅ Joo-Young Kim
+   arXiv: https://arxiv.org/abs/2605.22011
+
+70. RhymeFlow: Training Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling
+   Chensheng Dai ⋅ Shengjun Zhang ⋅ Yifan Li ⋅ Zhang Zhang ⋅ Zheng Zhu ⋅ Yueqi Duan
+   arXiv: https://arxiv.org/abs/2606.06309
+   code:  https://github.com/Simon-Dcs/RhymeFlow
+   page:  https://simon-dcs.github.io/Website-of-RhymeFlow/
+
+71. Robust Trajectory Distillation: Hybrid Reweighting Meets Teacher-Inspired Targets
+   KaifengChen KaifengChen ⋅ Lechao Cheng ⋅ Jiyang Li ⋅ Shengeng Tang ⋅ FanZhang FanZhang ⋅ Yantao Pan ⋅ Yaxiong Wang ⋅ Tianrui Hui ⋅ Zhun Zhong
+   arXiv: https://arxiv.org/abs/2606.29837
+
+72. RotateAttention : RoPE-Aware Rotation and Range Rectification for INT4 Quantized Attention in Video Generation
+   Yaofu LIU ⋅ Wangli Lan ⋅ Jinxi Li ⋅ Binhang Yuan ⋅ Harry Yang
+   arXiv: https://arxiv.org/abs/2607.02584
+
+73. SAFE-Pruner: Semantic Attention–Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation
+   Shilin Ma ⋅ Chubin Zhang ⋅ Changyuan Wang ⋅ Yuji Wang ⋅ Yue Wu ⋅ Zixuan Wang ⋅ Jingqi Tian ⋅ Zheng Zhu ⋅ Yansong Tang
+
+74. SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting
+   YU SONG ⋅ Hao Sun ⋅ TENG SHIYU ⋅ Ikuko Nishikawa ⋅ Yen-wei Chen
+   arXiv: https://arxiv.org/abs/2607.29033
+   code:  https://github.com/JerrySongCST/SAM-Plus-D
+
+75. SD3.5-Flash: Distribution-Guided Distillation of Generative Flows
+   Hmrishav Bandyopadhyay ⋅ Rahim Entezari ⋅ Jim Scott ⋅ Reshinth Adithyan ⋅ Yi-Zhe Song ⋅ Varun Jampani
+
+76. Seeing Fast and Slow: Learning the Flow of Time in Videos
+   Yen-Siang Wu ⋅ Rundong Luo ⋅ Jingsen Zhu ⋅ Tao Tu ⋅ Ali Farhadi ⋅ Matthew Wallingford ⋅ Yu-Chiang Frank Wang ⋅ Steve Marschner ⋅ Wei-Chiu Ma
+   arXiv: https://arxiv.org/abs/2604.21931
+   page:  https://seeing-fast-and-slow.github.io/
+
+77. SFKD: Spatial–Frequency Joint-Aware Heterogeneous Knowledge Distillation via Multi-Level Wavelet Spectral Interaction
+   Cuipeng Wang ⋅ Haipeng Wang
+   arXiv: https://arxiv.org/abs/2607.01906
+
+78. SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation
+   Víctor Barreiro ⋅ Johannes Jakubik ⋅ Francisco Argüello ⋅ Dora Heras
+
+79. Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs
+   Kibum Kim ⋅ Jiwan Kim ⋅ Kyle Min ⋅ Yueqi Wang ⋅ Jinyoung Moon ⋅ Julian McAuley ⋅ Chanyoung Park
+   arXiv: https://arxiv.org/abs/2604.20937
+
+80. SMART: When is it Actually Worth Expanding a Speculative Tree?
+   Lifu Wang ⋅ Pan ZHOU
+
+81. SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts
+   Haida Feng ⋅ Hao Wei ⋅ Haolin Wang ⋅ Shiwei Li ⋅ Chade Li ⋅ Yihong Wu
+   arXiv: https://arxiv.org/abs/2607.06620
+
+82. Sparse-Aware Vector Quantization for Bandwidth-Efficient Collaborative 3D Semantic Occupancy Prediction
+   Feng Li ⋅ Chaokun Zhang ⋅ Gong Chen
+   arXiv: https://arxiv.org/abs/2607.01928
+
+83. SpecEyes: Accelerating Agentic Multimodal LLM via Speculative Planning and Perception
+   Haoyu Huang ⋅ Jinfa Huang ⋅ Zhongwei Wan ⋅ Xiawu Zheng ⋅ Rongrong Ji ⋅ Jiebo Luo
+
+84. Structured Hyperedge Adaptation for Parameter-Efficient Fine-Tuning of Vision Transformers
+   Edwin Kwadwo Tenagyei ⋅ Lei Wang ⋅ Ugochukwu Akpudo ⋅ Jun Zhou ⋅ Yongsheng Gao
+   arXiv: https://arxiv.org/abs/2606.22383
+
+85. Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs
+   Jouwon Song ⋅ Woohyeong Kim ⋅ Kyeongbo Kong
+   arXiv: https://arxiv.org/abs/2607.23046
+
+86. SurvMILKD: A Weakly Supervised Survival Analysis Framework for Multi-Teacher Knowledge Distillation using Pathology Foundation Models
+   Mayur Mallya ⋅ Ali Khajegili Mirabadi ⋅ Hossein Farahani ⋅ Ali Bashashati
+
+87. SWIFT: Spatial-Window Integrated Frequency-aware Token Pruning for Efficient MLLMs on Edge Devices
+   Guanglai Liu ⋅ Jubo Chen ⋅ Xiaosheng Yu
+
+88. Symbiotic-MoE: Unlocking the Synergy between Generation and Understanding
+   Xiangyue Liu ⋅ Zijian Zhang ⋅ Miles Yang ⋅ Zhao Zhong ⋅ Liefeng Bo ⋅ Ping Tan
+   arXiv: https://arxiv.org/abs/2604.07753
+
+89. TextDS: Parameter-Efficient Representation Alignment for Scene Text Detection under Distribution Shifts
+   Boyuan Chen ⋅ Zichen Dang ⋅ Chuang Yang ⋅ Lap-Pui Chau ⋅ Yi Wang
+   arXiv: https://arxiv.org/abs/2606.28077
+   code:  https://github.com/ZChenDang/TextDS
+
+90. The Label Imitation Game: Turing Test Network for Zero-Shot Pseudo-Label Pruning
+   Brent Griffin ⋅ Jason Corso
+   arXiv: https://arxiv.org/abs/2606.30875
+   code:  https://github.com/voxel51/ttn
+
+91. TinyHistory: Lightweight Video History Embeddings via Two-Stage Context Learning
+   lvmin zhang ⋅ Shengqu Cai ⋅ Muyang Li ⋅ Chong Zeng ⋅ Beijia Lu ⋅ Anyi Rao ⋅ Song Han ⋅ Gordon Wetzstein ⋅ Maneesh Agrawala
+   arXiv: https://arxiv.org/abs/2512.23851
+   page:  https://lllyasviel.github.io/TinyHistory_gitpage/
+
+92. Token-level Response-visual Attention Guidance for Multimodal LLMs Knowledge Distillation
+   Jaehyun Jang ⋅ Eunseop Yoon ⋅ Hee Suk Yoon ⋅ SooHwan Eom ⋅ Mark Hasegawa-Johnson ⋅ Chang Yoo
+   arXiv: https://arxiv.org/abs/2607.02593
+
+93. Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption
+   Xiaomeng Fu ⋅ Jia Li ⋅ Yiming Hu ⋅ Yong Wang ⋅ Hayden So ⋅ Jiao Dai ⋅ Xiangxiang Chu ⋅ Jizhong Han
+   arXiv: https://arxiv.org/abs/2607.00712
+
+94. TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking
+   Tianle Wang ⋅ Xiangyang Yang ⋅ Jihua Zhu ⋅ Binrui Liu ⋅ Yanzhao Li ⋅ Shuiwang Li
+
+95. UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models
+   Ioannis Maniadis Metaxas ⋅ Adrian Bulat ⋅ Alberto Baldrati ⋅ Anestis Zaganidis ⋅ Yassine Ouali ⋅ Hyeonuk Kim ⋅ Georgios Tzimiropoulos
+   arXiv: https://arxiv.org/abs/2607.23373
+
+96. Unifying CNNs and ViTs for Learning-Efficient and Scalable Variational AutoEncoder
+   Zhiying Lu ⋅ Shang Chai ⋅ Chuanbin Liu ⋅ Litong Gong ⋅ Pandeng Li ⋅ Tiezheng Ge ⋅ Hongtao Xie
+
+97. ViQ: Text-Aligned Visual Quantized Representations at Any Resolution
+   Xumin Yu ⋅ ZUYAN LIU ⋅ Zhenyu Yang ⋅ Yuhao Dong ⋅ Shengsheng Qian ⋅ Jiwen Lu ⋅ Han Hu ⋅ Yongming Rao
+   arXiv: https://arxiv.org/abs/2606.27313
+
+98. VQT: Vector Quantization Tuning for Efficient Fine-tuning and Compression of Pre-trained Vision Transformers
+   Yinglong Li ⋅ jiyuan Xia ⋅ Jingcheng Xie ⋅ Zhiwei Xiong
+
+99. WebEyeTrack: Scalable Eye-Tracking for the Browser via On-Device Few-Shot Personalization
+   Eduardo Davalos ⋅ Yike Zhang ⋅ Namrata Srivastava ⋅ Yashvitha Thatigotla ⋅ Ashwin T S ⋅ Jorge Salas ⋅ Sun-Joo Cho ⋅ Amanda Goodwin ⋅ Gautam Biswas
+   arXiv: https://arxiv.org/abs/2508.19544
+   code:  https://github.com/RedForestAi/WebEyeTrack
+
+100. When Distillation Breaks Motion Control: Restoring Generative Trajectories for Fast Video Generators
+   Jintao Rong ⋅ Xin Xie ⋅ Xinyi Yu ⋅ Linlin Ou ⋅ Xinyu Zhang ⋅ Chunhua Shen ⋅ Dong Gong
+   arXiv: https://arxiv.org/abs/2506.19348
+   page:  https://euminds.github.io/motionecho/
+
+101. When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression
+   Tien-Phat Nguyen ⋅ Ngai-Man Cheung
+   arXiv: https://arxiv.org/abs/2607.02237
+   code:  https://github.com/phatnguyencs/vit-seg-compression
+
+102. Which Layer Causes Distribution Deviation? Entropy-Guided Adaptive Pruning for Diffusion and Flow Models
+   Changlin Li ⋅ Jiawei Zhang ⋅ Zeyi Shi ⋅ Zhihui Li ⋅ Xiaojun Chang
+   arXiv: https://arxiv.org/abs/2511.21122
+   code:  https://github.com/changlin31/EntPruner
+
+103. Zero-Shot Quantization for Object Detectors using Off-the-Shelf Generative Models
+   Hyunho Lee ⋅ Kyomin Hwang ⋅ Hyeonjin Kim ⋅ Suyoung Kim ⋅ Sunghyun Wee ⋅ Nojun Kwak
+   arXiv: https://arxiv.org/abs/2606.31456
+

@@ -1,0 +1,602 @@
+Embodied AI, Robotics & Manipulation  (148 papers, 99 with arXiv links)  [Humans, Agents & Autonomy]
+============================================================================
+
+1. 360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents
+   Kenta Watanabe ⋅ Atsuyuki Miyai ⋅ Mizuki Takenawa ⋅ Kiyoharu Aizawa ⋅ Toshihiko Yamasaki
+   arXiv: https://arxiv.org/abs/2608.08814
+   page:  https://360mm-team.github.io/360CityArena/
+
+2. 3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints
+   Huang Ziqin ⋅ Yingyue Li ⋅ Chenyangguang Zhang ⋅ Ruida Zhang ⋅ Yuxin Chen ⋅ Gu Wang ⋅ Xingyu Liu ⋅ Masayoshi TOMIZUKA ⋅ Xiangyang Ji
+
+3. A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning
+   Zixin Zhang ⋅ Kanghao Chen ⋅ Hanqing Wang ⋅ Hongfei Zhang ⋅ Harold Haodong Chen ⋅ Chenfei Liao ⋅ Litao Guo ⋅ Yinchuan Li ⋅ Yingcong Chen
+   arXiv: https://arxiv.org/abs/2512.14442
+
+4. ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning
+   Eric Nazarenus ⋅ Chuqiao Li ⋅ Yannan He ⋅ Xianghui Xie ⋅ Jan Eric Lenssen ⋅ Gerard Pons-Moll
+   arXiv: https://arxiv.org/abs/2603.13500
+   page:  https://coral79.github.io/ActionPlan/
+
+5. Agent-OBJ: Prompt-Driven 3D Adversaries for Multi-Modal Perception
+   Bing Li ⋅ Sean Du ⋅ Xuhong Ren ⋅ Luqi Gong ⋅ Wee Peng Tay ⋅ Qing Guo
+
+6. Agentic Collaborative Cognition for Zero-Shot 3D Understanding
+   Wenxin Wang ⋅ Bo Zhang ⋅ Feng Chen ⋅ Zixuan Wang ⋅ Wen Li ⋅ Changsheng Li ⋅ Yinjie Lei
+   arXiv: https://arxiv.org/abs/2606.24649
+   page:  https://zhangbo135.github.io/agentic-collaborative-cognition/
+
+7. AgentVLN: Towards Agentic Vision-and-Language Navigation
+   Zihao Xin ⋅ Wentong Li ⋅ Yixuan Jiang ⋅ Ziyuan Huang ⋅ Bin Wang ⋅ Piji Li ⋅ Jianke Zhu ⋅ Jie Qin ⋅ Sheng-Jun Huang
+   arXiv: https://arxiv.org/abs/2603.17670
+   code:  https://github.com/Allenxinn/AgentVLN
+
+8. AMCoNav: Asynchronous Multi-module Collaborative Framework for Embodied Visual Navigation
+   Jiaquan Yan ⋅ Fang Zhao ⋅ Yushi Chen ⋅ Long wang ⋅ Haiyong Luo ⋅ Dan Luo
+
+9. AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation
+   Shengjie Jin ⋅ Zelong Sun ⋅ Hengbo Xu ⋅ Yanbiao Ma ⋅ Zhiwu Lu
+
+10. Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection
+   Wenkui Yang ⋅ chao jin ⋅ Haisu Zhu ⋅ Weilin Luo ⋅ Derek Yuen ⋅ Kun Shao ⋅ Junxian Duan ⋅ Huaibo Huang ⋅ Jie Cao ⋅ Ran He
+   arXiv: https://arxiv.org/abs/2604.07831
+   code:  https://github.com/HashTAG00002/UI-Injection
+
+11. ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search
+   Myungchul Kim ⋅ Kwanyong Park ⋅ Junmo Kim ⋅ In Kweon
+   arXiv: https://arxiv.org/abs/2604.12762
+
+12. ASSCG: Just-Right Gating over Chattering for Fast–Slow LLM Planning in Autonomous Driving
+   Sining Ang ⋅ Yuan Chen ⋅ Liu Haiyan ⋅ Xuanyao Mao ⋅ jason bao ⋅ Xuliang Xuliang ⋅ Bingchuan Sun ⋅ Yan Wang
+   arXiv: https://arxiv.org/abs/2606.25509
+   page:  https://williamxuanyu.github.io/asscg/
+
+13. ATP-Bench: Towards the Agentic Tool Planning for MLLM Interleaved Generation
+   Yinuo Liu ⋅ Zi Qian ⋅ Heng Zhou ⋅ Jiahao Zhang ⋅ Yajie Zhang ⋅ Zhihang Li ⋅ Mengyu Zhou ⋅ Erchao Zhao ⋅ xiaoxi jiang ⋅ Guanjun Jiang
+   arXiv: https://arxiv.org/abs/2603.29902
+   code:  https://github.com/Qwen-Applications/ATP-Bench
+
+14. AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation
+   Qingda Hu ⋅ Ziheng Qiu ⋅ Jieru Zhao ⋅ Zhongxue Gan ⋅ Wenchao Ding
+   arXiv: https://arxiv.org/abs/2607.01051
+
+15. Beyond Description: Cognitively Benchmarking Fine-Grained Action for Embodied Agents
+   Dayong Liu ⋅ Chao Xu ⋅ Weihong Chen ⋅ Suyu Zhang ⋅ Juncheng Wang ⋅ Jiankang Deng ⋅ Baigui Sun ⋅ Yang Liu
+   arXiv: https://arxiv.org/abs/2511.18685
+   page:  https://cfg-bench.github.io/
+
+16. Beyond Where to Look: Trajectory-Guided Reinforcement Learning for Multimodal RLVR
+   Jinda Lu ⋅ Junkang Wu ⋅ Jinghan Li ⋅ Kexin Huang ⋅ Shuo Yang ⋅ Mingzhu Chen ⋅ Jiancan Wu ⋅ Kuien Liu ⋅ Xiang Wang
+   arXiv: https://arxiv.org/abs/2603.26126
+
+17. CellFluxRL: Biologically-Constrained Virtual Cell Modeling via Reinforcement Learning
+   Dongxia Wu ⋅ Shiye Su ⋅ Yuhui Zhang ⋅ Elaine Sui ⋅ Emma Lundberg ⋅ Emily Fox ⋅ Serena Yeung-Levy
+   arXiv: https://arxiv.org/abs/2603.21743
+
+18. ChronoFlow Policy: Unifying Past-Future Interaction Flow in Visuomotor Policy Learning
+   Bokai Lin ⋅ Yifu Xu ⋅ Xinyu Zhan ⋅ Hongjie Fang ⋅ Jialin Tian ⋅ Fu-Cheng Zhang ⋅ Yong-Lu Li ⋅ Cewu Lu ⋅ Lixin Yang
+   arXiv: https://arxiv.org/abs/2606.31493
+   page:  https://the-kamisato-sii.github.io/ChronoFlow-Policy-project-page/
+
+19. CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains
+   Wenhan Wang ⋅ Zhixiang Zhou ⋅ Zhongtian Ma ⋅ Yanzhu Chen ⋅ Ziyu Lin ⋅ Hao Sheng ⋅ Pengfei Liu ⋅ Wenqi Shao ⋅ Qiaosheng Zhang ⋅ Yu Qiao
+   arXiv: https://arxiv.org/abs/2603.28474
+   code:  https://huggingface.co/datasets/SII-Monument-Valley/CiQi-VQA
+
+20. Coding with Eyes: Visual Feedback Unlocks Reliable GUI Code Generating and Debugging
+   Zhilin Liu ⋅ Ye Huang ⋅ TingXie TingXie ⋅ Ruizhi Zhang ⋅ Wen Li ⋅ Lixin Duan
+   arXiv: https://arxiv.org/abs/2604.19750
+
+21. ContextFlow: In-Context Flow Matching for Robot Manipulation
+   Jian Ding ⋅ Xianjie DAI ⋅ Roei Herzig ⋅ Nussair Hroub ⋅ Jinjie Mai ⋅ Dengxin Dai ⋅ Bernard Ghanem ⋅ Mohamed Elhoseiny
+
+22. CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates
+   Shresth Grover ⋅ Priyank Pathak ⋅ Akash Kumar ⋅ Yogesh Rawat
+   arXiv: https://arxiv.org/abs/2512.10342
+
+23. CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning
+   Julien Mérand ⋅ Boris Meden ⋅ Liming Chen ⋅ Mathieu GROSSARD
+
+24. CulinaryCut: A Physics-aware Vision-Language-Action Benchmark for Food Cutting via Material Point Method
+   Hyunsuh Koh ⋅ CHANG-YONG SONG ⋅ Youngjae Choi ⋅ Misa Viveiros ⋅ David Hyde ⋅ Heewon Kim
+
+25. Diffusion Models are Open-World Affordance Learners: Leveraging Generative Priors for 3D Affordance Learning
+   Hanqing Wang ⋅ Zhenhao Zhang ⋅ Kaiyang Ji ⋅ Mingyu Liu ⋅ Wenti Yin ⋅ yuchao chen ⋅ Zhirui Liu ⋅ Xiangyu Zeng ⋅ Tianxiang Gui ⋅ Hangxing Zhang ⋅ Jiahao Yuan ⋅ Zhiqing Cui ⋅ Jiaxin Liu ⋅ Zhiyuan Ma ⋅ Hui Xiong
+   arXiv: https://arxiv.org/abs/2508.01651
+   code:  https://github.com/hq-King/DAG
+
+26. DiNBV-Grasp: Real-Time Distance-Aware Two-Stage Next-Best-View for Robotic Grasping
+   Zilong Xie ⋅ Jingyu Gong ⋅ Xin Tan ⋅ Zhizhong Zhang ⋅ Yanyun Qu ⋅ Lizhuang Ma ⋅ Yuan Xie
+
+27. DisRM: Reward Modeling as Discriminative Prediction
+   Runtao Liu ⋅ Jiahao Zhan ⋅ Yuxuan GUO ⋅ Yingqing He ⋅ Chen Wei ⋅ Alan Yuille ⋅ Qifeng Chen
+
+28. Distribution Matching Distillation Meets Reinforcement Learning
+   Dengyang Jiang ⋅ Dongyang Liu ⋅ Zanyi Wang ⋅ Qilong Wu ⋅ Liuzhuozheng Li ⋅ Heng-Zhuang Li ⋅ Xin Jin ⋅ Zhen Li ⋅ Changsheng Lu ⋅ Mengmeng Wang ⋅ Steven Hoi ⋅ Peng Gao ⋅ Harry Yang
+   arXiv: https://arxiv.org/abs/2511.13649
+   code:  https://github.com/vvvvvjdy/dmdr
+
+29. Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts
+   Taewook Kang ⋅ Taeheon Kim ⋅ Donghyun Shin ⋅ Jonghyun Choi
+   arXiv: https://arxiv.org/abs/2607.00666
+   code:  https://github.com/snumprlab/dart
+   page:  https://twkang43.github.io/projects/dart
+
+30. Driving is a Game: Combining Planning and Prediction with Bayesian Iterative Best Response
+   Aron Distelzweig ⋅ Yiwei Wang ⋅ Faris Janjos ⋅ Marcel Hallgarten ⋅ Mihai Dobre ⋅ Alexander Langmann ⋅ Joschka Boedecker ⋅ Johannes Betz
+   arXiv: https://arxiv.org/abs/2512.03936
+
+31. Dual-Anchoring: Addressing State Drift in Vision-Language Navigation
+   Kangyi Wu ⋅ Pengna Li ⋅ Kailin Lyu ⋅ Xi Lin ⋅ Lin Zhao ⋅ Qingrong He ⋅ Jinjun Wang ⋅ Jianyi Liu
+   arXiv: https://arxiv.org/abs/2604.17473
+
+32. E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation
+   Wen Ye ⋅ Peiyan Li ⋅ Tingyu Yuan ⋅ Yuan Xu ⋅ Xiangnan Wu ⋅ Chaoyang Zhao ⋅ Jing Liu ⋅ Nianfeng Liu ⋅ Yan Huang ⋅ Liang Wang
+   arXiv: https://arxiv.org/abs/2606.27268
+   page:  https://27yw.github.io/E-TTS-Web/
+
+33. Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning
+   Sen Wang ⋅ Huaiyi Dong ⋅ Jingyi Tian ⋅ lijiayi lijiayi ⋅ Zhuo Yang ⋅ Tongtong Cao ⋅ Anlin Chen ⋅ Shuang Wu ⋅ Sanping Zhou ⋅ Le Wang
+   arXiv: https://arxiv.org/abs/2603.29192
+
+34. EmbodiedVAE: Disentangled Video VAE for Efficient and Controllable Embodied Manipulation
+   Jiayi Luo ⋅ Hanxin Zhu ⋅ Chen Gao ⋅ Jiankun Wang ⋅ Cong Wang ⋅ Tianyu He ⋅ Jianxin Li ⋅ Zhibo Chen
+   arXiv: https://arxiv.org/abs/2608.02990
+
+35. EpiBench: Benchmarking Multi-turn Research Workflows for Multimodal Agents
+   Xuan Dong ⋅ Huanyang Zheng ⋅ Tianhao Niu ⋅ Zhe Han ⋅ Pengzhan Li ⋅ Bofei Liu ⋅ Zhengyang Liu ⋅ Guancheng Li ⋅ Qingfu Zhu ⋅ Wanxiang Che
+   arXiv: https://arxiv.org/abs/2604.05557
+
+36. EvoVLA: Self-Evolving Vision-Language-Action Model
+   Zeting Liu ⋅ ZIDA YANG ⋅ Zeyu Zhang ⋅ Hao Tang
+   arXiv: https://arxiv.org/abs/2511.16166
+   code:  https://github.com/AIGeeksGroup/EvoVLA
+   page:  https://aigeeksgroup.github.io/EvoVLA
+
+37. EvoWorld: A World-Model-Centric Framework for Continuous Self-Evolution of Modular Embodied Skills
+   boshi zhang ⋅ Sen Cui ⋅ Baohua Yin ⋅ Youyi Kou ⋅ Junyu Wu ⋅ Zuo Pu ⋅ TAO XUE ⋅ Zhikang Chen ⋅ Shanshan Wei ⋅ Min Zhang ⋅ Miao Liu ⋅ Changshui Zhang ⋅ Zhang Tao
+
+38. Exo2EgoPolicy: Pose-Aligned Cross-View Policy Learning
+   Hritam Basak ⋅ Hadi Tabatabaee ⋅ Xin Yang ⋅ Shreekant Gayaka ⋅ Nan Qiao ⋅ Yuyin Sun ⋅ Cheng-Hao Kuo ⋅ Zhaozheng Yin ⋅ Min Sun
+
+39. Exposing Implicit Vulnerabilities in Text-to-Image Models via Adversarial Agentic Probing
+   Chang Ma ⋅ Junlin Han ⋅ Shuo Chen ⋅ Runjia Li ⋅ Philip Torr ⋅ Jindong Gu
+
+40. Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance
+   Wenxuan Song ⋅ Jiayi Chen ⋅ Shuai Chen ⋅ Jingbo Wang ⋅ Pengxiang Ding ⋅ Han Zhao ⋅ qin yikai ⋅ Xinhu Zheng ⋅ Yan Wang ⋅ Donglin Wang ⋅ Haoang Li
+   arXiv: https://arxiv.org/abs/2603.25661
+   page:  https://chris1220313648.github.io/Fast-dVLA/
+
+41. FindingDory: A Benchmark to Evaluate Memory in Embodied Agents
+   Karmesh Yadav ⋅ Yusuf Ali ⋅ Gunshi Gupta ⋅ Yarin Gal ⋅ Zsolt Kira
+   arXiv: https://arxiv.org/abs/2506.15635
+   page:  https://findingdory-benchmark.github.io/
+
+42. Fixed Reality, Diffused Possibility: Disentangling Stochastic and Deterministic Latent for Cluttered Grasping
+   Hritam Basak ⋅ Zhaozheng Yin
+
+43. From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation
+   Yibin Liu ⋅ Yaxing Lyu ⋅ Daqi Gao ⋅ Zhixuan Liang ⋅ Weiliang Tang ⋅ Shilong Mu ⋅ Xiaokang Yang ⋅ Mingyu Ding ⋅ Yao Mu
+   arXiv: https://arxiv.org/abs/2603.15600
+
+44. GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models
+   Shaokang Wang ⋅ Pei Fu ⋅ Ruoceng Zhang ⋅ Shaojie Zhang ⋅ Xiuwen Xi ⋅ Jiahui Yang ⋅ Bin Qin ⋅ Ying Huang ⋅ Zhenbo Luo ⋅ Jian Luan
+
+45. GameWorlds: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+   Mingyu Ouyang ⋅ Siyuan Hu ⋅ Qinghong Lin ⋅ Hwee Tou Ng ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2604.07429
+   page:  https://gameworld-bench.github.io
+
+46. GEM: Generative Supervision Helps Embodied Intelligence
+   Ruowen Zhao ⋅ Bangguo Li ⋅ ZUYAN LIU ⋅ Yinan Liang ⋅ junliang ye ⋅ FANGFU LIU ⋅ Diankun Wu ⋅ Zhengyi Wang ⋅ Xumin Yu ⋅ Yongming Rao ⋅ Han Hu ⋅ Jun Zhu
+   arXiv: https://arxiv.org/abs/2605.28548
+   page:  https://zhaorw02.github.io/GEM/
+
+47. Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field
+   Licheng Zhong ⋅ Gim Hee Lee
+   arXiv: https://arxiv.org/abs/2606.30474
+
+48. Gripper-aware Vision Language Action Models
+   Hanyi Zhang ⋅ Zihong Luo ⋅ Tianyu Li ⋅ Khang Nguyen ⋅ Basu Hela ⋅ Shreyas Kumar ⋅ Ngoc Tran ⋅ Feng Dai ⋅ Charith Munasinghe ⋅ Jorge Queralta ⋅ Giovanni Toffetti ⋅ Khoa Vo ⋅ Ngan Le ⋅ Ravi Prakash ⋅ Quan Vuong ⋅ Tung Ta ⋅ Long Hu ⋅ Anh Nguyen ⋅ Baoru Huang
+
+49. Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models
+   Ruixing Jin ⋅ ZiCheng Zhu ⋅ Ruixiang Ouyang ⋅ Sheng Xu ⋅ Bo Yue ⋅ Zhizheng Wu ⋅ Guiliang Liu
+
+50. GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor for GUI Grounding
+   Shijie Zhou ⋅ Viet Lai ⋅ Hao Tan ⋅ Jihyung Kil ⋅ Wanrong Zhu ⋅ Changyou Chen ⋅ Ruiyi Zhang
+   arXiv: https://arxiv.org/abs/2511.00810
+   code:  https://github.com/sjz5202/GUI-AIMA
+
+51. Guide, Think, Act: Interactive Embodied Reasoning for Vision-Language-Action Model
+   Yiran Ling ⋅ Qing Lian ⋅ Jinghang Li ⋅ Qing Jiang ⋅ TianMing Zhang ⋅ Xiaoke Jiang ⋅ Chuanxiu Liu ⋅ Jie Liu ⋅ Lei Zhang
+   arXiv: https://arxiv.org/abs/2605.13632
+   code:  https://github.com/FutianLabs/GTA-VLA
+
+52. Guiding the Blind: Generalizing GUI Agents to Unseen Websites via Multimodal Tutorials
+   Xinwei Long ⋅ Kai Tian ⋅ Peng Xu ⋅ Weibo Gao ⋅ Yihua Shao ⋅ Guoli Jia ⋅ Haozhe Geng ⋅ Sa Yang ⋅ Jingxuan Li ⋅ Huayong Hu ⋅ Kaiyan Zhang ⋅ Jiaqi Wang ⋅ Bowen Zhou
+
+53. HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration
+   Jiaxin Li ⋅ Yuxiang Wu ⋅ Zhenkai Zhang ⋅ Xinrui Shi ⋅ wang haoyuan ⋅ Yichen Zhao ⋅ Su Linxiang ⋅ Chenyang chenyang ⋅ Mingyu Zhang ⋅ Yifan Ding ⋅ Boran Wen ⋅ li zhang ⋅ Ruiyang Liu ⋅ Yong-Lu Li
+   arXiv: https://arxiv.org/abs/2606.28215
+   page:  https://lijiaxin0111.github.io/HAT4D/
+
+54. HERO: Enhancing Multimodal Faithfulness via Dynamic Entropy-Aware Reinforcement Learning
+   Xiongfeng Yang ⋅ Qingan Zhang ⋅ Yuheng Zhang ⋅ Kun-Yu Lin ⋅ Jian-Fang Hu ⋅ Dongmei Jiang ⋅ WEISHI ZHENG
+
+55. Hi-Nav: Hierarchical Framework for Continuous Vision-Language Navigation via Map Guidance and Waypoint Reasoning
+   Zhiyu Zhou ⋅ Bin Guan ⋅ Wenbin Yang ⋅ Zhi Gao ⋅ Hao Fang
+
+56. Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation
+   Bing Wu ⋅ Zuyao Chen ⋅ Chang Wen Chen
+   arXiv: https://arxiv.org/abs/2606.31071
+
+57. HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning
+   Jiyao Zhang ⋅ Zimu Han ⋅ Junhan Wang ⋅ Xionghao Wu ⋅ Shihong Lin ⋅ Jinzhou Li ⋅ Hongwei Fan ⋅ Ruihai Wu ⋅ Dongjiang Li ⋅ Hao Dong
+   arXiv: https://arxiv.org/abs/2604.06067
+
+58. HippoCamp: Benchmarking Contextual Agents on Personal Computers
+   Zhe YANG ⋅ Shulin Tian ⋅ Kairui Hu ⋅ Shuai Liu ⋅ Hoang-Nhat Nguyen ⋅ Yichi Zhang ⋅ Zujin Guo ⋅ Mengying Yu ⋅ Zinan Zhang ⋅ Jingkang Yang ⋅ Chen Change Loy ⋅ Ziwei Liu
+   arXiv: https://arxiv.org/abs/2604.01221
+   page:  https://hippocamp-ai.github.io/
+
+59. Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum
+   Zhizhao Liang ⋅ Yi-Lin Wei ⋅ Xuhang Chen ⋅ Mu Lin ⋅ Yi-Xiang He ⋅ Zhexi Luo ⋅ Jun-Hui Liu ⋅ Kun-Yu Lin ⋅ WEISHI ZHENG
+   arXiv: https://arxiv.org/abs/2605.21133
+   page:  https://leungchaos.github.io/Humanoid-Whole-Body-Manipulation-via-Active-Spatial-Brain-and-Generalizable-Action-Cerebellum/
+
+60. Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning
+   Wenxuan Zhang ⋅ Yuhui Wang ⋅ Donggang Jia ⋅ Xiaoqian Shen ⋅ Jian Ding ⋅ Ivan Viola ⋅ Jürgen Schmidhuber ⋅ Mohamed Elhoseiny
+   arXiv: https://arxiv.org/abs/2607.23605
+   page:  https://wx-zhang.github.io/hygae-web/
+
+61. Hypothesis Graph Refinement: Hypothesis-Driven Exploration with Cascade Error Correction for Embodied Navigation
+   Peixin Chen ⋅ Guoxi Zhang ⋅ Jianwei Ma ⋅ Qing Li
+   arXiv: https://arxiv.org/abs/2604.04108
+
+62. Is Monitoring Enough? Strategic Agent Selection For Stealthy Attack in Multi-Agent Discussions
+   Qiuchi Xiang ⋅ Haoxuan Qu ⋅ Hossein Rahmani ⋅ Jun Liu
+   arXiv: https://arxiv.org/abs/2603.21194
+
+63. KATANA: Knowledge-Aligned Topology-Aware Neural Agents for RL-Driven Vision-Language Model Compression
+   Nafew Azim ⋅ Mir Ali ⋅ Fuad Rahman ⋅ Nabeel Mohammed
+
+64. Kiroshi: An Agentic Perception System for High-Accuracy Image Parsing
+   Haipeng ZHOU ⋅ Jinshan Liu ⋅ He Zhang ⋅ Xuequan Lu ⋅ Jun Ma ⋅ Lei Zhu
+
+65. Knowledge-Centric Agents for Workflow Generation in ComfyUI
+   Zhendong Li ⋅ Lei Sun ⋅ Ruibo Ming ⋅ He Zhang ⋅ Danda Paudel ⋅ Luc Van Gool ⋅ Jinjin Gu
+   arXiv: https://arxiv.org/abs/2607.15845
+
+66. LEAP-VLA: Latent-Enhanced Action Prototyping via Continuous Residual Latent Spaces for Vision-Language-Action Models
+   Bo-Yun Yu ⋅ Jun Hsieh ⋅ KUAN-CHUAN PENG
+
+67. Learn2Fold: Structured Origami Generation with World Model Planning
+   Yanjia Huang ⋅ Yunuo Chen ⋅ Ying Jiang ⋅ Zhengzhong Tu ⋅ Yin Yang ⋅ Chenfanfu Jiang
+   arXiv: https://arxiv.org/abs/2603.29585
+
+68. Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents
+   Xueqiao Sun ⋅ Yuhui Zhang ⋅ Xiaohan Wang ⋅ Ludwig Schmidt ⋅ Serena Yeung-Levy
+   arXiv: https://arxiv.org/abs/2606.31270
+
+69. Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding
+   Yizhou Liu ⋅ Fei Tang ⋅ Yuchen Yan ⋅ Zhengxi Lu ⋅ Songqin Nong ⋅ Tao Jiang ⋅ Wenhao Xu ⋅ Wenqi Zhang ⋅ Weiming Lu ⋅ Jun Xiao ⋅ Jun Xiao
+
+70. Less is More: Reducing Complexity in Vision-Language-Action Systems
+   Jinhui Ye ⋅ Ning Gao ⋅ Senqiao Yang ⋅ Jinliang Zheng ⋅ Zixuan Wang ⋅ Yuxin Chen ⋅ Pengguang Chen ⋅ Yilun Chen ⋅ Shu Liu ⋅ Jiaya Jia
+
+71. Lifting Ego World Models for Planning and Control
+   Alex Wang ⋅ Trevor Darrell ⋅ Pavel Izmailov ⋅ Yutong Bai ⋅ Amir Bar
+
+72. M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models
+   Chunpu Xu ⋅ Zhixuan Liang ⋅ Yuhao Zhang ⋅ Chi-Min Chan ⋅ Jiashuo Wang ⋅ Yang Xiao ⋅ Mengkang Hu ⋅ Xiaokang Yang ⋅ Yao Mu
+
+73. Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations
+   Chancharik Mitra ⋅ Yusen Luo ⋅ Raj Saravanan ⋅ Dantong Niu ⋅ Anirudh Pai ⋅ Jesse Thomason ⋅ Trevor Darrell ⋅ Abrar Anwar ⋅ Deva Ramanan ⋅ Roei Herzig
+   arXiv: https://arxiv.org/abs/2511.22697
+
+74. MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning
+   haoyu fu ⋅ Diankun Zhang ⋅ Zongchuang Zhao ⋅ Jianfeng Cui ⋅ Hongwei Xie ⋅ Bing Wang ⋅ Guang Chen ⋅ Hangjun Ye ⋅ Dingkang Liang ⋅ Xiang Bai
+   arXiv: https://arxiv.org/abs/2512.13636
+   page:  https://xiaomi-mlab.github.io/MindDrive/
+
+75. MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning
+   Tianyu Xu ⋅ Jiawei Chen ⋅ Jiazhao Zhang ⋅ Wenyao Zhang ⋅ Zekun Qi ⋅ Minghan Li ⋅ Jiahang Liu ⋅ Lu Yue ⋅ Zhizheng Zhang ⋅ HE WANG
+   arXiv: https://arxiv.org/abs/2510.03142
+   page:  https://pku-epic.github.io/MM-Nav-Web/
+
+76. MMAgent-R2: Learning to Rerank and Reject for Agentic mRAG
+   Tao Zhang ⋅ Ziqi Zhang ⋅ Zongyang Ma ⋅ Yuxin Yang ⋅ Bing Li ⋅ Chunfeng Yuan ⋅ Kang Rong ⋅ Fengyun Rao ⋅ Jing LYU ⋅ Weiming Hu
+
+77. MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+   Tanmay Gupta ⋅ Piper Wolters ⋅ Zixian Ma ⋅ Peter Sushko ⋅ Rock Yuren Pang ⋅ Yue Yang ⋅ Jason Ren ⋅ Harsh Trivedi ⋅ Taira Anderson ⋅ Winson Han ⋅ Ranjay Krishna
+   arXiv: https://arxiv.org/abs/2604.08516
+   page:  https://allenai.org/blog/molmoweb
+
+78. NavWM: A Unified Navigation World Model for Foresight-Driven Planning
+   Yanghong Mei ⋅ Longteng Guo ⋅ MingMing Yu ⋅ Guiyu Zhao ⋅ Xingjian He ⋅ Jing Liu
+   arXiv: https://arxiv.org/abs/2606.24101
+
+79. NeSy-Route: A Neural-Symbolic Benchmark for Constrained Route Planning in Remote Sensing
+   Ming Yang ⋅ Zhi Zhou ⋅ Shi-Yu Tian ⋅ Kun-Yang Yu ⋅ Lan-Zhe Guo ⋅ Yu-Feng Li
+   arXiv: https://arxiv.org/abs/2603.16307
+   page:  https://mingyang1010.github.io/NeSy-Route/
+
+80. NutriBench-Kitchen: Benchmarking Embodied AI for Nutrition Management
+   YuLin Wei ⋅ Xiangchen Wang ⋅ Jianhui Pan ⋅ Jinyu Xiao ⋅ Zheng Tan ⋅ Ruozai Tian ⋅ Guanhua Chen ⋅ Feng Zheng
+
+81. Omni-RRM: Advancing Omni Reward Modeling via Automatic Rubric-Grounded Preference Synthesis
+   Zicheng Kong ⋅ Dehua Ma ⋅ Zhenbo Xu ⋅ Anwen Yang ⋅ Yiwei Ru ⋅ Haoran Wang ⋅ Zixuan Zhou ⋅ Fuqing Bie ⋅ Liuyu Xiang ⋅ Huijia Wu ⋅ Jian Zhao ⋅ Zhaofeng He
+   arXiv: https://arxiv.org/abs/2602.00846
+   page:  https://tmfk418.github.io/Omni-RRM
+
+82. One Demonstration Is Enough for Real-World Robotic Reinforcement Learning
+   Yuwan Liu ⋅ Hongze Yu ⋅ song liu ⋅ Yuhan Wang ⋅ Junge Zhang ⋅ Yaodong Yang ⋅ Yuanpei Chen ⋅ Ceyao Zhang
+   arXiv: https://arxiv.org/abs/2607.01651
+   page:  https://autoserl.github.io/
+
+83. One-Step Flow Policy: Self-Distillation for Fast Visuomotor Policies
+   Shaolong Li ⋅ Lichao Sun ⋅ Yongchao Chen
+   arXiv: https://arxiv.org/abs/2603.12480
+
+84. OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding
+   Wenyuan Huang ⋅ zhenyu zhang ⋅ Zhao Wang ⋅ Zhou Wei ⋅ Ting Huang ⋅ Fang Zhao ⋅ Jian Yang
+   arXiv: https://arxiv.org/abs/2512.23020
+   page:  https://why-102.github.io/openground.io/
+
+85. ORION: Ordinal Neural Collapse as a Representation Prior for Visual Navigation
+   E In Son ⋅ Jung-Taak Kim ⋅ Seung-Woo Seo
+
+86. PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model
+   ruiyan xu ⋅ Jiashu Lv ⋅ Sixu Lin ⋅ Ruixing Jin ⋅ Shuliang He ⋅ Guiliang Liu
+
+87. Path-level Hindsight Instructions for Semantic Exploration in Vision-Language Navigation
+   Sungjune Kim ⋅ Sangpil Kim ⋅ Honglak Lee
+   arXiv: https://arxiv.org/abs/2607.01754
+
+88. Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning
+   Jai Bardhan ⋅ Patrik Drozdík ⋅ Josef Sivic ⋅ Vladimir Petrik
+   arXiv: https://arxiv.org/abs/2603.25685
+
+89. Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising
+   Tianci Liu ⋅ Zihan Dong ⋅ Linjun Zhang ⋅ Haoyu Wang ⋅ Jing Gao ⋅ Emre Kiciman ⋅ Ranveer Chandra ⋅ Wei-Ting Chen
+   arXiv: https://arxiv.org/abs/2607.00407
+
+90. PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models
+   Xianghui Wang ⋅ Feng Chen ⋅ Wenbo Zhang ⋅ Hua Yan ⋅ Zixuan Wang ⋅ Changsheng Li ⋅ Yinjie Lei
+   arXiv: https://arxiv.org/abs/2606.22540
+   page:  https://inceptionwang.github.io/PolicyTrim/
+
+91. Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation
+   Hong Chen ⋅ Daqi Liu ⋅ Zehan Zhang ⋅ Haiguang Wang ⋅ Tianhao Lu ⋅ Longfei Yan ⋅ Haiyang Sun ⋅ Fangzhen Li ⋅ Hongwei Xie ⋅ Bing Wang ⋅ Guang Chen ⋅ Hangjun Ye ⋅ Yihua Tan
+   arXiv: https://arxiv.org/abs/2606.29908
+
+92. Practice Makes Perfect: From Explicit Decomposition to Reinforced Latent Planning in Text-to-Human Motion
+   Ronghao Yu ⋅ Yang Liu ⋅ Juncheng Wang ⋅ Chao Xu ⋅ Yimo Shao ⋅ Baigui Sun ⋅ Yong Liu ⋅ Shan Luo
+
+93. ProAct: Agentic Lookahead in Interactive Environments
+   Yangbin Yu ⋅ Mingyu Yang ⋅ junyou li ⋅ Yiming Gao ⋅ Feiyu Liu ⋅ Yijun Yang ⋅ Zichuan Lin ⋅ Jiafei Lyu ⋅ Zhicong Lu ⋅ Deheng Ye ⋅ Jie Jiang
+   arXiv: https://arxiv.org/abs/2602.05327
+   code:  https://github.com/GreatX3/ProAct
+
+94. R3DP: Real-Time 3D-Aware Policy for Embodied Manipulation
+   Yuhao Zhang ⋅ Wanxi Dong ⋅ Yue Shi ⋅ Yi Liang ⋅ Jingnan Gao ⋅ Qiaochu Yang ⋅ Yaxing Lyu ⋅ Zhixuan Liang ⋅ Yibin Liu ⋅ Congsheng Xu ⋅ Xianda Guo ⋅ Wei Sui ⋅ Yaohui Jin ⋅ Xiaokang Yang ⋅ Yanyan Xu ⋅ Yao Mu
+   arXiv: https://arxiv.org/abs/2603.14498
+   code:  https://github.com/dazazh/R3DP
+   page:  https://dazazh.github.io/r3dp-project-page/
+
+95. RAGrasp: A Retrieval-Augmented Framework with Diversity-Aware Modeling for Dexterous Grasp Generation
+   Zhuo Yang ⋅ Sanping Zhou ⋅ Sen Wang ⋅ Jingyi Tian ⋅ lijiayi lijiayi ⋅ Gang Hua ⋅ Le Wang
+
+96. ReGRPO: Reflection-Augmented Policy Optimization for Tool-Using Agents
+   Binjie Zhang ⋅ Mike Zheng Shou
+   arXiv: https://arxiv.org/abs/2606.31392
+   code:  https://github.com/showlab/ReGRPO
+
+97. RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation
+   Guodong Zhang ⋅ Qichen He ⋅ Wenyuan Xie ⋅ Shaokai Wu ⋅ Yanbiao Ji ⋅ Qiuchang Li ⋅ Bayram Bayramli ⋅ Yue Ding ⋅ Hongtao Lu
+   arXiv: https://arxiv.org/abs/2606.27036
+
+98. RePlan: Reasoning-Guided Region Planning for Complex Instruction-Based Image Editing
+   Tianyuan Qu ⋅ Lei Ke ⋅ Xiaohang Zhan ⋅ Longxiang Tang ⋅ Yuqi Liu ⋅ Bohao PENG ⋅ Bei Yu ⋅ Dong Yu ⋅ Jiaya Jia
+   arXiv: https://arxiv.org/abs/2512.16864
+   page:  https://replan-iv-edit.github.io
+
+99. Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration
+   Ninghao Zhang ⋅ Bin Zhu ⋅ Shijie Zhou ⋅ Jingjing Chen
+   arXiv: https://arxiv.org/abs/2603.06001
+
+100. Reward Modeling for Computer-Using Agent from Video Execution
+   Linxin Song ⋅ Jieyu Zhang ⋅ Huanxin Sheng ⋅ Taiwei Shi ⋅ Rahul Gupta ⋅ Yang Liu ⋅ Ranjay Krishna ⋅ Jian Kang ⋅ Jieyu Zhao
+
+101. RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control
+   Junpeng Yue ⋅ Zepeng Wang ⋅ Jiangxing Wang ⋅ Yuxuan Wang ⋅ Yu Zhang ⋅ Xinrun Xu ⋅ Bin Cao ⋅ Sipeng Zheng ⋅ gang ding ⋅ Zongqing Lu
+   arXiv: https://arxiv.org/abs/2506.12769
+
+102. RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks
+   Ruiying Li ⋅ Yunlang Zhou ⋅ Yuyao Zhu ⋅ Kylin Chen ⋅ Sukai Wang ⋅ Kongtao Hu ⋅ Minhui Yu ⋅ Bowen Jiang ⋅ Jiayao Ma ⋅ Zhan Su ⋅ Yongjian Shen ⋅ Yang Yang ⋅ Guanghui Ren ⋅ Maoqing Yao ⋅ Wenhao Wang ⋅ Yao Mu
+   arXiv: https://arxiv.org/abs/2603.11558
+   code:  https://github.com/RoboClaw-Robotics/RoboClaw
+
+103. RoboMirror: Understand Before You Imitate for Video to Humanoid Locomotion
+   Zhe Li ⋅ Boan Zhu ⋅ Yangyang Wei ⋅ Shuanghao Bai ⋅ Yuheng Ji ⋅ Tao Huang ⋅ Pengwei Wang ⋅ Zhongyuan Wang ⋅ S.-H. Chan ⋅ Chang Xu ⋅ Cheng Chi ⋅ Jianfei Yang ⋅ Shanghang Zhang
+   arXiv: https://arxiv.org/abs/2512.23649
+
+104. RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures
+   Hanan Gani ⋅ Tejal Kulkarni ⋅ Madhoolika Chodavarapu ⋅ Nicklas Hansen ⋅ Manmohan Chandraker
+   arXiv: https://arxiv.org/abs/2607.06018
+   code:  https://github.com/hananshafi/RoboTALES
+
+105. Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification
+   Jiawen Wen ⋅ Penglei SUN ⋅ Wenjie Zhang ⋅ Suixuan QIU ⋅ Weisheng Xu ⋅ Xiaofei Yang ⋅ Xiaowen Chu
+   arXiv: https://arxiv.org/abs/2604.16993
+
+106. SafeGuard: A Multi-Agent Perception-Reasoning Framework for Social-Risk AI-Generated Video Detection
+   Wenlin Wu ⋅ Sheng Zhou ⋅ Peipei Song ⋅ Wenhao Wang ⋅ Junbin Xiao ⋅ Xun Yang
+   arXiv: https://arxiv.org/abs/2607.03069
+   code:  https://github.com/williamw99/SafeGuard
+
+107. SafeSAE-VLA: Interpreting OpenVLA Progress Dynamics with Sparse Feature Analysis
+   Socrates Osorio ⋅ Joy Yang
+
+108. Scalable Cross-embodiment Dexterous Grasping via Morphology-Prior Diffusion
+   Sihang Li ⋅ Zheming Zhou ⋅ Marcelino Almeida ⋅ Omid Alizadeh ⋅ Luca Carlone ⋅ Min Sun ⋅ Chen Feng ⋅ Cheng-Hao Kuo
+
+109. Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment
+   Jacky Kwok ⋅ Xilun Zhang ⋅ Mengdi Xu ⋅ Yuejiang Liu ⋅ Azalia Mirhoseini ⋅ Chelsea Finn ⋅ Marco Pavone
+   arXiv: https://arxiv.org/abs/2602.12281
+
+110. SegDiff: Segmented Trajectory Diffusion for Consistent and Adaptive Robot Manipulation
+   Haidong Cao ⋅ Wenjun Cao ⋅ Quanhao Li ⋅ Sicheng Xie ⋅ Zhiying Du ⋅ Jiaqi Leng ⋅ Zuxuan Wu ⋅ Yu-Gang Jiang
+   arXiv: https://arxiv.org/abs/2607.11027
+
+111. Self-Evolving Agentic Image Restoration via Deliberate Planning and Intuitive Execution
+   Shuang Cui ⋅ Fan Ji ⋅ Guanglong Sun ⋅ Yufei Guo ⋅ Xiongxin Tang ⋅ Jiangmeng Li ⋅ Fanjiang Xu
+   arXiv: https://arxiv.org/abs/2606.28971
+
+112. Self-Evolving MCP-GUI Agents via Automated Environment Generation and Experience Learning
+   Tiantian He ⋅ Yihang Chen ⋅ Keyue Jiang ⋅ Ka Lee ⋅ Kaiwen Zhou ⋅ Kun Shao ⋅ Shuai Wang
+   arXiv: https://arxiv.org/abs/2604.09815
+
+113. Sentinel: Embodied Cooperative Spatial Reasoning and Planning
+   Xiangye Lin ⋅ Hongxin Zhang ⋅ Ruxi Deng ⋅ Qinhong Zhou ⋅ Chuang Gan
+   arXiv: https://arxiv.org/abs/2605.26239
+   code:  https://github.com/UMass-Embodied-AGI/Sentinel
+
+114. SIMON: SImultaneous Multi-Object Navigation
+   Yifeng Zhu ⋅ Siyuan Huang ⋅ Jun Bao ⋅ Jun Yu ⋅ Buyu Liu
+
+115. SpaMEM: Benchmarking Dynamic Spatial Reasoning via Perception–Memory Integration in Embodied Environments
+   Chih-Ting Liao ⋅ Xi Xiao ⋅ Chunlei Meng ⋅ Zhangquan Chen ⋅ Yitong Qiao ⋅ Weilin Zhou ⋅ Tianyang Wang ⋅ Xu Zheng ⋅ Xin Cao
+   arXiv: https://arxiv.org/abs/2604.22409
+   code:  https://huggingface.co/datasets/mill-ct-liao/SpaMEM
+
+116. SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning
+   ChanYeong Hwang ⋅ Miso Choi ⋅ Sunghyun On ⋅ Jinkyu Kim ⋅ Jungbeom Lee
+
+117. SPEAR: A Simulator for Photorealistic Embodied AI Research
+   Mike Roberts ⋅ Renhan Wang ⋅ Rushikesh Zawar ⋅ Rachith Dey-Prakash ⋅ Quentin Leboutet ⋅ Stephan Richter ⋅ Matthias Müller ⋅ German Ros ⋅ Rui Tang ⋅ Stefan Leutenegger ⋅ Yannick Hold-Geoffroy ⋅ Kalyan Sunkavalli ⋅ Vladlen Koltun
+   arXiv: https://arxiv.org/abs/2607.06701
+
+118. SwiftWA: An Efficient Action-Centered World-Action Model
+   Chaojun Ni ⋅ Xinyu Zhou ⋅ YuKun Zhou ⋅ Jingyu Liu ⋅ Xiaofeng Wang ⋅ Zheng Zhu ⋅ Yang Wang ⋅ Qiuping Deng ⋅ Yun Ye ⋅ Hao Li ⋅ Zhichao Liu ⋅ Jindi Lv ⋅ Boyuan Wang ⋅ Guosheng Zhao ⋅ Guan Huang ⋅ Min Cao ⋅ Wenjun Mei
+
+119. SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning
+   Jinxiu Liu ⋅ Jianru Li ⋅ Tanqing Kuang ⋅ Xuanming Liu ⋅ Kangfu Mei ⋅ Yandong Wen ⋅ Weiyang Liu
+   arXiv: https://arxiv.org/abs/2607.12042
+   page:  https://spherelab.ai/symbomni
+
+120. TabletopGen: Tabletop Scene Generation and Interactive Simulation for Robotic Manipulation
+   Ziqian Wang ⋅ Yonghao He ⋅ Licheng Yang ⋅ Wei Zou ⋅ Hongxuan Ma ⋅ Liu.Liu Liu.Liu ⋅ Wei Sui ⋅ Yuxin Guo ⋅ Hu Su
+   arXiv: https://arxiv.org/abs/2512.01204
+   page:  https://d-robotics-ai-lab.github.io/TabletopGen.project/
+
+121. Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?
+   Dingrui Wang ⋅ Zhihao Liang ⋅ Hongyuan Ye ⋅ Zhexiao Sun ⋅ Zhaowei Lu ⋅ Yuchen Zhang ⋅ Yuyu Zhao ⋅ Yuan Gao ⋅ Marvin Seegert ⋅ Finn Rasmus Schäfer ⋅ Haotong Qin ⋅ Wei Li ⋅ Luigi Palmieri ⋅ Felix Jahncke ⋅ Mattia Piccinini ⋅ Johannes Betz
+   arXiv: https://arxiv.org/abs/2511.17792
+
+122. TaxoGrasp: Taxonomy-Guided Human Grasp Synthesis with Sparse Contact Constraint
+   Haitian Liu ⋅ Yin Wang ⋅ Zhiying Leng ⋅ Kanglei Zhou ⋅ Yan Wang ⋅ Frederick W. B. Li ⋅ Xiaohui Liang
+
+123. Teaching an Agent to Sketch One Part at a Time
+   Xiaodan Du ⋅ Ruize Xu ⋅ David Yunis ⋅ Yael Vinker ⋅ Greg Shakhnarovich
+   arXiv: https://arxiv.org/abs/2603.19500
+
+124. Teaching Vision-Language-Action Models What to See and Where to Look
+   Yuguang Yang ⋅ Canyu Chen ⋅ Zhewen Tan ⋅ Yizhi Wang ⋅ Zichao Feng ⋅ Chunyang Liu ⋅ Kehua Sheng ⋅ Bo Zhang ⋅ Yan Wang ⋅ Juan Zhang ⋅ Linlin Yang ⋅ Baochang Zhang ⋅ Xianbin Cao
+   arXiv: https://arxiv.org/abs/2607.01658
+   code:  https://github.com/ShivaTeam/DriveTeach-VLA
+
+125. TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images Reasoning
+   Ming Li ⋅ Jike Zhong ⋅ Shitian Zhao ⋅ Haoquan Zhang ⋅ Shaoheng Lin ⋅ Yuxiang Lai ⋅ Chen Wei ⋅ Konstantinos Psounis ⋅ Kaipeng Zhang
+   arXiv: https://arxiv.org/abs/2511.01833
+
+126. Towards Generalizable Robotic Manipulation in Dynamic Environments
+   Heng Fang ⋅ Shangru Li ⋅ Shuhan Wang ⋅ Xuanyang Xi ⋅ Dingkang Liang ⋅ Xiang Bai
+   arXiv: https://arxiv.org/abs/2603.15620
+   code:  https://github.com/H-EmbodVis/DOMINO
+   page:  https://h-embodvis.github.io/DOMINO/
+
+127. Towards More Efficient Decoding for Autoregressive Vision-language-action Models
+   Wenxuan Song ⋅ Jiayi Chen ⋅ Pengxiang Ding ⋅ Yuxin Huang ⋅ Han Zhao ⋅ Yinchuan Li ⋅ Yingcong Chen ⋅ Donglin Wang ⋅ Haoang Li
+
+128. Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight
+   Yifei Dong ⋅ Fengyi Wu ⋅ Guangyu Chen ⋅ Lingdong Kong ⋅ Xu Zhu ⋅ Qiyu Hu ⋅ Yuxuan Zhou ⋅ Jingdong Sun ⋅ Jun-Yan He ⋅ Qi Dai ⋅ Alexander Hauptmann ⋅ Yifei Dong
+   arXiv: https://arxiv.org/abs/2510.08713
+   code:  https://github.com/F1y1113/UniWM
+
+129. Trajectory-Level Continuous Action Representation for Robotic Manipulation
+   Tong Yang ⋅ Jingkai Jia ⋅ Yuecheng Xu ⋅ Xueyao Chen ⋅ Chi Zhang ⋅ Wenqiang Zhang
+
+130. Transport Discrepancy as a Reliability Signal for Vision-Language-Action Models
+   Wanpeng Zhang ⋅ Ye Wang ⋅ Hao Luo ⋅ Haoqi Yuan ⋅ Yicheng Feng ⋅ Chaoyi Xu ⋅ Sipeng Zheng ⋅ Qin Jin ⋅ Zongqing Lu
+   arXiv: https://arxiv.org/abs/2512.01715
+
+131. Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models
+   Chen Siyao ⋅ Jiakang Yuan ⋅ Jiaxin Wang ⋅ Tao Chen
+   arXiv: https://arxiv.org/abs/2606.29892
+
+132. UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations
+   Tingyu Yuan ⋅ Biaoliang Guan ⋅ Wen Ye ⋅ Ziyan Tian ⋅ Yi Yang ⋅ Weijie Zhou ⋅ Zhaowen Li ⋅ Yan Huang ⋅ Peng Wang ⋅ Chaoyang Zhao ⋅ Jinqiao Wang
+   arXiv: https://arxiv.org/abs/2512.11609
+
+133. UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving
+   Zhexiao Xiong ⋅ Xin Ye ⋅ Burhaneddin Yaman ⋅ Sheng Cheng ⋅ Yiren Lu ⋅ Jingru Luo ⋅ Nathan Jacobs ⋅ Liu Ren
+   arXiv: https://arxiv.org/abs/2601.04453
+   page:  https://unidrive-wm.github.io/UniDrive-WM
+
+134. Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training
+   Taewon Seo ⋅ Seonae Jeon ⋅ Giwon Lee ⋅ KUK-JIN YOON ⋅ Daehee Park
+   arXiv: https://arxiv.org/abs/2607.19971
+   page:  https://dpt2026.github.io/
+
+135. UniTeD: Unified Temporal Diffusion for Joint Perception and Planning in Autonomous Driving
+   Bo Zhao ⋅ Xinting Zhao ⋅ Naifan Li ⋅ Erkang Cheng ⋅ Haibin Ling
+
+136. Unordered Landmark Visual Navigation
+   Hao Ren ⋅ Junzhe Zhu ⋅ Yihan Li ⋅ Zetong Bi ⋅ Le Zheng ⋅ Zhi Li ⋅ Yiqing Yuan ⋅ Zhaoliang Wan ⋅ Dizhe Zhang ⋅ Lu Qi ⋅ HUI CHENG
+   arXiv: https://arxiv.org/abs/2608.06833
+
+137. VERITAS: A Multi-agent Co-scientist for Verifiable Image-Derived Hypothesis Testing
+   Lucas Stoffl ⋅ Benedikt Wiestler ⋅ Johannes Paetzold
+
+138. VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation
+   Hoonhee Cho ⋅ Jae-young Kang ⋅ Giwon Lee ⋅ Hyemin Yang ⋅ Heejun Park ⋅ KUK-JIN YOON
+
+139. VisCritic: Visual State Comparison as Process Reward for GUI Agents
+   Jiachen Qian
+   arXiv: https://arxiv.org/abs/2606.24525
+
+140. VLA Knows Its Limits
+   Haoxuan Wang ⋅ Gengyu Zhang ⋅ Yan Yan ⋅ Ramana Kompella ⋅ Gaowen Liu
+
+141. VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking
+   Jiyuan Fu ⋅ Kaixun Jiang ⋅ Jingkai Jia ⋅ Zhaoyu Chen ⋅ Xueyao Chen ⋅ Lingyi Hong ⋅ Shuyong Gao ⋅ Chenzhi Tan ⋅ Dingkang Yang ⋅ Wenqiang Zhang
+   arXiv: https://arxiv.org/abs/2605.28083
+
+142. VLA-R1: Enhancing Reasoning in Vision-Language-Action Models
+   Angen Ye ⋅ Zeyu Zhang ⋅ Boyuan Wang ⋅ Xiaofeng Wang ⋅ Dapeng Zhang ⋅ Zheng Zhu
+   arXiv: https://arxiv.org/abs/2510.01623
+   code:  https://github.com/GigaAI-research/VLA-R1
+   page:  https://gigaai-research.github.io/VLA-R1
+
+143. WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation
+   Wei Dong ⋅ Tianyu Fu ⋅ Zhe Yu ⋅ Hanning Wang ⋅ Anyang Su ⋅ Zhizhou Fang ⋅ Yuyang Chen ⋅ Shuo Wang ⋅ Minghui Wu ⋅ Ping Jiang ⋅ Zhen Lei ⋅ Chenxu Zhao
+   arXiv: https://arxiv.org/abs/2607.06118
+
+144. What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework
+   Hongze Wang ⋅ Boyang Sun ⋅ Jiaxu Xing ⋅ Fan Yang ⋅ Marco Hutter ⋅ Dhruv Shah ⋅ Davide Scaramuzza ⋅ Marc Pollefeys
+   arXiv: https://arxiv.org/abs/2510.01830
+   page:  https://honwang0054.github.io/What-matters-in-RL-ObjNav-web/
+
+145. When Rubrics Fail: Error Enumeration as Reward for Reference-Free RL Post-Training
+   Wisdom Ikezogwo ⋅ Mehmet Saygin Seyfioglu ⋅ Ranjay Krishna ⋅ Karim Bouyarmane
+
+146. Who Does What and Where to Go: Orthogonal Alignment and Hierarchical Planning for Multi-Entity Trajectories
+   Zhang Wan ⋅ Yu Li ⋅ Tianze Huang ⋅ Juan Cao ⋅ Sheng Tang
+
+147. WristMimic: Full-Body Humanoid Control with Wrist-Guided Manipulation
+   Wongyun Yu ⋅ Youngwoon Kim ⋅ Minsu Cho
+
+148. ZAP: Zero-Shot Assembly Planning with Large Language Models
+   Linpeng Peng ⋅ Yanbo WANG ⋅ Chuanjie Lv ⋅ Wencan Jiang ⋅ Liming Xu ⋅ Jianbiao Mei ⋅ Xinyue Yao ⋅ Yong Liu
+

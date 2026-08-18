@@ -1,0 +1,425 @@
+Medical & Biomedical Imaging  (111 papers, 62 with arXiv links)  [Application Domains]
+============================================================================
+
+1. AFFMAE: Scalable Vision Pre-Training for High-Resolution Microscopy Segmentation on Desktop Hardware
+   David Smerkous ⋅ Zian Wang ⋅ Behzad Najafian
+   arXiv: https://arxiv.org/abs/2602.16249
+   code:  https://github.com/najafian-lab/affmae
+
+2. AlphaRad: Grounded Zero-Shot Classification in Chest Radiology via α-Corrected Binary Cross Entropy and Factorized Latent Supervision
+   Jianzhong You ⋅ Yuan Gao ⋅ Chris Mcintosh
+
+3. Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models
+   Lexiang Xiong ⋅ QI LI ⋅ Jingwen Ye ⋅ Xinchao Wang
+   arXiv: https://arxiv.org/abs/2603.15557
+
+4. Atlas is Your Perfect Context: One-Shot Customization for Generalizable Foundational Medical Image Segmentation
+   Ziyu Zhang ⋅ Yi Yu ⋅ Simeng Zhu ⋅ Ahmed Aly ⋅ Yunhe Gao ⋅ Ning Gu ⋅ Yuan Xue
+   arXiv: https://arxiv.org/abs/2512.18176
+
+5. ATOMIC: A Domain-Specific Vision-Language Model for Transmission Electron Microscopy
+   Chong-ren Tu ⋅ HUNG-WEI HSUEH ⋅ Shu-han Hsu
+
+6. Benchmarking Vision-Language Models for Microscopic Plant Image Understanding
+   Tianqi Wei ⋅ Xin Yu ⋅ Zhi Chen ⋅ Scott C Chapman ⋅ Zi Helen Huang
+   arXiv: https://arxiv.org/abs/2606.22497
+
+7. BeTTER: Diagnose the Illusion of Embodied Reasoning in Vision-Language-Action Models
+   Haiweng Xu ⋅ Sipeng Zheng ⋅ Hao Luo ⋅ Wanpeng Zhang ⋅ Zongqing Lu
+
+8. Beyond Isolated Scans: Cross-Phase Alignment of Structure and Topology for 3D Medical Pretraining
+   Wenzhuo xu ⋅ YANJIE ZHOU ⋅ Yujian Hu ⋅ Hongkun Zhang ⋅ Minfeng Xu
+
+9. Beyond Random Sampling: Distribution-Aware Alignment for Semi-Supervised Medical Image Segmentation
+   Weihao Yan ⋅ Yeqiang Qian ⋅ Yi Dong ⋅ Ming Yang
+   arXiv: https://arxiv.org/abs/2607.04249
+
+10. Beyond the Embedding Bottleneck: Adaptive Retrieval-Augmented 3D CT Report Generation
+   Renjie Liang ⋅ Yiling Ma ⋅ Yang Xing ⋅ Zhengkang Fan ⋅ Chengkun Sun ⋅ Jinqian Pan ⋅ Li Li ⋅ Kuang Gong ⋅ Jie Xu
+   arXiv: https://arxiv.org/abs/2603.15822
+   code:  https://github.com/renjie-liang/Adaptive-RAG-for-3DCT-Report-Generation
+
+11. BioMedVR: Confusion-Aware Mixture-of-Prompt Experts for Biomedical Visual Reprogramming
+   Jiaxiang Liu ⋅ Tianxiang Hu ⋅ Juwei Guan ⋅ Yujie Wu ⋅ Yusong Wang ⋅ Yao Mu ⋅ Zuozhu Liu ⋅ Mingkun Xu
+   arXiv: https://arxiv.org/abs/2606.24740
+   page:  https://jxliu-ai.github.io/biomedvr-page/
+
+12. BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis
+   Kunyu Zhang ⋅ Tianxiang Xu
+   arXiv: https://arxiv.org/abs/2606.29200
+
+13. CAR-MIL: Counterfactual Attention Regularization for Multiple Instance Learning
+   Imane Chraki ⋅ Pierre Marza ⋅ Stergios Christodoulidis ⋅ Maria Vakalopoulou
+
+14. CerDETR: Cell-Prior Empowered DETR for Cervical Lesion Detection
+   Linyun Zhou ⋅ Jin Chen ⋅ Weihan Li ⋅ Hengrui Lou ⋅ Lingxiang Jia ⋅ Weijun Qin ⋅ Xiuming Zhang ⋅ Zunlei Feng
+
+15. CLARITY: Medical World Model for Guiding Treatment Decisions by Simulating Context-Aware Disease Trajectories in Latent Space
+   Tianxingjian Ding ⋅ Yuanhao Zou ⋅ Chen Chen ⋅ Shah Mubarak ⋅ Yu Tian
+
+16. Clinical Cognition Alignment for Gastrointestinal Diagnosis with Multimodal LLMs
+   Huan Zheng ⋅ Yucheng Zhou ⋅ Tianyi Yan ⋅ Dubing Chen ⋅ Hongbo Lu ⋅ Wenlong Liao ⋅ Tao He ⋅ Pai Peng ⋅ Shen Jianbing
+   arXiv: https://arxiv.org/abs/2603.20698
+
+17. Compact and Structurally Transparent Cervical Cytology with Geometry-Driven Features and Closed-Form Attention
+   Dichao Liu
+
+18. Comprehensive language–image pre-training for 3D medical image understanding
+   Tassilo Wald ⋅ Ibrahim Ethem Hamamci ⋅ Yuan Gao ⋅ Sam Bond-Taylor ⋅ Harshita Sharma ⋅ Maximilian Ilse ⋅ Cynthia Lo ⋅ Olesya Melnichenko ⋅ Anton Schwaighofer ⋅ Noel Codella ⋅ Maria Teodora Wetscherek ⋅ Klaus Maier-Hein ⋅ Panagiotis Korfiatis ⋅ Valentina Salvatelli ⋅ Javier Alvarez-Valle ⋅ Fernando Pérez-García
+   arXiv: https://arxiv.org/abs/2510.15042
+   code:  https://huggingface.co/microsoft/colipri
+
+19. Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation
+   Haoyun Chen ⋅ Fenghe Tang ⋅ Wenxin Ma ⋅ S Kevin Zhou
+   arXiv: https://arxiv.org/abs/2603.17746
+   code:  https://github.com/Yundi218/Concept-to-Pixel
+
+20. CortexVideo: A Semantic-Spatial Dual-Anchor Framework for High-Fidelity fMRI-to-Video Reconstruction
+   Xiaoquan Shen ⋅ Jiaxuan Chen ⋅ Jiajun Li ⋅ Gang Pan
+
+21. CRAG-MM-Diagnostics: Enabling Stage-Wise Analysis of Knowledge-Intensive VQA
+   Hanseok Oh ⋅ Parishad BehnamGhader ⋅ Benno Krojer ⋅ Hyunji Lee ⋅ Paul Pu Liang ⋅ Siva Reddy ⋅ Verna Dankers
+   arXiv: https://arxiv.org/abs/2607.21155
+
+22. Decoding Children’s Gait Behavior
+   Yifan Shen ⋅ Boyi Li ⋅ Meihuan Huang ⋅ Yuanzhe Liu ⋅ Xu Cao ⋅ Jinyang Jin ⋅ Zhengyuan Li ⋅ Anglin Liu ⋅ Junho Kim ⋅ Jingyuan Zhu ⋅ Lan Fangzhou ⋅ Jianguo Cao ⋅ Jintai Chen ⋅ Ismini Lourentzou ⋅ James Rehg
+
+23. Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models
+   Stanislav Panev ⋅ Minhyek Jeon ⋅ Vaishnavi Khindkar ⋅ Ahish Deshpande ⋅ Celso de Melo ⋅ Shuowen Hu ⋅ Shayok Chakraborty ⋅ Fernando de la Torre
+   arXiv: https://arxiv.org/abs/2607.02718
+   page:  https://humansensinglab.github.io/AVODDiag/
+
+24. DiffVP:Differential Visual Semantic Prompting for LLM-Based CT Report Generation
+   Yuhe Tian ⋅ Kun Zhang ⋅ Haoran Ma ⋅ Rui Yan ⋅ Yingtai Li ⋅ Rongsheng Wang ⋅ S Kevin Zhou
+   arXiv: https://arxiv.org/abs/2603.17718
+   code:  https://github.com/ArielTYH/DiffVP/
+
+25. Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation
+   Jiawei Mao ⋅ Yuhan Wang ⋅ Lifeng Chen ⋅ Can Zhao ⋅ Yucheng Tang ⋅ Dong Yang ⋅ Liangqiong Qu ⋅ Daguang Xu ⋅ Yuyin Zhou
+   arXiv: https://arxiv.org/abs/2510.06131
+
+26. Do Multimodal LLMs Understand Intraoral Dental Data? Dataset, Platform, and Baselines
+   Luca Lumetti ⋅ Federico Rizzo ⋅ Francesca Cremonini ⋅ Ettore Candeloro ⋅ Lombardo Luca ⋅ Costantino Grana ⋅ Federico Bolelli
+
+27. DRIFT: Difficulty-aware Rectified Flows for Through-plane MRI Super-Resolution
+   Yoonseok Choi ⋅ Eun-Gyu Ha ⋅ Daniel Kim ⋅ Mohammed Al-masni ⋅ Ming-Hsuan Yang ⋅ Dong-Hyun Kim
+
+28. Dual-Prior Guided Null-Space Learning with Mixture-of-Splines for Arbitrary Medical Slice Super-Resolution
+   Haofei Song ⋅ Siyuan Xu ⋅ Xintian Mao ⋅ ShaoJie Guo ⋅ Qingli Li ⋅ Yan Wang
+   arXiv: https://arxiv.org/abs/2606.26716
+   code:  https://github.com/DeepMed-Lab-ECNU/Medical-Image-Reconstruction
+
+29. ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion
+   Lifeng Chen ⋅ tianqi you ⋅ Hao Liu ⋅ Zhimin Bao ⋅ Jile Jiao ⋅ Xiao Han ⋅ Zhicai Ou ⋅ Tao Sun ⋅ Mou XiaoFeng ⋅ Xiaojie Jin ⋅ Yi Xu
+   arXiv: https://arxiv.org/abs/2604.09450
+
+30. EchoSonar-R: A Multi-View Reasoning-Enabled Model for Disease Classification and Report Generation in Echocardiography
+   Darya Taratynova ⋅ Ahmed Aly ⋅ Numan Saeed ⋅ Mohammad Yaqub
+   arXiv: https://arxiv.org/abs/2606.28164
+
+31. Equivariant Symmetry-Aware Head Pose Estimation for Fetal MRI
+   Ramya Muthukrishnan ⋅ Borjan Gagoski ⋅ Aryn Lee ⋅ Ellen Grant ⋅ Elfar Adalsteinsson ⋅ Benjamin Billot ⋅ Polina Golland
+   arXiv: https://arxiv.org/abs/2512.04890
+
+32. Evaluating and Understanding Model Editing for Medical Vision Language Models
+   Guli Zhu ⋅ Chenwei Wu ⋅ Liyue Shen
+   arXiv: https://arxiv.org/abs/2607.05310
+   code:  https://github.com/BioMed-AI-Lab-U-Michgan/M3Bench
+
+33. Falcon: Functional Assembly and Language for Compositional Reasoning in X-ray
+   Yonathan Michael ⋅ Mohamad Alansari ⋅ Natnael Takele ⋅ Andreas Henschel ⋅ Naoufel Werghi
+   arXiv: https://arxiv.org/abs/2606.25701
+   page:  https://yonathan-kiflom.github.io/FALCON/page/
+
+34. Flexible Control of 3D CT Generation via Text and Semantically-Defined Segmentation Prompts
+   Weicheng Dai ⋅ Chenyu Wang ⋅ Shantanu Ghosh ⋅ Kayhan Batmanghelich
+   arXiv: https://arxiv.org/abs/2606.00967
+
+35. FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI
+   mo wang ⋅ Wenhao Ye ⋅ Junfeng Xia ⋅ Minghao Xu ⋅ Hongkai Wen ⋅ Quanying Liu
+   arXiv: https://arxiv.org/abs/2606.11500
+   code:  https://github.com/OneMore1/FlexiBrain
+
+36. Foundation-Guided Representation Alignment for Multimodal Medical Image Registration
+   Mengjie Guo ⋅ Xinxing Cheng ⋅ Wenqi Lu ⋅ Qingjie Meng ⋅ Guanyu Yang ⋅ Yang Chen ⋅ Ziyun Ding ⋅ Alejandro Frangi ⋅ Jinming Duan
+
+37. FPicker: Topology-Guided Evolution for Filament Tracing in Low-SNR Microscopy
+   Tingyin Zhao ⋅ Mingtao Huang ⋅ Yuan Shen
+
+38. FreqPhys: Repurposing Implicit Physiological Frequency Prior for Robust Remote Photoplethysmography
+   Wei Qian ⋅ Dan Guo ⋅ Jinxing Zhou ⋅ Bochao Zou ⋅ Zitong Yu ⋅ Meng Wang
+   arXiv: https://arxiv.org/abs/2604.00534
+
+39. From Hallucination to Grounding: Diagnosing Visual Spatial Intelligence via CRISP
+   Zhixing Li ⋅ Yinan Yu
+   arXiv: https://arxiv.org/abs/2606.26535
+   code:  https://github.com/iiyamayuki/CRISP-Bench
+
+40. From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models
+   Zongzhao Li ⋅ Xiangzhe Kong ⋅ Jiahui Su ⋅ Zongyang Ma ⋅ Mingze Li ⋅ Songyou Li ⋅ Yuelin Zhang ⋅ Yu Rong ⋅ Tingyang Xu ⋅ Deli Zhao ⋅ Wenbing Huang
+   arXiv: https://arxiv.org/abs/2512.10867
+   code:  https://huggingface.co/datasets/zongzhao/MiSI-bench
+
+41. From Minimal Clinical Prompts to 3D: Spacing-Aware Prompt Propagation for Multimodal Prostate Lesion Segmentation in bpMRI
+   Jiacheng Wang ⋅ Heinrich von Busch ⋅ Robert Grimm ⋅ Ipek Oguz ⋅ Dorin Comaniciu ⋅ Ali Kamen ⋅ Bin Lou
+
+42. From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology
+   Basit Alawode ⋅ Moshira Abdalla ⋅ Dwarikanath Mahapatra ⋅ Muhammad Muzammal Naseer ⋅ Sajid Javed
+   arXiv: https://arxiv.org/abs/2608.03508
+
+43. FSD-Net: Foundation-Guided Spatiotemporal Distillation for Video Polyp Segmentation
+   Yahang Leng ⋅ Shiquan Min ⋅ Chengzhou Li
+
+44. FUSE: Filter-Free Unified Spatiotemporal Estimation of SpO2 via Wave-Transport Modeling
+   Shahzad Ahmad ⋅ NUVVURU REDDY ⋅ Ram Padhy ⋅ Sukalpa Chanda ⋅ Umapada Pal
+
+45. Generalized Biomedicine Discovery
+   Luyao Tang ⋅ Yingkai Yang ⋅ Hanqi Chen ⋅ Jiewei Zheng ⋅ Chaoqi Chen ⋅ Cheng Chen
+
+46. GridVQA-X: A Diagnostic Framework for Evaluating Multimodal Explainability Methods
+   Sujay Belsare ⋅ Sushant Kumar ⋅ Sudarshan Nikhil ⋅ Ponnurangam Kumaraguru ⋅ Chirag Agarwal
+   arXiv: https://arxiv.org/abs/2606.14740
+
+47. Harnessing SSL for Segmentation in 3D Microscopy with Noisy Labels and Hard Patches
+   Lingtong Xu ⋅ Ahmadreza Attarpour ⋅ Shruti Patel ⋅ Fengqing Yu ⋅ Matthew Rozak ⋅ Bojana Stefanovic ⋅ Anne Martel ⋅ Maged Goubran
+
+48. HASSL: Hierarchy-Aware Self-Supervised Learning Framework for Single Cell Microscopy
+   Julius Riel ⋅ Vishwa Mohan Singh ⋅ SAI ANIRUDH ARYASOMAYAJULA ⋅ Anuun Chinbat ⋅ Hannes Leonhard ⋅ Moritz Ladenburger ⋅ Frederik Alexander ⋅ Vishisht Choudhary ⋅ Fabio Laredo ⋅ Giacomo Masserdotti ⋅ Thorben Prein ⋅ Amirhossein Kardoost ⋅ Carsten Marr
+   arXiv: https://arxiv.org/abs/2607.04353
+
+49. Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI-to-image Reconstruction via ROI Encoder And visual Mapping
+   Guowei Zhang ⋅ Yun Zhao ⋅ Kai Sun ⋅ Moein Khajehnejad ⋅ Adeel Razi ⋅ Dinh Q Phung ⋅ Levin Kuhlmann
+   arXiv: https://arxiv.org/abs/2511.11437
+
+50. HighlightBench: Benchmarking and Diagnosing Markup-Driven Table Reasoning in Scientific Documents
+   Lexin Wang ⋅ Shenghua Liu ⋅ Yiwei Wang ⋅ Yujun Cai ⋅ Yuyao Ge ⋅ Jiayu Yao ⋅ Jiafeng Guo ⋅ Xueqi Cheng
+
+51. Histocomponent-driven Universal Model for Virtual Immunohistochemistry Multiplex Staining via Joint Manifold Evolution
+   Jiajun Cen ⋅ Siyuan Xu ⋅ Lili Gao ⋅ Yan Wang
+
+52. Histopathology Multi-modal Embedding for Pathology Composed Retrieval
+   Qifeng Zhou ⋅ Wenliang Zhong ⋅ Thao Dang ⋅ Hehuan Ma ⋅ Saiyang Na ⋅ Yuzhi Guo ⋅ Junzhou Huang
+   arXiv: https://arxiv.org/abs/2502.07221
+   page:  https://qfchou.github.io/HOMIE_page/
+
+53. iMED: A Multi-Endoscope Dataset for Surgical 3D Perception
+   Sierra Bonilla ⋅ Fengyi Jiang ⋅ Chinedu Nwoye ⋅ Jingpei Lu ⋅ Kailey Reardon ⋅ Humphrey Chow ⋅ Francisco Vasconcelos ⋅ Sophia Bano ⋅ Adam Schmidt ⋅ Omid Mohareri
+
+54. Linguistically-Aligned and Visually-Grounded Preference Optimization for Clinically-Augmented Medical Report Generation
+   Qiang Hu ⋅ Yuxuan Luo ⋅ Yingjie Guo ⋅ Hao Wang ⋅ Qimei Wang ⋅ Qiang Li ⋅ Zhiwei Wang
+   arXiv: https://arxiv.org/abs/2608.08494
+
+55. Low-Level Dataset Distillation for Medical Image Enhancement
+   Fengzhi Xu ⋅ Ziyuan Yang ⋅ Mengyu Sun ⋅ Joey Tianyi Zhou ⋅ Yi Zhang
+   arXiv: https://arxiv.org/abs/2511.13106
+
+56. MCPNet:Masked Coordinate Pooling-based Attention Network for Medical Landmark Detection
+   Gyu-Sung Ham ⋅ Gi Hyun Lim ⋅ Kanghan Oh
+
+57. Mechanistic interventions for explainable digital pathology uncovers adversarial vulnerabilities
+   Arijit Patra ⋅ Samiran Dey ⋅ Ajitha Rajan ⋅ Greg Slabaugh ⋅ Tapabrata Chakraborti
+
+58. MedCAGD: Context-Aware Gated Decoder for Robust Medical Image Segmentation
+   Saad Wazir ⋅ Patrick Vibild ⋅ Dinh Tran ⋅ Seongah Kim ⋅ Daeyoung Kim
+
+59. MedQ-Deg: A Multidimensional Benchmark for Evaluating MLLMs Across Medical Image Quality Degradations
+   Jiyao Liu ⋅ Junzhi Ning ⋅ Chenglong Ma ⋅ Wanying Qu ⋅ Jianghan Shen ⋅ Siqi Luo ⋅ Jinjie Wei ⋅ Jin Ye ⋅ Pengze Li ⋅ Tianbin Li ⋅ Jiashi Lin ⋅ Hongming Shan ⋅ Xinzhe Luo ⋅ Xiaohong Liu ⋅ Lihao Liu ⋅ Junjun He ⋅ Ningsheng Xu
+   arXiv: https://arxiv.org/abs/2603.07769
+
+60. MedRepBench: Benchmarking Structured Understanding of Medical Report Images
+   Fangxin Shang ⋅ Yuan Xia ⋅ Dalu Yang ⋅ Yahui Wang ⋅ BingLinYang BingLinYang
+
+61. MedSPOT: A Workflow-Aware Sequential Grounding Benchmark for Clinical GUI
+   Rozain Shakeel ⋅ Abdul Ali ⋅ Muneeb Ganie ⋅ Tausifa Jan Saleem ⋅ Tajamul Ashraf
+   arXiv: https://arxiv.org/abs/2603.19993
+   code:  https://github.com/Tajamul21/MedSPOT
+   page:  https://rozainmalik.github.io/MedSPOT_web/
+
+62. MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution
+   Chunzheng Zhu ⋅ Jiaqi Zeng ⋅ Junyu Jiang ⋅ Jianxin Lin ⋅ Yijun Wang
+   arXiv: https://arxiv.org/abs/2604.26283
+   code:  https://github.com/zhcz328/MedSynapse-V
+
+63. Memory-Supported Synergistic Adaptation for Training-Free Test-Time Medical Image Segmentation
+   Lingrui Li ⋅ Nan Pu ⋅ Dong Zhao ⋅ Wenjing Li ⋅ Andrew French ⋅ Xin Chen ⋅ Zhun Zhong
+   arXiv: https://arxiv.org/abs/2607.17693
+   page:  https://lingrayy.github.io/MSSA/
+
+64. Mimicking Radiologists: A Coarse-to-Fine Framework with Structural Sparse Tokens for Dual-LLM Computed Tomography Report Generation
+   Hong Liu ⋅ Dong Wei ⋅ Yefeng Zheng ⋅ Xian Wu ⋅ Liansheng Wang
+
+65. Mind-to-Face: Neural-Driven Photorealistic Avatar Synthesis via EEG Decoding
+   Haolin Xiong ⋅ Tianwen Fu ⋅ Yunxuan Cai ⋅ Pratusha Prasad ⋅ Haiwei Chen ⋅ Wenbin Teng ⋅ Hanyuan Xiao ⋅ Yajie Zhao
+   arXiv: https://arxiv.org/abs/2512.04313
+
+66. Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding
+   Yongyi Lu ⋅ Xiongfeng Huang ⋅ Zhijing Yang
+
+67. Molecular Identifier Visual Prompting and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing
+   Jiahe Song ⋅ Chuang Wang ⋅ Yinfan Wang ⋅ Hao Zheng ⋅ Bowen Jiang ⋅ Rui Nie ⋅ Xingjian Wei ⋅ Junyuan Gao ⋅ Yubin Wang ⋅ Bin Wang ⋅ Lijun Wu ⋅ Jiang Wu ⋅ Qian Yu ⋅ Conghui He
+   arXiv: https://arxiv.org/abs/2603.15011
+
+68. MOOZY: A Patient-First Foundation Model for Computational Pathology
+   Yousef Hassan ⋅ Vincent Quoc-Huy Trinh ⋅ Christopher Pal ⋅ Mahdi S. Hosseini
+   arXiv: https://arxiv.org/abs/2603.27048
+
+69. Multi-Channel Uncertainty-Weighted Score Matching for Conditional Diffusion in Medical UDA
+   CHEN LI ⋅ Meilong Xu ⋅ Xiaoling Hu ⋅ Weimin Lyu ⋅ Chao Chen
+   arXiv: https://arxiv.org/abs/2509.22476
+   code:  https://github.com/superlc1995/Multi-Channel-Uncertainty-Diffusion-UDA
+
+70. Neuromorphic X-ray Computed Tomography
+   Hongjian Wang ⋅ Goran Lovric ⋅ Benjamín Béjar
+
+71. NeuroRefiner: Morphology-Aware Multi-Agent Refinement for 3D Fluorescence Microscopy Neuron Segmentation
+   HAIYANG YAN ⋅ Jinyue Guo ⋅ Yanchao Zhang ⋅ Bingqing Wang ⋅ Zhenchen Li ⋅ Jing Liu ⋅ Jiazheng Liu ⋅ linlin li ⋅ Hua Han
+   arXiv: https://arxiv.org/abs/2608.09636
+
+72. One Slide, Many Views: Unifying Complementary Foundation Model Perspectives for WSI Analysis
+   Yihui WANG ⋅ Yingxue Xu ⋅ Shu Yang ⋅ Yequan Bie ⋅ Jiabo MA ⋅ Fengtao Zhou ⋅ Hao Chen
+
+73. PhenoLIP: Phenotype Guided Medical Vision–Language Pretraining
+   Cheng Liang ⋅ Chaoyi Wu ⋅ Weike Zhao ⋅ Ya Zhang ⋅ Yanfeng Wang ⋅ Weidi Xie
+
+74. Physics-Grounded Disentangled Flow Modeling for Brain Disease Progression Trajectory
+   Jun Wang ⋅ Peirong Liu
+   arXiv: https://arxiv.org/abs/2606.28630
+   code:  https://github.com/jhuldr/PDF
+
+75. Posterior Samplings are Missing Modalities Generators for Medical Image Translation
+   Jonghun Kim
+   arXiv: https://arxiv.org/abs/2607.18763
+
+76. Progression as Latent Drift: Generative Forecasting of Slow-Evolving Pathologies
+   Yuxiang Feng ⋅ Juncheng Wang ⋅ Chao Xu ⋅ Wenlong Hou ⋅ Huihan Wang ⋅ Yijie Qian ⋅ Yang Liu ⋅ Baigui Sun ⋅ Yong Liu ⋅ Shujun Wang
+   arXiv: https://arxiv.org/abs/2607.08270
+   page:  https://cutepkq.github.io/latent-drift
+
+77. Proto-Gaussian: MRI Modality Translation Based on Learnable Structural Prototypes and 2D Gaussian Splatting
+   Zizheng Li ⋅ RenDong Xie ⋅ Huadeng Wang ⋅ Zhifen He ⋅ Bin Liu ⋅ Bo Li ⋅ Xiaonan Luo
+
+78. Proximity-Constrained Counterfactual Decoding for Hallucination-Robust Medical VQA
+   Dwarikanath Mahapatra ⋅ Abhijit Das ⋅ Manish Pandey ⋅ Joy Dhar ⋅ Sudipta Roy ⋅ Zongyuan Ge ⋅ Behzad Bozorgtabar ⋅ Imran Razzak
+
+79. PyraE2E: Enhancing End-to-End WSI Analysis via Cross-Scale Super-Resolution
+   Yuechuan Lin ⋅ yujian liu ⋅ Weipeng Zhang ⋅ Yanyu Fan ⋅ Zikang Wang ⋅ Dongxu Shen ⋅ Liqin Fei ⋅ Xiaoli Liu ⋅ Shidang Xu
+
+80. RAU: Reference-based Anatomical Understanding with Vision-Language Models
+   Yiwei Li ⋅ Yikang Liu ⋅ Jiaqi Guo ⋅ Lin Zhao ⋅ Zheyuan Zhang ⋅ Xiao Chen ⋅ Boris Mailhe ⋅ Ankush Mukherjee ⋅ Terrence Chen ⋅ Shanhui Sun
+   arXiv: https://arxiv.org/abs/2509.22404
+
+81. Region-Aware Multimodal Large Language Model via SlowFast Tokenization and Pseudo-Mask Guidance for 3D CT Report Generation
+   Sunggu Kyung ⋅ Jinyoung Seo ⋅ Hyunseok Lim ⋅ Dongyeong Kim ⋅ Hyungbin Park ⋅ Jimin Sung ⋅ Wooyoung Jo ⋅ Yoojin Nam ⋅ Namkug Kim
+   arXiv: https://arxiv.org/abs/2506.23102
+   code:  https://github.com/babbu3682/MedRegion-CT
+
+82. Resolution-Agnostic Neural Operators for Multi-Rate Sparse-View CT
+   Aujasvit Datta ⋅ Jiayun Wang ⋅ Asad Aali ⋅ Anima Anandkumar
+   arXiv: https://arxiv.org/abs/2512.12236
+   code:  https://github.com/neuraloperator/sparse_ct
+
+83. Rethinking Real-World MRI Denoising: Learning from Physical Noise
+   Sebastian Rassmann ⋅ David Kügler ⋅ Sascha Brunheim ⋅ Philipp Ehses ⋅ Martin Reuter
+
+84. REVA-PO: Stabilizing Reinforcement Learning for Chest X-ray Report Generation
+   Li Guo ⋅ Anas Tahir ⋅ Z. Wang
+   arXiv: https://arxiv.org/abs/2607.10147
+   code:  https://github.com/LiGuo12/REVA_PO/
+
+85. RPM-Distill: Physiology-guided Adaptive Cross-modal Distillation for Robust Remote Physiological Measurement
+   Jiyao Wang ⋅ Qingyong Hu ⋅ Duoxun Tang ⋅ Xiao Yang ⋅ Kaishun Wu ⋅ Jiangbo Yu
+   arXiv: https://arxiv.org/abs/2606.28089
+   code:  https://github.com/WJULYW/RPM-Distill
+
+86. Scaling Whole-Slide Pathology Foundation Model Pretraining with Billions Off-the-Shelf Tokens
+   Honglin Li ⋅ Zhongyi Shui ⋅ Chenglu Zhu ⋅ Lin Yang
+
+87. SCDL: Synergistic Confidence-Dispersion Learning for Semi-Supervised Video Polyp Segmentation
+   yuanqin he ⋅ Yuhua Zhang ⋅ Huisi Wu ⋅ Jing Qin
+
+88. SDUM: A Scalable Deep Unrolled Model for Universal Cardiac MRI Reconstruction
+   Puyang Wang ⋅ Pengfei Guo ⋅ Keyi Chai ⋅ Jinyuan Zhou ⋅ Daguang Xu ⋅ Shanshan Jiang
+   arXiv: https://arxiv.org/abs/2512.17137
+   code:  https://github.com/NVIDIA-Medtech/NV-Raw2insights-MRI
+
+89. Seeing What Matters: Lesion-Aware High-Resolution Patch Discovery and Fusion for Chest X-ray Report Generation
+   Yingshu Li ⋅ YUNYI LIU ⋅ Zhenghao Chen ⋅ Tong Chen ⋅ Zailong Chen ⋅ Lingqiao Liu ⋅ Lei Wang ⋅ Luping Zhou
+   arXiv: https://arxiv.org/abs/2607.06909
+
+90. SeekFlow: Synergizing Radiology and Pathology Foundation Models for Precision Oncology via Knowledge-Guided Evidence Flow
+   Peixiang Huang ⋅ Yanyan Huang ⋅ Yihang Chen ⋅ Maximus Yeung ⋅ Yuming Jiang ⋅ Lequan Yu
+
+91. Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis
+   YUCHENG XING XING ⋅ Ling Huang ⋅ Pei Liu ⋅ Jingying Ma ⋅ Jiaxing Xu ⋅ Kai He ⋅ Mengling Feng
+   arXiv: https://arxiv.org/abs/2606.19966
+
+92. SkelEM: Explicit Decoupling of Topology and Details for Self-supervised Axial Super-Resolution in Volume Microscopy
+   Bohao Chen ⋅ Yanchao Zhang ⋅ Yanan Lv ⋅ Chenxun Deng ⋅ Hua Han ⋅ Xi Chen
+
+93. Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models
+   Zehao Liu ⋅ Weijieying Ren ⋅ Jipeng ZHANG ⋅ Tianxiang Zhao ⋅ Jingxi Zhu ⋅ Xiaoting Li ⋅ Vasant Honavar
+   arXiv: https://arxiv.org/abs/2511.14900
+
+94. SOMA: From Surface Observations to Muscle Anatomy
+   Eduardo Alvarado ⋅ Emily Kim ⋅ Friedemann Runte ⋅ Gerrit Nolte ⋅ Mario Botsch ⋅ Marc Habermann ⋅ Christian Theobalt
+   arXiv: https://arxiv.org/abs/2606.09246
+
+95. SPDA: Efficient Online Test-Time Adaptation for Promptable Medical Segmentation
+   Huixuan Xu ⋅ Hu Han ⋅ Shiguang Shan ⋅ Xilin CHEN
+
+96. Spectral Consistent Flow for One-step 3D Medical Image Translation
+   Haoqing Li ⋅ Jun Shi ⋅ Mingchao Li ⋅ Zehua Zhu ⋅ Qiwei Jia ⋅ Jiong SHI ⋅ Hong An
+   arXiv: https://arxiv.org/abs/2607.10627
+
+97. SPHERE: From MRI Sampling Mechanisms to Spatial Priors for Generalizable Brain Tumor Segmentation
+   JiaCheng Lu ⋅ Shiyu Zhang ⋅ Hui Ding ⋅ junhui xin ⋅ Guoping Huo
+
+98. SUM: Unified Geometric Surgery on Spatio-Temporal Adaptation Vectors for Federated Class Incremental Learning
+   Jaeik Kim ⋅ Jaeyoung Do
+   arXiv: https://arxiv.org/abs/2607.19384
+
+99. TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis
+   Chaeyeon Lee ⋅ Khang Quoc ⋅ Jinsol Song ⋅ Yosep Chong ⋅ Kwangil Yim ⋅ JIN TAE KWAK
+   arXiv: https://arxiv.org/abs/2606.31100
+   code:  https://github.com/QuIIL/TaxoMIL
+
+100. Together, Then Apart: Balancing Alignment and Distinctiveness for Multimodal Survival Analysis
+   Wenjing Liu ⋅ Qin Ren ⋅ Wen Zhang ⋅ Yuewei Lin ⋅ Chenyu You
+   arXiv: https://arxiv.org/abs/2511.18089
+
+101. TopoAgent: An Agentic Framework for Automated Topology Learning in Medical Imaging
+   Guangyu Meng ⋅ Pengfei Gu ⋅ Xueyang Li ⋅ Yiyu Shi ⋅ Erin Chambers ⋅ Danny Chen
+   arXiv: https://arxiv.org/abs/2606.29763
+
+102. Towards Trustworthy Dermatology MLLMs: A Benchmark and Multimodal Evaluator for Diagnostic Narratives
+   Yuhao Shen ⋅ Jiahe Qian ⋅ Zhangtianyi Chen ⋅ Juexiao Zhou
+   arXiv: https://arxiv.org/abs/2511.09195
+
+103. Tricam-rPPG: A Multimodal Multispectral Dataset for remote Photoplethysmography
+   Abhijit Sarkar ⋅ Surendrabikram Thapa ⋅ Ishtiaque Khan ⋅ Yogesh Deshpande ⋅ Amos Abbott
+
+104. UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound
+   Weiying Chen ⋅ Yuchong Gao ⋅ Siyuan Li ⋅ Marek Reformat ⋅ Rui Zheng ⋅ Edmond Lou
+
+105. Unified Multi-plane Autoregressive Diffusion for 3D Multi-Contrast MRI Synthesis
+   Yejee Shin ⋅ Geonhui Son ⋅ Jinglu Wang ⋅ Minwoo Jung ⋅ Yan Lu ⋅ Dosik Hwang
+
+106. UniH3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration
+   Zhiwen Yang ⋅ Jiayin Li ⋅ Chengyu Liu ⋅ Hui Zhang ⋅ Bingzheng Wei ⋅ Yan Xu
+
+107. Verifying Cancer Segmentation in Vision Transformers via Internal Concepts
+   Mengmeng Ma ⋅ Yunxiang Peng ⋅ Tang Li ⋅ Lu Lin ⋅ Binsheng Zhao ⋅ Oguz Akin ⋅ Xi Peng
+
+108. VesselTok: Tokenizing Vessel-like 3D Biomedical Graph Representations for Reconstruction and Generation
+   Chinmay Prabhakar ⋅ Bastian Wittmann ⋅ Tamaz Amiranashvili ⋅ Paul Büschl ⋅ Ezequiel De la Rosa ⋅ Julian McGinnis ⋅ Benedikt Wiestler ⋅ Bjoern Menze ⋅ Suprosanna Shit
+   arXiv: https://arxiv.org/abs/2603.18797
+
+109. Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation
+   Tianzhong Lan ⋅ Weili Jiang ⋅ Yisong Liu ⋅ Yi Zhou ⋅ Junqi Bai ⋅ Si Yeo ⋅ Xulei Yang ⋅ Min Zhu
+
+110. XSurfer: Reconstructing surface meshes of cerebral and cerebellar cortex from diverse MRI data using untrained neural networks
+   Haoxiang Li ⋅ Mingxuan Liu ⋅ Divya Varadarajan ⋅ Zhangxuan Hu ⋅ Qiyuan Tian ⋅ Jonathan Polimeni
+
+111. λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy
+   Federico Carrara ⋅ Mehdi Seifi ⋅ Florian Jug
+
