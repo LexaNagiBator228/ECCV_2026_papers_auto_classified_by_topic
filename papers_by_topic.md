@@ -63,7 +63,7 @@
 
 ## Recommended for you
 
-Ten papers picked against an inferred profile: **visual localization and SLAM, structure-from-motion and bundle adjustment, camera and LiDAR-camera calibration, feature correspondence, and privacy of localization systems**. The profile was inferred from the datasets and working directories under `~/data` (nuScenes, Waymo, nuPlan, Oxford Radar RobotCar, 42dot, Nexar, plus calibration and bundle-adjustment dirs). Tell me if it is off and I will re-pick.
+Ten papers picked against an inferred profile: **visual localization and SLAM, structure-from-motion and bundle adjustment, camera and LiDAR-camera calibration, feature correspondence, and privacy of localization systems**. The profile was inferred from the datasets and working directories under `~/data` (nuScenes, Waymo, nuPlan, Oxford Radar RobotCar, ... ,plus calibration and bundle-adjustment dirs). Tell me if it is off and I will re-pick.
 
 1. **Vulnerability of Privacy-Preserving Visual Localization against Diffusion-based Attacks**  
    Maxime Pietrantoni ⋅ Torsten Sattler ⋅ Gabriela Csurka  
